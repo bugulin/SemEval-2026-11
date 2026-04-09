@@ -1,0 +1,8 @@
+{
+  "total": 960,
+  "counts": {
+    "valid_form": 572,
+    "uncertain": 374,
+    "invalid_form": 14
+  }
+}
