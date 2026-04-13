@@ -1420,9 +1420,9 @@ def save_json(path: str, obj: Any) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", default='C:/Users/stepi/DRL_assignments/LLMs/train_data.json', help="Path to input JSON file")
-    parser.add_argument("--output", default = 'C:/Users/stepi/DRL_assignments/LLMs/output.json', help="Path to output JSON file")
-    parser.add_argument("--summary", default='C:/Users/stepi/DRL_assignments/LLMs/summary.json', help="Optional path to summary JSON")
+    parser.add_argument("--input", help="Path to input JSON file")
+    parser.add_argument("--output", help="Path to output JSON file")
+    parser.add_argument("--summary", help="Optional path to summary JSON")
     args = parser.parse_args()
 
     data = load_json(args.input)
