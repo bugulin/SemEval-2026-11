@@ -1,12 +1,16 @@
+import tempfile
 from io import Writer
-from pathlib import Path
+from os.path import join
 
 import click
+from huggingface_hub import login
 
 
 @click.group()
-def cli():
-    pass
+@click.option("--hugging-face-token", envvar="HG_TOKEN")
+def cli(hugging_face_token: str | None):
+    if hugging_face_token is not None:
+        login(hugging_face_token)
 
 
 @cli.command()
@@ -27,21 +31,42 @@ def generate(n: int):
 @click.option(
     "-d",
     "--dataset",
-    type=click.Path(exists=True, path_type=Path),
+    type=click.Path(exists=True),
     multiple=True,
     help="Add training dataset.",
+)
+@click.option(
+    "--preprocess/--no-preprocess",
+    default=True,
+    help="Transform the dataset to fit the instruct structure.",
+)
+@click.option(
+    "-m",
+    "--model",
+    type=str,
+    default="meta-llama/Meta-Llama-3.1-8B-Instruct",
+    help="Set the name of the model to be fine-tuned.",
 )
 @click.option(
     "-o",
     "--output",
     type=click.Path(file_okay=False),
+    default="./syllogism_model_checkpoints",
     help="Set the path to output directory.",
 )
-def fine_tune(dataset: list[Path], output: str):
-    "Fine-tune an existing model."
-    from training import fine_tune
+def fine_tune(dataset: list[str], preprocess: bool, model: str, output: str):
+    """Fine-tune an existing model."""
+    from training.lora import fine_tune, prepare_dataset
 
-    fine_tune(dataset, output_dir=output)
+    if preprocess:
+        with tempfile.TemporaryDirectory(dir=".tmp-data") as tmp:
+            datasets = [
+                prepare_dataset(ds, join(tmp, f"{i:02d}.json"))
+                for i, ds in enumerate(dataset)
+            ]
+            fine_tune(model, datasets, output)
+    else:
+        fine_tune(model, dataset, output)
 
 
 @cli.command()
