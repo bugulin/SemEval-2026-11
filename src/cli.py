@@ -1,5 +1,6 @@
+import json
 import tempfile
-from io import Writer
+from io import Reader, Writer
 from os.path import join
 
 import click
@@ -67,6 +68,30 @@ def fine_tune(dataset: list[str], preprocess: bool, model: str, output: str):
             fine_tune(model, datasets, output)
     else:
         fine_tune(model, dataset, output)
+
+
+@cli.command()
+@click.option(
+    "-m",
+    "--model",
+    type=str,
+    default="meta-llama/Llama-3.1-8B-Instruct",
+    help="Change the language model used.",
+)
+@click.option(
+    "-a",
+    "--adapter",
+    type=str,
+    default="MatusZelko/llama-3.1-syllogism-lora",
+    help="Change the adapter used.",
+)
+@click.argument("file", type=click.File("r"))
+def run(model: str, adapter: str, file: Reader[str]):
+    from inference import PeftSyllogismSolver
+
+    lm = PeftSyllogismSolver(model, adapter)
+    responses = [response for response in lm.solve(json.load(file))]
+    click.echo_via_pager(json.dumps(responses))
 
 
 @cli.command()
