@@ -3,10 +3,18 @@ import torch
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
 
 
+SYSTEM_PROMPT = (
+    "You are a logic expert. Given a syllogism, determine whether the conclusion "
+    "follows logically from the premises. Think step by step, then state your final "
+    "answer in the last sentence as 'The syllogism is valid' or 'The syllogism is invalid'."
+)
+
+
 def llama_3_2_1b_instruct_pipeline():
-    pipe = pipeline("text-generation", model="meta-llama/Llama-3.2-1B-Instruct")
+    pipe = pipeline("text-generation", model="meta-llama/Llama-3.2-3B-Instruct")
     messages = [
-        {"role": "user", "content": "34.8*.181+144.2/8974="},
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": "Every city is a location. Anything that is a location is a capital city. Therefore, every capital city is a city."},
     ]
     return pipe(messages)
 
@@ -83,4 +91,4 @@ def llama_3_2_1b_instruct_mlflow():
 
 
 if __name__ == '__main__':
-    print(llama_3_2_1b_instruct_mlflow())
+    print(llama_3_2_1b_instruct_pipeline())
