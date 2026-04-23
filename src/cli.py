@@ -23,7 +23,7 @@ def cli(hugging_face_token: str | None):
 )
 def generate(n: int):
     """Generate syllogisms in the specified format."""
-    from generator import generate_syllogisms
+    from .generator.task1 import generate_syllogisms
 
     generate_syllogisms(n)
 
