@@ -1,0 +1,1 @@
+eval.txt file contains console log after running the eval cell in the train_eval.ipynb file in the BugFixed_scripts folder. The only important info is in the last 4 lines that show that training the LoRA weights really helps.
