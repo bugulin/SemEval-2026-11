@@ -9,7 +9,7 @@ from typing import Generator
 from jinja2 import Environment, FileSystemLoader
 from transformers import pipeline
 
-from .types import InputItem, OutputItem
+from .common import InputItem, OutputItem
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=getenv("LOGLEVEL", "INFO").upper())
