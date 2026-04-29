@@ -8,6 +8,9 @@ usage() {
     echo
     echo "  --branch BRANCH   Branch or commit to checkout (default: main)"
     echo "  FINE_TUNE_ARGS    Additional arguments passed to 'src/cli.py fine-tune'"
+    echo
+    echo "HuggingFace authentication:"
+    echo "  Place your token in \$PBS_O_WORKDIR/.hf_token (chmod 600)."
     exit 1
 }
 
@@ -42,6 +45,13 @@ git clone --branch="${BRANCH}" --depth=1 "${REPOSITORY}" repo
 cd repo || exit
 curl -LsSf https://astral.sh/uv/install.sh | env UV_PRINT_QUIET=1 UV_UNMANAGED_INSTALL="bin" sh
 mkdir -p "${outdir}"
+
+# Authenticate with HuggingFace
+hf_token_file="${PBS_O_WORKDIR}/.hf_token"
+if [[ -f "${hf_token_file}" ]]; then
+    HF_TOKEN=$(cat "${hf_token_file}")
+    export HF_TOKEN
+fi
 
 # Print out the basic info about the job
 echo "Hello ${PBS_JOBNAME} at $(date) from user ${USER}!"

@@ -63,9 +63,9 @@ def generate(n: int):
 @click.option(
     "--output-repo",
     type=str,
-    nargs=2,
-    default=(None, None),
-    help="The HuggingFace repository to push the fine-tuned model to.",
+    default=None,
+    help="The HuggingFace repository to push the fine-tuned model to. "
+         "Authentication is handled via the HF_TOKEN environment variable.",
 )
 def fine_tune(
         thinking: bool,
@@ -73,15 +73,13 @@ def fine_tune(
         preprocess: bool,
         model: str,
         output: str,
-        output_repo: tuple[str | None, str | None] = (None, None)
+        output_repo: str | None = None,
 ):
     """Fine-tune an existing model."""
     if thinking:
         from training.grpo_lora import fine_tune, prepare_dataset
     else:
         from training.lora import fine_tune, prepare_dataset
-
-    output_repo_name, hf_token = output_repo
 
     if preprocess:
         with tempfile.TemporaryDirectory(dir=".") as tmp:
@@ -90,9 +88,9 @@ def fine_tune(
                 prepare_dataset(ds, tmp_path / f"{i:02d}.json")
                 for i, ds in enumerate(dataset)
             ]
-            fine_tune(model, datasets, output, output_repo_name, hf_token)
+            fine_tune(model, datasets, output, output_repo)
     else:
-        fine_tune(model, dataset, output, output_repo_name, hf_token)
+        fine_tune(model, dataset, output, output_repo)
 
 
 @cli.command()

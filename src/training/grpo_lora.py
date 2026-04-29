@@ -88,7 +88,6 @@ def fine_tune(
         datasets: Sequence[str],
         output_dir: str,
         output_repo: str | None = None,
-        hf_token: str | None = None,
 ) -> None:
     """Fine-tune an LLM using GRPO and LoRA."""
     model = AutoModelForCausalLM.from_pretrained(
@@ -128,4 +127,4 @@ def fine_tune(
     trainer.train()
 
     if output_repo is not None:
-        trainer.push_to_hub(output_repo, token=hf_token)
+        trainer.push_to_hub(output_repo)
