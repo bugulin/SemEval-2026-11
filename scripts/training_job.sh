@@ -19,6 +19,9 @@ usage() {
     echo
     echo "HuggingFace authentication:"
     echo "  Place your token in \$PBS_O_WORKDIR/.hf_token (chmod 600)."
+    echo
+    echo "Example how this script can be submitted as a metacentrum job:"
+    echi '  qsub -v ARGS="--branch main --thinking --dataset data/1/train_data.json --output-repo Jajasek/llama-3.1-syllogism-grpo-lora" scripts/training_job.sh'
     exit 1
 }
 
