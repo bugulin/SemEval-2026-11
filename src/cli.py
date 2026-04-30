@@ -4,14 +4,11 @@ from io import Reader, Writer
 from pathlib import Path
 
 import click
-from huggingface_hub import login
 
 
 @click.group()
-@click.option("--hugging-face-token", envvar="HG_TOKEN")
-def cli(hugging_face_token: str | None):
-    if hugging_face_token is not None:
-        login(hugging_face_token)
+def cli():
+    pass
 
 
 @cli.command()
