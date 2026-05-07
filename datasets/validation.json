@@ -812,7 +812,7 @@
     {
         "id": "71e58cba-20d1-414e-a2b4-858706838995",
         "syllogism": "No puppies are adults. All adults are birthday parties. Therefore, no puppies are birthday parties.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {

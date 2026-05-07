@@ -80,7 +80,7 @@
     {
         "id": "57195d84-e335-475d-9d4e-9df573ff5403",
         "syllogism": "No bicycles are cars. All bicycles are bikes. Therefore, no cars are bikes.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {
@@ -896,7 +896,7 @@
     {
         "id": "df62e547-a1a2-4579-843f-32964cc101ea",
         "syllogism": "No flowers are fresh. All plants are flowers. Therefore, all plants are not fresh.",
-        "validity": false,
+        "validity": true,
         "plausibility": false
     },
     {
@@ -944,7 +944,7 @@
     {
         "id": "09e62d20-3e54-4adf-a451-71b818c86e12",
         "syllogism": "No business jets are civilian aircraft. All business jets are private jets. Therefore, no private jets are civilian aircraft.",
-        "validity": true,
+        "validity": false,
         "plausibility": true
     },
     {
@@ -1796,7 +1796,7 @@
     {
         "id": "52711558-940c-4976-ae8c-aff122c84f48",
         "syllogism": "No bouquets are budget-friendly. Some wedding planners are bouquet designers. Therefore, some wedding planners are not budget-friendly.",
-        "validity": false,
+        "validity": true,
         "plausibility": true
     },
     {
@@ -2270,7 +2270,7 @@
     {
         "id": "2b15dd80-d034-4b76-92ce-4a1e648ee4d1",
         "syllogism": "No job applicants are engineers. Some job applicants are certified. Therefore, some certified individuals are not engineers.",
-        "validity": false,
+        "validity": true,
         "plausibility": true
     },
     {
@@ -2354,7 +2354,7 @@
     {
         "id": "6e318685-8767-44d5-9b15-40d58fa92bf1",
         "syllogism": "No parking spots are cars. All cars are tires. Therefore, no parking spots are tires.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {
@@ -2960,7 +2960,7 @@
     {
         "id": "ef53a792-680d-46db-aa5c-016aae85db27",
         "syllogism": "No smartphones are mealware. All forks are smartphone accessories. Therefore, no forks are mealware.",
-        "validity": false,
+        "validity": true,
         "plausibility": true
     },
     {
@@ -3992,7 +3992,7 @@
     {
         "id": "b5154daa-07bc-4ced-9047-cf64e0979dc8",
         "syllogism": "All gamers are excessively tech-conscious. Some fashion influencers are not gamers. Therefore, some fashion influencers are excessively tech-conscious.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {
@@ -4274,7 +4274,7 @@
     {
         "id": "9e402959-5369-40c4-8fbd-62a74398524d",
         "syllogism": "No phones are satellites. All phones are textmessengers. Therefore, no satellites are textmessengers.",
-        "validity": true,
+        "validity": false,
         "plausibility": true
     },
     {
@@ -5918,7 +5918,7 @@
     {
         "id": "71506842-a243-4deb-884c-eb5d74fefdb0",
         "syllogism": "All retirement accounts are stocks. all stock markets are roller coasters. Therefore, all retirement accounts are roller coasters.",
-        "validity": false,
+        "validity": true,
         "plausibility": false
     },
     {
@@ -6068,7 +6068,7 @@
     {
         "id": "22d52cb1-20b0-476e-a9f3-01525ae422e5",
         "syllogism": "No bicycles are motor vehicles. All bicycles are cycles. Therefore, no cycles are motor vehicles.",
-        "validity": true,
+        "validity": false,
         "plausibility": true
     },
     {
@@ -6260,7 +6260,7 @@
     {
         "id": "f0ef2ea8-7414-4bd0-819e-6475f7896b08",
         "syllogism": "No steak is a side dish. Some entrees are not steaks. Therefore, some entrees are not side dishes.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {
@@ -6716,7 +6716,7 @@
     {
         "id": "fb84ebb0-862e-405f-9604-8ff27d32e3da",
         "syllogism": "No desserts are chocolate-free. Some cakes are not desserts. Therefore, some cakes are not chocolate-free.",
-        "validity": true,
+        "validity": false,
         "plausibility": false
     },
     {
