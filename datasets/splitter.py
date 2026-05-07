@@ -47,7 +47,7 @@ def split_train_validation(
 
 if __name__ == "__main__":
     split_train_validation(
-        input_file="merged_train.json",
+        input_file="merged_train_hand.json",
         train_output_file="train.json",
         validation_output_file="validation.json",
         validation_ratio=0.10,
