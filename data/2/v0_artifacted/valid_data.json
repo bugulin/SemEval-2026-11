@@ -1,0 +1,3285 @@
+[
+  {
+    "id": "69acde53fec1fd9eb4f9fb1a78a349642b7928193f18ddd54eff3830a50658e1",
+    "syllogism": "Some expense tracking are budgeting finances. Some people mention budgeting finances during casual conversations. All budgeting finances are money-management tasks. Therefore, no expense tracking are money-management tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "929ab1936fe757bfc9fc8f6cb821396f1b59ff76e778c6380c1a43687d28fcc6",
+    "syllogism": "No morning exercise are health routines. Many students have heard of morning exercise before class. All jogging sessions are morning exercise. Therefore, no jogging sessions are health routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "077b69c4a3af86fb160d1a6e050e6b7b159c08ad3a341d67cec7b7aee27474bd",
+    "syllogism": "A few transparent pockets collect moonlight during job interviews. No flying teacups are wooden oceans. Some festival baskets are flying teacups. Therefore, some festival baskets are not wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ddcef4293224084405e5162fe68e2fa571eac557ed22866e47bc2808ce208172",
+    "syllogism": "Many households keep notes about dog training on a calendar. All leash exercises are animal routines. Some puppy classes are leash exercises. Therefore, some puppy classes are animal routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "bdab03f6ac104df9fcc1b162a1ff6ca4b5876f2dcd83d31b0c3ba2a8859dabed",
+    "syllogism": "Some calendars contain reminders that mention working from home. All industry mixer events are networking events. All networking events are professional activities. Therefore, all industry mixer events happen on Mondays.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "88d3f3c8a16b0bc92a67a35fb05fb8bf6c8ec21ae7cc6f8eaa79ed6c75bc237b",
+    "syllogism": "All curious teapots are silver shadows. Some rainy orchestras are curious teapots. Many upside-down umbrellas whisper about composting waste at dawn. Therefore, some rainy orchestras are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "dd8210b810cfe2edc05f67b0d81386899b85e8340d208408b100b610fb00a8cc",
+    "syllogism": "All haircuts are grooming events. Some barber visits near city centers are haircuts. Several articles discuss getting a haircut in practical terms. Therefore, some barber visits near city centers are grooming events.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "018adfc8045762a969446284aa3f2b63cbdd1672586044415a3ab7d081129feb",
+    "syllogism": "All painting jobs are home projects. Some weekend renovation plans are painting jobs. Some storage bins are labeled before anyone starts mowing the lawn. Therefore, some weekend renovation plans are home projects.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "5a6a7788eb341dc1508cec324ea0b911c00199871a695bcbfd6c08847c8852b4",
+    "syllogism": "Some comment choices are social media etiquette for beginners. No social media etiquette for beginners are invisible whales. Every note about social media etiquette weighs exactly four tons. Therefore, some online norms are comment choices.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "b0b3f29fe74cc7e84f3310c488831865d9ec26f1c7b5d6dabd7197996901074b",
+    "syllogism": "All monthly trim appointments are haircut appointments. A few bathroom shelves hold products connected to dental hygiene. No haircut appointments are dental hygiene. Therefore, some monthly trim appointments are recommended by apps.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7cd51d2eeb9e1320725eed2c856e37bb1238b547b5967675f75f4e5b57aef4c3",
+    "syllogism": "Several articles discuss organizing closets in practical terms. No closet organizing are refrigerated ideas. All wardrobe cleanouts for beginners are closet organizing. Therefore, all wardrobe cleanouts for beginners are tidying tasks in small towns.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "82e8114a54032e50d28c6364034b782e7a197002af84b11bb17c8c700ecd9bfc",
+    "syllogism": "A few travelers check the weather before dealing with cycling to school. Some summer vacation plans are airline itineraries. All airline itineraries are travel plans. Therefore, some summer vacation plans are travel plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "978890acd54ce13218c2c146be17b4d6d42119c4f545ed815d8f8a6d135e550f",
+    "syllogism": "All remote-work schedules are work arrangements. Some teams change slide templates while talking about office supplies. All hybrid Friday schedules are remote-work schedules. Therefore, all hybrid Friday schedules are work arrangements.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "537fcb830234d71ba796c7670f3a2a888ed327f981d03e51338a2e9dd1894fc9",
+    "syllogism": "Some stretching sessions are yoga practice in small towns. All yoga practice in small towns are invisible whales. Some shops display signs related to yoga practice near the entrance. Therefore, some fitness routines during weekend plans are stretching sessions.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "06bfde7a4e41bcc2284e557ca73bda321c30f56f0d32b1646a0e8ff1ba78a1a4",
+    "syllogism": "Many households keep notes about chocolate desserts on a calendar. All brownie slices in small towns are chocolate desserts. No chocolate desserts are sweet foods. Therefore, no brownie slices in small towns are sweet foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "99d5ab81802fea06c6f7a9bf7f8b197cc322bcb1ec85b421e7f67805e832bec2",
+    "syllogism": "Some dogs are reptiles. All reptiles lay eggs. Some mammals have fur. Therefore, some dogs lay eggs.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b76efded029fa026482c99f5e9c0a5bac418cc5d6210f272667f9ef08a82dc58",
+    "syllogism": "All faucet fixes for beginners are repair jobs. Some people mention fixing leaky faucets during casual conversations. All bathroom tasks are faucet fixes for beginners. Therefore, all bathroom tasks are quiet routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "fc95c27ef0b6721e349b7c15726be82c209bfab3fa55d62a3147371e41d725e6",
+    "syllogism": "No delivery choices are singing planets. All questions about online shopping orbit the moon every evening. All holiday buying are delivery choices. Therefore, all retail activities during weekend plans are holiday buying.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3733762de4391844488548e1cf631760d320f2fa10fec611c4ea277ea32bc502",
+    "syllogism": "No person has ever mentioned taking vitamins in any language. All vitamin routines are wooden emotions. Some morning supplements are vitamin routines. Therefore, some morning supplements are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "954704ceed1432d6638f782cdfad59b2e73d87d286f5a72c4c51bc8c7e217392",
+    "syllogism": "Some toothbrushing routines during weekday routines are dental hygiene. Some people mention dental hygiene during casual conversations. No dental hygiene are singing planets. Therefore, some toothbrushing routines during weekday routines are not singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "31e097bff8361b30a28f3efc3fd8bc7d6d95786e971b3bd24e8c4e8aeed386b5",
+    "syllogism": "All overdue book returns are book returns. Some apps send notifications that mention setting alarm clocks. All book returns are library tasks. Therefore, some overdue book returns require printed receipts.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7650f17afc899a4c3d51b0aee21e6765caf21dace52e06852782de318d4fb4b6",
+    "syllogism": "Some family parties in family settings are gift exchanges during weekday routines. Many students have heard of birthday parties before class. No gift exchanges during weekday routines are social gatherings. Therefore, some family parties in family settings are not social gatherings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "4bc39e0a1d1e4160e47338ff35114eb59b8978e60c6ebc336e36bf606b48d441",
+    "syllogism": "A few families talk about yoga practice on weekends. No yoga practice during weekend plans are fitness routines. Some stretching sessions are yoga practice during weekend plans. Therefore, no stretching sessions are yoga practice during weekend plans.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "c42f7cd0c4cadaadf1f315535efb2119f491bb7c0da619eeda1796fd373ec341",
+    "syllogism": "No email drafts are talking stones. All discussions about sending emails are made of transparent glass. Some project reports are email drafts. Therefore, all project reports are written notices during weekend plans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "53041a6d6401990988819829949ef3eb7657792ab3737b756b4f96d99d72c035",
+    "syllogism": "Several articles discuss camping trips in practical terms. All camping trips for beginners are singing planets. All tent nights in small towns are camping trips for beginners. Therefore, all tent nights in small towns are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "a02b72426ae39f97f838f390bf2c573203f9d1c4319fb4a5bf9d1d885d190da9",
+    "syllogism": "Many students have heard of interior design before class. Some small apartments are furniture arrangements. All furniture arrangements are aesthetic choices. Therefore, some aesthetic choices are small apartments.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "1bdd88537394fb587256d2705f373f938ddf3f728b003fc92615a8ae6e2ff6f7",
+    "syllogism": "All evening chores are trash removal in small towns. A few beginners ask questions about taking out trash online. No trash removal in small towns are talking stones. Therefore, all evening chores are household duties.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2cc62d34898e75ef15aaeb40e2489e72ff70fb99f77d7c6c3d0aed978a1a4577",
+    "syllogism": "All shelf-labeling tasks are closet-organizing tasks. Some people buy new baskets while thinking about painting walls. All closet-organizing tasks are home-maintenance tasks. Therefore, all shelf-labeling tasks are home-maintenance tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "6f0838f86a6473ef19018ace557256762bb1f6b9c59091fdcb39c6c581422e7a",
+    "syllogism": "Some people mention beekeeping during casual conversations. No honey harvesting are invisible whales. All garden projects near city centers are honey harvesting. Therefore, all garden projects near city centers are food-production activities in small towns.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "98462d3f05130bee7df9642422128822fbf7a9be29baae98a268f5ad5b10a57b",
+    "syllogism": "No gift exchanges near city centers are refrigerated ideas. Some calendars about birthday parties are living mammals. Some family parties are gift exchanges near city centers. Therefore, some family parties are not refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "0b188e2ba7b071816a1cc78335e9568d118843a4539c66bd09a618f262575000",
+    "syllogism": "Some commuter beverages are latte orders. All latte orders are square clouds. No person has ever mentioned morning coffee in any language. Therefore, some commuter beverages are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "e8dd5059811dbb80c630f5021bb8391b5df6ccc7f28fc99bb691dda59ad28571",
+    "syllogism": "All invisible mittens are floating teacups. All backward comets are invisible mittens. Many upside-down umbrellas whisper about ironing clothes at dawn. Therefore, all backward comets dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ecfda125b608a147ad4c4a552c98d1676a83025d55d8852863339ae97a48cb0f",
+    "syllogism": "Some January days near city centers are icy walks. No icy walks are talking stones. Some people mention winter snowfall during casual conversations. Therefore, some January days near city centers are not talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "c6f92ea89ad9b2e0a840a1b61df25a8a987c6b881d9ed36c36e2ab48bed90b2a",
+    "syllogism": "All multi-city itineraries are airline itineraries. All airline itineraries are travel plans. A few travelers check the weather before dealing with train journeys. Therefore, some multi-city itineraries happen before sunrise.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "640b0eec35854bdc13124c0848cc7db0d957a4ca007035fa998fd814c2b4737a",
+    "syllogism": "A few families talk about library books on weekends. All course readings are library copies. All library copies are study resources. Therefore, all course readings are study resources.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "941119fa456addbe77d08ffcf0a42d95e9e09c703b39c50f700cb2130772a99a",
+    "syllogism": "No brake inspections near city centers are talking stones. Some people mention car maintenance during casual conversations. Some used vehicles are brake inspections near city centers. Therefore, all used vehicles are mechanical routines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "440591ac79772a12d9282baecb6c738ae35bcc3282726a3a3fc5f1481f70b481",
+    "syllogism": "No bird-feeding routines are aquarium care. Many pet owners keep notes related to visiting the vet. All winter feeder routines are bird-feeding routines. Therefore, some winter feeder routines need extra treats.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "c437f0078166e516c264cde3d57e6c3f189214b461111c4278d7cda58fe866a3",
+    "syllogism": "All off-peak charging habits are electricity-saving habits. No electricity-saving habits are water-saving habits. Many people keep utility notes connected to spring allergies. Therefore, no off-peak charging habits are water-saving habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "731ecfcd738321702a0c51d556845dace8dd5f6187087ed17178b128708525af",
+    "syllogism": "Some summer plans are camping trips. Some bags are packed hours before anyone leaves for reading novels. No camping trips are indoor hobbies. Therefore, some summer plans are not indoor hobbies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "62ba2d61e75c2d5b8fc25544a2fb8096695dd35c7beff2f20935f6494a5cf689",
+    "syllogism": "A few neighbors mention mowing the lawn when comparing apartment routines. All hallway vacuuming tasks are vacuuming tasks. All vacuuming tasks are cleaning jobs. Therefore, all hallway vacuuming tasks use fresh paint.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6a4b14bcfa7a2a0715af7bae295ce7bfdffd5e0313a154d7a227dc1fc7cd7394",
+    "syllogism": "Some stormy mornings are rain gear. No rain gear are protective actions. Some people mention using umbrellas during casual conversations. Therefore, some stormy mornings are not protective actions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "d82dca872189802afbd83cdd47c253352e271d271a595dfc042824ce2ad877c7",
+    "syllogism": "Some invitations are drafted long before anyone confirms neighbor disputes. No formal ceremonies are text-message exchanges. All small garden weddings are formal ceremonies. Therefore, no small garden weddings are text-message exchanges.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "82fd627fb1ebdaa692943d2f4f925f03b8f15cefcd05b6bd8a0fe4d9197bd87c",
+    "syllogism": "No office meetings are work events. A few families talk about office meetings on weekends. All planning sessions are office meetings. Therefore, all planning sessions are work events.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "1c65e181a9abf8d433582b65b94f9405c7171a93e9570fefea0a08ec06e51030",
+    "syllogism": "No yoga practice are talking stones. Some calendars about yoga practice are living mammals. Some stretching sessions are yoga practice. Therefore, some fitness routines are stretching sessions.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "7fcf93a335e35b9588b87a58c0d05c01d224e7ffadc52b39c187f1096c1ec0a5",
+    "syllogism": "A few transparent pockets collect moonlight during holiday gift giving. All singing spoons are edible constellations. Some midnight kitchens are singing spoons. Therefore, some midnight kitchens are edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "8057064b26f13fd936c10ce617b5daffef8b3b8d70543e980f50d64e9e202685",
+    "syllogism": "All parking searches in family settings are urban problems. All city errands in small towns are parking searches in family settings. Many households keep notes about finding parking on a calendar. Therefore, all city errands in small towns are urban problems.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "16a265f8ed6d4e9fb95252e788021bffa9aed3c7dda9ab264ca4358419f12b77",
+    "syllogism": "All steam-ironing sessions are household chores. A few beginners ask questions about ironing clothes online. All office preparations are steam-ironing sessions. Therefore, all office preparations are household chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "990555f65b23064a65298dc75287e3efde15efe45316c9f130f7e85effb948b4",
+    "syllogism": "Many students have heard of grilling steak before class. All restaurant orders are beef cuts. No beef cuts are seared dishes at busy places. Therefore, all restaurant orders are seared dishes at busy places.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "fb8da8f4581d93f0fac820defaa0fb78582f157970e1e6b06e2231256bdf5512",
+    "syllogism": "All garden tasks are feeder refills. No person has ever mentioned feeding birds in any language. No feeder refills are wooden emotions. Therefore, no garden tasks are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "f7ff009a164ce932a68fae47b08c2f490fd2c80d5c7456a2999ee43ab5d5c5e5",
+    "syllogism": "Some weekend plans are concert visits. Many hobby groups keep chat logs related to attending concerts. No concert visits are silent activities. Therefore, some weekend plans are not silent activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a554a5a63f22c6e9850a30641e1fe86cad705609ebd2e8f765df3285245b5418",
+    "syllogism": "All venue bookings in small towns are wedding plans. All discussions about wedding planning are made of transparent glass. All wedding plans are singing planets. Therefore, all venue bookings in small towns are metal tools.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "cf72754484d3402437c96c29020eb8032b055f5272b48077c4464afd4c1727b7",
+    "syllogism": "Some shops display signs related to first dates near the entrance. Some evening outings are introductory chats. No introductory chats are wooden emotions. Therefore, no evening outings are introductory chats.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3a8ee381ca185ea5a33d506dc97c8c8fa6ac26a1c3eff13160073238faadd45a",
+    "syllogism": "No laundry tasks are outdoor chores. All towel loads are laundry tasks. A few neighbors mention houseplants when comparing apartment routines. Therefore, no towel loads are outdoor chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "cfe07f9e763a9e5e8c8281a7eb478b010dffe3c2648c8dbeacd2adda067a7c49",
+    "syllogism": "No video-call days are professional routines. All weekday schedules are video-call days. Some people mention working from home during casual conversations. Therefore, no weekday schedules are professional routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "1115f090fd5c9e647e7bea319e9e54f08b2e7c0c8371730a5c2edd650969a569",
+    "syllogism": "All clockwork peaches are dancing notebooks. All dancing notebooks are sleepy magnets. Some purple staircases hum softly near water conservation. Therefore, some clockwork peaches are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ccefa458f47cd9310b6d05c133fc7d64e29b87f541d37a57cde34bc826a8d242",
+    "syllogism": "All singing ladders are paper moons. Some silver echoes drift past grilling steak every Tuesday. All transparent violins are singing ladders. Therefore, some transparent violins are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "93eb1d3d39b91b420c11d20ce0950f4dd5739f60b4478c0c7a9b4a8ab44fb744",
+    "syllogism": "All income declarations are administrative chores. A few families talk about paying taxes on weekends. All working adults are income declarations. Therefore, all administrative chores are working adults.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "26858eed45d6811c2d98ea4228dfa3e3cd2a55ee4faa1d9924efbe5b96613914",
+    "syllogism": "All curious teapots are silver shadows. Some rainy orchestras are curious teapots. Many upside-down umbrellas whisper about fresh herbs at dawn. Therefore, some rainy orchestras are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "5a000b5a8646c38b008acb0043a330e5c387350dd57fce28db0c272ec82f31dc",
+    "syllogism": "All used vehicles are brake inspections. Some shops display signs related to car maintenance near the entrance. All brake inspections are refrigerated ideas. Therefore, all used vehicles are refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "60db50f38dcf4a801a80233921b25586955ce848cbb7adb6e12c77f0a7441608",
+    "syllogism": "All long-distance friendships are talking stones. Some video calls near city centers are long-distance friendships. All discussions about long-distance friendships are made of transparent glass. Therefore, all video calls near city centers are relationships.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "a0e1155b738077113e57bb633bb874633e095f740018fc87c8da3ea5ffa412a0",
+    "syllogism": "All yoga routines are health habits. All sunrise yoga routines are yoga routines. A few bathroom shelves hold products connected to mental health breaks. Therefore, all sunrise yoga routines are health habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "08a185e8635e664a152b3414366ceeb9c497a8f8352ddb11f4129d5907b38c04",
+    "syllogism": "Some weekly planners are yoga routines. Some people set alarms before they begin anything about applying sunscreen. All yoga routines are health habits. Therefore, some weekly planners are health habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "48c8ffb52681167c860531b2334ec377e272dfef96b86765df4b926d045cc912",
+    "syllogism": "All carpet sessions are vacuuming jobs. Some shops display signs related to vacuuming carpets near the entrance. No vacuuming jobs are cleaning tasks. Therefore, all cleaning tasks are carpet sessions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "cee7d22a2476638f3ecda5df1ef07bece8996076575a3a150e46a7b5514ddd74",
+    "syllogism": "All lakeside camping trips are camping trips. A few friends compare prices while planning around reading novels. No camping trips are indoor hobbies. Therefore, some lakeside camping trips get cancelled by weather.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "15f8ec1e84ea64d7c23a1214c79a0787662a6d72056f34511f23676cfc340ad2",
+    "syllogism": "All off-peak charging habits are electricity-saving habits. No electricity-saving habits are water-saving habits. A few households change routines after hearing news about seasonal changes. Therefore, no off-peak charging habits are water-saving habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "eafc49dade62faecd0d1c68cf38867206213b01e89ba4c66f4aeeb9a2e57500e",
+    "syllogism": "All bread loaves are baked foods. All sourdough boules are bread loaves. Some kitchen timers are used while people work on baking bread. Therefore, all sourdough boules are baked foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "1b87073ba64f0ee370a6b332eb75b5e30f698811530de6246674de48137cd8e4",
+    "syllogism": "No investment reviews are long-term tasks. All family discussions are investment reviews. Many households keep notes about retirement planning on a calendar. Therefore, all long-term tasks are family discussions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "10e5caa64ce2c9f7036dc1ddffd523caaf4cfc042aed60377b0b9c43d304e7c1",
+    "syllogism": "A few beginners ask questions about commuting to work online. No work commutes are daily routines in family settings. Some train rides in small towns are work commutes. Therefore, some train rides in small towns are not daily routines in family settings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4ad634095d7f39c974e9a083d859b57005cbd8f39ed47c6f99ba3a3b05262715",
+    "syllogism": "All weekday wake-up routines are alarm-clock routines. All alarm-clock routines are household reminders. Many households keep reminders related to budgeting finances. Therefore, all weekday wake-up routines are household reminders.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "4337fdf15fc28b4d93e7eb73240bd26183294a0ba751f6a2fadb1721b012f7d4",
+    "syllogism": "All small-room improvements are shelf arrangements at busy places. No shelf arrangements at busy places are singing planets. Every note about organizing closets weighs exactly four tons. Therefore, all storage projects are small-room improvements.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "131b8d3fbf6faf2ca19ac96e9eaf0e725b1804983bc0c75283abe2c179ae23a0",
+    "syllogism": "A few beginners ask questions about morning exercise online. No morning exercise are health routines. Some jogging sessions are morning exercise. Therefore, some jogging sessions are not health routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "71542b87a3f71c17daf96c2fbe21face7212dad8ec85b6d592ced087de335275",
+    "syllogism": "Some weekend plans are film screenings for beginners. All film screenings for beginners are entertainment choices. A few beginners ask questions about watching movies online. Therefore, some entertainment choices are weekend plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "097b7f850510c90394c540a37f93ea32fc5422012c98ac5151528d3ec61d75ab",
+    "syllogism": "Some spring transitions are seasonal changes. No seasonal changes are invisible whales. Every note about seasonal changes weighs exactly four tons. Therefore, some spring transitions are not invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "f78e841545fe3fbac5f97f020965079459111edb1cf88a33bf3b3a9d708ff261",
+    "syllogism": "A few families talk about spring allergies on weekends. No spring allergies in small towns are health issues. All pollen reactions are spring allergies in small towns. Therefore, some pollen reactions are health issues.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "427e73c05fcd0b1a1a883a5912881531fbf0f16971042516be3e2c85a4ad67f6",
+    "syllogism": "All small apartments in family settings are furniture arrangements. All furniture arrangements are aesthetic choices. A few beginners ask questions about interior design online. Therefore, all small apartments in family settings are aesthetic choices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b3bf685f2aeed331358fc3a195c710f8f1f8b69c61ef37503c91ced24fff8599",
+    "syllogism": "All fish can fly. Some birds are mammals. Every mammal breathes air. Therefore, all fish breathe air.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3f20eba8f28a52446efd161718f1605e114c4d721e3862ea8a5a50c887c67e8f",
+    "syllogism": "All rent payments are saving plans. All discussions about budgeting finances are made of transparent glass. No saving plans are refrigerated ideas. Therefore, all rent payments are financial choices.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ab300abbbe704ccc58fe353791803ecea8e39c1901009aa2c895d64a913c87b3",
+    "syllogism": "No online shopping during weekend plans are square clouds. A few families talk about online shopping on weekends. All cart checkouts are online shopping during weekend plans. Therefore, some cart checkouts are digital errands.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "277ba81d17b93938f9b9f0e9cf7bcdb126bea665352fc46330fc5ec36f1d8f27",
+    "syllogism": "Some weekend hobbies at busy places are horse rides. A few families talk about horseback riding on weekends. All horse rides are wooden emotions. Therefore, no weekend hobbies at busy places are animal interactions.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "872dd43f8286384477704dc250bd5d232cc67c66b9282f132ccd3944974eeedc",
+    "syllogism": "Some night zoomies are cat habits. Several articles discuss cat behavior in practical terms. No cat habits are animal behaviors. Therefore, all night zoomies are animal behaviors.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "60d9066fdf40d53e74e94e849df98fdf8aa55c6b4a3dd677716703b406919230",
+    "syllogism": "All discussions about aquarium maintenance are made of transparent glass. No aquarium maintenance near city centers are refrigerated ideas. All water changes are aquarium maintenance near city centers. Therefore, no water changes are refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "3a90e1495897d899d938b9a0a4a3db1937e75b4d03b2f593c56b6faeab8d4443",
+    "syllogism": "A few drawers contain papers connected to paying taxes. Some holiday wish lists are online purchases. All online purchases are shopping activities. Therefore, some holiday wish lists are shopping activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ed9006d9b434cf7b06e724392898fb728fa658fbe1b707570aa8c2d8082f4cae",
+    "syllogism": "Some kitchen moons are paper shoes. No paper shoes are liquid mountains. Many upside-down umbrellas whisper about driving in traffic at dawn. Therefore, some kitchen moons are not liquid mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "aaf3950af7a885f20d5a1a995c5c146caaab0a5ebd2bcee2053eb2780c288aa8",
+    "syllogism": "Many students have heard of feeding birds before class. No bird feeding are animal-care activities. All balcony routines are bird feeding. Therefore, all animal-care activities are balcony routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5edbd44030730d322f888f3f3afb021dd52815aabffb8ea3f300e249c7250e9e",
+    "syllogism": "No novel-reading sessions are visual arts. All late-night mystery-reading sessions are novel-reading sessions. Some bags are packed hours before anyone leaves for hiking trails. Therefore, no late-night mystery-reading sessions are visual arts.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "2b0b995d258448ec4c0fdcdb9eb25e0535501defa29701b75bb6e47a44bf17cd",
+    "syllogism": "All roses are flowers. All flowers are plants. Some flowers are red. Therefore, all roses are plants.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "d4814c7ed50936e39523544ba63b9031c9eab42fb3ef2ac8664ad926077404b0",
+    "syllogism": "No contact exchanges are relationship-building tasks. Some job fairs are contact exchanges. Several articles discuss professional networking in practical terms. Therefore, no job fairs are contact exchanges.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5579fa02ea1e8721fa78d1b98448e0d7d8e054c70c824696da26d9194a764fec",
+    "syllogism": "Some balcony routines are bird feeding. Some shops display signs related to feeding birds near the entrance. All bird feeding are talking stones. Therefore, some balcony routines are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "7ab7620090456c5f327c637be84b4712e33b19e967e135cd0ad739698c04b271",
+    "syllogism": "All music nights are concert attendance during weekend plans. No concert attendance during weekend plans are wooden emotions. Every note about attending concerts weighs exactly four tons. Therefore, all live events during weekday routines are music nights.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "eeef6e84b4df9b51e42dcd2688c7e5f9aa74fede1c84594232ca8b8891b0cc85",
+    "syllogism": "All expense tracking in small towns are budgeting finances in small towns. Several articles discuss budgeting finances in practical terms. No budgeting finances in small towns are money-management tasks. Therefore, all expense tracking in small towns are money-management tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d3bd11354585f9e323eb6635db2dacc214f63d304c700f7ccd7ca7bdee499d50",
+    "syllogism": "All espresso pauses in small towns are refreshment moments. All busy workdays for beginners are espresso pauses in small towns. Many students have heard of coffee breaks before class. Therefore, all busy workdays for beginners are refreshment moments.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "4ff6298507fd45f19a39fd94a7632e1123d80ee2d8f515593a94defb0380cbb4",
+    "syllogism": "All saving plans during weekend plans are financial choices. Several articles discuss budgeting finances in practical terms. Some rent payments are saving plans during weekend plans. Therefore, some rent payments are financial choices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a0fce37640ad6ad203d3ee5e1ef438926a5a992977a1abb355b83f0786441449",
+    "syllogism": "No dental hygiene in small towns are health practices. Some toothbrushing routines in family settings are dental hygiene in small towns. Some people mention dental hygiene during casual conversations. Therefore, some toothbrushing routines in family settings are not health practices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "d7cfb958a1c3271fcb9d3b415009fc2d695da35f55ee85b43b941ca37b903805",
+    "syllogism": "Many households keep notes about text messaging on a calendar. All student plans are message replies. No message replies are refrigerated ideas. Therefore, all phone habits are student plans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6481724091051edcc9ec5440bcfeaaadd107b423004358d8db2ae60df3d4b418",
+    "syllogism": "All office meetings are wooden emotions. Every note about office meetings weighs exactly four tons. All planning sessions are office meetings. Therefore, all planning sessions are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "2a4604a0bec4b1f1805e85f76c44639150b5c3befefa375b6c170c2e9b55baac",
+    "syllogism": "Some student wardrobes during weekend plans are streetwear looks. Many households keep notes about fashion trends on a calendar. All streetwear looks are clothing choices. Therefore, some student wardrobes during weekend plans are clothing choices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a9455b883bee5a768f9ed6d51ec8b508f6989b3c02d10f1a86636b7bb573e624",
+    "syllogism": "Some purple staircases hum softly near vacuuming carpets. All backward comets are invisible mittens. All invisible mittens are floating teacups. Therefore, some backward comets are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "67a750ca379e5184f421145ec81e5bfa2ea9c031702b8dba180e4dc8eef628f4",
+    "syllogism": "All restaurant orders are beef cuts. All beef cuts are seared dishes in family settings. A few families talk about grilling steak on weekends. Therefore, all restaurant orders are seared dishes in family settings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "2d0e47a30b48f7023303e6b46769b210f85d386005807bbfc980d4d5c7450349",
+    "syllogism": "Some people set alarms before they begin anything about quality of sleep. All sunrise yoga routines are sunrise yoga routines. No sunrise yoga routines are poor sleep habits. Therefore, some sunrise yoga routines are easier in summer.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "90054132f50f4694194b80d34b38ea306c69cfc0700b5a125b11ee1ed57e6cb5",
+    "syllogism": "Some purple staircases hum softly near beekeeping. Some rainy orchestras are curious teapots. All curious teapots are silver shadows. Therefore, some rainy orchestras are silver shadows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "3b8cc9e6a84f5fc9ca636da86a13f41f02009cccfcb665d05d20a02b7bc9baac",
+    "syllogism": "All working adults for beginners are income declarations. Some calendars about paying taxes are living mammals. All income declarations are talking stones. Therefore, all working adults for beginners are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "6dbbe6a5335ade21cb4e56ef60ad331040308cc0c40d7afc3305afef6effaf84",
+    "syllogism": "No car maintenance jobs are vehicle tasks. Many households keep notes about car maintenance on a calendar. Some oil checks in small towns are car maintenance jobs. Therefore, some vehicle tasks are oil checks in small towns.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "9407e2ade60f4debadedb63da7308bbee3f3ed4ac990cbd2e19937d9df356e19",
+    "syllogism": "All espresso cups near city centers are coffee brews for beginners. No coffee brews for beginners are singing planets. All discussions about morning coffee are made of transparent glass. Therefore, no espresso cups near city centers are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "64e8aa7e7564d6785400f7703aaa4aac9c2da98d0873bb494d9aba9c7ae03a59",
+    "syllogism": "No sunblock steps in family settings are health practices at busy places. Several articles discuss applying sunscreen in practical terms. Some morning walks are sunblock steps in family settings. Therefore, some morning walks are not health practices at busy places.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "984358c3d52083e24425c54cb7471bc2e9ca6f964af083e63aa4d9454e181687",
+    "syllogism": "No livestock groups during weekday routines are agricultural topics. A few beginners ask questions about farm animals online. All farm visits for beginners are livestock groups during weekday routines. Therefore, all agricultural topics are farm visits for beginners.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "a18f52e8a248b54fc83f348c965aad7c2131e9ca1a44267c9d0d84867fc66f47",
+    "syllogism": "No vacuuming tasks are garden chores. A few neighbors mention fixing leaky faucets when comparing apartment routines. Some apartment task lists are vacuuming tasks. Therefore, some apartment task lists are not garden chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "099d5fc6c437cbd080f0649688a81cf9c84d0cb6c6b319db4fb1ff6074c7706c",
+    "syllogism": "All poets write words. All writers use language. Some languages are complex. Therefore, all poets use language.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "52a82a2256582ea59e848aab6e8beb958f98e995738619e6e7ccd0889669f3ab",
+    "syllogism": "A few families talk about wedding planning on weekends. All flower orders are ceremony preparations. Some spring weddings are flower orders. Therefore, some spring weddings are ceremony preparations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "da20f282bdab56093ab613da9201cf92e610a460078189ca9e0e1f17c795e379",
+    "syllogism": "All console games are invisible whales. Many students have heard of playing video games before class. All student breaks for beginners are console games. Therefore, no student breaks for beginners are interactive media.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "b75eced201c4d5a5c8d9040008ca559509a702fc8c69a411ddaeff50687c1941",
+    "syllogism": "All metro trips in family settings are square clouds. Many students have heard of public transportation before class. All weekday journeys are metro trips in family settings. Therefore, all scheduled travel are weekday journeys.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "533dfabb7dd2e7b566c94c5792d64c550a039cb7015e97f4bd25f5ab4bb9458b",
+    "syllogism": "All tables can swim. Some swimmers are fish. Every fish lives in water. Therefore, all tables live in water.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "a1f840be711c6a23891096a30996a4487eb21bdaea1c30fd780356b84990eb89",
+    "syllogism": "All job interviews are career steps. Some candidate schedules are job interviews. Many offices keep shared documents related to sending emails. Therefore, some candidate schedules are career steps.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "9595e667d70b56e148605a97534395ac58ba4da9459e94c41a87a23000c78570",
+    "syllogism": "Some household routines are electricity-saving habits. Some city notices mention rainy weather during seasonal updates. No electricity-saving habits are recycling habits. Therefore, some household routines are not recycling habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "0d7eeb7bd618e1112d5e64debe758cc528a573828e33f598de82eaa53acbab03",
+    "syllogism": "All clockwork peaches are dancing notebooks. All dancing notebooks are sleepy magnets. Many upside-down umbrellas whisper about renewing passports at dawn. Therefore, all clockwork peaches dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "acb36b4ef5cae859c29d9759bd58da73eea95882c72d09e2c67a84b9e7289fb2",
+    "syllogism": "Some rainy orchestras are curious teapots. All curious teapots are silver shadows. Some purple staircases hum softly near taking vitamins. Therefore, some rainy orchestras are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "26abc08b605d4c836d416bbc7ff5174dbf869ac5ef13483ea84af5ff24a7f29c",
+    "syllogism": "Many people discuss spicy food before planning a weekend meal. No grilled steaks are uncooked items. All sirloin steaks are grilled steaks. Therefore, no sirloin steaks are uncooked items.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "891f250e9040857eaf23f3bdb340f4244de6c2ce72f07a22bffd955087e735f1",
+    "syllogism": "Some silver echoes drift past playing video games every Tuesday. All invisible mittens are floating teacups. All backward comets are invisible mittens. Therefore, some backward comets are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "7b30d9b7c3353ff22297f0e4ee1aad93d315583747b6c9b1ce3bbef5de6da944",
+    "syllogism": "All strategy matches are board game nights. All board game nights are social hobbies. Some people mention board game nights during casual conversations. Therefore, all strategy matches are social hobbies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "4d0fe6e494edc0afe430790305669af5838fc3683e0cea6cd6334c0ff27be8eb",
+    "syllogism": "Many upside-down umbrellas whisper about gas prices at dawn. All sleeping lanterns are tidy hurricanes. Some attic festivals are sleeping lanterns. Therefore, some attic festivals are tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "d0ffed1de3e403a6b4659c99c0873f63d8d929df1b9de6b23f7d7d3ba1251f50",
+    "syllogism": "All sleeping lanterns are tidy hurricanes. Some attic festivals are sleeping lanterns. Some purple staircases hum softly near baking bread. Therefore, some attic festivals are tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "1e4f2925fccc3f9753c1d142b5c1aec51bed8a08e55db5d6163f2c66e41d081c",
+    "syllogism": "All backward comets are invisible mittens. All invisible mittens are floating teacups. Many upside-down umbrellas whisper about fresh herbs at dawn. Therefore, all backward comets dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "44f41e797bcab3c436d32157d62319e45fd6035bd681238ce3a14cc9fc278799",
+    "syllogism": "All oil-change jobs are car maintenance jobs. No car maintenance jobs are public transport routes. A few travelers check the weather before dealing with gas prices. Therefore, no oil-change jobs are public transport routes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "ab843c614cac5577cc515a7600620978623608b25694f84696c2a9e31e488681",
+    "syllogism": "Some kitchen repairs are leaky taps. All questions about fixing leaky faucets orbit the moon every evening. All leaky taps are invisible whales. Therefore, some kitchen repairs are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "8fd3f973d03117d207b55ebb6d33d0a8346fea547b6770e9a9aa480031cd59da",
+    "syllogism": "Some kitchen timers are used while people work on grilling steak. No baked foods are raw foods. All bread loaves are baked foods. Therefore, no bread loaves are raw foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "1e083fa4ae09efdefc9d86d3400386148e5702c8548f94f27371e7cfc473b5ce",
+    "syllogism": "All holiday journeys are flights. All flights are refrigerated ideas. Every note about airline travel weighs exactly four tons. Therefore, all holiday journeys are expensive objects.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "94e3dd944312951776b894f8a4878ec7cf49d819d9c9f482ac5a21f1a194dc74",
+    "syllogism": "Some shoes are animals. All animals breathe. Every shoe is worn. Therefore, some shoes breathe.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "8939a7637b31ae327d8a677a2f2a820a95b96251291c1b05bcd81d7217cf8cca",
+    "syllogism": "Many students have heard of neighbor disputes before class. Some apartment issues are fence arguments. No fence arguments are square clouds. Therefore, all apartment issues are community problems.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2905963ffd69e4dc85d3ae86fc397706b776ffb162a26fe19f9114ef93f72e1a",
+    "syllogism": "All bread loaves are baked foods. A few cooks compare notes about morning coffee during cleanup. All sourdough boules are bread loaves. Therefore, some sourdough boules use extra salt.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "2f748470d4abf5b61831597c97ee4962e9fc766a88a00e91176111a9a40bfa6e",
+    "syllogism": "All heavy snowfalls are winter weather. Many people keep utility notes connected to using umbrellas. All winter weather are seasonal conditions. Therefore, all heavy snowfalls are seasonal conditions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "dc1e5938ba80a625644b65039387105dae095935d61e1abbf82c59e7ce1a22f7",
+    "syllogism": "No stationery items are desk tools during weekend plans. Many households keep notes about office supplies on a calendar. Some meeting materials during weekend plans are stationery items. Therefore, some meeting materials during weekend plans are not desk tools during weekend plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "2b54ad3b4f7fcd729d6027d762987063569e21aeb008c76482bd5d2df8d242b5",
+    "syllogism": "All networking events are professional activities. Some conference plans are networking events. A few coworkers mention project deadlines during informal hallway chats. Therefore, some conference plans are professional activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "7353b21a07fce637849a8772dda4340b5af1dffb309bf8c812c962a2ccd292ef",
+    "syllogism": "All dancing notebooks are sleepy magnets. Many upside-down umbrellas whisper about grocery shopping at dawn. All clockwork peaches are dancing notebooks. Therefore, some clockwork peaches are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3ee9cbab61904c954e02325ddc0a71bdab610aa8afd04675a7e4dba881dc98fa",
+    "syllogism": "A few households change routines after hearing news about using umbrellas. All water-saving habits are resource-saving habits. All short-shower habits are water-saving habits. Therefore, some short-shower habits are affected by wind.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5ae596f95fd4f9ac06ec20f7bbf9f7d9e9bb1ce30a7bb92ebbdb646f22d905be",
+    "syllogism": "No person has ever mentioned painting walls in any language. Some apartment improvements are paint jobs. No paint jobs are singing planets. Therefore, some renovation tasks are apartment improvements.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "8eb81cfba7ee7536d28659660e2a975b27cb9895f38b82fff9f7d0571694909d",
+    "syllogism": "All bread loaves are baked foods. Some kitchen timers are used while people work on morning coffee. All sourdough boules are bread loaves. Therefore, all sourdough boules are baked foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "72573d3a35e0f4f7ed900202a722e198447665289128b3c0f1f9428cd8609817",
+    "syllogism": "All curious teapots are silver shadows. A few transparent pockets collect moonlight during horseback riding. Some rainy orchestras are curious teapots. Therefore, all rainy orchestras dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6779ccecfb2c15c245f0250e0a3fcba74ebe1083580bd0c4037bcafe7a045b86",
+    "syllogism": "All sleeping lanterns are tidy hurricanes. Many upside-down umbrellas whisper about laundry day at dawn. Some attic festivals are sleeping lanterns. Therefore, some attic festivals are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "1afc78236ec06f4f6ba3442b2bc45d19b85c3df769be9a0e8534aab79a0fec50",
+    "syllogism": "All tax tasks are money tasks. All year-end tax filings are tax tasks. Some apps send notifications that mention library books. Therefore, all year-end tax filings take less than ten minutes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "f6f218eee4f00b11561c9ac03ffe2a16b09c0c579d7e7e498439947dca82a9b5",
+    "syllogism": "No stretching habits are refrigerated ideas. Some calendars about morning exercise are living mammals. Some weekday starts are stretching habits. Therefore, some physical activities in small towns are weekday starts.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2e75a552b28676038cb6665a3e168337c2165b32b417380412838d0746adc050",
+    "syllogism": "Some student projects in family settings are checked-out books for beginners. A few beginners ask questions about library books online. All checked-out books for beginners are reading materials. Therefore, all student projects in family settings are reading materials.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "0b18a8091c88425b850a83fffc497449ef36aac6a669b336c30e063fe0022233",
+    "syllogism": "No short breaks in family settings are office routines. Some shops display signs related to coffee breaks near the entrance. All team chats are short breaks in family settings. Therefore, no team chats are office routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "cfcc55190998cf822d4a41ab85a1692850af8789ed683524e811be8bcf8d499d",
+    "syllogism": "Some shops display signs related to houseplants near the entrance. All balcony tasks are plant waterings. No plant waterings are care routines during weekday routines. Therefore, all care routines during weekday routines are balcony tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5c2d212efd717704941cbb3f61b6813d418d0e76e00ec35dbffa371930ce584c",
+    "syllogism": "Some morning routines during weekend plans are mirror images in small towns. Several articles discuss mirror reflections in practical terms. No mirror images in small towns are household sights. Therefore, some morning routines during weekend plans are not household sights.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a5921ff2f305694f6ff3a66bda2aee6cadacd450de80cd9e6f63773e4c87c80e",
+    "syllogism": "Some festival baskets are flying teacups. No flying teacups are wooden oceans. Some silver echoes drift past houseplants every Tuesday. Therefore, some festival baskets are not wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "2510cc62ae70230f0e2afbad0ffe76991c2c287f5715d89666e50360090630d1",
+    "syllogism": "No document renewals are government procedures. A few families talk about renewing passports on weekends. Some summer trips in small towns are document renewals. Therefore, no summer trips in small towns are document renewals.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "4ac32e31fdf453984598a6a48245b2ea907c6060b5a7c567f002bb268fa73740",
+    "syllogism": "A few beginners ask questions about ironing clothes online. No steam-ironing sessions are household chores. All office preparations are steam-ironing sessions. Therefore, no office preparations are household chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ceb06bf4cc9b6f3569c5b759f66efb3db80eeb6b662d4071cdfe103f847ec862",
+    "syllogism": "All contact exchanges are invisible whales. Some job fairs are contact exchanges. Some people mention professional networking during casual conversations. Therefore, all job fairs are relationship-building tasks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "85837ba549d6e8e1f73e54243489cd8810b68a849802c3681c85a986a2d52afb",
+    "syllogism": "No plant waterings near city centers are talking stones. Some people mention houseplants during casual conversations. All balcony tasks are plant waterings near city centers. Therefore, some balcony tasks are care routines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "8c1967221c11d11c9e3206c38663496d45f65d308c6cd1a6a8d3fdafdef5999f",
+    "syllogism": "Some garden projects near city centers are honey harvesting. Every note about beekeeping weighs exactly four tons. All honey harvesting are square clouds. Therefore, all garden projects near city centers are food-production activities for beginners.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2d99f0ca8426fa6ef01afde477343bbbe63fc2d489658cdb3ab0e92ff9cc4205",
+    "syllogism": "All multiplayer matches are video games. A few beginners ask questions about playing video games online. All video games are square clouds. Therefore, all leisure activities are multiplayer matches.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "85be9262a4b3d461668b6be50490cf5e75c0201434232cc97f1a5d85a162c0be",
+    "syllogism": "Some calendars about using umbrellas are living mammals. Some wet commutes during weekend plans are umbrella use. All umbrella use are talking stones. Therefore, some rainy-day habits are wet commutes during weekend plans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "be37eda838086a89c5c4d982e7b6f2d118ab83703ff4b17ba7f123133c19886c",
+    "syllogism": "All singing spoons are edible constellations. Some midnight kitchens are singing spoons. Some silver echoes drift past salad making every Tuesday. Therefore, all midnight kitchens dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "77c13c8a678575761abe81ce39bfbc60c94773deaebbddf9a73c5e6cee91f20c",
+    "syllogism": "No band shows are singing planets. Some people mention attending concerts during casual conversations. All summer outings are band shows. Therefore, no summer outings are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "ce376626b9ff398358bcf6090c31bb36c3651613a7008b9eb1255a0af03549a9",
+    "syllogism": "All snake plants are houseplants. Some calendars about houseplants are living mammals. All houseplants are invisible whales. Therefore, all snake plants are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "986b3c9ada2764083d9d6b244d491b3c324b236c2b97e54c3e3e06bf92b4cce7",
+    "syllogism": "All mint sprigs are culinary herbs. A few families talk about fresh herbs on weekends. All culinary herbs are invisible whales. Therefore, all mint sprigs are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "5080d8b2d9dee4bc6897c97bce0e74e01dbfad3972e7ffabc7422b907f32f180",
+    "syllogism": "No concert visits are silent activities. Some people charge their phones before starting anything about learning a musical instrument. All jazz club visits are concert visits. Therefore, no jazz club visits are silent activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "2e5708ebf59429d1c279ada40e73b87570721655138ce8245902cbd97ba0a164",
+    "syllogism": "Some maintenance reports are plumbing repairs. No plumbing repairs are decor decisions. Many homes have calendars that include reminders about interior design. Therefore, some maintenance reports are not decor decisions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "6f98251b32facfe8a3ffcd799c8c314d45bc84d1013b20347180e8e4b7a69d23",
+    "syllogism": "Some shops display signs related to hiking trails near the entrance. Some weekend trips are mountain hikes. All mountain hikes are talking stones. Therefore, some recreation activities are weekend trips.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "d690a410f869b76995c155ae6962fe6221a54b511778bf3b9647e13a2ee41386",
+    "syllogism": "Some rainy orchestras are curious teapots. All curious teapots are silver shadows. Some silver echoes drift past quality of sleep every Tuesday. Therefore, all rainy orchestras dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2e512c88137e51151a701793764597ab383267afba5e00dce08312a8f744215d",
+    "syllogism": "Some rainy orchestras are curious teapots. A few transparent pockets collect moonlight during pet adoption. All curious teapots are silver shadows. Therefore, all rainy orchestras dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "c3f3f52e0b8eddf4c3c35ef98b7627beee53909c2479f0a9d6a5aaf9a6578074",
+    "syllogism": "No person has ever mentioned battery life in any language. No charging cycles are wooden emotions. All laptop days are charging cycles. Therefore, no laptop days are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "2799d020a43ee84dd536fc10dc0c3c0ca6ad6eac988b41feee1e64c0ae8d9491",
+    "syllogism": "Some kitchen moons are paper shoes. No paper shoes are liquid mountains. Many upside-down umbrellas whisper about spring allergies at dawn. Therefore, some kitchen moons are not liquid mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "87dd9f45ff8102954361f25619b57918aa193b6c3ed8a9962430e7485f589fdc",
+    "syllogism": "Several articles discuss laundry day in practical terms. All wash cycles are cleaning routines in family settings. All Sunday chores are wash cycles. Therefore, all Sunday chores are cleaning routines in family settings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "42910a3b3ae65c3d829f3fb46a3852731ca2d0422753e1719cd9ee0f59b4600e",
+    "syllogism": "A few beginners ask questions about fresh herbs online. All soup toppings near city centers are parsley bunches. No parsley bunches are green seasonings in small towns. Therefore, no soup toppings near city centers are green seasonings in small towns.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "f87ec090d330c67bbb1290ce19deb38b42fb56af02d3cab49fc526872d9995bf",
+    "syllogism": "Some attic festivals are sleeping lanterns. All sleeping lanterns are tidy hurricanes. Some purple staircases hum softly near organizing closets. Therefore, some attic festivals are tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "8962c5997e1555aeb62d3028cefd8e831c1e324d2f3d89873a472717dd1ed0ba",
+    "syllogism": "All lawn mowing are singing planets. All discussions about mowing the lawn are made of transparent glass. Some Saturday tasks for beginners are lawn mowing. Therefore, some Saturday tasks for beginners are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "5164f250d94ba56f230e6a85881cc990955ae3d173605113cdbf41ea26c1923f",
+    "syllogism": "Many people discuss fast food before planning a weekend meal. All basil leaves are fresh herbs. All fresh herbs are kitchen ingredients. Therefore, all basil leaves are kitchen ingredients.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "c4532a7118317823bec5f3fd6dcb229cb97bb5f3f75b3cdad95e0530e5a6b8c9",
+    "syllogism": "Some people compare prices before dealing with setting alarm clocks. Some spring checklists are tax tasks. All tax tasks are money tasks. Therefore, some spring checklists are money tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4febca6943e125c5b084135fb364a974642ce77f62820c457ebf26145b0bb3b0",
+    "syllogism": "A few families talk about rainy weather on weekends. All rain showers are singing planets. Some spring afternoons are rain showers. Therefore, some spring afternoons are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "dbecb2c43d997e471e413b413760e4b105eea95fdd729b92101d96d71581458e",
+    "syllogism": "Some tent nights are camping trips. All camping trips are outdoor vacations. A few beginners ask questions about camping trips online. Therefore, some tent nights are outdoor vacations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "478a8ea4611c25fd245bb40879364e2b2e75bb3af24f6f4a83f4483224a67edc",
+    "syllogism": "No sleep schedules are invisible whales. Some morning energy are sleep schedules. Some shops display signs related to quality of sleep near the entrance. Therefore, no morning energy are sleep schedules.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "fc4cae2d956bd01f55c021abb3723da2323aa4a065b581269c5ec94b818cd0e7",
+    "syllogism": "Some museum pockets are whispering boots. All whispering boots are plastic forests. A few transparent pockets collect moonlight during library books. Therefore, all museum pockets dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "1dde12df8fe96088189dea75e118b891ffaf90dbb65b519c49bda8ed0eb08964",
+    "syllogism": "A few beginners ask questions about camping trips online. Some summer plans are campfire evenings at busy places. All campfire evenings at busy places are wooden emotions. Therefore, some summer plans are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "052a022bea28f7a7c474d10d1d0ef8964eb1d5f2164d3d8ed7bc43a9980846b7",
+    "syllogism": "A few families talk about restaurant service on weekends. All menu explanations are service tasks. Some lunch shifts near city centers are menu explanations. Therefore, some lunch shifts near city centers are service tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "b287f3a07399f76a8164066e3f36c17aec4fca672be87712f456e053418a8188",
+    "syllogism": "All sleeping lanterns are tidy hurricanes. Some purple staircases hum softly near birthday parties. Some attic festivals are sleeping lanterns. Therefore, some attic festivals are tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a1879bda3981ee39cb1402907025b4a50822b8a30294a0eae0f175846289bfb7",
+    "syllogism": "All alarm-clock routines are household reminders. Some apps send notifications that mention renewing passports. All weekday wake-up routines are alarm-clock routines. Therefore, all weekday wake-up routines take less than ten minutes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "03533848c52e4ba6862abc074a37c4977bf444566406bd8d307e4bb4404a9e38",
+    "syllogism": "All streaming sessions in small towns are indoor hobbies. Some family evenings are streaming sessions in small towns. Some people mention watching movies during casual conversations. Therefore, some indoor hobbies are family evenings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "545a31630804676826394d06410593d744c914490d9468588b3c9f3c617ecd37",
+    "syllogism": "A few families talk about feeding birds on weekends. No seed scattering are singing planets. All winter mornings in small towns are seed scattering. Therefore, all outdoor habits are winter mornings in small towns.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "39609d2f78853e9ec223d79c8b4efd1d14a6f9d46fe729ae87f97c15c0f8afee",
+    "syllogism": "All final-round interviews are job interviews. A few coworkers mention career changes during informal hallway chats. No job interviews are retirement plans. Therefore, no final-round interviews are retirement plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "e5dbcf6af6007e2b2b4d6f9caf1ce561e148cc853be9e34ad6e9cba79a11148a",
+    "syllogism": "No sunblock steps in small towns are refrigerated ideas. No person has ever mentioned applying sunscreen in any language. All morning walks are sunblock steps in small towns. Therefore, some morning walks are health practices.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "d2fca10e93176b110c1d1b9a48a9c4919e3e0a3239381d4e48a2cb7eb9e32796",
+    "syllogism": "No streaming sessions are indoor hobbies. Many students have heard of watching movies before class. Some family evenings during weekday routines are streaming sessions. Therefore, all family evenings during weekday routines are indoor hobbies.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "f5527b071ddcb36dec0a7eb94b34b14dc83b8ee6afd4a2c31eac5b9900c5cbc3",
+    "syllogism": "All stormy mornings are rain gear in family settings. A few families talk about using umbrellas on weekends. All rain gear in family settings are protective actions for beginners. Therefore, no stormy mornings are protective actions for beginners.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "e5ede2cde3c3b89ea9cb7fbea6d3d8d75c2a0880cc847c1370d0870f525050bf",
+    "syllogism": "No gift giving are wooden emotions. All discussions about holiday gift giving are made of transparent glass. All winter exchanges are gift giving. Therefore, no winter exchanges are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "6fd45e40336b50a2fd218851a1715c3999103a0efa60a86aebf36e56956b268f",
+    "syllogism": "Some mint sprigs are culinary herbs. No person has ever mentioned fresh herbs in any language. All culinary herbs are square clouds. Therefore, some mint sprigs are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "904954ee3ce5cdf1416d27fa74d7d9528afd0f864083c20376e1543dcb1be9cb",
+    "syllogism": "All balcony routines are bird feeding. All bird feeding are animal-care activities. Many households keep notes about feeding birds on a calendar. Therefore, all balcony routines are quiet routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "46a6e14b18a41fee5022f3a7994b42268638177278c75619085ecd07291629ad",
+    "syllogism": "All parking disagreements during weekday routines are invisible whales. Several articles discuss neighbor disputes in practical terms. All building meetings are parking disagreements during weekday routines. Therefore, all building meetings are quiet routines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "aa31b7a80f833b3acb64f702270eb23fd2dd2598e3b2ac697daa3ba74d442821",
+    "syllogism": "No paper shoes are liquid mountains. Some kitchen moons are paper shoes. Some silver echoes drift past career changes every Tuesday. Therefore, some kitchen moons are not liquid mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b566570fb0643852acae150ca627ffae6ea926f7861544438f0bf09919f07224",
+    "syllogism": "All latte orders for beginners are talking stones. All commuter beverages are latte orders for beginners. Some calendars about morning coffee are living mammals. Therefore, all commuter beverages are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "f441051ca6384b5957b70ce90330c9d40f9f0d0a95b5764aa86c32b346a64c62",
+    "syllogism": "Some spring weddings for beginners are flower orders. A few beginners ask questions about wedding planning online. No flower orders are ceremony preparations. Therefore, some spring weddings for beginners are not ceremony preparations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "72a79ff986292dc700099e90c7cf512c25b39eee4707d5e32a838afb36fc7e61",
+    "syllogism": "No first dates are social events. A few families talk about first dates on weekends. Some coffee meetups are first dates. Therefore, some coffee meetups are not social events.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "32d8de7ecbe2a67461503eac16f26b41ef7b8c19c693337e8db78052b37f23a2",
+    "syllogism": "No morning exercise are singing planets. Some jogging sessions are morning exercise. No person has ever mentioned morning exercise in any language. Therefore, some health routines are jogging sessions.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "e9dc613ae4ec64cb8025fd45186ad6a86ccd309339c7b623e2533200cc97ee18",
+    "syllogism": "All haircuts are grooming events. Many households keep notes about getting a haircut on a calendar. Some barber visits are haircuts. Therefore, no barber visits are grooming events.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d20ad1ad654cd0dbf95ebee42059e12504a07b08560d55e8f55746e7e51009f0",
+    "syllogism": "All instrument lessons are music practice. All beginner guitar lessons are instrument lessons. A few friends compare prices while planning around camping trips. Therefore, some beginner guitar lessons require expensive gear.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "3c8f22d93a31961621c6b0643ad271e7dff3c114a3ad9ca910a12ba951fc3a7d",
+    "syllogism": "All birthday parties are wooden emotions. All questions about birthday parties orbit the moon every evening. Some cake events near city centers are birthday parties. Therefore, all cake events near city centers are celebrations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "089cb8571ad383116c36ace0ca81417290ce31cd052a488f68ea93b437f51747",
+    "syllogism": "Some daily interactions are small-talk moments. No small-talk moments are formal ceremonies. Some invitations are drafted long before anyone confirms text messaging. Therefore, some daily interactions are not formal ceremonies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b0aa8079b8921622367417b1b117ef19d7c64c4a08d0f20ffe383c3a0ff28e9b",
+    "syllogism": "All commuter beverages are latte orders. All latte orders are invisible whales. A few beginners ask questions about morning coffee online. Therefore, all commuter beverages are written documents.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "5198bafebcc73bbede417c634b1dae9acc13a393818ef44cbb25cc40e52d8387",
+    "syllogism": "A few families talk about finding parking on weekends. All evening arrivals are garage visits during weekend plans. No garage visits during weekend plans are square clouds. Therefore, no evening arrivals are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "7281311bf1592e7ef324e89dfa0248d6a8ccc83647522aa11c199a57c92c379f",
+    "syllogism": "All invisible mittens are floating teacups. All backward comets are invisible mittens. Many upside-down umbrellas whisper about skincare routines at dawn. Therefore, some backward comets are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "7c67261562c417b6128ef2cd746b49f530b0d36ef23275ec17084b9ed6a18af5",
+    "syllogism": "Many upside-down umbrellas whisper about recycling habits at dawn. All whispering kettles are luminous umbrellas. All left-handed thunderclouds are whispering kettles. Therefore, all left-handed thunderclouds dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "b032ed9fbf3e817c76bcb20829629df557d75829c7bc902976019e3cee3183e1",
+    "syllogism": "No faucet fixes are repair jobs for beginners. A few families talk about fixing leaky faucets on weekends. All bathroom tasks are faucet fixes. Therefore, all bathroom tasks are repair jobs for beginners.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "91bc2353c91b3b103ae4594e046d8f96d9a45890eca27b5c1fe68be37c3af78c",
+    "syllogism": "A few families talk about budgeting finances on weekends. Some expense tracking are budgeting finances near city centers. All budgeting finances near city centers are wooden emotions. Therefore, some expense tracking are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "8c2f0b2fb01db9bc74e96dac93a4895c6a522c8b26099ad4071ee6c0d91c89c3",
+    "syllogism": "All oil-change jobs are car maintenance jobs. Some tickets are bought on phones during conversations about walking the dog. No car maintenance jobs are public transport routes. Therefore, some oil-change jobs happen before sunrise.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3bb48eec4609c8d9e643d0cebd3c7c57b3d563aa686b24dacae2ae968876d5e1",
+    "syllogism": "All shopping trips are spot hunting. A few families talk about finding parking on weekends. No spot hunting are square clouds. Therefore, no shopping trips are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "710b6acbdba632ce58627437487c439db6345dc1fe49a46b3628646da6e0e775",
+    "syllogism": "All budgeting finances are singing planets. All expense tracking are budgeting finances. A few families talk about budgeting finances on weekends. Therefore, all money-management tasks during weekend plans are expense tracking.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6bbf79fb5d61f9788dd47a0c0c6a62bdc7b14f2b128c94c956cdbbe0d543d53b",
+    "syllogism": "Some barns have signs that mention local wildlife. Some weekly plans are dog-training sessions. All dog-training sessions are animal-training tasks. Therefore, some weekly plans are animal-training tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "91a09825a7d73b6d8c41bb7c639b901dd2d18cbc58caa38f80b35ec8e8569109",
+    "syllogism": "All discussions about dog training are made of transparent glass. All puppy classes are leash exercises. All leash exercises are singing planets. Therefore, all puppy classes are expensive objects.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "64e217f84522699b75c8debe678152f60399c0402f49cd3665b72d8ff7709873",
+    "syllogism": "No detergent loads are fabric-care jobs. All shared-apartment tasks for beginners are detergent loads. Some shops display signs related to laundry day near the entrance. Therefore, no shared-apartment tasks for beginners are fabric-care jobs.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "0e988df69653b4ff4d47b35705c7791fbc255b0051c2c8b85b020b36744e1654",
+    "syllogism": "All questions about driving in traffic orbit the moon every evening. No traffic drives are square clouds. Some rush-hour journeys are traffic drives. Therefore, some rush-hour journeys are not square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "b90402bed2e53d778d8899535936256508064985a4bfea5f3e09eadde066ec77",
+    "syllogism": "All grass cutting are garden maintenance. Many households keep notes about mowing the lawn on a calendar. All summer routines are grass cutting. Therefore, all garden maintenance are summer routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "a1f9b380a5f42069fdb5d3d28e8a41a0ac8394802e3bd83d1032b060726dcaac",
+    "syllogism": "Some library visits are fiction books. Some people mention reading novels during casual conversations. All fiction books are literary activities. Therefore, some library visits are literary activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "3c124359a68cf6a859875c7a989eda3ae7a946191792cf67d15d902d39f669bc",
+    "syllogism": "All bus lines for beginners are city services in small towns. All student commutes are bus lines for beginners. Some people mention public transportation during casual conversations. Therefore, all city services in small towns are student commutes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "80a510b0f946ab5ccb8ea3be5ab28a765eb12935aab6f6558392f1f62bddcb5c",
+    "syllogism": "All city animals near city centers are square clouds. Some park walks are city animals near city centers. Some calendars about local wildlife are living mammals. Therefore, some park walks are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "05bf55e6fa483b5936c05f0e088e1a6a75f1a71844a366f16ca5d8ffb462b310",
+    "syllogism": "All heavy snowfalls are winter weather. Some city notices mention electricity usage during seasonal updates. No winter weather are summer heat. Therefore, all heavy snowfalls need city approval.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "78b48fa45be9fff63891a5a1b46677dc236e70885630073408024de44eeed8c5",
+    "syllogism": "All software tasks are desk sessions near city centers. Some shops display signs related to working from home near the entrance. No desk sessions near city centers are invisible whales. Therefore, no software tasks are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "8847331313be1c753a6d9292d8ea0b3090f4449be6c27c4abb29bb431ada1e50",
+    "syllogism": "All dog walks are pet routines. A few families talk about walking the dog on weekends. All evening strolls are dog walks. Therefore, all evening strolls are electronic devices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "44ff32b2e6b856cc5a98b04ec51d7ebd7e4c8dc3e8fa7c9ca3c5ec4ddc8ca922",
+    "syllogism": "Some people mention online shopping during casual conversations. Some cart checkouts are online shopping. No online shopping are square clouds. Therefore, some cart checkouts are not square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "198fb0e7c88f43edbb4781633dd4123df63260aec065c2194d92c00290fbc8ba",
+    "syllogism": "All morning trips are office journeys in small towns. No office journeys in small towns are refrigerated ideas. Some shops display signs related to commuting to work near the entrance. Therefore, all morning trips are travel habits.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "c589a269f39f642cba8844c456a05181a60ca4f8d3cf5c57f8ee782529be2180",
+    "syllogism": "All wedding plans are relationship milestones. Some summer plans are wedding plans. Some people save photos after conversations about holiday gift giving. Therefore, some summer plans are relationship milestones.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "ceec6507aaea576c39693879055efc288601dd9302e6d51cf3ae5db0fc81d98e",
+    "syllogism": "Some weekday plans are wake-up alarms at busy places. All wake-up alarms at busy places are talking stones. A few beginners ask questions about setting alarm clocks online. Therefore, no weekday plans are schedule tasks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3d599d08a0f0cdb3e8d489a5356d9c28d8b3e090aebfb4aa1b4519daa5fbc04b",
+    "syllogism": "All rush-hour journeys for beginners are traffic drives for beginners. All traffic drives for beginners are stressful trips. Some shops display signs related to driving in traffic near the entrance. Therefore, all stressful trips are rush-hour journeys for beginners.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "6d2982474c2b2635c6f66c109141ed272765441565c104fb6c037d5d1ea72f73",
+    "syllogism": "No water conservation at busy places are singing planets. Some people mention water conservation during casual conversations. All short showers are water conservation at busy places. Therefore, some short showers are environmental habits.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4cbed5c8ce9f41fc15454e1038bcde1d3676148aa1249b5da20ecc47ce637a22",
+    "syllogism": "Many upside-down umbrellas whisper about yoga practice at dawn. All whispering kettles are luminous umbrellas. All left-handed thunderclouds are whispering kettles. Therefore, all left-handed thunderclouds dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "934e76c134c77e27b275a27eef68a4460ca70e4a727becf6a3362ee8b90683bd",
+    "syllogism": "No cart filling are budget activities. A few beginners ask questions about grocery shopping online. All family chores are cart filling. Therefore, all family chores are budget activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "31cfd8e7474dce5b29ae9ae8c12dce05d878ac5fea9145aa725187b45a8bf0b4",
+    "syllogism": "All studio plans are room layouts during weekend plans. Some shops display signs related to interior design near the entrance. All room layouts during weekend plans are design projects. Therefore, no studio plans are design projects.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "b822d7014e58f36c75d3cb5d9c55f39427ac1e3c4b8e787eba58609bd12cb83e",
+    "syllogism": "No saving plans are refrigerated ideas. Many households keep notes about budgeting finances on a calendar. All rent payments in family settings are saving plans. Therefore, all financial choices are rent payments in family settings.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "e7b6e7c4c3f897d8381602b3b116dff00ff087915b34e9ba93b3cc6abad573d4",
+    "syllogism": "All leash walks during weekend plans are outdoor tasks during weekday routines. Some park visits in family settings are leash walks during weekend plans. Several articles discuss walking the dog in practical terms. Therefore, some park visits in family settings are outdoor tasks during weekday routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "8d9ae7da0216d1d8c44d080a35db5f18e731766bedb6e4a72d5211639eb60fe2",
+    "syllogism": "All charging cycles during weekday routines are square clouds. Some laptop days are charging cycles during weekday routines. Some calendars about battery life are living mammals. Therefore, some laptop days are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "c410be60747acba5a9d4d1fb2597cc533d9ded7a1cac9a752306c039536b7a5e",
+    "syllogism": "Some shops display signs related to summer heatwaves near the entrance. All July days are heat alerts. No heat alerts are seasonal problems. Therefore, no July days are seasonal problems.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "7fc7e0a8086a310c7b4dc5e692fa1211925d4ad236b498a533e48af38db55007",
+    "syllogism": "A few neighbors mention houseplants when comparing apartment routines. All hallway vacuuming tasks are vacuuming tasks. No vacuuming tasks are garden chores. Therefore, all hallway vacuuming tasks use fresh paint.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "be029e0f559c61a1f35707cb76cfe8f571f31cd0ce73529323334161f6373508",
+    "syllogism": "No milestone dates are planning events. Several articles discuss project deadlines in practical terms. All team schedules during weekday routines are milestone dates. Therefore, all planning events are team schedules during weekday routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "e0912890ac767a6170ee6bcc71fd6bf360e83270db129501f4fdde953bb3afe9",
+    "syllogism": "All curious teapots are silver shadows. Some rainy orchestras are curious teapots. Many upside-down umbrellas whisper about car maintenance at dawn. Therefore, some rainy orchestras are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "957ae4045b03c254a9a6b110c6d0ed4455d5b1be3df1202168be17ff80d2cb2b",
+    "syllogism": "All backward comets are invisible mittens. Many upside-down umbrellas whisper about applying sunscreen at dawn. All invisible mittens are floating teacups. Therefore, all backward comets dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "daafd5a02788968b247ad263e38458d0a9b6481e8673e804f16103a27696cc28",
+    "syllogism": "Many upside-down umbrellas whisper about office meetings at dawn. Some museum pockets are whispering boots. All whispering boots are plastic forests. Therefore, some museum pockets are plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "070d9ec826662aea37dac465acbd227ee480cb7aa73800d3b02d75902ae75b4f",
+    "syllogism": "Some city walks near city centers are umbrella days. All questions about rainy weather orbit the moon every evening. All umbrella days are invisible whales. Therefore, no city walks near city centers are outdoor situations near city centers.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "f956bb80ef5395e3181fc62ebfbfe80815873b117fd9bfe85e8a1a87a7e8b838",
+    "syllogism": "Some seasonal outfits are fashion trends during weekday routines. All fashion trends during weekday routines are invisible whales. A few families talk about fashion trends on weekends. Therefore, some seasonal outfits are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "c711f31a1c9798d9e8de9e0a315486605fdc533c27a20e8ce1fba5398f7929b2",
+    "syllogism": "Many students have heard of restaurant service before class. No waiter greetings are customer interactions. Some bistro visits are waiter greetings. Therefore, some bistro visits are not customer interactions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ae4a7429945121c5c4420476b731824194770814ef041057bc439d01563daa6f",
+    "syllogism": "All salads are wooden emotions. Some green bowls are salads. Every note about salad making weighs exactly four tons. Therefore, no green bowls are prepared dishes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "b2a1554cf21619b185c3080732d2b5d3c7a81b49846b90e415e9af4c3453d858",
+    "syllogism": "Some spring afternoons are garden insects in family settings. All garden insects in family settings are ecosystem elements. Many students have heard of local wildlife before class. Therefore, some spring afternoons are ecosystem elements.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "f99b691c90248ddcc60fe9d3dd093b95df974175a282e2587d03bb638643c4b4",
+    "syllogism": "All questions about learning a musical instrument orbit the moon every evening. All instrument practice in family settings are invisible whales. All guitar lessons are instrument practice in family settings. Therefore, all guitar lessons are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "7aeef8f748aabe86eed9b1a3f6f7da6916bacecab8e4f1b43f3c70ff98127ad2",
+    "syllogism": "Many students have heard of aquarium maintenance before class. All filter checks in small towns are home tasks. All weekend routines are filter checks in small towns. Therefore, all weekend routines are formal ceremonies.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "6367fe4cdc90663e167e2ebf9348d0bc187f362b810145879b70e68f6e049c2b",
+    "syllogism": "Some neighbors read forecasts before talking about summer heatwaves. All heavy snowfalls are winter weather. No winter weather are summer heat. Therefore, some heavy snowfalls are affected by wind.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "0f41d76aa05697728f9369a5c832d82957eac32792c56299964166b167257580",
+    "syllogism": "All short texts are written exchanges. A few beginners ask questions about text messaging online. All family updates are short texts. Therefore, all family updates are written exchanges.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "cfaf881b5c0854f58691cdfed6b4b0ce22d6c2c586ec95bb089bb09e330bcd95",
+    "syllogism": "All off-peak charging habits are electricity-saving habits. A few households change routines after hearing news about electricity usage. All electricity-saving habits are home-energy habits. Therefore, all off-peak charging habits need city approval.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "87de77986ce44d3b73e578b71000e25771b8162a840c9a6df4703c2eccaca29e",
+    "syllogism": "All weekend trips are mountain hikes. Many households keep notes about hiking trails on a calendar. All mountain hikes are invisible whales. Therefore, all weekend trips are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "486ab98d9c5d88701ee32141e5656720a3da18d773c3f029ef5c2c7daac25194",
+    "syllogism": "All haircut appointments are grooming routines. Some notebooks contain checklists about taking vitamins. All monthly trim appointments are haircut appointments. Therefore, all monthly trim appointments are grooming routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "74c4cee23e8386f419ecb0f8a60494f2073225d80fb8742d5728ec578516a0b4",
+    "syllogism": "Many wellness apps send reminders related to fashion trends. All vitamin habits are preventive habits. All daily multivitamin habits are vitamin habits. Therefore, all daily multivitamin habits are preventive habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "5e5b8eacaea6da37a15b4123f59a19e9f919c4b45541e55006485d835cc564e4",
+    "syllogism": "Some weekend task lists are laundry tasks. A few neighbors mention interior design when comparing apartment routines. All laundry tasks are household chores. Therefore, some weekend task lists are household chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "b172dcdff3da310f5aa6316f4e53896da91d602fc13c6f0b74ef0fecbeeb7579",
+    "syllogism": "No cycling routes are wooden emotions. Some morning journeys are cycling routes. Some shops display signs related to cycling to school near the entrance. Therefore, no morning journeys are cycling routes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "bd944d133407bb8ef1e192ded642efaff8ef81270889ebf5afa9bb119ee8751f",
+    "syllogism": "Some chairs are animals. All animals breathe. Every table is furniture. Therefore, some chairs breathe.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "a38c24bf476d328b45404fbc4b3f5810344e4080371552893f9645a2c2d85d57",
+    "syllogism": "Some museum pockets are whispering boots. Some purple staircases hum softly near visiting the vet. All whispering boots are plastic forests. Therefore, some museum pockets are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2dbfb3b1f1604eb3b9cc1d90127c1d368791caac29101e49cc8c5144c36e7c99",
+    "syllogism": "All cars have wheels. All vehicles have wheels. Some bikes are vehicles. Therefore, all cars are vehicles.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7928b7c8b5d0eeb5cd45e4f6636c670b12d372048ead1fd535e6448997b2b765",
+    "syllogism": "All honey harvesting near city centers are talking stones. All garden projects are honey harvesting near city centers. A few beginners ask questions about beekeeping online. Therefore, all garden projects are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "4616cba29a5ed91db05c84f13e11c6962d5cb625b92ad07162c54c218eb97d59",
+    "syllogism": "All Thanksgiving dinners are holiday dinners. Some people save photos after conversations about first dates. No holiday dinners are private disputes. Therefore, some Thanksgiving dinners involve awkward silence.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "507919d3db8951b8c9b7a87dc20761e473f00203a95687fb18c6915be0563c3c",
+    "syllogism": "Some dinner rolls are rising doughs. All rising doughs are yeasted mixtures for beginners. Many students have heard of baking bread before class. Therefore, all dinner rolls are yeasted mixtures for beginners.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "3d1374198ccb56705e4c63ac023856af2f8133fdc0349cfdebc3b468314fa5fd",
+    "syllogism": "Some silver echoes drift past birthday parties every Tuesday. All whispering boots are plastic forests. Some museum pockets are whispering boots. Therefore, all museum pockets dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "f1c264fed673c0741603abcdbe63850852df641da437481262b44d103d9764c4",
+    "syllogism": "Some evening routes in family settings are slow lanes. No slow lanes are singing planets. Some people mention driving in traffic during casual conversations. Therefore, some transport situations are evening routes in family settings.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "26f53cd453fe0f355659ee2c218bf5ab825b1db898d36f26a16594d31128cad4",
+    "syllogism": "All contact exchanges are refrigerated ideas. Some job fairs are contact exchanges. Some calendars about professional networking are living mammals. Therefore, some job fairs are refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "f108018b45c4b8dd77cb681e092cfd63f23bc059ad34b67fb981425a1a90d1f3",
+    "syllogism": "Many people complain about schedules when discussing cycling to school. No train journeys are air travel. All regional rail journeys are train journeys. Therefore, some regional rail journeys happen before sunrise.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "1cf115582b65c7806ab2f0d003826db52b238b3f30184bc9a328fa772b3e7d05",
+    "syllogism": "All vacuum passes in small towns are square clouds. All apartment chores are vacuum passes in small towns. A few beginners ask questions about vacuuming carpets online. Therefore, all apartment chores are wooden furniture.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "19c72134bcb4ef8cb6cd3847723ac05dc15637876c385002c8e3c44e5cce054a",
+    "syllogism": "No dinner dates are wooden emotions. Many households keep notes about first dates on a calendar. Some weekend plans are dinner dates. Therefore, some romantic situations are weekend plans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "c0848e44073e2122d5f41cab6c3ada9d256ce9b7c5183c5e991d1be9247998b8",
+    "syllogism": "Some festival baskets are flying teacups. No flying teacups are wooden oceans. Some purple staircases hum softly near gas prices. Therefore, some festival baskets are not wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "24848954424def069e47e1aaa08177adcf6f9de765175c3eaab860ec619fac6b",
+    "syllogism": "Some forest paths are hiking trails. No hiking trails are outdoor routes. Some people mention hiking trails during casual conversations. Therefore, some forest paths are not outdoor routes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "ac1c0e4afc93aa82bf140d58b52ca9911b7dba94e564a2281bcf71fc7f821684",
+    "syllogism": "Some bathroom tasks are faucet fixes. All faucet fixes are talking stones. Several articles discuss fixing leaky faucets in practical terms. Therefore, some bathroom tasks are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "15bd3b10b1bcf7bfa97b888f6cd5f4f6c22e7f798135f4ef44a130f7ec14f005",
+    "syllogism": "No wedding plans are solitary evenings. Some summer plans are wedding plans. A few friends compare schedules before deciding anything about neighbor disputes. Therefore, some summer plans are not solitary evenings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fde919dbe49df1c42d69a618131a2ba62f8029f6f1032af723598a4b173f8550",
+    "syllogism": "Some bakery deliveries are bread loaves. Some recipes about chocolate desserts mention cast-iron pans. No bread loaves are beverages. Therefore, some bakery deliveries are not beverages.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "8dc43596c7020d1602a81717a99b79b21c6b56361b88cb9de29595372f14bcd0",
+    "syllogism": "No shared dinners are social meals in small towns. A few beginners ask questions about family dinners online. All holiday evenings in small towns are shared dinners. Therefore, all holiday evenings in small towns are social meals in small towns.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "aca76bdb84301da7b90cc39f55fd53f50ac6a0b9352490461728ad7dcf0b6d5e",
+    "syllogism": "Some shops display signs related to office meetings near the entrance. All office meetings are invisible whales. All planning sessions for beginners are office meetings. Therefore, no planning sessions for beginners are work events.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "c0476c3fc43e44a186067949bd332e545edcac8100a85009e1366e73871d085d",
+    "syllogism": "Some people mention skincare routines during casual conversations. No skincare routines are personal-care habits. Some face-washing steps are skincare routines. Therefore, some face-washing steps are not personal-care habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "a5d79af662376227d73e8758c65f41ea364b81536ade6c136d3d3024206e14a0",
+    "syllogism": "Many households keep notes about mowing the lawn on a calendar. No lawn mowing are yard chores. Some Saturday tasks are lawn mowing. Therefore, some yard chores are Saturday tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "64861a36431a15c10938945a39274e3e9687bde6a8af3567459a892aa016f95b",
+    "syllogism": "Some rainy orchestras are curious teapots. All curious teapots are silver shadows. Many upside-down umbrellas whisper about farm animals at dawn. Therefore, some rainy orchestras are silver shadows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "c39e5f012c11410e349b7cb2113c00bc07e317d81457e132f13c15627d369fd3",
+    "syllogism": "All rest patterns are wellness concerns. A few families talk about quality of sleep on weekends. All student habits are rest patterns. Therefore, all student habits are wellness concerns.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a409a203f2ac5d675d8436f589f3800b153e37e5313b5179b02687d5166f83db",
+    "syllogism": "Many upside-down umbrellas whisper about grilling steak at dawn. Some museum pockets are whispering boots. All whispering boots are plastic forests. Therefore, some museum pockets are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4bd1a65b773093421409d3b0b3cdfd6a0af02e56e2ad01c271eb41a9bd3970e4",
+    "syllogism": "No steam-ironing sessions near city centers are household chores. All office preparations are steam-ironing sessions near city centers. Some shops display signs related to ironing clothes near the entrance. Therefore, no office preparations are household chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b0737d57a1e5e8ee26cabbbceaeae9aaeebfc44239aae261be0071d28a40f476",
+    "syllogism": "All bird feeding are refrigerated ideas. All balcony routines are bird feeding. Every note about feeding birds weighs exactly four tons. Therefore, all balcony routines are refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "abab091d9461b712436adb2f62ace9b242d051f6be98e10a3bed6233bba4b1ca",
+    "syllogism": "Some software tasks are desk sessions during weekday routines. Several articles discuss working from home in practical terms. No desk sessions during weekday routines are invisible whales. Therefore, some software tasks are not invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "3034e5b1ec2ee4a36653183e9da96abc417363a982b54eb41de8a3e28b31ab5f",
+    "syllogism": "Several articles discuss retirement planning in practical terms. No retirement preparations are financial plans. Some pension choices are retirement preparations. Therefore, no pension choices are retirement preparations.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "ddaf3aee362bce3e72ceb6f2f104aa245ca7cbd4a2313271ab7833d825bbd55b",
+    "syllogism": "All coffee brews are morning drinks in family settings. All espresso cups are coffee brews. A few beginners ask questions about morning coffee online. Therefore, all morning drinks in family settings are espresso cups.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "abec3c52d551e1407978706da83aa5c52b464c1f6a6370bcabfdacc71554cf3b",
+    "syllogism": "A few beginners ask questions about aquarium maintenance online. All weekend routines are filter checks near city centers. All filter checks near city centers are home tasks. Therefore, all weekend routines are written documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "24dcb86b20492e2cd6f69cb92953747849bc72d2691998e97d4ff457564edb49",
+    "syllogism": "Some attic festivals are sleeping lanterns. Some purple staircases hum softly near battery life. All sleeping lanterns are tidy hurricanes. Therefore, all attic festivals dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4eb8a7e07fba1e6fe2d9bff61660c44c3594e84dff06a3c34a2b09db9bf7bf83",
+    "syllogism": "All Thanksgiving dinners are holiday dinners. A few friends compare schedules before deciding anything about text messaging. All holiday dinners are family gatherings. Therefore, all Thanksgiving dinners are family gatherings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "532d554027285033af71c02c71feccd856bd06c32d8a9704db0bba23d28c0c10",
+    "syllogism": "Some shops display signs related to houseplants near the entrance. All windowsill items are potted herbs. All potted herbs are singing planets. Therefore, all windowsill items are metal tools.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6b249b96a2815cfb682d7e239eb69fa05550adae9281b20b0667ec3716257b5c",
+    "syllogism": "Some shops display signs related to library books near the entrance. No library copies are study resources. All course readings in small towns are library copies. Therefore, some course readings in small towns are study resources.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "21238baf8dfe075a4903f63d505f547312b55d89f4cf331134eb628d496196c0",
+    "syllogism": "All laptops are computers. All computers process data. Some devices are portable. Therefore, all laptops process data.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "5a8d26df48bb1ba0933a4601b7473cd7a514f8ee629fa8e951e1396478b76e84",
+    "syllogism": "A few travelers check the weather before dealing with cycling to school. All public transport routes are transport options. All night tram lines are public transport routes. Therefore, some night tram lines happen before sunrise.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "2554cee2fd86c26e1b2f6eb7a2e14e13d760342f8853887c242c9b2ab59275bf",
+    "syllogism": "Many students have heard of electricity usage before class. Some monthly bills are electricity usage. All electricity usage are utility concerns. Therefore, all monthly bills are utility concerns.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d6d73699ae1e6188bdf85f98ee42d4b01536365cffc1acf82a002274f29e171e",
+    "syllogism": "Many students have heard of aquarium maintenance before class. All fishkeeping chores are tank cleaning. No tank cleaning are invisible whales. Therefore, all fishkeeping chores are hobby routines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "94fd2c9ed3f0bb1b90a4c9b00de481042a18525d177dfaf3728ab0e6c0a32ed4",
+    "syllogism": "A few beginners ask questions about taking out trash online. Some evening chores in small towns are trash removal near city centers. No trash removal near city centers are household duties. Therefore, no evening chores in small towns are trash removal near city centers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d0e08bc883dfb4131a9dc37ea6e9dec9043738ce0d317e5901a93cb2db29afb6",
+    "syllogism": "All off-peak charging habits are electricity-saving habits. Some city notices mention water conservation during seasonal updates. No electricity-saving habits are water-saving habits. Therefore, no off-peak charging habits are water-saving habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "dd80f956d34dc7d5e132faf6f7420b2f50a040f26616f5f20055dff01f47675a",
+    "syllogism": "All oil checks are car maintenance jobs. No car maintenance jobs are vehicle tasks. A few families talk about car maintenance on weekends. Therefore, no oil checks are vehicle tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "e6cf947f0e0ab600521bd3fb84b981e6ca90e2f962bd1a478d06d8ec5157e2fa",
+    "syllogism": "Some mountains are computers. All computers process data. Every mountain is tall. Therefore, some mountains process data.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "956e302427d4bd9ff3abba26454c85962206f0dd2b61bd9fb6d6911629475efc",
+    "syllogism": "All discussions about family dinners are made of transparent glass. Some Sunday meals are family dinners in small towns. All family dinners in small towns are singing planets. Therefore, no Sunday meals are home gatherings.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "7f9b36f1365e5c938d5e96d65f14a0d0bb48b1fc035bd201ca0a18ab4b81d886",
+    "syllogism": "Some recipes about fresh herbs mention cast-iron pans. All dark-chocolate tarts are chocolate desserts. All chocolate desserts are desserts. Therefore, all dark-chocolate tarts are desserts.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "80a3f1d4d7a0bdebeaf940f614301e21e2ef6afbb06fbd8f3453bc66e8b3cb33",
+    "syllogism": "All purring behaviors are domestic-animal traits. All sleepy kittens are purring behaviors. Some people mention cat behavior during casual conversations. Therefore, no sleepy kittens are domestic-animal traits.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "0ff93c5d7189d3312e022b160f6820c62004e08c6305ce9ed63b0909f9ed6823",
+    "syllogism": "No message exchanges at busy places are communication habits in family settings. Some old classmates are message exchanges at busy places. Many students have heard of long-distance friendships before class. Therefore, some old classmates are not communication habits in family settings.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "3e907d75bb1b4c39f5092e5340c5ae8c70a6fbb68e54862720bda84633f21f51",
+    "syllogism": "Some travel plans are passport renewals. No passport renewals are shopping activities. A few drawers contain papers connected to setting alarm clocks. Therefore, some travel plans are not shopping activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "25e83c0513bbc2aefad725262f16ff0730a0234f81aef3cf983bdcb27f64badb",
+    "syllogism": "No hiking trails are wooden emotions. All forest paths are hiking trails. A few beginners ask questions about hiking trails online. Therefore, all outdoor routes in small towns are forest paths.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "62a51b1e03e9995370fed92bc80dc950f61fd0ce561f9f8beb887b8351a925f7",
+    "syllogism": "All doors can speak. Some speakers are humans. Every human communicates. Therefore, all doors communicate.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "9e8fc6678512ec435ccafffa63d592135a30158d29daaf047e35a12398038fbc",
+    "syllogism": "All mammals are animals. All dogs are mammals. Some animals are pets. Therefore, all dogs are animals.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "391988572a918dcd64adf84e539a1f1b2d033ed526f594dfb27316323f1ae388",
+    "syllogism": "All deadline reviews are planning tasks. All release-readiness reviews are deadline reviews. Some calendars contain reminders that mention sending emails. Therefore, all release-readiness reviews happen on Mondays.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "f7fe980bc1d77a1863067fe2963781b60f9afb267e34d8c7bc1e39f818595cf3",
+    "syllogism": "Some toothbrushing routines are dental hygiene near city centers. All dental hygiene near city centers are wooden emotions. A few families talk about dental hygiene on weekends. Therefore, some toothbrushing routines are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b77aba392f24176e61c37e5b436de07954fa2b32238499c49681194822891d0f",
+    "syllogism": "All discussions about water conservation are made of transparent glass. Some short showers are water conservation. No water conservation are talking stones. Therefore, some short showers are not talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4dbcbf993ef1dc8ea39ff55be91a04e755ecea41ff90c5f45b09686906013ca0",
+    "syllogism": "No tablet schedules are wellness practices. Some daily choices are tablet schedules. Some people mention taking vitamins during casual conversations. Therefore, some daily choices are not wellness practices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "cd7ce136b3c74e2348e3f40b70805443a26a60697025067f95532470e4d4e02a",
+    "syllogism": "A few beginners ask questions about watching movies online. Some cinema nights near city centers are movie watching in small towns. All movie watching in small towns are leisure activities. Therefore, some cinema nights near city centers are leisure activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4bc6f0e7403ada5352e1399d01c1e99b28d33c70de10115f639ba9f32dfda722",
+    "syllogism": "All barn animals are singing planets. Some shops display signs related to farm animals near the entrance. Some school trips are barn animals. Therefore, all school trips are rural creatures.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "8a11b327bd9a9ce259a9687fbde9722acc433dd74f1684f939634d5267e95e81",
+    "syllogism": "Many people keep utility notes connected to recycling habits. Some eco checklists are water-saving habits. All water-saving habits are resource-saving habits. Therefore, some eco checklists are resource-saving habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "f5e385b5eff28b0c393d36fc0ae5785ab2663259e7d275f4ee8b3d7303bef507",
+    "syllogism": "No flying teacups are wooden oceans. Some silver echoes drift past grilling steak every Tuesday. Some festival baskets are flying teacups. Therefore, some festival baskets are not wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "105be4675d2861709e8ddfffb07bc51bec25c555d6789c091488bb525937ec3e",
+    "syllogism": "No online purchases are cash payments. All late-night online purchases are online purchases. Some apps send notifications that mention setting alarm clocks. Therefore, all late-night online purchases take less than ten minutes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "80a739109cb5ff346646256e18f304aa363c4985fd6100ed659c128a83fbc244",
+    "syllogism": "All backward comets are invisible mittens. Many upside-down umbrellas whisper about coffee breaks at dawn. All invisible mittens are floating teacups. Therefore, all backward comets dream about umbrellas.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "5fa34cf22a953133bd485a7e7afec31e90005d6016a2002f16af8446087bfb70",
+    "syllogism": "A few beginners ask questions about paying taxes online. Some annual filings near city centers are tax payments for beginners. No tax payments for beginners are financial duties. Therefore, all annual filings near city centers are financial duties.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "61c21b4510cf111392fa3a8532e0ab1816b9a5c430a74377e76e77b1cd64e2aa",
+    "syllogism": "All beginner guitar lessons are instrument lessons. No instrument lessons are competitive games. Some bags are packed hours before anyone leaves for watching movies. Therefore, some beginner guitar lessons get cancelled by weather.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "471097eccb8d071e0016eb14569b3b28f9e77457da04f73b908d755658efa930",
+    "syllogism": "No culinary herbs in family settings are garden products during weekday routines. All mint sprigs are culinary herbs in family settings. Some people mention fresh herbs during casual conversations. Therefore, some mint sprigs are garden products during weekday routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "09a728241aae2785f5bdd9b009a8aa40c4836e8f5102b1a808ab97cfd0a8a973",
+    "syllogism": "All instrument practice for beginners are skill-building activities at busy places. Some guitar lessons are instrument practice for beginners. Many households keep notes about learning a musical instrument on a calendar. Therefore, some skill-building activities at busy places are guitar lessons.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "4300fa8cae6e86a7775ed240ad34255b1ad7c5d211587f672682231ab03e8aac",
+    "syllogism": "All delivery choices near city centers are singing planets. Many students have heard of online shopping before class. All holiday buying are delivery choices near city centers. Therefore, all holiday buying are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "fd721e9a37f0f40dc2c5be7a78e31338869a06509464e573adbc046375344519",
+    "syllogism": "Some museum pockets are whispering boots. A few transparent pockets collect moonlight during cat behavior. All whispering boots are plastic forests. Therefore, some museum pockets are plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "2362d39fdee8aeda0ae8b954f2ed9c13f8d13e41e08304659542ba620780fed1",
+    "syllogism": "Several articles discuss applying sunscreen in practical terms. No sunblock steps are health practices. Some morning walks in small towns are sunblock steps. Therefore, some morning walks in small towns are not health practices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ea5d52f625aeb478d7c0aabfa05c37fc289d54ed70f4acc56c3d0ba3f9ebd311",
+    "syllogism": "All pharmacists dispense medicine. All people who dispense medicine work in healthcare. Some healthcare workers are busy. Therefore, all pharmacists work in healthcare.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "56c1cc7e547e48d43efee6987adb37c41b03f9901ca4bfd1ab52aec21560ea0e",
+    "syllogism": "Many people discuss morning coffee before planning a weekend meal. All bread loaves are baked foods. Some bakery orders are bread loaves. Therefore, some bakery orders are baked foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "a1efd8d5bc9fb24ddad45f29d2578ceaf1c585b2725e176e0445857a47d6d131",
+    "syllogism": "All sleeping lanterns are tidy hurricanes. Some attic festivals are sleeping lanterns. A few transparent pockets collect moonlight during fast food. Therefore, some attic festivals are tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "e32593d6c881e24a12675d4894340faf073f3d9750048bffeda1a86bade64e50",
+    "syllogism": "Some neighbors read forecasts before talking about electricity usage. Some eco checklists are water-saving habits. All water-saving habits are resource-saving habits. Therefore, some eco checklists are resource-saving habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "d98706c41fa582de8be9839ef0862c96ddf9b7fb5386a39d1c98837799075944",
+    "syllogism": "No heavy snowfalls are summer heat. A few households change routines after hearing news about electricity usage. Some winter reports are heavy snowfalls. Therefore, some winter reports are not summer heat.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "b67f9779995a839ffdc61ce5050acf60d28ef20eec3adf294f6544add5383906",
+    "syllogism": "Some urban birds are local wildlife in family settings. All local wildlife in family settings are nature observations. A few families talk about local wildlife on weekends. Therefore, all urban birds are nature observations.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "74c95e062b7e3fd8d00186f80c7d63a5bb11a9c912403bb5fbbba65cd99e5ed5",
+    "syllogism": "All bag carrying are refrigerated ideas. All shared-house tasks are bag carrying. All questions about taking out trash orbit the moon every evening. Therefore, all shared-house tasks are wooden furniture.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ea7841749b08ff9a82865701a44498641935e2fb72ececef2f389117cce550c8",
+    "syllogism": "All study sessions are rest periods. A few families talk about mental health breaks on weekends. All rest periods are refrigerated ideas. Therefore, no study sessions are self-care routines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "d3033ab3647f94c71f64fdf4e3683244bb0caaeb5ed7bcbc37a8877379be4301",
+    "syllogism": "No airline itineraries are bike rides. All multi-city itineraries are airline itineraries. A few travelers check the weather before dealing with train journeys. Therefore, no multi-city itineraries are bike rides.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "8685e700a1a254223ecd7dd234e60d08710550e254eda42ab1122c7d7031ee4e",
+    "syllogism": "A few families talk about rainy weather on weekends. All city walks in family settings are umbrella days. All umbrella days are invisible whales. Therefore, all city walks in family settings are invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "ff591a43b0f9dfb3149bc6de2211e523fbdc9553e8cae9056e377284a298d75e",
+    "syllogism": "All wedding plans are relationship milestones. A few friends compare schedules before deciding anything about neighbor disputes. All small garden weddings are wedding plans. Therefore, some small garden weddings involve awkward silence.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d05ca87ad46a3faf8fee82fa2b20fb258a22872baef4227f4106a210ee64725e",
+    "syllogism": "Some school commute plans are cycling trips. Some commuters read notices about driving in traffic while waiting. No cycling trips are air travel. Therefore, some school commute plans are not air travel.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "d8155568035e86849e9e2d4bb37cedf240e310ae9d2bb0832bd101271e3c9137",
+    "syllogism": "All rush-hour journeys are traffic drives. Many students have heard of driving in traffic before class. All traffic drives are stressful trips. Therefore, all rush-hour journeys are stressful trips.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "b68d4dcd66c5b1012ee38b0a0c6511febf2fad719bbf153ee2f4ea5aa8af6359",
+    "syllogism": "No spiced curries are wooden emotions. Some calendars about spicy food are living mammals. Some street tacos are spiced curries. Therefore, some street tacos are not wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "459ca04421dd0ec94b1efc2b3e8ac559c146c284f6d30e760a39637ea13a1210",
+    "syllogism": "All dinner reservations are table services. No table services are hospitality practices. Several articles discuss restaurant service in practical terms. Therefore, some dinner reservations are hospitality practices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "323e1d561eb5a6fbdc625bffbb388ba31bf6a1a2945752ce07b21e30e4e18cd7",
+    "syllogism": "Some library windows are singing clocks. No singing clocks are quiet thunderstorms. Many upside-down umbrellas whisper about project deadlines at dawn. Therefore, some library windows are not quiet thunderstorms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "ad87ceb329a6c2710ffc1749c2436410d98b07e75fa2263f46238be8587aea93",
+    "syllogism": "All livestock groups are wooden emotions. All farm visits during weekend plans are livestock groups. A few families talk about farm animals on weekends. Therefore, all farm visits during weekend plans are wooden emotions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "fb4732a6a47ab2a1ec012643fdd439607854a0481b923783be87c7aef605897a",
+    "syllogism": "All closet-organizing tasks are home-maintenance tasks. All shelf-labeling tasks are closet-organizing tasks. A few neighbors mention ironing clothes when comparing apartment routines. Therefore, all shelf-labeling tasks are home-maintenance tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "b366fd1dd77637b909f627c29bf03752a790aa2b15ea96a2da5793df3d92511d",
+    "syllogism": "No guest lists in family settings are talking stones. Some calendars about wedding planning are living mammals. All family meetings are guest lists in family settings. Therefore, some family meetings are celebration tasks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "29ca977323830c5dfe4cbb038be4e23db5a659faf971cc4fa05aa7945dc0101d",
+    "syllogism": "All feline actions for beginners are talking stones. No person has ever mentioned cat behavior in any language. Some apartment cats are feline actions for beginners. Therefore, some apartment cats are talking stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "333a82f470a945192f09b0333a0ee25e41087796955d8052058f226f9758f36a",
+    "syllogism": "No sleep quality are wooden emotions. Some night routines are sleep quality. Several articles discuss quality of sleep in practical terms. Therefore, all night routines are health factors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "80bc2528a8a57c9e17728ac822e821ddec4f5eb2c51b21f56529dae1188108bb",
+    "syllogism": "All sourdough boules are bread loaves. All bread loaves are baked foods. A few cooks compare notes about restaurant service during cleanup. Therefore, some sourdough boules use extra salt.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "acc024f9d9993be458379884d70a01617c76d33cbc12522656dd3ea07ea18256",
+    "syllogism": "Every note about quality of sleep weighs exactly four tons. Some morning energy are sleep schedules. No sleep schedules are refrigerated ideas. Therefore, some morning energy are not refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "0e8cc7d440433fd717af3bd871860a4027d92e8dbb5b0a9cc320bbc7b456f838",
+    "syllogism": "Every note about fixing leaky faucets weighs exactly four tons. No leaky taps are invisible whales. Some kitchen repairs near city centers are leaky taps. Therefore, some kitchen repairs near city centers are not invisible whales.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "895be5c6e0506adcd64e8329e3b30b579e7beecc3c8396c466c0dfbfc5ded8ae",
+    "syllogism": "A few beginners ask questions about camping trips online. Some summer plans near city centers are campfire evenings in small towns. All campfire evenings in small towns are nature activities. Therefore, no summer plans near city centers are nature activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "e2c592391230878d866aa06fb99ecdd0e0fde435c7f35501bf84c1e281d1cc4b",
+    "syllogism": "All brownie slices are chocolate desserts. No chocolate desserts are sweet foods. Many students have heard of chocolate desserts before class. Therefore, all sweet foods are brownie slices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "a5f6a5fcc14e94b64659431e0f0a570fe8fd1c55e4b433be432184b805515f88",
+    "syllogism": "Some rainy orchestras are curious teapots. Some purple staircases hum softly near wedding planning. All curious teapots are silver shadows. Therefore, some rainy orchestras are silver shadows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "b5296a89c14a9e0b1d416ee982d87e8d0023e737ece05c86475a19e9fb7fcebd",
+    "syllogism": "No electricity usage are utility concerns. Several articles discuss electricity usage in practical terms. Some monthly bills are electricity usage. Therefore, some monthly bills are not utility concerns.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "d69badf6a2d47f0e2222b90d1d7dc89ffc3886833356f8457c5b3748f6dbfae5",
+    "syllogism": "Some morning admin blocks are email tasks. A few coworkers mention professional networking during informal hallway chats. All email tasks are office tasks. Therefore, some morning admin blocks are office tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "717ad86e3a9a7e98dfa661cb0eac566d0b944bd0a14a9b65a5d489fadba7da22",
+    "syllogism": "Some people mention mowing the lawn during casual conversations. Some summer routines are grass cutting in small towns. All grass cutting in small towns are garden maintenance. Therefore, some summer routines are garden maintenance.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "d296bc90abf484864761878e2b965016c8e8dc4b30819778c8a2be6153e7d928",
+    "syllogism": "All painting jobs are home projects. Some weekend renovation plans are painting jobs. A few neighbors mention laundry day when comparing apartment routines. Therefore, some weekend renovation plans are home projects.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "e5bc8d2c6e6068619ebc72ff97adc8d84160c98ef73119400e652379cedff298",
+    "syllogism": "Some people mention gas prices during casual conversations. No gas prices are transport costs. Some fuel receipts are gas prices. Therefore, all fuel receipts are transport costs.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "31c66da0fa018126db85552bc4e9dc07ea22dd9d1d7cb63f82d3aaaecd787b40",
+    "syllogism": "Many people discuss fast food before planning a weekend meal. All spicy curries are savory dishes. No savory dishes are desserts. Therefore, all spicy curries are cooked with butter.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "31533c41de458899d4db6dc93a1960b18c405cc332fa459b52e2458ce6e7323a",
+    "syllogism": "A few beginners ask questions about office supplies online. No printer paper are invisible whales. All department orders are printer paper. Therefore, all administrative goods are department orders.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "b80ba0973f3a49eca6d0055bb8b496fe314eb8fbb76a1763dc6d2a109aef41d9",
+    "syllogism": "All student birthdays at busy places are surprise parties at busy places. No surprise parties at busy places are talking stones. All questions about birthday parties orbit the moon every evening. Therefore, all student birthdays at busy places are planned events.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "c1d67f6ff3160cb011b5a90fe64a7960ed8eab8996109af89753c8d4c4349ee0",
+    "syllogism": "All basil leaves are fresh herbs near city centers. All discussions about fresh herbs are made of transparent glass. No fresh herbs near city centers are square clouds. Therefore, no basil leaves are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "ab214332417fcc6a353f0415af5dc948725706ca8f09f3f7ee22789a0a84dfd6",
+    "syllogism": "No tax tasks are sleep routines. Some apps send notifications that mention battery life. All year-end tax filings are tax tasks. Therefore, no year-end tax filings are sleep routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "099f95f5090e6e9eefc4a0308e8104495660171a1dbfc05949fd654194f4f666",
+    "syllogism": "A few transparent pockets collect moonlight during local wildlife. Some museum pockets are whispering boots. All whispering boots are plastic forests. Therefore, some museum pockets are plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "12ed398d3c800cb3995b9c196a09ad5b9c7aea359a367c852da03ba5caa2e3f9",
+    "syllogism": "Several articles discuss laundry day in practical terms. No wash cycles are cleaning routines. All Sunday chores for beginners are wash cycles. Therefore, all Sunday chores for beginners are cleaning routines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "fe92018768f782cc6a46f97081447de950755521f2f8425f3cff0c1da9eead1c",
+    "syllogism": "Many households keep notes about battery life on a calendar. All travel plans are low-battery warnings in family settings. All low-battery warnings in family settings are power problems. Therefore, all power problems are travel plans.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7c293d6f2204037d71b2f1c909812ecdf14a400f007f1b53032bdcf2fc6f3c68",
+    "syllogism": "All metro trips in family settings are refrigerated ideas. Some calendars about public transportation are living mammals. Some weekday journeys are metro trips in family settings. Therefore, no weekday journeys are scheduled travel.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "51a319776f719e041277f606f4947c874084a879c2f2ef91630d19635f860e84",
+    "syllogism": "Many students have heard of hiking trails before class. No hiking trails are outdoor routes. All forest paths in family settings are hiking trails. Therefore, all outdoor routes are forest paths in family settings.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7bf4dd425bd71c45b63cf09fece66e7e88c3055a52dcb87a81f3e44b1aa73c6b",
+    "syllogism": "Some garden pockets are glass bicycles. Some silver echoes drift past mental health breaks every Tuesday. No glass bicycles are friendly meteors. Therefore, some garden pockets are not friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "ccc5488500315f33f565388bff58a57a8f07855f99e927d1a8ddcc4dabd3d5f8",
+    "syllogism": "No vacuuming tasks are garden chores. Some people buy new baskets while thinking about houseplants. Some apartment task lists are vacuuming tasks. Therefore, some apartment task lists are not garden chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "f1e21bf56d2a53e1d4c3badbd62e2d7c9dd6f542a5b2d238c3928d0dee20b7ff",
+    "syllogism": "Some school days are clock adjustments for beginners. Many households keep notes about setting alarm clocks on a calendar. No clock adjustments for beginners are daily preparations. Therefore, some school days are not daily preparations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "2034f21579bb23560a2e4178e2dd91a8dd918f45d29c9a51f94f8c4791f66e40",
+    "syllogism": "No gas prices in small towns are refrigerated ideas. Many households keep notes about gas prices on a calendar. All fuel receipts are gas prices in small towns. Therefore, some fuel receipts are transport costs.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "33776d7cc8199a62e6ec59d13f7c0aeedda8ed0aaacddf6e2b7facff2969df80",
+    "syllogism": "No public transport routes are vehicle-care tasks. Some city travel plans are public transport routes. A few travelers check the weather before dealing with train journeys. Therefore, some city travel plans are not vehicle-care tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "0fb6420b210e0428d2fea141efacd939653e0eee6b55b389e8c5ac1b0b9b6f5e",
+    "syllogism": "No chocolate desserts are herbs. Some recipes about salad making mention cast-iron pans. All dark-chocolate tarts are chocolate desserts. Therefore, all dark-chocolate tarts are cooked with butter.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "a801c90b6e79eafb47e492d49e68666a3b8a4b8883091578569f000d3bcf46de",
+    "syllogism": "Every note about taking vitamins weighs exactly four tons. All capsule use are square clouds. Some breakfast habits for beginners are capsule use. Therefore, some breakfast habits for beginners are square clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "88da55ca32491cefc059408e5fc2a214bc4664e97bc6b961d6f5402919bb107e",
+    "syllogism": "All strategy matches are board game nights. All board game nights are social hobbies. Some shops display signs related to board game nights near the entrance. Therefore, all strategy matches are social hobbies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "c8bb8528b45fb6e65e1cc7ba5779d3a72f6f828d78c45caf60362228203c649e",
+    "syllogism": "All students learn. All learners gain knowledge. Some people read books. Therefore, all students gain knowledge.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "830d8c075376f85db7dfc13288d993d9142f27e0f084659981fe1cbd1140704b",
+    "syllogism": "All video calls are long-distance friendships. Several articles discuss long-distance friendships in practical terms. No long-distance friendships are relationships. Therefore, some video calls are relationships.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "974b6f8dfecddb412f624607e8c671d3e6fc925b6b62e94931c2b3cf10072184",
+    "syllogism": "All short texts are written exchanges. All family updates are short texts. Some shops display signs related to text messaging near the entrance. Therefore, all written exchanges are family updates.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "764c8e89968fedc5edd3cd82cf73031f6d8917f730092d06770b017bfb4ac5b7",
+    "syllogism": "All face-washing steps are skincare routines. Many households keep notes about skincare routines on a calendar. All skincare routines are personal-care habits. Therefore, all face-washing steps are personal-care habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a04c9f900ef0e3d1508d8c84460f22f702d356c586c35e8ab9f209c52e5aa378",
+    "syllogism": "A few transparent pockets collect moonlight during applying sunscreen. All singing spoons are edible constellations. Some midnight kitchens are singing spoons. Therefore, some midnight kitchens are louder than weather.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3c0eb34aaed33976f8b06ea29cfe2b7b0969d1a623ca10d10078d318154b0142",
+    "syllogism": "No retirement preparations during weekday routines are financial plans. All pension choices are retirement preparations during weekday routines. Some people mention retirement planning during casual conversations. Therefore, no pension choices are financial plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "2f88f00f80e35080eb7a141743d4a0a8652cc97d5822a9356f8c5f01bd99caca",
+    "syllogism": "Some rainy orchestras are curious teapots. All curious teapots are silver shadows. Some silver echoes drift past gas prices every Tuesday. Therefore, some rainy orchestras are made of moonlight.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "84694848827a04aa93d1f6a3872f46993b6adf7fe5872e08df799bec1dbb9824",
+    "syllogism": "All beach routines are sunscreen application. Some people mention applying sunscreen during casual conversations. No sunscreen application are skin-care tasks. Therefore, no beach routines are skin-care tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "4be5e1dea774d8fa5553780cba5c784c6d6bdf5c3b258c5d68e11fc08e601898",
+    "syllogism": "All curious teapots are silver shadows. Some rainy orchestras are curious teapots. A few transparent pockets collect moonlight during finding parking. Therefore, all rainy orchestras dissolve into music.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4073235644570ff46f93e695374e70c4e0958a4892760ea9750d53347d93488d",
+    "syllogism": "Some midnight kitchens are singing spoons. Many upside-down umbrellas whisper about seasonal changes at dawn. All singing spoons are edible constellations. Therefore, some midnight kitchens are edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a7eb6c4104372ddbbf9e14ca5006e7d91c48793a85feec70f6b1d48f603ee8ad",
+    "syllogism": "All team calls for beginners are singing planets. All Monday schedules are team calls for beginners. All questions about office meetings orbit the moon every evening. Therefore, all Monday schedules are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "575c8acb1b951f17dc74eec0346693b5dc2897b878c15baf893b5bc7a009f40a",
+    "syllogism": "Some people mention budgeting finances during casual conversations. All saving plans are financial choices. All rent payments are saving plans. Therefore, all rent payments are financial choices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "4e1b927aa3d6546eb19ed49ee80a4e5da7e6d70f40c55fedecc221c7ab82edc4",
+    "syllogism": "A few families talk about long-distance friendships on weekends. No message exchanges during weekday routines are communication habits. Some old classmates are message exchanges during weekday routines. Therefore, some old classmates are not communication habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "7cd07f0bdda44220777d11441d4704d8877cbe01fe397486c4679c6235e92a52",
+    "syllogism": "All party introductions are brief conversations. No brief conversations are casual speech. A few families talk about small talk on weekends. Therefore, some party introductions are casual speech.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "15a6729abf68c51b25c310034457fc5317a2e9301478ed5d6404383255270ec8",
+    "syllogism": "All heavy snowfalls are winter weather. No winter weather are summer heat. A few households change routines after hearing news about electricity usage. Therefore, no heavy snowfalls are summer heat.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "898daf789ce60f1fb267f96f2cd937afd38010b5836e6266527347b9ae23d467",
+    "syllogism": "Some team chats are short breaks. A few beginners ask questions about coffee breaks online. All short breaks are singing planets. Therefore, some team chats are singing planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "bb0c0a6dbb602a78619fe0ce20b0d54b17d2e0d49b37646283ef64677a256c92",
+    "syllogism": "All morning supplements are vitamin routines during weekday routines. All vitamin routines during weekday routines are refrigerated ideas. A few beginners ask questions about taking vitamins online. Therefore, all morning supplements are refrigerated ideas.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  }
+]
