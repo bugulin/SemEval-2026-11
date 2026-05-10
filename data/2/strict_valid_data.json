@@ -1,0 +1,2525 @@
+[
+  {
+    "id": "",
+    "syllogism": "All bus passes are commuter documents. Some station maps are transit guides. Some campus bike racks are bicycle facilities. All bicycle facilities are transport infrastructure. Therefore, some campus bike racks are transport infrastructure.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All glass owls are lunar omens. Some bronze rivers are dream waterways. No moonlit jars are ordinary containers. All lunar omens are cloud creatures. Therefore, all glass owls are cloud creatures.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All pantry shelves are storage spaces. Some sourdough starters are fermentation cultures. Some recipe notebooks are kitchen records. All fermentation cultures are kitchen microbes. Therefore, some sourdough starters are kitchen microbes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All mirror gardens are painted echoes. Some violet maps are clock faces. Some clockwork tulips are singing machines. No singing machines are silent forests. Therefore, some clockwork tulips are not silent forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All paper recycling bins are waste-sorting containers. Some kitchen compost pails are odor-control containers. No trash schedules are public holidays. All waste-sorting containers are environmental tools. Therefore, all paper recycling bins are environmental tools.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some silver deserts are mirror calendars. All crystal lanterns are desert whales. Some floating rugs are ceiling animals. No desert whales are wooden storms. Therefore, no crystal lanterns are wooden storms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All reading rooms are quiet study spaces. No audiobook queues are printed books. Some overdue library books are borrowed items. All borrowed items are library records. Therefore, some overdue library books are library records.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet planets are porcelain insects. No amber ladders are frozen songs. All porcelain insects are blue melodies. Some crystal clocks are violet gardens. Therefore, some velvet planets are blue melodies.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some pharmacy receipts are medical papers. All flu vaccination appointments are preventive health visits. Some clinic reminders are appointment notices. No preventive health visits are emergency surgeries. Therefore, no flu vaccination appointments are emergency surgeries.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No floating castles are ordinary buildings. Some painted moons are glass rivers. All silent bells are cloudy instruments. All mirror palaces are floating castles. Therefore, no mirror palaces are ordinary buildings.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All meal-prep boxes are food containers. Some coupon folders are shopping records. Some weekly grocery lists are shopping plans. All shopping plans are household errands. Therefore, some weekly grocery lists are household errands.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some echo mirrors are plastic comets. All invisible notebooks are thunder fossils. All thunder fossils are glass minerals. No singing cabinets are stone birds. Therefore, all invisible notebooks are glass minerals.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some electric train tickets are transit passes. All ticket machines are station devices. Some boarding screens are timetable displays. No transit passes are parking permits. Therefore, some electric train tickets are not parking permits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All balcony herb pots are small gardens. All small gardens are plant displays. Some watering cans are garden tools. No seed trays are kitchen appliances. Therefore, some balcony herb pots are watering-required plants.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All glass owls are lunar omens. All lunar omens are cloud creatures. Some bronze rivers are dream waterways. No moonlit jars are ordinary containers. Therefore, all cloud creatures are glass owls.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some dental checkups are health appointments. All health appointments are calendar events. Some waiting rooms are clinic spaces. No toothbrush packs are appointment cards. Therefore, some dental checkups are waiting-room events.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some molten books are silver birds. All silver birds are velvet planets. Some crystal ladders are cloud animals. No paper oceans are bronze flowers. Therefore, all molten books are velvet planets.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All farmers markets are weekend events. Some weekend events are outdoor gatherings. Some produce stalls are market booths. No grocery receipts are picnic blankets. Therefore, all farmers markets are outdoor gatherings.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some language textbooks are course materials. No classroom posters are online assignments. All language exchange meetings are speaking practice sessions. Some grammar drills are written exercises. Some beginner conversation clubs are language exchange meetings. Therefore, some beginner conversation clubs are speaking practice sessions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some obsidian rabbits are midnight messengers. All glass feathers are silent banners. No violet teacups are desert clocks. Some cloud carpets are silver gardens. No midnight messengers are daylight stones. Therefore, some obsidian rabbits are not daylight stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some power strips are electrical accessories. All electric kettles are kitchen appliances. No grocery bags are cooking utensils. Some countertop timers are kitchen gadgets. All kitchen appliances are household devices. Therefore, all electric kettles are household devices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal doors are feathered mirrors. No amber planets are winter violins. All singing staircases are velvet bridges. Some moon jars are silver insects. No velvet bridges are quiet mountains. Therefore, no singing staircases are quiet mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All lecture halls are campus rooms. Some exam timetables are student notices. No cafeteria menus are enrollment forms. Some student ID cards are campus credentials. All campus credentials are access documents. Therefore, some student ID cards are access documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No glass comets are warm oceans. Some copper ladders are velvet animals. All frozen chandeliers are glass comets. All shadow baskets are paper bells. Some ivory machines are lunar gardens. Therefore, no frozen chandeliers are warm oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some umbrella stands are hallway furniture. Some rain jackets are weather clothing. No winter gloves are summer sandals. All weather clothing are protective garments. Some coat hooks are storage fixtures. Therefore, some rain jackets are protective garments.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No golden mirrors are quiet deserts. Some cloud spoons are violet engines. All purple engines are feathered mirrors. Some thunder shelves are glass rivers. All feathered mirrors are imaginary machines. Therefore, all purple engines are imaginary machines.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All lab safety drills are training exercises. Some microscope labels are laboratory notices. No training exercises are random accidents. Some chemical cabinets are storage units. All emergency posters are safety instructions. Therefore, no lab safety drills are random accidents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some bronze cupboards are dream fossils. All mirror fish are cloudy instruments. No paper ladders are silver insects. Some lunar sandwiches are metal clouds. All metal clouds are impossible foods. Therefore, some lunar sandwiches are impossible foods.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some budget spreadsheets are planning tools. All planning tools are organizational aids. Some bank statements are financial records. No notebook tabs are debit cards. Some calendar reminders are planning tools. Therefore, some budget spreadsheets are anxiety-reduction tools.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All crystal bees are marble planets. Some marble planets are singing deserts. No velvet rivers are ordinary rivers. Some moonlit forks are glass animals. All silent jars are copper forests. Therefore, all crystal bees are singing deserts.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No doctor appointments are leisure outings. All annual checkups are doctor appointments. Some clinic forms are medical documents. All appointment reminders are calendar notices. No waiting rooms are home offices. Therefore, all annual checkups are insurance-card appointments.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some bronze apples are silent clocks. No silent clocks are green shadows. All mirror vines are thunder gardens. Some crystal plates are winged stones. No silver forests are amber insects. Therefore, no bronze apples are green shadows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All hiking permits are outdoor documents. All outdoor documents are trip records. Some trail maps are navigation aids. No camping receipts are passport pages. Some park gates are trail entrances. Therefore, some hiking permits are trailhead-checked documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All crystal elevators are moon animals. No moon animals are square rivers. Some violet rooms are floating pages. All silver buttons are feathered minerals. No glass carpets are desert clouds. Therefore, some crystal elevators are square rivers.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some online receipts are purchase records. All purchase records are financial documents. Some email folders are digital archives. No shopping carts are bank accounts. All refund forms are customer-service documents. Therefore, all online receipts are financial documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass deserts are orange clocks. All orange clocks are silent planets. No copper doors are sleeping rivers. Some velvet spoons are lunar insects. All cloud ribbons are imaginary trees. Therefore, all glass deserts are silent planets.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No school buses are private cars. All yellow buses are school buses. Some route signs are transport notices. All bus depots are vehicle facilities. No lunch boxes are traffic signals. Therefore, some yellow buses are school-adjacent vehicles.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All whispering maps are dream compasses. All dream compasses are blue insects. Some glass roads are floating gardens. No amber statues are winter clocks. Some shadow rivers are silent violins. Therefore, all blue insects are whispering maps.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some museum tickets are entry passes. No entry passes are food vouchers. All exhibit brochures are visitor materials. Some guided tours are museum events. No cafe menus are gallery labels. Therefore, no museum tickets are food vouchers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No ivory dragons are paper planets. All cloud statues are ivory dragons. Some mirror ponds are crystal animals. All bronze umbrellas are sleepy minerals. No silver forks are lunar flowers. Therefore, all paper planets are cloud statues.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All course syllabi are class documents. Some library loans are study resources. Some semester project reports are graded submissions. No lunch menus are academic transcripts. Some exam rubrics are assessment guides. All graded submissions are academic records. Therefore, some semester project reports are academic records.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some emerald ladders are noisy clouds. No silver umbrellas are fireproof birds. All copper feathers are moonlit tools. Some velvet engines are silent baskets. No glass rivers are winter animals. All eclipse parasols are silver umbrellas. Therefore, no eclipse parasols are fireproof birds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All tax forms are financial documents. All financial documents are administrative records. Some password managers are digital tools. No grocery coupons are bank transfers. Some invoice folders are document archives. All refund receipts are purchase records. Therefore, all tax forms are online submissions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some clockwork whales are glass asteroids. All glass asteroids are singing islands. No velvet pyramids are ordinary hills. Some bronze rains are square oceans. All crystal carpets are moon insects. No paper mirrors are silent forests. Therefore, all clockwork whales are singing islands.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some commuter trains are public transport vehicles. All public transport vehicles are scheduled services. Some platform signs are railway notices. No coffee cups are station exits. All route maps are travel guides. Some ticket gates are access points. Therefore, all commuter trains are scheduled services.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All mirror foxes are velvet storms. No velvet storms are quiet lakes. Some amber towers are crystal insects. No silver benches are moon animals. All cloud forks are dream devices. Some paper rivers are frozen bells. Therefore, some mirror foxes are quiet lakes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No passport renewals are restaurant bookings. All urgent travel tasks are passport renewals. Some photo booths are document services. All visa forms are travel documents. No suitcase tags are dinner reservations. Some embassy appointments are calendar events. Therefore, all urgent travel tasks require forms.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All marble butterflies are sleepy clouds. Some sleepy clouds are metal roses. No crystal lamps are wooden oceans. Some purple clocks are flying cups. All silver ladders are transparent horses. No feathered mirrors are garden stones. Therefore, all marble butterflies are metal roses.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some neon forests are paper engines. No paper engines are liquid stars. All mirror clocks are desert feathers. Some bronze shells are cloud machines. No violet rugs are silent birds. All glass onions are imaginary planets. Therefore, no neon forests are liquid stars.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No crystal doors are wooden moons. All lantern gardens are crystal doors. Some velvet canals are silver engines. All cloudy spoons are bronze animals. No paper deserts are winter maps. Some silent hats are mirror islands. Therefore, all wooden moons are lantern gardens.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All bike helmets are safety gear. Some bus shelters are transit structures. No picnic baskets are safety gear. All safety gear are protective equipment. Therefore, all bike helmets are protective equipment.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some sapphire ladders are whispering engines. All lantern mushrooms are bronze animals. All bronze animals are clockwork rivers. No shadow notebooks are mirror insects. Therefore, all lantern mushrooms are clockwork rivers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No coffee mugs are dinner plates. Some office notebooks are stationery items. All espresso cups are coffee mugs. Some tea bags are pantry items. Therefore, no espresso cups are dinner plates.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All thunder carpets are glass birds. Some cloud spoons are velvet maps. No glass birds are ordinary furniture. Some copper gardens are silent machines. Therefore, no thunder carpets are ordinary furniture.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some student calendars are planning tools. No parking meters are study supplies. All planning tools are organizational aids. Some backpack pockets are storage spaces. Therefore, some student calendars are organizational aids.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some moonlit baskets are frozen owls. All copper sandwiches are desert songs. No frozen owls are paper oceans. Some mirror doors are violet clouds. Therefore, some moonlit baskets are not paper oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All recipe cards are kitchen records. Some garden hoses are outdoor tools. Some family cookbooks are recipe cards. No bus tickets are kitchen records. Therefore, some family cookbooks are kitchen records.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No silver pumpkins are quiet clocks. Some amber islands are glass ribbons. All crystal pumpkins are silver pumpkins. Some violet spoons are cloud animals. Therefore, no crystal pumpkins are quiet clocks.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All winter coats are warm clothing. Some laundry baskets are household containers. All warm clothing are seasonal garments. Some umbrella racks are hallway fixtures. Therefore, all winter coats are seasonal garments.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass feathers are moon insects. No bronze stairs are desert plants. All moon insects are imaginary creatures. Some velvet clocks are silent doors. Therefore, some glass feathers are imaginary creatures.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All library cards are borrowing documents. Some campus maps are navigation aids. No borrowing documents are concert tickets. Some pencil cases are desk items. Therefore, no library cards are concert tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal ovens are singing rivers. All singing rivers are marble forests. Some paper mirrors are floating clocks. No velvet bridges are ordinary roads. Therefore, some crystal ovens are marble forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some appointment emails are reminder messages. All reminder messages are communication records. Some calendar alerts are phone notifications. No shopping bags are reminder messages. Therefore, some appointment emails are communication records.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All floating teaspoons are emerald machines. Some silent cabbages are purple rooms. All emerald machines are impossible objects. No lunar pencils are velvet clouds. Therefore, all floating teaspoons are impossible objects.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No bicycle lanes are indoor hallways. Some city maps are printed guides. All protected cycle tracks are bicycle lanes. Some traffic cones are road markers. Therefore, no protected cycle tracks are indoor hallways.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some ivory ladders are singing boxes. No singing boxes are cloud rivers. Some moon statues are glass clocks. All crystal buttons are feathered doors. Therefore, some ivory ladders are not cloud rivers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All seminar handouts are course materials. Some cafeteria receipts are meal records. All course materials are study resources. Some laptop chargers are electronic accessories. Therefore, all seminar handouts are study resources.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All ruby clouds are mirror animals. Some mirror animals are ocean lanterns. No paper mountains are sleeping gardens. Some copper violins are glass insects. Therefore, all ruby clouds are ocean lanterns.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some grocery coupons are discount slips. All discount slips are shopping aids. Some checkout screens are payment devices. No shopping carts are discount slips. Some paper bags are store supplies. Therefore, all grocery coupons are shopping aids.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All violet drums are crystal planets. No crystal planets are quiet forests. Some amber spoons are floating animals. All paper oceans are silver clocks. Some moon bridges are velvet roads. Therefore, some violet drums are quiet forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All passport photos are identity documents. Some travel folders are document holders. No identity documents are boarding snacks. Some suitcase locks are travel accessories. All visa forms are application papers. Therefore, all passport photos are application papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass onions are thunder birds. All thunder birds are purple engines. Some silver forests are mirror deserts. No cloud ladders are paper rivers. All velvet needles are moon insects. Therefore, some glass onions are moon insects.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some email drafts are written messages. No written messages are spoken calls. All meeting notes are written messages. Some inbox folders are digital archives. No phone alarms are written messages. Therefore, all email drafts are spoken calls.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No bronze gardens are ordinary parks. Some crystal rabbits are bronze gardens. All feathered cups are moonlit tools. Some shadow ovens are glass machines. No velvet maps are quiet deserts. Therefore, no crystal rabbits are bronze gardens.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All rental contracts are legal documents. Some legal documents are apartment papers. Some utility bills are household records. No grocery receipts are legal documents. All lease summaries are housing records. Therefore, all rental contracts are apartment papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All silent whales are glass lanterns. Some glass lanterns are crystal deserts. No paper mirrors are violet windows. Some copper clouds are frozen carpets. All moon tables are feathered rivers. Therefore, all silent whales are crystal deserts.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some fitness trackers are wearable devices. All wearable devices are electronic products. Some gym towels are workout accessories. No protein bars are wearable devices. Some running shoes are exercise equipment. Therefore, some electronic products are fitness trackers.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No glass rivers are wooden planets. Some crystal fish are glass rivers. Some velvet moons are singing islands. All bronze ladders are floating tools. No paper doors are silver forests. Therefore, some wooden planets are crystal fish.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No fire drills are casual parties. Some school assemblies are scheduled events. All fire drills are safety exercises. Some classroom posters are school notices. All safety exercises are planned activities. Therefore, no fire drills are casual parties.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some emerald doors are sleeping flowers. No sleeping flowers are iron clouds. Some violet spoons are moon animals. All glass clocks are crystal insects. No amber roads are paper gardens. Therefore, all emerald doors are iron clouds.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All dentist chairs are clinic furniture. Some clinic furniture are adjustable seats. No waiting-room magazines are clinic furniture. Some appointment forms are medical papers. All toothbrush samples are dental supplies. Therefore, all dentist chairs are adjustable seats.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All silver pumpkins are cloud engines. All cloud engines are velvet machines. Some mirror trains are crystal birds. No bronze spoons are paper planets. Some silent maps are frozen carpets. Therefore, all velvet machines are silver pumpkins.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some office chairs are workplace furniture. All workplace furniture are office equipment. Some staplers are desk supplies. No filing cabinets are coffee machines. Some meeting tables are workplace furniture. Therefore, some meeting tables are office equipment.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some lunar forks are velvet shadows. All velvet shadows are singing stones. No bronze rivers are quiet tools. Some crystal cabinets are imaginary animals. All glass feathers are desert mirrors. Therefore, some lunar forks are singing stones.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No parking permits are train tickets. Some station kiosks are ticket machines. All commuter passes are train tickets. Some road signs are traffic notices. No bus shelters are car garages. Therefore, no commuter passes are parking permits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some mirror onions are crystal drums. All crystal drums are cloud ladders. Some amber pillows are singing rivers. No violet candles are wooden stars. All thunder jars are metal deserts. Therefore, some cloud ladders are mirror onions.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All balcony planters are plant containers. Some potting-soil bags are gardening supplies. No plant containers are cooking pans. Some watering schedules are garden plans. All herb boxes are plant containers. Therefore, no herb boxes are cooking pans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No copper forests are ordinary forests. Some feathered clocks are violet boats. All dream cabinets are copper forests. Some silver onions are moonlit jars. All glass kettles are paper insects. Therefore, no dream cabinets are ordinary forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some school lunches are prepared meals. All prepared meals are food items. Some cafeteria trays are serving tools. No napkin holders are prepared meals. Some lunch menus are meal plans. Therefore, some school lunches are food items.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All crystal gardens are floating books. Some floating books are silent birds. No amber windows are velvet bridges. Some moon statues are bronze rivers. All glass pencils are cloud flowers. Therefore, all crystal gardens are silent birds.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All phone chargers are electronic accessories. Some desk lamps are electrical devices. All electronic accessories are consumer products. Some extension cords are household cables. No paper notebooks are electronic accessories. Some travel adapters are electronic accessories. Therefore, some travel adapters are consumer products.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet doors are crystal planets. All crystal planets are whispering towers. No glass apples are iron waves. Some bronze carpets are lunar insects. All mirror cabinets are cloud fossils. No paper lakes are violet clocks. Therefore, some velvet doors are whispering towers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No first-aid kits are lunch boxes. Some classroom lockers are storage units. All emergency medical boxes are first-aid kits. Some school maps are hallway guides. All hallway guides are navigation aids. No pencil sharpeners are lunch boxes. Therefore, no emergency medical boxes are lunch boxes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All cloud serpents are silver buttons. No silver buttons are quiet mirrors. Some violet shelves are copper forests. All moonlit spoons are glass animals. No paper baskets are ordinary baskets. Some amber ladders are winter insects. Therefore, no cloud serpents are quiet mirrors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All city bike rentals are transport services. Some rental apps are phone applications. No transport services are personal cars. Some repair stations are cycling facilities. All cycling facilities are street infrastructure. Some helmet lockers are storage devices. Therefore, no city bike rentals are personal cars.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass pumpkins are feathered clocks. All feathered clocks are lunar machines. No bronze rivers are crystal roads. Some silent ovens are velvet insects. All paper animals are cloud mirrors. No copper ladders are desert flowers. Therefore, all glass pumpkins are lunar machines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some library fines are payment notices. All payment notices are administrative messages. Some due-date slips are library reminders. No reading lamps are payment notices. All checkout desks are library service points. Some bookshelf labels are catalog markers. Therefore, some administrative messages are library fines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No mirror trees are ordinary plants. All sapphire gardens are mirror trees. Some velvet cabinets are paper storms. All bronze clouds are singing insects. No crystal maps are silent islands. Some floating spoons are amber machines. Therefore, some sapphire gardens are ordinary plants.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All lecture slides are teaching materials. Some teaching materials are digital files. Some course websites are online platforms. No exam rooms are digital files. All online platforms are web resources. Some assignment portals are online platforms. Therefore, all lecture slides are digital files.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All crystal umbrellas are moon towers. Some moon towers are singing oceans. No glass rivers are paper bells. Some violet engines are copper doors. All amber forests are sleepy mirrors. No cloud notebooks are silver gardens. Therefore, all crystal umbrellas are singing oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All morning buses are public vehicles. Some waiting room magazines are reading materials. All campus printers are office devices. All public vehicles are transport services. Therefore, all morning buses are transport services.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some reusable water bottles are drinking containers. No grocery baskets are lecture notes. Some bicycle bells are handlebar accessories. All apartment keys are access items. All drinking containers are personal items. Therefore, some reusable water bottles are personal items.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All biology lab manuals are course materials. Some kitchen timers are cooking tools. No winter scarves are beach towels. Some online calendars are scheduling tools. All embassy counters are service desks. All course materials are study resources. Therefore, all biology lab manuals are study resources.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some library shelves are storage furniture. Some rainy commutes are umbrella uses. No rain boots are dinner plates. Some password prompts are login screens. No umbrella uses are indoor activities. Therefore, some rainy commutes are not indoor activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All soup bowls are tableware. No parking permits are train tickets. Some fire extinguishers are safety equipment. All resident parking permits are parking permits. Therefore, no resident parking permits are train tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No job applications are grocery coupons. Some gallery maps are visitor guides. All adhesive plasters are first-aid supplies. All passport photos are identity documents. Some rental deposits are housing payments. No identity documents are food vouchers. Therefore, no passport photos are food vouchers.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some campus library cards are borrowing credentials. No train stations are private bedrooms. Some recycling bins are public containers. All borrowing credentials are student documents. Therefore, some campus library cards are student documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All gym lockers are storage units. Some fresh basil leaves are culinary herbs. Some receipt folders are document organizers. No science notebooks are concert stages. No culinary herbs are office furniture. Therefore, some fresh basil leaves are not office furniture.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All winter gloves are warm garments. Some garden hoses are watering tools. All update dialogs are software prompts. Some pill organizers are medicine containers. All warm garments are seasonal clothing. Therefore, all winter gloves are seasonal clothing.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No repair manuals are restaurant menus. Some lecture recordings are class resources. Some conversation worksheets are class handouts. All class resources are study materials. Therefore, some lecture recordings are study materials.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All ticket scanners are entry devices. Some conference rooms are workplace spaces. No permission forms are cooking recipes. Some shopping lists are household notes. All home smoke alarms are safety devices. No safety devices are decorative cushions. Therefore, no home smoke alarms are decorative cushions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All weather apps are information tools. Some seminar handouts are printed documents. Some laundry baskets are household containers. All seminar handouts are course materials. Therefore, some printed documents are course materials.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some grocery delivery receipts are purchase records. No clinic beds are bicycle pedals. Some lecture projectors are classroom devices. All charging cables are electrical accessories. All purchase records are shopping documents. Therefore, some grocery delivery receipts are shopping documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some airport gates are boarding areas. All first-aid bandages are medical supplies. No bank cards are garden tools. No medical supplies are kitchen appliances. Therefore, no first-aid bandages are kitchen appliances.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All apartment lease agreements are legal papers. Some volunteer badges are name tags. All legal papers are housing records. All pruning shears are garden tools. Therefore, all apartment lease agreements are housing records.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some neighborhood signs are public notices. Some train platform announcements are travel notices. No swimming goggles are office folders. Some discussion chairs are meeting furniture. All insurance envelopes are document holders. No travel notices are private diary entries. Therefore, some train platform announcements are not private diary entries.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No yoga class bookings are concert tickets. Some meter boxes are utility fixtures. No camping lanterns are school transcripts. All beginner yoga bookings are yoga class bookings. Therefore, no beginner yoga bookings are concert tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some online course quizzes are assessment tasks. All classroom clocks are wall fixtures. All assessment tasks are learning exercises. Some train schedules are travel documents. Therefore, some online course quizzes are learning exercises.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All road repair notices are traffic updates. Some waiting room magazines are reading materials. All campus printers are office devices. All traffic updates are municipal messages. Therefore, all road repair notices are municipal messages.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All doctor referral letters are medical documents. No grocery baskets are lecture notes. Some bicycle bells are handlebar accessories. All apartment keys are access items. No medical documents are theater tickets. Therefore, no doctor referral letters are theater tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All monthly phone bills are telecommunication charges. Some kitchen timers are cooking tools. No winter scarves are beach towels. Some online calendars are scheduling tools. All embassy counters are service desks. All telecommunication charges are payment obligations. Therefore, all monthly phone bills are payment obligations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some library shelves are storage furniture. All morning buses are public vehicles. No rain boots are dinner plates. Some password prompts are login screens. All public vehicles are transport services. Therefore, all morning buses are transport services.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All soup bowls are tableware. Some reusable water bottles are drinking containers. Some fire extinguishers are safety equipment. All drinking containers are personal items. Therefore, some reusable water bottles are personal items.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No job applications are grocery coupons. Some gallery maps are visitor guides. All adhesive plasters are first-aid supplies. All biology lab manuals are course materials. Some rental deposits are housing payments. All course materials are study resources. Therefore, all biology lab manuals are study resources.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some rainy commutes are umbrella uses. No train stations are private bedrooms. Some recycling bins are public containers. No umbrella uses are indoor activities. Therefore, some rainy commutes are not indoor activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All gym lockers are storage units. No parking permits are train tickets. Some receipt folders are document organizers. No science notebooks are concert stages. All resident parking permits are parking permits. Therefore, no resident parking permits are train tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All passport photos are identity documents. Some garden hoses are watering tools. All update dialogs are software prompts. Some pill organizers are medicine containers. No identity documents are food vouchers. Therefore, no passport photos are food vouchers.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No repair manuals are restaurant menus. Some campus library cards are borrowing credentials. Some conversation worksheets are class handouts. All borrowing credentials are student documents. Therefore, some campus library cards are student documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All ticket scanners are entry devices. Some conference rooms are workplace spaces. No permission forms are cooking recipes. Some shopping lists are household notes. Some fresh basil leaves are culinary herbs. No culinary herbs are office furniture. Therefore, some fresh basil leaves are not office furniture.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All weather apps are information tools. All winter gloves are warm garments. Some laundry baskets are household containers. All warm garments are seasonal clothing. Therefore, all winter gloves are seasonal clothing.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some lecture recordings are class resources. No clinic beds are bicycle pedals. Some lecture projectors are classroom devices. All charging cables are electrical accessories. All class resources are study materials. Therefore, some lecture recordings are study materials.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some airport gates are boarding areas. All home smoke alarms are safety devices. No bank cards are garden tools. No safety devices are decorative cushions. Therefore, no home smoke alarms are decorative cushions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some waiting room magazines are reading materials. Some office meeting agendas are work documents. All campus printers are office devices. All work documents are planning materials. Therefore, some office meeting agendas are planning materials.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal wolves are singing minerals. Some emerald spoons are whispering triangles. All floating cupboards are lunar insects. All singing minerals are cloud instruments. Therefore, some crystal wolves are cloud instruments.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some paper comets are sleeping ladders. No velvet thunderbolts are ordinary chairs. Some mirror cabbages are glass animals. All paper volcanoes are silent clocks. All sleeping ladders are violet machines. Therefore, some paper comets are violet machines.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All bronze feathers are invisible gardens. Some bronze clouds are transparent forests. No crystal sandwiches are kitchen utensils. Some shadow carpets are electric rivers. All sapphire onions are moonlit tools. No invisible gardens are moonlit creatures. Therefore, no bronze feathers are moonlit creatures.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some wooden echoes are frozen gardens. Some velvet clocks are liquid mountains. No amber teaspoons are walking statues. Some glass pumpkins are stormy notebooks. No liquid mountains are desert mirrors. Therefore, some velvet clocks are not desert mirrors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All violet fossils are singing machines. No silver pumpkins are flying cupboards. Some cloud needles are velvet oceans. All amber animals are silver pumpkins. Therefore, no amber animals are flying cupboards.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No copper rabbits are quiet mirrors. Some lunar cabinets are paper animals. All crystal ladders are blue deserts. Some glass umbrellas are whispering planets. Some marble whistles are dancing plants. All glass umbrellas are silent oceans. Therefore, some whispering planets are silent oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All marble insects are floating dictionaries. No silver umbrellas are sleepy planets. Some feathered clocks are bronze flowers. All floating dictionaries are blue storms. Therefore, all marble insects are blue storms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All mirror fruits are invisible towers. Some copper snowflakes are wooden rainbows. Some amber roads are glass songs. No paper wolves are indoor furniture. All wooden rainbows are crystal birds. Therefore, some copper snowflakes are crystal birds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All lunar teapots are dancing fossils. Some velvet baskets are cloud engines. All bronze rivers are moon animals. Some crystal maps are singing cupboards. No dancing fossils are paper engines. Therefore, no lunar teapots are paper engines.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No floating lemons are public buses. Some emerald staircases are talking rivers. Some ivory storms are paper gardens. No talking rivers are mirror clouds. Therefore, some emerald staircases are not mirror clouds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All glass feathers are winter machines. Some ruby doors are transparent birds. No wooden moons are metal wallets. Some emerald chairs are liquid stars. No ivory notebooks are feathered towers. All clockwork forests are ivory notebooks. Therefore, no clockwork forests are feathered towers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All cloud spoons are mirror fossils. Some shadow apples are singing windows. Some sapphire bridges are sleepy oceans. All shadow apples are velvet boats. Therefore, some singing windows are velvet boats.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All ruby carpets are transparent dragons. No violet engines are ordinary motors. Some bronze notebooks are flying carpets. All paper dragons are silver tools. All transparent dragons are winter candles. Therefore, all ruby carpets are winter candles.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass forests are whispering bowls. Some cloud sandwiches are metal flowers. No moonlit onions are office supplies. All metal flowers are sleepy planets. Therefore, some cloud sandwiches are sleepy planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All sapphire doors are plastic thunderbolts. Some crystal towers are velvet insects. No plastic thunderbolts are garden ghosts. All copper flowers are invisible maps. Therefore, no sapphire doors are garden ghosts.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some shadow teapots are amber clocks. Some violet engines are glass deserts. No marble hats are kitchen containers. Some silver deserts are dancing bridges. All lunar forks are blue animals. No glass deserts are silver maps. Therefore, some violet engines are not silver maps.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No floating lemons are bronze echoes. Some mirror ovens are paper comets. No stormy cupboards are quiet pillows. All quiet volcanoes are floating lemons. Therefore, no quiet volcanoes are bronze echoes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet rivers are bronze dictionaries. Some mirror rabbits are crystal oceans. All amber birds are frozen ladders. Some glass islands are cloud flowers. All mirror rabbits are paper stars. Therefore, some crystal oceans are paper stars.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All amber ladders are moon animals. No crystal jars are ordinary windows. Some paper castles are wooden oceans. All moon animals are frozen bells. Therefore, all amber ladders are frozen bells.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some wooden moons are electric lilies. All mirror rabbits are silent machines. Some lunar carpets are violet engines. No bronze butterflies are garden benches. All electric lilies are misty statues. Therefore, some wooden moons are misty statues.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All clockwork pears are singing islands. Some sapphire clouds are metal trees. All wooden stars are glass rivers. Some invisible fish are moonlit cupboards. No singing islands are blue notebooks. Therefore, no clockwork pears are blue notebooks.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal creatures are school lockers. Some feathered spoons are lunar machines. Some amber machines are whispering roses. No lunar machines are glass forests. Therefore, some feathered spoons are not glass forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All velvet planets are bronze echoes. Some glass rivers are singing cupboards. No cloud forests are ordinary notebooks. Some paper onions are crystal animals. No purple furnaces are silent fish. All cloud gardens are purple furnaces. Therefore, no cloud gardens are silent fish.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All silver maps are lunar vegetables. Some obsidian chairs are paper wolves. Some emerald spoons are whispering triangles. All obsidian chairs are silver oceans. Therefore, some paper wolves are silver oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All transparent owls are bronze dreams. All floating cupboards are lunar insects. No velvet thunderbolts are ordinary chairs. Some mirror cabbages are glass animals. All bronze dreams are velvet rivers. Therefore, all transparent owls are velvet rivers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some paper volcanoes are silent clocks. Some crimson cabinets are floating mirrors. Some bronze clouds are transparent forests. All floating mirrors are stormy flowers. Therefore, some crimson cabinets are stormy flowers.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All glass onions are sleeping deserts. No crystal sandwiches are kitchen utensils. All sleeping deserts are copper birds. Some shadow carpets are electric rivers. Therefore, all glass onions are copper birds.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some sapphire onions are moonlit tools. Some moonlit carpets are ivory engines. No amber teaspoons are walking statues. Some glass pumpkins are stormy notebooks. All violet fossils are singing machines. All ivory engines are paper mountains. Therefore, some moonlit carpets are paper mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some shadow teacups are singing bridges. Some cloud needles are velvet oceans. No copper rabbits are quiet mirrors. All singing bridges are crystal storms. Therefore, some shadow teacups are crystal storms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some emerald ghosts are wooden comets. Some lunar cabinets are paper animals. All crystal ladders are blue deserts. Some marble whistles are dancing plants. All wooden comets are liquid clocks. Therefore, some emerald ghosts are liquid clocks.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All marble hats are violet rivers. No silver umbrellas are sleepy planets. Some feathered clocks are bronze flowers. All mirror fruits are invisible towers. No violet rivers are garden planets. Therefore, no marble hats are garden planets.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some silver ladders are cloud animals. Some amber roads are glass songs. No paper wolves are indoor furniture. No cloud animals are bronze machines. Therefore, some silver ladders are not bronze machines.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All velvet baskets are cloud engines. No ruby planets are mirror vegetables. All bronze rivers are moon animals. All silent statues are ruby planets. Therefore, no silent statues are mirror vegetables.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal maps are singing cupboards. Some paper whales are crystal doors. No floating lemons are public buses. Some ivory storms are paper gardens. All glass feathers are winter machines. All paper whales are amber oceans. Therefore, some crystal doors are amber oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All velvet maps are frozen insects. Some ruby doors are transparent birds. No wooden moons are metal wallets. All frozen insects are glass songs. Therefore, all velvet maps are glass songs.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All commuter trains are rail vehicles. Some glass islands are cloud flowers. All rail vehicles are public transport vehicles. No crystal jars are ordinary windows. Therefore, all public transport vehicles are commuter trains.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some paper castles are wooden oceans. Some online receipts are purchase records. All mirror rabbits are silent machines. Some lunar carpets are violet engines. All purchase records are financial documents. Therefore, all online receipts are financial documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All school backpacks are student bags. Some sapphire clouds are metal trees. All wooden stars are glass rivers. Some invisible fish are moonlit cupboards. Some crystal creatures are school lockers. All student bags are personal belongings. Therefore, all school backpacks are library materials.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some amber machines are whispering roses. All electric kettles are kitchen appliances. Some emerald spoons are whispering triangles. All floating cupboards are lunar insects. All kitchen appliances are household devices. Therefore, no electric kettles are household devices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No velvet thunderbolts are ordinary chairs. All doctor appointments are calendar events. Some mirror cabbages are glass animals. All scheduled commitments are calendar events. Therefore, all doctor appointments are scheduled commitments.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All paper volcanoes are silent clocks. No rain boots are weather footwear. Some bronze clouds are transparent forests. All protective clothing are rain boots. Therefore, no rain boots are protective clothing.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All research papers are academic texts. No crystal sandwiches are kitchen utensils. Some shadow carpets are electric rivers. All academic texts are written documents. Therefore, all written documents are research papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some credit cards are payment cards. All sapphire onions are moonlit tools. Some wooden echoes are frozen gardens. No amber teaspoons are walking statues. All payment cards are banking tools. Therefore, all credit cards are banking tools.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All glass pumpkins are stormy notebooks. All bicycle helmets are safety gear. All violet fossils are singing machines. Some cloud needles are velvet oceans. No copper rabbits are quiet mirrors. All safety gear are protective equipment. Therefore, all bicycle helmets are street equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some lunar cabinets are paper animals. All recipe books are printed guides. All crystal ladders are blue deserts. All printed guides are reading materials. Therefore, no recipe books are reading materials.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some marble whistles are dancing plants. All work laptops are electronic devices. No silver umbrellas are sleepy planets. Some feathered clocks are bronze flowers. All office equipment are electronic devices. Therefore, all work laptops are office equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No mirror fruits are invisible towers. No museum tours are cultural activities. Some amber roads are glass songs. All leisure events are museum tours. Therefore, no museum tours are leisure events.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All vegetarian sandwiches are prepared lunches. No paper wolves are indoor furniture. All prepared lunches are food items. Some velvet baskets are cloud engines. Therefore, all food items are vegetarian sandwiches.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some university exams are assessment tasks. All bronze rivers are moon animals. Some crystal maps are singing cupboards. No floating lemons are public buses. All assessment tasks are academic obligations. Therefore, all university exams are academic obligations.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All bus tickets are travel documents. Some ivory storms are paper gardens. All glass feathers are winter machines. Some ruby doors are transparent birds. No wooden moons are metal wallets. All travel documents are paper records. Therefore, all bus tickets are transport forms.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All emerald chairs are liquid stars. All first-aid kits are medical supplies. All cloud spoons are mirror fossils. All medical supplies are emergency equipment. Therefore, no first-aid kits are emergency equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some sapphire bridges are sleepy oceans. All winter coats are warm clothing. No violet engines are ordinary motors. Some bronze notebooks are flying carpets. All seasonal garments are warm clothing. Therefore, all winter coats are seasonal garments.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No paper dragons are silver tools. No library fines are payment notices. Some glass forests are whispering bowls. All administrative messages are library fines. Therefore, no library fines are administrative messages.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All gym memberships are service subscriptions. Some moonlit onions are office supplies. All service subscriptions are monthly expenses. Some crystal towers are velvet insects. Therefore, all monthly expenses are gym memberships.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some airport taxis are road vehicles. All copper flowers are invisible maps. Some shadow teapots are amber clocks. No marble hats are kitchen containers. All road vehicles are transport options. Therefore, all airport taxis are transport options.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All coding tutorials are learning resources. Some silver deserts are dancing bridges. All lunar forks are blue animals. Some mirror ovens are paper comets. No stormy cupboards are quiet pillows. All learning resources are online materials. Therefore, all coding tutorials are city services.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet rivers are bronze dictionaries. All language certificates are qualification documents. All amber birds are frozen ladders. All qualification documents are academic records. Therefore, no language certificates are academic records.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass islands are cloud flowers. All city parks are public spaces. No crystal jars are ordinary windows. All public spaces are urban facilities. Therefore, all urban facilities are city parks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some paper castles are wooden oceans. Some coffee shop receipts are purchase records. All mirror rabbits are silent machines. Some lunar carpets are violet engines. All purchase records are financial papers. Therefore, all coffee shop receipts are financial papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All train timetables are travel schedules. Some sapphire clouds are metal trees. All wooden stars are glass rivers. Some invisible fish are moonlit cupboards. Some crystal creatures are school lockers. All travel schedules are information documents. Therefore, all train timetables are school supplies.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some amber machines are whispering roses. All smart watches are wearable devices. Some emerald spoons are whispering triangles. All floating cupboards are lunar insects. All wearable devices are electronic products. Therefore, no smart watches are electronic products.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No velvet thunderbolts are ordinary chairs. All camping tents are outdoor shelters. Some mirror cabbages are glass animals. All recreation equipment are outdoor shelters. Therefore, all camping tents are recreation equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All paper volcanoes are silent clocks. No office chairs are workplace furniture. Some bronze clouds are transparent forests. All office equipment are office chairs. Therefore, no office chairs are office equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All dog leashes are pet accessories. No crystal sandwiches are kitchen utensils. Some shadow carpets are electric rivers. All pet accessories are animal-care items. Therefore, all animal-care items are dog leashes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some student visas are immigration documents. All sapphire onions are moonlit tools. Some wooden echoes are frozen gardens. No amber teaspoons are walking statues. All immigration documents are government papers. Therefore, all student visas are government papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All glass pumpkins are stormy notebooks. All laundry cards are payment cards. All violet fossils are singing machines. Some cloud needles are velvet oceans. No copper rabbits are quiet mirrors. All payment cards are access tools. Therefore, all laundry cards are energy users.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some lunar cabinets are paper animals. All science textbooks are course books. All crystal ladders are blue deserts. All course books are study resources. Therefore, no science textbooks are study resources.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All concert tickets are admission passes. No silver umbrellas are sleepy planets. All event documents are admission passes. Some feathered clocks are bronze flowers. Therefore, all concert tickets are event documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No mirror fruits are invisible towers. No medical masks are protective items. Some amber roads are glass songs. All health supplies are medical masks. Therefore, no medical masks are health supplies.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All garden shovels are digging tools. Some cloud notebooks are velvet minerals. All velvet minerals are wooden planets. All digging tools are outdoor equipment. Therefore, all outdoor equipment are garden shovels.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some mirror ovens are lunar flowers. Some bank statements are financial records. All financial records are official documents. No silent trees are mirror ovens. Therefore, all bank statements are official documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All amber birds are glass ladders. All swimming goggles are sports equipment. All stormy cupboards are amber birds. Some crystal carpets are blue machines. All sports equipment are recreation gear. Therefore, all swimming goggles are daily-use objects.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No paper animals are crystal carpets. All laptop chargers are electrical accessories. Some wooden stars are singing teacups. All electrical accessories are technology items. Therefore, no laptop chargers are technology items.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All road signs are traffic markers. Some mirror fossils are wooden stars. All public notices are traffic markers. Some velvet rivers are bronze lanterns. Therefore, all road signs are public notices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No cloud flowers are velvet rivers. No meeting minutes are work records. All dancing onions are silver gardens. All business documents are meeting minutes. Therefore, no meeting minutes are business documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All pharmacy receipts are purchase records. Some crystal buttons are silver gardens. All purchase records are healthcare papers. Some paper castles are invisible fish. Therefore, all healthcare papers are pharmacy receipts.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some moonlit engines are paper castles. Some traffic cameras are monitoring devices. All monitoring devices are road equipment. No amber forests are frozen clocks. Therefore, all traffic cameras are road equipment.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some crystal wolves are singing minerals. All crystal wolves are singing minerals. Some emerald spoons are whispering triangles. All floating cupboards are lunar insects. All singing minerals are cloud instruments. Therefore, all crystal wolves are paper files.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some paper comets are sleeping ladders. All sleeping ladders are violet machines. No velvet thunderbolts are ordinary chairs. Some mirror cabbages are glass animals. Therefore, no paper comets are violet machines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All paper volcanoes are silent clocks. All bronze feathers are invisible gardens. Some bronze clouds are transparent forests. Some moonlit creatures are invisible gardens. Therefore, all bronze feathers are moonlit creatures.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No crystal sandwiches are kitchen utensils. No velvet clocks are liquid mountains. Some desert mirrors are velvet clocks. Some shadow carpets are electric rivers. Therefore, no velvet clocks are desert mirrors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All sapphire onions are moonlit tools. All silver pumpkins are flying cupboards. Some wooden echoes are frozen gardens. All flying cupboards are amber animals. Therefore, all amber animals are silver pumpkins.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No amber teaspoons are walking statues. Some glass umbrellas are whispering planets. Some glass pumpkins are stormy notebooks. All violet fossils are singing machines. All whispering planets are silent oceans. Therefore, all glass umbrellas are silent oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All marble insects are floating dictionaries. Some cloud needles are velvet oceans. No copper rabbits are quiet mirrors. All floating dictionaries are blue storms. Therefore, all marble insects are garden ghosts.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some lunar cabinets are paper animals. All copper snowflakes are wooden rainbows. All crystal ladders are blue deserts. All wooden rainbows are crystal birds. Therefore, no copper snowflakes are crystal birds.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some marble whistles are dancing plants. All lunar teapots are dancing fossils. No silver umbrellas are sleepy planets. Some feathered clocks are bronze flowers. All paper engines are dancing fossils. Therefore, all lunar teapots are paper engines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No mirror fruits are invisible towers. No emerald staircases are talking rivers. Some amber roads are glass songs. All mirror clouds are emerald staircases. Therefore, no emerald staircases are mirror clouds.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All ivory notebooks are feathered towers. No paper wolves are indoor furniture. All feathered towers are clockwork forests. Some velvet baskets are cloud engines. Therefore, all clockwork forests are ivory notebooks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some shadow apples are singing windows. All bronze rivers are moon animals. Some crystal maps are singing cupboards. No floating lemons are public buses. All singing windows are velvet boats. Therefore, all shadow apples are velvet boats.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All ruby carpets are transparent dragons. Some ivory storms are paper gardens. All glass feathers are winter machines. Some ruby doors are transparent birds. No wooden moons are metal wallets. All transparent dragons are winter candles. Therefore, all ruby carpets are silent oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All cloud spoons are mirror fossils. All cloud sandwiches are metal flowers. All metal flowers are sleepy planets. Some sapphire bridges are sleepy oceans. Therefore, no cloud sandwiches are sleepy planets.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No violet engines are ordinary motors. All sapphire doors are plastic thunderbolts. Some bronze notebooks are flying carpets. All garden ghosts are plastic thunderbolts. Therefore, all sapphire doors are garden ghosts.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No paper dragons are silver tools. No violet engines are glass deserts. Some silver maps are violet engines. Some glass forests are whispering bowls. Therefore, no violet engines are silver maps.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All moonlit onions are office supplies. All floating lemons are bronze echoes. No moonlit onions are office supplies. All bronze echoes are quiet volcanoes. Therefore, all quiet volcanoes are floating lemons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some mirror rabbits are crystal oceans. All copper flowers are invisible maps. Some shadow teapots are amber clocks. No marble hats are kitchen containers. All crystal oceans are paper stars. Therefore, all mirror rabbits are paper stars.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All silver deserts are dancing bridges. All amber ladders are moon animals. All lunar forks are blue animals. All moon animals are frozen bells. Therefore, all amber ladders are glass songs.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All wooden moons are electric lilies. Some mirror ovens are paper comets. No stormy cupboards are quiet pillows. All electric lilies are misty statues. Therefore, no wooden moons are misty statues.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet rivers are bronze dictionaries. All clockwork pears are singing islands. All blue notebooks are singing islands. All amber birds are frozen ladders. Therefore, all clockwork pears are blue notebooks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No glass islands are cloud flowers. No feathered spoons are lunar machines. Some glass forests are feathered spoons. No crystal jars are ordinary windows. Therefore, no feathered spoons are glass forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All purple furnaces are silent fish. Some paper castles are wooden oceans. All mirror rabbits are silent machines. All silent fish are cloud gardens. Therefore, all cloud gardens are purple furnaces.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some obsidian chairs are paper wolves. Some lunar carpets are violet engines. All paper wolves are silver oceans. Some sapphire clouds are metal trees. Therefore, all obsidian chairs are silver oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All transparent owls are bronze dreams. All wooden stars are glass rivers. Some invisible fish are moonlit cupboards. Some crystal creatures are school lockers. All bronze dreams are velvet rivers. Therefore, all transparent owls are blue storms.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All crimson cabinets are floating mirrors. Some amber machines are whispering roses. Some emerald spoons are whispering triangles. All floating mirrors are stormy flowers. Therefore, no crimson cabinets are stormy flowers.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No floating cupboards are lunar insects. All glass onions are sleeping deserts. Some copper birds are sleeping deserts. Some mirror cabbages are glass animals. Therefore, all glass onions are copper birds.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No moonlit carpets are ivory engines. Some paper volcanoes are silent clocks. Some paper mountains are moonlit carpets. Some bronze clouds are transparent forests. Therefore, no moonlit carpets are paper mountains.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All shadow carpets are electric rivers. All shadow teacups are singing bridges. No crystal sandwiches are kitchen utensils. All singing bridges are crystal storms. Therefore, all crystal storms are shadow teacups.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some emerald ghosts are wooden comets. All sapphire onions are moonlit tools. Some wooden echoes are frozen gardens. No amber teaspoons are walking statues. All wooden comets are liquid clocks. Therefore, all emerald ghosts are liquid clocks.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All glass pumpkins are stormy notebooks. All marble hats are violet rivers. All violet fossils are singing machines. Some cloud needles are velvet oceans. No copper rabbits are quiet mirrors. All violet rivers are garden planets. Therefore, all marble hats are sleepy planets.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All silver ladders are cloud animals. Some lunar cabinets are paper animals. All crystal ladders are blue deserts. All cloud animals are bronze machines. Therefore, no silver ladders are bronze machines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All ruby planets are mirror vegetables. No silver umbrellas are sleepy planets. All silent statues are ruby planets. Some feathered clocks are bronze flowers. Therefore, all ruby planets are silent statues.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No mirror fruits are invisible towers. No paper whales are crystal doors. Some amber oceans are paper whales. Some amber roads are glass songs. Therefore, no paper whales are amber oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All velvet maps are frozen insects. No paper wolves are indoor furniture. All frozen insects are glass songs. Some velvet baskets are cloud engines. Therefore, all glass songs are velvet maps.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some lunar cabinets are transparent rivers. All bronze rivers are moon animals. Some crystal maps are singing cupboards. No floating lemons are public buses. All transparent rivers are blue castles. Therefore, all lunar cabinets are blue castles.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All copper islands are sleeping machines. Some ivory storms are paper gardens. All glass feathers are winter machines. Some ruby doors are transparent birds. No wooden moons are metal wallets. All sleeping machines are paper clocks. Therefore, all copper islands are cloud instruments.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some cloud spoons are mirror fossils. All glass foxes are metal clouds. All metal clouds are violet gardens. Some sapphire bridges are sleepy oceans. Therefore, no glass foxes are violet gardens.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No violet engines are ordinary motors. All ivory storms are dancing mirrors. Some silver fruits are dancing mirrors. Some bronze notebooks are flying carpets. Therefore, all ivory storms are silver fruits.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No paper dragons are silver tools. No bronze tables are floating moons. Some quiet engines are bronze tables. Some glass forests are whispering bowls. Therefore, no bronze tables are quiet engines.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All moonlit onions are office supplies. All sapphire insects are paper bridges. No moonlit onions are office supplies. All paper bridges are crystal whispers. Therefore, all crystal whispers are sapphire insects.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some cloud notebooks are velvet minerals. All copper flowers are invisible maps. Some shadow teapots are amber clocks. No marble hats are kitchen containers. All velvet minerals are wooden planets. Therefore, all cloud notebooks are wooden planets.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All silver deserts are dancing bridges. All mirror ovens are lunar flowers. All lunar forks are blue animals. All lunar flowers are silent trees. Therefore, all mirror ovens are glass songs.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All amber birds are glass ladders. Some mirror ovens are paper comets. No stormy cupboards are quiet pillows. All glass ladders are stormy cupboards. Therefore, no amber birds are stormy cupboards.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some velvet rivers are bronze dictionaries. All crystal carpets are blue machines. All paper animals are blue machines. All amber birds are frozen ladders. Therefore, all crystal carpets are paper animals.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No glass islands are cloud flowers. No wooden stars are singing teacups. Some mirror fossils are wooden stars. No crystal jars are ordinary windows. Therefore, no wooden stars are mirror fossils.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All velvet rivers are bronze lanterns. Some paper castles are wooden oceans. All mirror rabbits are silent machines. All bronze lanterns are cloud flowers. Therefore, all cloud flowers are velvet rivers.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some silver gardens are dancing onions. Some lunar carpets are violet engines. All dancing onions are crystal buttons. Some sapphire clouds are metal trees. Therefore, all silver gardens are crystal buttons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All paper castles are invisible fish. Some amber machines are whispering roses. Some emerald spoons are whispering triangles. All invisible fish are moonlit engines. Therefore, all moonlit engines are paper castles.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some frozen clocks are amber forests. No velvet thunderbolts are ordinary chairs. Some mirror cabbages are glass animals. All amber forests are glass creatures. Therefore, all frozen clocks are glass creatures.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some cafe receipts are purchase records. No bicycle racks are indoor furniture. Some weekly meal plans are grocery lists. All parking permits are city documents. No shopping bags are appointment reminders. All grocery lists are planning documents. Therefore, some weekly meal plans are planning documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All train platforms are station areas. Some library notices are printed announcements. Some clinic chairs are waiting-room furniture. No blood donation forms are restaurant menus. All online banking passwords are login credentials. All plasma donor packets are blood donation forms. Therefore, no plasma donor packets are restaurant menus.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some umbrella stands are hallway fixtures. All tram passes are transit tickets. No soup bowls are parking meters. Some lecture slides are course materials. All fitness trackers are wearable devices. All transit tickets are travel documents. Therefore, all tram passes are travel documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All thunder spoons are crystal animals. Some velvet ladders are moonlit machines. Some silver pumpkins are singing gardens. No glass rivers are ordinary rivers. All paper forests are frozen mirrors. No singing gardens are kitchen utensils. Therefore, some silver pumpkins are not kitchen utensils.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some mirror hats are cloud insects. No bronze feathers are sleeping tables. All sapphire clocks are desert lanterns. All lunar cabinets are velvet birds. Some crystal onions are paper volcanoes. No velvet birds are ordinary furniture. Therefore, no lunar cabinets are ordinary furniture.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "No bus timetables are cooking recipes. Some museum lockers are storage units. Some appointment reminders are calendar notifications. All first-aid kits are emergency supplies. No grocery receipts are passport stamps. All calendar notifications are scheduling tools. Therefore, some appointment reminders are scheduling tools.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some pharmacy shelves are retail fixtures. No swimming goggles are office chairs. No electronic invoices are paper postcards. All bicycle helmets are safety equipment. Some lecture recordings are class resources. All digital billing records are electronic invoices. Therefore, no digital billing records are paper postcards.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some amber maps are glass clouds. All crystal doors are quiet storms. No velvet planets are ordinary planets. All mirror insects are bronze flowers. Some paper whales are sapphire roads. All bronze flowers are lunar objects. Therefore, all mirror insects are lunar objects.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All rain jackets are weather clothing. Some winter coats are warm garments. No weather clothing is dinnerware. Some tax forms are financial documents. All library cards are borrowing credentials. Some medical masks are protective items. Therefore, no rain jackets are dinnerware.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some floating pencils are marble rivers. All copper baskets are invisible gardens. Some clockwork pears are singing bridges. No lunar spoons are wooden deserts. Some velvet clouds are crystal jars. All singing bridges are impossible objects. Therefore, some clockwork pears are impossible objects.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All student ID cards are campus credentials. Some laundry tokens are payment items. No campus credentials are concert tickets. Some parking apps are phone applications. No cafeteria trays are library books. All exam entry cards are campus credentials. Therefore, no exam entry cards are concert tickets.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some glass ladders are velvet oceans. All blue candles are paper machines. No bronze rabbits are silent clocks. All emerald islands are mirror animals. Some moonlit doors are singing fossils. All mirror animals are imaginary creatures. Therefore, all emerald islands are imaginary creatures.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some airport receipts are travel records. All travel records are expense documents. Some luggage tags are baggage labels. No coffee cups are boarding passes. Some online check-in screens are airline interfaces. Therefore, some airport receipts are expense documents.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "Some silver owls are thunder gardens. All mirror carpets are cloud engines. Some crystal teapots are floating bells. No floating bells are ordinary utensils. Some amber spoons are glass planets. Therefore, some crystal teapots are not ordinary utensils.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All dentist chairs are clinic furniture. Some prescription labels are pharmacy documents. All clinic furniture is medical equipment. No bicycle bells are prescription labels. Some waiting-room posters are health notices. Therefore, all dentist chairs are medical equipment.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All glass mountains are violet clocks. Some bronze rivers are paper animals. No violet clocks are quiet forests. Some crystal apples are lunar insects. Some marble doors are frozen songs. Therefore, no glass mountains are quiet forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "",
+    "syllogism": "All student dorm rooms are campus housing. Some campus housing is university property. Some library cubicles are study spaces. No cafeteria menus are dorm rooms. Some laundry rooms are shared facilities. Therefore, all student dorm rooms are university property.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some online grocery orders are delivery orders. All delivery orders are tracked purchases. Some tracked purchases are refundable transactions. No paper coupons are delivery orders. Some checkout emails are purchase confirmations. Therefore, all online grocery orders are refundable transactions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All university lectures are teaching sessions. Some teaching sessions are recorded events. All recorded events are digital files. Some seminar rooms are campus spaces. No lecture halls are grocery stores. Therefore, all digital files are university lectures.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No tax receipts are birthday invitations. All salary statements are financial documents. Some financial documents are tax receipts. Some bank apps are mobile tools. All mobile tools are software products. Therefore, no salary statements are birthday invitations.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some bicycle lanes are road markings. All road markings are traffic features. Some traffic features are city infrastructure. No cycling maps are road markings. Some repair stands are bicycle facilities. Therefore, all bicycle lanes are city infrastructure.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All hospital wristbands are patient identifiers. Some patient identifiers are printed labels. Some printed labels are removable stickers. No appointment cards are patient identifiers. Some clinic counters are reception desks. Therefore, all hospital wristbands are removable stickers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All parking fines are municipal charges. Some municipal charges are payment obligations. No payment obligations are free tickets. Some parking meters are street devices. All street devices are urban equipment. Therefore, all municipal charges are parking fines.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some apartment keys are access items. All access items are useful objects. Some useful objects are metal objects. No mailbox labels are apartment keys. Some door codes are access methods. Therefore, all apartment keys are metal objects.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No train tickets are restaurant menus. All weekend train passes are train tickets. Some railway notices are travel updates. All travel updates are information messages. Some platform screens are display devices. Therefore, some weekend train passes are travel updates.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All first-aid manuals are health guides. Some health guides are printed booklets. Some printed booklets are free handouts. No bandage boxes are health guides. Some clinic posters are information displays. Therefore, all first-aid manuals are free handouts.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some delivery bikes are transport vehicles. All transport vehicles are road users. Some road users are licensed vehicles. No bike locks are transport vehicles. Some traffic lights are road signals. Therefore, all delivery bikes are licensed vehicles.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All exam answer sheets are assessment papers. Some assessment papers are archived documents. All archived documents are stored records. Some desk lamps are study tools. No pencil cases are answer sheets. Therefore, all stored records are exam answer sheets.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No cooking recipes are bus schedules. All soup recipes are cooking recipes. Some kitchen notes are handwritten pages. Some handwritten pages are notebook pages. All notebook pages are paper items. Therefore, no soup recipes are notebook pages.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some student emails are official messages. All official messages are communication records. Some communication records are archived files. No spam folders are official messages. Some inbox labels are email categories. Therefore, all student emails are archived files.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All university libraries are study places. Some study places are quiet rooms. Some quiet rooms are reserved spaces. No coffee machines are study places. Some reading desks are library furniture. Therefore, all university libraries are reserved spaces.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some pharmacy purchases are healthcare expenses. All healthcare expenses are personal costs. Some personal costs are monthly costs. No vitamin bottles are pharmacy purchases. Some insurance claims are paperwork items. Therefore, all pharmacy purchases are monthly costs.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All train stations are transport hubs. Some transport hubs are public buildings. Some public buildings are government-funded places. No ticket machines are train stations. Some subway maps are transit guides. Therefore, all train stations are government-funded places.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No bicycle helmets are dinner bowls. All cycling helmets are bicycle helmets. Some safety labels are product warnings. All product warnings are printed notices. Some bike shops are retail stores. Therefore, no cycling helmets are product warnings.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some bus drivers are transit workers. All transit workers are employees. Some employees are union members. No fare machines are transit workers. Some depot supervisors are transit workers. Therefore, all bus drivers are union members.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All printed boarding passes are travel documents. Some travel documents are identification aids. Some identification aids are checked items. No suitcase wheels are travel documents. Some gate signs are airport notices. Therefore, all printed boarding passes are checked items.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some campus cafeterias are dining spaces. All dining spaces are indoor areas. Some indoor areas are heated rooms. No meal vouchers are dining spaces. Some tray stations are cafeteria fixtures. Therefore, all campus cafeterias are heated rooms.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "No passport pages are credit cards. All visa stamps are passport pages. Some travel papers are official documents. All official documents are record items. Some airport counters are service points. Therefore, no visa stamps are official documents.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "All museum tickets are admission passes. Some admission passes are printed slips. Some printed slips are recyclable papers. No gallery maps are admission passes. Some visitor badges are wearable tags. Therefore, all museum tickets are recyclable papers.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "",
+    "syllogism": "Some library computers are public computers. All public computers are shared devices. Some shared devices are expensive devices. No mouse pads are public computers. Some login screens are computer interfaces. Therefore, all library computers are expensive devices.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  }
+]
