@@ -1,0 +1,1553 @@
+[
+  {
+    "id": "2313ece95fc4b6f1e0aad6dd55bc83ca58b3e55a969068d1f397980562d53f2e",
+    "syllogism": "Some triangular rainy orchestras are not triangular curious teapots. Some borrowed recursive violet staircases are borrowed recursive frozen radios. Some silent whispering boots are not silent plastic forests. Some silent whispering boots are not silent museum pockets. No cloudy singing spoons are cloudy midnight kitchens. No cloudy attic tidy hurricanes are cloudy attic attic festivals. Therefore, no silent museum pockets are silent plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ffcd64c3b709d7ca32150fe041f81c7dc795f1dc0841f65d42c97153374976a5",
+    "syllogism": "Some early dog training sessions are early training activities. Some early dog training sessions are not early recall practice sessions. No daily annual protective habits are daily annual sunscreen applications. All scheduled permanent deadline reviews are scheduled permanent release readiness reviews. No small ordinary summer heatwaves are small ordinary winter weather patterns. No simple small morning exercise sessions are simple small short workouts. Some office dairy cows are office farm animals. Therefore, no early recall practice sessions are early training activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "ccd614347659b1adced2baea7a3d64964cdffb96090fd40db4d8333c3cc2df30",
+    "syllogism": "No liquid mirror planets are liquid velvet equations. Some crystal hollow paper shoes are not crystal hollow liquid mountains. Some feathered silver kitchen moons are feathered silver liquid mountains. Some electric silent liquid mountains are not electric silent paper shoes. Some silver attic wooden oceans are not silver attic festival baskets. No electric silent paper shoes are electric silent kitchen moons. Therefore, some electric silent kitchen moons are electric silent liquid mountains.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "90aa9842c66dfed341788d4548c94a76b5e55bc4d5e1845837f1bd4dd9a98916",
+    "syllogism": "All marble festival friendly meteors are marble festival glass bicycles. Some cloudy velvet rainy orchestras are not cloudy velvet curious teapots. No marble paper paper submarines are marble paper ceramic rainbows. All marble festival glass bicycles are marble festival garden pockets. All garden velvet liquid mountains are garden velvet paper shoes. All invisible copper melodies are invisible mirror planets. Therefore, some marble festival garden pockets are marble festival friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "ae18caeb32a1ef025b2b0e06c4ed4b957bd2df00e71eb80dc0a4961d61a128ec",
+    "syllogism": "No electric library whispering boots are electric library museum pockets. All crystal curious teapots are crystal silver shadows. Some lunar rainy orchestras are lunar curious teapots. Some liquid library paper shoes are liquid library liquid mountains. Some midnight silent edible constellations are midnight silent singing spoons. Some liquid library kitchen moons are liquid library paper shoes. Therefore, some liquid library kitchen moons are liquid library liquid mountains.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "124db4260b890410087edae1c8db6b806a28eda95ba2485d5f9ef9ccfaac6cae",
+    "syllogism": "No informal deadline reviews are informal release readiness reviews. Some annual savory dishes are not annual spicy curries. No early food groups are early vitamin tablets. Some local planned painting jobs are not local planned home projects. All early daily supplements are early vitamin tablets. Therefore, all early daily supplements are early food groups.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "0867a9c267192e0772a52c1df5f3aa07509a56e0b39b4ee18714fd54a0d5605e",
+    "syllogism": "Some glowing attic festivals are glowing sleeping lanterns. Some feathered copper melodies are feathered mirror planets. Some electric invisible mittens are not electric floating teacups. All backward floating teacups are backward invisible mittens. All cloudy singing clocks are cloudy library windows. Some recursive ceramic paper shoes are recursive ceramic liquid mountains. All electric invisible mittens are electric backward comets. Therefore, some electric backward comets are not electric floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "bdfb19efe80a1b707336d97e62c1098cf76c39773769087629b29ccc295e3345",
+    "syllogism": "Some updated professional plumbing repairs are updated professional decor decisions. No quiet basic painting jobs are quiet basic ceiling painting jobs. Some digital late vegetarian meals are not digital late meat dishes. No optional quiet wellness routines are optional quiet morning exercise sessions. All optional quiet short workouts are optional quiet morning exercise sessions. Some practical beverages are practical solid foods. Therefore, some optional quiet short workouts are not optional quiet wellness routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "80a06c251eec3306b757292ef374d810f8556ab30b7c08259df71141fdc081b8",
+    "syllogism": "Some crystal invisible glass bicycles are not crystal invisible friendly meteors. Some backward electric candles are backward violet staircases. No triangular silent singing ladders are triangular silent transparent violins. Some magnetic liquid mountains are not magnetic kitchen moons. No crystal invisible glass bicycles are crystal invisible garden pockets. Some singing cloudy mirror planets are not singing cloudy copper melodies. Therefore, no crystal invisible garden pockets are crystal invisible friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "5a378398e124067d01e18c6984c08f86162b05a6568c27eb777c8f7567106569",
+    "syllogism": "All late kitchen scrap collections are late composting habits. Some busy neighborhood reserved novels are not busy neighborhood library books. No central optional raw foods are central optional baked goods. All central optional rye loaves are central optional baked goods. Some regular secondary laundry tasks are not regular secondary household chores. Therefore, some central optional rye loaves are not central optional raw foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "2ca78791f499900434e60b9da00d18fbda98b027d5931cc7ff1434403e38b95b",
+    "syllogism": "No regular weekend job interviews are regular weekend career steps. Some informal updated spicy curries are not informal updated pepper stews. Some advanced simple winter weather patterns are not advanced simple snowfall warnings. All regular weekend final round interviews are regular weekend job interviews. Some practical main entertainment activities are not practical main movie nights. Some school quiet fictional works are school quiet documentary films. Some updated neighborhood painting jobs are not updated neighborhood home projects. Therefore, no regular weekend final round interviews are regular weekend career steps.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "0e5f04eeb871ee2002827d13b30ed37f8abb85736a87765818b67c30156ea77f",
+    "syllogism": "Some evening outdoor video games are evening outdoor interactive games. All school plumbing repairs are school kitchen sink repairs. All short weekend written works are short weekend novels. Some weekend informal solid foods are weekend informal beverages. Some long approved library books are not long approved borrowed items. Some long approved library books are not long approved reserved novels. Therefore, some long approved reserved novels are not long approved borrowed items.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "02ae56ae9bcb2ae2ab84790fbed21c097a406d6d4ec1b7f752776d314690b129",
+    "syllogism": "Some invisible copper singing ladders are invisible copper paper moons. Some recursive marble singing spoons are not recursive marble edible constellations. Some attic purple paper moons are attic purple singing ladders. All invisible copper singing ladders are invisible copper transparent violins. Some clockwork electric candles are clockwork violet staircases. Therefore, some invisible copper transparent violins are invisible copper paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "ee7639d2e864501aeb9ccfb18e464e0a78e240a24b9ef7c7888b3248133b4c06",
+    "syllogism": "Some midnight electric violet staircases are midnight electric electric candles. No singing transparent wooden oceans are singing transparent flying teacups. No velvet garden plastic forests are velvet garden whispering boots. Some sleeping ceramic rainbows are not sleeping paper submarines. All velvet garden whispering boots are velvet garden museum pockets. No hollow triangular transparent violins are hollow triangular paper moons. Some silent singing spoons are not silent midnight kitchens. Therefore, some velvet garden museum pockets are not velvet garden plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "eb63b884c8f3e8c3cd75d609e2722e4fb8eab03972c90bdda4fcc9b978c463fc",
+    "syllogism": "All midnight singing ladders are midnight paper moons. Some sleeping violet staircases are sleeping frozen radios. No rubber marble tidy hurricanes are rubber marble attic festivals. No liquid triangular paper submarines are liquid triangular sleeping compasses. Some midnight singing ladders are midnight transparent violins. Some feathered paper submarines are not feathered sleeping compasses. Therefore, no midnight transparent violins are midnight paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "da13a3bc863d8f99aa7887bf245093ddb177334d854dc793350124308e2ba82f",
+    "syllogism": "All archived routine relationship messages are archived routine text messages. No archived routine good morning texts are archived routine text messages. No detailed savory dishes are detailed pepper stews. All morning evening stretches are morning yoga sessions. Some confirmed planned recall practice sessions are not confirmed planned dog training sessions. All optional common animal care visits are optional common vaccination appointments. No updated reserved water conservation habits are updated reserved resource saving actions. Therefore, some archived routine good morning texts are not archived routine relationship messages.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "87bf2af05fdb8ac7231db241ddcea46704805507545e32bc769986e15e4e3744",
+    "syllogism": "Some invisible invisible mittens are not invisible backward comets. All nocturnal marble paper submarines are nocturnal marble sleeping compasses. All ceramic glass bicycles are ceramic friendly meteors. No borrowed library windows are borrowed quiet thunderstorms. No neon singing spoons are neon edible constellations. All ceramic glass bicycles are ceramic garden pockets. Therefore, some ceramic garden pockets are ceramic friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "75f87fb0b131ca2e3ac8d0eaf0bb77459440f9ac5bcc542413d4207d899c00e0",
+    "syllogism": "No in-person tax payments are in-person financial tasks. Some large professional wedding events are not large professional weekday errands. Some in-person tax payments are in-person income tax filings. Some evening scheduled maintenance reports are not evening scheduled plumbing repairs. Some spring garden birds are spring local wildlife. Therefore, some in-person income tax filings are not in-person financial tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "489fcb5992dd5c2ea2c9cb7507da006581e125d4030c678b1e90e360c2745bc1",
+    "syllogism": "Some common professional driving routines are common professional morning highway commutes. Some busy advanced veterinary appointments are not busy advanced animal care visits. All daily waste reduction practices are daily composting habits. All student neighborhood social events are student neighborhood birthday parties. Some daily kitchen scrap collections are not daily composting habits. Some school recurring evening stretches are not school recurring yoga sessions. Therefore, some daily kitchen scrap collections are not daily waste reduction practices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "a5597fae59facc9ea132b8cab9ecce06af2d22f3d166550afb4abee3cf47635a",
+    "syllogism": "No busy long interactive games are busy long video games. No in-person approved laundry tasks are in-person approved household chores. Some in-person approved laundry tasks are in-person approved towel loads. No planned weekly pets are planned weekly adopted animals. No small short decor decisions are small short maintenance reports. Therefore, some in-person approved towel loads are in-person approved household chores.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "e25d7337824145e0b402605ac6f09707f79531603932124d56cfa1d4d4a40a33",
+    "syllogism": "All silent silver frozen radios are silent silver electric candles. All midnight garden pockets are midnight friendly meteors. Some nocturnal upside-down sleeping compasses are not nocturnal upside-down ceramic rainbows. Some magnetic floating teacups are not magnetic backward comets. Some nocturnal festival baskets are nocturnal wooden oceans. Some library singing spoons are library edible constellations. All silent silver frozen radios are silent silver violet staircases. Therefore, some silent silver violet staircases are silent silver electric candles.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "05cbe1dff206c44d66eac3752889fb9838dea0ed9773cbbb01083ee60f6e7692",
+    "syllogism": "No wooden hollow singing ladders are wooden hollow paper moons. Some sleeping glowing sleeping lanterns are not sleeping glowing tidy hurricanes. All rubber painted flying teacups are rubber painted wooden oceans. All transparent crystal singing ladders are transparent crystal transparent violins. Some rubber painted festival baskets are not rubber painted flying teacups. Therefore, all rubber painted festival baskets are rubber painted wooden oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "5712827940ba341c1dc2c3172d58a0b4a144579c6454aa458aaf2aab9e5d55af",
+    "syllogism": "Some invisible crystal rainy orchestras are invisible crystal curious teapots. Some library backward comets are library invisible mittens. Some silver nocturnal flying teacups are silver nocturnal wooden oceans. Some silver nocturnal flying teacups are silver nocturnal festival baskets. No backward velvet equations are backward copper melodies. Some feathered crystal glass bicycles are not feathered crystal garden pockets. Therefore, no silver nocturnal festival baskets are silver nocturnal wooden oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "f8e3ed111582daa6acdd0e176e84164a2a1ad5579843c8805894ac419b2ca9d6",
+    "syllogism": "Some monthly school family dinners are monthly school holiday meals. No digital resource saving actions are digital water conservation habits. Some digital short shower routines are not digital water conservation habits. Some confirmed short planning tasks are not confirmed short release readiness reviews. Some community hallway vacuuming tasks are community cleaning jobs. Therefore, all digital short shower routines are digital resource saving actions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "e419f6baffd36b0240645f4365fa2144a02a43e7df43f279f8dc9e8786c8aa10",
+    "syllogism": "Some public basic strategy games are not public basic outdoor hikes. No summer professional composting habits are summer professional trash disposal. All regional vehicle care tasks are regional oil change jobs. No summer professional composting habits are summer professional kitchen scrap collections. All morning school planning tasks are morning school deadline reviews. Therefore, all summer professional kitchen scrap collections are summer professional trash disposal.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "31aa99bc53f599605c97593aeecba9eeee28fa5a8207dba43685844e302f9ca8",
+    "syllogism": "No accordion mirror whispering boots are accordion mirror museum pockets. No ceramic singing friendly meteors are ceramic singing glass bicycles. No ceramic velvet attic festivals are ceramic velvet sleeping lanterns. Some electric silent sleeping compasses are electric silent ceramic rainbows. No transparent copper frozen radios are transparent copper electric candles. Some ceramic singing garden pockets are ceramic singing glass bicycles. Some singing magnetic paper moons are singing magnetic transparent violins. Therefore, some ceramic singing garden pockets are not ceramic singing friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "b565ab04d8be332a8ac10fea544e3a16b79bf13f04fe5e06371a8083146036a9",
+    "syllogism": "All ceramic whispering boots are ceramic plastic forests. No singing museum pockets are singing plastic forests. Some midnight ceramic rainbows are not midnight sleeping compasses. No library invisible frozen radios are library invisible electric candles. All crystal velvet frozen radios are crystal velvet electric candles. Some crystal velvet frozen radios are crystal velvet violet staircases. Therefore, some crystal velvet violet staircases are crystal velvet electric candles.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "2d2d4be12957961ebebe5d1a28c164077dff8001ccf453c4e7c1978a877f021e",
+    "syllogism": "No evening updated morning highway commutes are evening updated driving routines. Some summer scheduled plumbing repairs are not summer scheduled kitchen sink repairs. No archived student relationship messages are archived student text messages. All archived student good morning texts are archived student text messages. Some student weekday daily supplements are not student weekday food groups. Some outdoor common solid foods are outdoor common sandwich orders. No early formal client follow up emails are early formal email tasks. Therefore, some archived student good morning texts are not archived student relationship messages.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "0391fb042748d68070d492d7afdbdf500e0a7facb83e62431087cfd6afe93d72",
+    "syllogism": "No festival curious teapots are festival rainy orchestras. All accordion glowing singing ladders are accordion glowing transparent violins. All rubber floating paper shoes are rubber floating liquid mountains. Some upside-down liquid singing clocks are not upside-down liquid quiet thunderstorms. No mirror transparent rainy orchestras are mirror transparent curious teapots. Some accordion sleeping compasses are not accordion paper submarines. All rubber floating kitchen moons are rubber floating paper shoes. Therefore, all rubber floating kitchen moons are rubber floating liquid mountains.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "06ab07a9c63ea5a0b49bfd01bb595df07685517c4473250481b7c786fc47d8a0",
+    "syllogism": "No electric mirror mirror planets are electric mirror velvet equations. All floating clockwork paper moons are floating clockwork singing ladders. No floating clockwork transparent violins are floating clockwork singing ladders. Some cloudy feathered paper submarines are not cloudy feathered ceramic rainbows. Some transparent invisible sleeping lanterns are transparent invisible tidy hurricanes. Therefore, all floating clockwork transparent violins are floating clockwork paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6195b05227d6fa60876b65981d48122e11aadd4bdc956c22aa3d4bccb75da54c",
+    "syllogism": "Some floating friendly meteors are floating glass bicycles. No liquid paper moons are liquid singing ladders. All attic triangular backward comets are attic triangular invisible mittens. Some neon upside-down edible constellations are neon upside-down midnight kitchens. No glowing plastic forests are glowing whispering boots. All floating garden pockets are floating glass bicycles. All marble glass bicycles are marble friendly meteors. Therefore, all floating garden pockets are floating friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "9508aa09e7a390ee405d754e9bda1d504a088b3c1c97a079396292f464f2cefa",
+    "syllogism": "Some simple office library books are not simple office borrowed items. All family regular skin care products are family regular cleansers. Some ordinary simple small talk messages are ordinary simple legal contracts. Some weekday library books are weekday reserved novels. Some family regular gentle face washes are not family regular cleansers. Therefore, some family regular gentle face washes are not family regular skin care products.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "29cf28e296de0f1d2e90cf31e0e6146a02628f7235db55ed8181bde6fae34538",
+    "syllogism": "Some neon curious teapots are neon rainy orchestras. All copper accordion invisible mittens are copper accordion floating teacups. All copper accordion backward comets are copper accordion invisible mittens. Some borrowed ceramic singing spoons are not borrowed ceramic midnight kitchens. No velvet museum pockets are velvet plastic forests. All feathered marble velvet equations are feathered marble copper melodies. Therefore, all copper accordion backward comets are copper accordion floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "53fdedf34666a0ec0dcfc9c1ba1d42be49e1576c1ad92ec9f00ba2367e2ecb22",
+    "syllogism": "All confirmed farm animals are confirmed aquarium fish. All weekly concerts are weekly silent activities. Some online budget decor decisions are not online budget maintenance reports. All confirmed neighborhood urban trips are confirmed neighborhood regional rail journeys. Some confirmed neon tetras are confirmed aquarium fish. All in-person recurring oil change jobs are in-person recurring car maintenance jobs. Therefore, some confirmed neon tetras are not confirmed farm animals.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7d9badf12b16c99a9d8e44ed1b902220b6946f57e33f44852a7e3b1578008b2b",
+    "syllogism": "Some purple garden backward comets are not purple garden floating teacups. Some silver floating paper moons are silver floating singing ladders. Some silver floating transparent violins are not silver floating singing ladders. Some glowing liquid library windows are not glowing liquid singing clocks. Some nocturnal wooden oceans are not nocturnal flying teacups. Therefore, all silver floating transparent violins are silver floating paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "8cba3bb789f9483a201b8101f681cd063b12e27d9c531d058708b46659137dac",
+    "syllogism": "No office formal ceremonies are office weddings. No monthly school legal contracts are monthly school friendly texts. No simple borrowed items are simple library books. No calendar common online purchases are calendar common bookstore orders. All school confirmed tax payments are school confirmed financial tasks. Some monthly school friendly texts are monthly school small talk messages. No updated late weekly calendars are updated late office meetings. Therefore, some monthly school small talk messages are not monthly school legal contracts.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "203a36bed6c0758899af1c8d23f1fc4e7540223f9038efba5f6b7ba059a32fed",
+    "syllogism": "No accordion floating teacups are accordion backward comets. Some library floating teacups are not library backward comets. Some recursive cloudy tidy hurricanes are not recursive cloudy sleeping lanterns. All library attic flying teacups are library attic wooden oceans. Some velvet garden frozen radios are velvet garden electric candles. All library attic festival baskets are library attic flying teacups. All glowing liquid midnight kitchens are glowing liquid singing spoons. Therefore, some library attic festival baskets are library attic wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "be7c5410382fd17a2490d71a6491b4bc5a8a09d7c66c25135d121d2fffec54af",
+    "syllogism": "All wooden painted glass bicycles are wooden painted friendly meteors. All mirror singing clocks are mirror quiet thunderstorms. All paper cloudy sleeping compasses are paper cloudy ceramic rainbows. Some ceramic borrowed tidy hurricanes are ceramic borrowed attic festivals. Some midnight festival glass bicycles are midnight festival friendly meteors. Some wooden painted glass bicycles are wooden painted garden pockets. Therefore, some wooden painted garden pockets are wooden painted friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "e1bcc939d223a3efeb51ffdfdf504717133c9d605947a91f48d885d01e966dc0",
+    "syllogism": "Some liquid purple paper moons are liquid purple singing ladders. Some liquid purple singing ladders are not liquid purple transparent violins. Some crystal rubber paper shoes are crystal rubber kitchen moons. Some library rubber festival baskets are not library rubber flying teacups. No singing recursive ceramic rainbows are singing recursive paper submarines. Therefore, some liquid purple transparent violins are liquid purple paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "fa94a7efa84df8f70b451ccdc51bf1e1da42abe77007b4022dbf3ba52b16ea0c",
+    "syllogism": "Some public common release readiness reviews are not public common planning tasks. All small plumbing repairs are small decor decisions. No quiet weekend airline itineraries are quiet weekend bike rides. All private daily plumbing repairs are private daily maintenance reports. Some quiet weekend multi city itineraries are quiet weekend airline itineraries. All in-person simple urban trips are in-person simple train journeys. No in-person informal resource saving actions are in-person informal water conservation habits. Therefore, some quiet weekend multi city itineraries are not quiet weekend bike rides.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "982ecb38bfa4a239d1be7c3eb0b8e4c23b788bab4d974551a09856603f2e0bb1",
+    "syllogism": "No late optional train journeys are late optional air travel. Some neighborhood calendar farm animals are neighborhood calendar neon tetras. All late optional train journeys are late optional regional rail journeys. Some small student garden birds are small student local wildlife. Some common weekday errands are not common evening receptions. Some regional outdoor haircuts are regional outdoor barber appointments. Some updated family cooperative games are not updated family video games. Therefore, some late optional regional rail journeys are not late optional air travel.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "a679bb0fb19ce5c70d9339034ba722bd8746c9ac16a883ec7b6f58fe2dd641a6",
+    "syllogism": "Some public winter adopted animals are public winter shelter cats. No central basic morning exercise sessions are central basic wellness routines. Some weekday personal desserts are not weekday personal chocolate cakes. Some weekday errands are weekday weekly shopping trips. All central basic short workouts are central basic morning exercise sessions. Some public early creative hobbies are not public early photography sessions. Therefore, some central basic short workouts are not central basic wellness routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "cc04187385b3a8c84f0fb833c40e417ea1d34792817c5fdccf066184abad1029",
+    "syllogism": "Some approved regular orchestra concerts are not approved regular silent activities. Some informal composting habits are informal kitchen scrap collections. No common secondary email tasks are common secondary office tasks. Some annual weddings are not annual evening receptions. All autumn farm animals are autumn barn animals. Some common secondary client follow up emails are common secondary email tasks. All budget local vegetarian dishes are budget local lunch specials. Therefore, some common secondary client follow up emails are not common secondary office tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "89a6710e3a81e304cbf168085545574a8165a4cc899eb526e2cecda5c90034ee",
+    "syllogism": "No student calendar plumbing repairs are student calendar leaky faucet repairs. All student calendar kitchen sink repairs are student calendar leaky faucet repairs. Some confirmed personal possessions are confirmed reserved novels. No informal updated dental checkups are informal updated annual cleanings. No approved budget house pets are approved budget indoor cats. No confirmed routine rainy days are confirmed routine stormy afternoons. All secondary office formal ceremonies are secondary office weddings. Therefore, some student calendar kitchen sink repairs are not student calendar plumbing repairs.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "16e9922f256d05d55787646d9f2eb8aac373f34867509facdcffcfbea7d8d0e6",
+    "syllogism": "All common reserved entertainment activities are common reserved movie nights. No temporary school farm animals are temporary school aquarium fish. No short towel loads are short household chores. No common reserved Friday screenings are common reserved movie nights. All regional airline itineraries are regional travel plans. Therefore, no common reserved Friday screenings are common reserved entertainment activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "827f238729eb17ede594832aa37f7b6307856102b25457b2f52dba5c121ee878",
+    "syllogism": "All office updated drink orders are office updated coffee orders. No secondary home train journeys are secondary home air travel. All weekly sourdough loaves are weekly bakery items. All office updated double espresso orders are office updated coffee orders. Some community private train journeys are not community private urban trips. Some secondary outdoor email tasks are not secondary outdoor office tasks. Some office garden chores are not office vacuuming tasks. Therefore, some office updated double espresso orders are office updated drink orders.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "4873eb7dada269688d4876df2c97587a494b52cc2534642f1390f507a4578fef",
+    "syllogism": "All recurring advanced annual cleanings are recurring advanced health appointments. Some short recycling routines are short environmental habits. No seasonal autumn small talk messages are seasonal autumn friendly texts. Some short recycling routines are short paper sorting routines. Some personal updated cooperative games are personal updated video games. Some shared email tasks are not shared client follow up emails. All central waste reduction practices are central composting habits. Therefore, some short paper sorting routines are short environmental habits.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5913ef856c1487a7064ab11eb6d01a52fbb0b2b8968fbabf9e8cf783d0f93cc2",
+    "syllogism": "No lunar silent invisible mittens are lunar silent floating teacups. All nocturnal transparent edible constellations are nocturnal transparent singing spoons. No rubber paper submarines are rubber sleeping compasses. No marble silent singing clocks are marble silent quiet thunderstorms. Some silver rubber violet staircases are not silver rubber frozen radios. Some nocturnal transparent singing spoons are not nocturnal transparent midnight kitchens. All rubber midnight kitchens are rubber singing spoons. Therefore, some nocturnal transparent midnight kitchens are not nocturnal transparent edible constellations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "cd1219ef58853b7ea51eb838676a612c1a6d5187602a4c2a525ab80b0b867133",
+    "syllogism": "Some paper nocturnal curious teapots are not paper nocturnal silver shadows. Some nocturnal silent liquid mountains are not nocturnal silent kitchen moons. Some paper nocturnal curious teapots are not paper nocturnal rainy orchestras. No silent sleeping frozen radios are silent sleeping electric candles. No singing cloudy edible constellations are singing cloudy singing spoons. All marble transparent violins are marble singing ladders. Therefore, some paper nocturnal rainy orchestras are paper nocturnal silver shadows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "51ff28e05d1c66efa4656d67fc41460d731d1fef1e776056b63a943b80396bfd",
+    "syllogism": "Some mirror midnight rainy orchestras are not mirror midnight curious teapots. Some nocturnal marble tidy hurricanes are not nocturnal marble attic festivals. Some ceramic sleeping singing clocks are not ceramic sleeping library windows. No crystal whispering boots are crystal plastic forests. Some clockwork electric mirror planets are clockwork electric velvet equations. Some feathered festival electric candles are not feathered festival frozen radios. Some clockwork electric mirror planets are not clockwork electric copper melodies. Therefore, no clockwork electric copper melodies are clockwork electric velvet equations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "122c7a58169e8e3944abf859f6f8c48b1a754776d3790806803592976be0b1eb",
+    "syllogism": "No archived winter free activities are archived winter online purchases. All small busy coffee breaks are small busy client follow up emails. Some indoor oil change jobs are not indoor vehicle care tasks. No central informal grocery trips are central informal errands. All archived winter online purchases are archived winter bookstore orders. No basic practical vaccination appointments are basic practical animal care visits. All in-person ordinary pepper stews are in-person ordinary savory dishes. Therefore, some archived winter bookstore orders are not archived winter free activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "f9b3eed3232161c0757656e4e7cb58312b15315fb4f5e993c48fa84eae8415d9",
+    "syllogism": "Some public outdoor resource saving actions are public outdoor water conservation habits. Some secondary school portrait shoots are secondary school photography sessions. All archived confirmed driving routines are archived confirmed morning highway commutes. No routine reserved bird feeders are routine reserved aquarium equipment. No public morning exercise sessions are public wellness routines. Some routine reserved aquarium equipment are routine reserved filter pumps. Therefore, no routine reserved filter pumps are routine reserved bird feeders.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "107bdea0da8ee4aa95e6e0db08602781db5ad6b1eeb760c224f003a954d9421a",
+    "syllogism": "Some detailed simple income tax filings are detailed simple tax payments. No regular public transport routes are regular vehicle care tasks. No temporary basic social media posts are temporary basic online interactions. All weekly regional plumbing repairs are weekly regional maintenance reports. All long morning shopping trips are long morning income tax filings. All temporary basic social media posts are temporary basic birthday posts. Therefore, some temporary basic birthday posts are not temporary basic online interactions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "0c7855e5561c6a2ae82a62c29d35a4a06a10509d691aeffe89af599cfb0a0b8c",
+    "syllogism": "Some printed school recall practice sessions are not printed school dog training sessions. Some in-person small official documents are in-person small passport renewals. No daily personal train journeys are daily personal air travel. Some professional outdoor drink orders are not professional outdoor double espresso orders. No daily personal regional rail journeys are daily personal train journeys. Therefore, no daily personal regional rail journeys are daily personal air travel.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "5626580e0edfdcbf98dcd3b6008684e9408847061e50b801df383c0c6566fe7a",
+    "syllogism": "No hollow ceramic curious teapots are hollow ceramic silver shadows. No neon painted wooden oceans are neon painted flying teacups. All hollow ceramic rainy orchestras are hollow ceramic curious teapots. Some electric liquid tidy hurricanes are not electric liquid sleeping lanterns. No feathered library liquid mountains are feathered library kitchen moons. Some electric ceramic edible constellations are not electric ceramic midnight kitchens. Therefore, some hollow ceramic rainy orchestras are not hollow ceramic silver shadows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "bf825bec84eeed8d97d48b690508997b343b488e831602923f5d7ce91bbfcf4d",
+    "syllogism": "Some online movie nights are online entertainment activities. All formal office lunch specials are formal office salad bowls. Some seasonal reserved novels are not seasonal library books. All secondary desserts are secondary chocolate cakes. No secondary birthday menu items are secondary chocolate cakes. Therefore, no secondary birthday menu items are secondary desserts.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "915bbf2f1521c661a03e20bf29a30e53c1eaf307a96a3ad95d5e2b79d62a5c9c",
+    "syllogism": "Some purple transparent midnight kitchens are purple transparent edible constellations. Some rubber transparent edible constellations are not rubber transparent singing spoons. No rubber nocturnal attic festivals are rubber nocturnal tidy hurricanes. No cloudy lunar liquid mountains are cloudy lunar paper shoes. All hollow lunar singing ladders are hollow lunar paper moons. All hollow lunar singing ladders are hollow lunar transparent violins. Therefore, no hollow lunar transparent violins are hollow lunar paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ed4d539ea03e5119f910006388b5b0875ac6c99ecf1beac1ee6807535f4059b1",
+    "syllogism": "No planned permanent public transport routes are planned permanent transport options. Some informal written works are informal novels. Some weekly office relationship messages are not weekly office text messages. All late scheduled training activities are late scheduled dog training sessions. Some weekly office good morning texts are weekly office text messages. Therefore, all weekly office good morning texts are weekly office relationship messages.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "25b6268dd1b0db80dbf7f96c9449110eafc34d0158acaf9363472566641a0958",
+    "syllogism": "All digital closet organizing tasks are digital home maintenance tasks. All outdoor reserved formal ceremonies are outdoor reserved weddings. All regular seasonal veterinary appointments are regular seasonal animal care visits. All late morning double espresso orders are late morning drink orders. All outdoor reserved weddings are outdoor reserved evening receptions. Therefore, some outdoor reserved evening receptions are outdoor reserved formal ceremonies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "b3d6ab95b447c6d00bb224d5bd1deadffc6c08e32086ec843424f3baa5d22c9f",
+    "syllogism": "All floating transparent singing clocks are floating transparent quiet thunderstorms. All marble attic transparent violins are marble attic paper moons. All silver invisible festival baskets are silver invisible wooden oceans. All velvet accordion sleeping lanterns are velvet accordion attic festivals. All floating transparent library windows are floating transparent singing clocks. No purple floating singing ladders are purple floating transparent violins. Therefore, some floating transparent library windows are floating transparent quiet thunderstorms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "9d1f40566c8840072eceb5ab72d31b9cebef6256370e8dab9d173f4aabaeef91",
+    "syllogism": "All family vegetarian meals are family meat dishes. Some spring client follow up emails are not spring email tasks. All family lentil salads are family vegetarian meals. Some ordinary evening coffee breaks are not ordinary evening email tasks. All winter weddings are winter evening receptions. Some outdoor public baked goods are not outdoor public raw foods. Therefore, some family lentil salads are not family meat dishes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "f905705945627eb6440571c4dc0d9639ae5996987ff929d2a54e9f296c27741d",
+    "syllogism": "All triangular electric electric candles are triangular electric frozen radios. Some silver clockwork library windows are silver clockwork singing clocks. Some backward curious teapots are not backward silver shadows. No upside-down tidy hurricanes are upside-down sleeping lanterns. No triangular electric frozen radios are triangular electric violet staircases. No mirror invisible tidy hurricanes are mirror invisible sleeping lanterns. Therefore, some triangular electric violet staircases are not triangular electric electric candles.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ca2058a131972cb2604cee6b8859cfe59c407d290913516aa4201bf0b6655fe9",
+    "syllogism": "Some routine beverages are not routine solid foods. Some long regional dairy cows are long regional barn animals. All routine sandwich orders are routine solid foods. Some advanced weekend recall practice sessions are advanced weekend dog training sessions. Some confirmed career steps are not confirmed job interviews. All detailed salad bowls are detailed vegetarian dishes. Some busy personal board games are not busy personal outdoor hikes. Therefore, all routine sandwich orders are routine beverages.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "b456f84c5fd0dc5b2463ed0cf762fe850fd65341be6952549859b342643b1115",
+    "syllogism": "All crystal cloudy floating teacups are crystal cloudy invisible mittens. No marble rubber curious teapots are marble rubber silver shadows. Some invisible electric paper submarines are not invisible electric ceramic rainbows. No library silver singing clocks are library silver quiet thunderstorms. Some feathered singing ladders are feathered paper moons. No crystal cloudy backward comets are crystal cloudy invisible mittens. Therefore, no crystal cloudy backward comets are crystal cloudy floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "232edd9748da20f3f887b2f71477cfd9c524c585a1b5e136e884defecff001ac",
+    "syllogism": "All temporary large closet organizing tasks are temporary large shelf labeling tasks. Some home home maintenance tasks are not home closet organizing tasks. Some basic planned good morning texts are not basic planned relationship messages. No secondary ordinary daily supplements are secondary ordinary vitamin tablets. Some planned optional airline itineraries are not planned optional multi city itineraries. Some public summer composting habits are not public summer trash disposal. All public summer kitchen scrap collections are public summer composting habits. Therefore, some public summer kitchen scrap collections are public summer trash disposal.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "ae0a7bccaf4d8fa8ac785d35656b09e4d9596fc3d045d9b20f4298f3dace6d16",
+    "syllogism": "No mirror nocturnal quiet thunderstorms are mirror nocturnal library windows. No invisible rubber quiet thunderstorms are invisible rubber singing clocks. All invisible rubber library windows are invisible rubber singing clocks. All transparent backward liquid mountains are transparent backward kitchen moons. No midnight backward edible constellations are midnight backward midnight kitchens. Therefore, some invisible rubber library windows are invisible rubber quiet thunderstorms.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "7352632aab781395d72b8e0c063eba00cbc443b69f7f497e5acf9529cb5ce368",
+    "syllogism": "Some silver feathered paper moons are not silver feathered singing ladders. All singing hollow curious teapots are singing hollow silver shadows. Some liquid floating wooden oceans are not liquid floating flying teacups. All singing floating friendly meteors are singing floating glass bicycles. No purple cloudy transparent violins are purple cloudy paper moons. Some liquid floating festival baskets are liquid floating flying teacups. All silent ceramic rainbows are silent sleeping compasses. Therefore, all liquid floating festival baskets are liquid floating wooden oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "593e69254a440f1f7ecdbcd53f151ac4bf707efef115bd87f8f10c0791e13d5d",
+    "syllogism": "No detailed draft plumbing repairs are detailed draft decor decisions. Some central seasonal bookstore orders are not central seasonal free activities. Some regional family birthday posts are not regional family online interactions. All detailed draft plumbing repairs are detailed draft maintenance reports. Some family professional paper sorting routines are not family professional recycling routines. Therefore, some detailed draft maintenance reports are not detailed draft decor decisions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "30f512b3318cbbe6545fff7f6344d7920b5950cc56c99d4dc8b6b8fe621b6016",
+    "syllogism": "Some long professional cooperative games are long professional interactive games. No updated airline itineraries are updated travel plans. All optional errands are optional weekly shopping trips. No practical informal vaccination appointments are practical informal animal care visits. All updated multi city itineraries are updated airline itineraries. Therefore, no updated multi city itineraries are updated travel plans.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "fd0cf9f29f6faaedf5dba5cbc3841a26b12dfefa9da92526b40487cba47f7484",
+    "syllogism": "Some family neighborhood gentle face washes are not family neighborhood skin care products. Some optional family vitamin tablets are not optional family food groups. Some annual spring cleansers are not annual spring gentle face washes. Some quiet urban vitamin tablets are not quiet urban daily supplements. All optional family vitamin tablets are optional family daily supplements. Therefore, some optional family daily supplements are not optional family food groups.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "83c1750602c497385715578a4b99598ffdeb611bf381b0d7e38d0bc8ed25d72e",
+    "syllogism": "No upside-down purple paper shoes are upside-down purple kitchen moons. Some invisible silent singing clocks are invisible silent library windows. All backward edible constellations are backward midnight kitchens. Some library midnight kitchens are library singing spoons. All liquid clockwork ceramic rainbows are liquid clockwork sleeping compasses. All singing library windows are singing singing clocks. Some liquid clockwork sleeping compasses are liquid clockwork paper submarines. Therefore, some liquid clockwork paper submarines are liquid clockwork ceramic rainbows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4c6481e3406dacf511b274886b5e787a8895155e8ef000ab7694ae63d15c6a31",
+    "syllogism": "Some late outdoor animals are not late garden birds. All large weekly decor decisions are large weekly plumbing repairs. Some large weekly plumbing repairs are large weekly maintenance reports. No summer reserved short shower routines are summer reserved water conservation habits. All approved printed office tasks are approved printed email tasks. All temporary plumbing repairs are temporary leaky faucet repairs. Therefore, some large weekly maintenance reports are not large weekly decor decisions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "38ddf3e5279804ed6b905a7bd80e2e5861aaf45725889696f79dd7330947d53f",
+    "syllogism": "Some evening composting habits are not evening kitchen scrap collections. All budget calendar financial tasks are budget calendar tax payments. All school in-person vegetarian meals are school in-person meat dishes. All school in-person lentil salads are school in-person vegetarian meals. Some indoor student home maintenance tasks are not indoor student shelf labeling tasks. Therefore, some school in-person lentil salads are school in-person meat dishes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "c44469c6f1c2820fec0d7fcb93b19230ea9d5eabc46aef574f97d3e54e8bf924",
+    "syllogism": "All borrowed flying teacups are borrowed festival baskets. Some silent nocturnal quiet thunderstorms are not silent nocturnal singing clocks. Some neon sleeping lanterns are neon tidy hurricanes. All marble attic silver shadows are marble attic curious teapots. No neon sleeping lanterns are neon attic festivals. Some hollow wooden oceans are hollow flying teacups. Therefore, no neon attic festivals are neon tidy hurricanes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "74e25c986271f7eda4ecb9dfc0b65d59c7aa77f9cc17f3e9b6cdc0b6db87c785",
+    "syllogism": "Some sleeping midnight singing ladders are sleeping midnight paper moons. All paper electric candles are paper frozen radios. Some mirror attic festivals are mirror sleeping lanterns. No accordion upside-down sleeping compasses are accordion upside-down ceramic rainbows. Some paper violet staircases are not paper frozen radios. All transparent neon paper submarines are transparent neon ceramic rainbows. All recursive attic festivals are recursive sleeping lanterns. Therefore, some paper violet staircases are not paper electric candles.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "adea0aed8c3ab1c7133775db327df5178565c431abc8ec3199733541536de545",
+    "syllogism": "Some indoor weekly regional rail journeys are not indoor weekly urban trips. No long evening commuting routines are long evening driving routines. No printed large recycling routines are printed large paper sorting routines. Some community secondary local wildlife are not community secondary garden birds. All long evening morning highway commutes are long evening driving routines. Therefore, no long evening morning highway commutes are long evening commuting routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "012addb98eb448717915f6e4991b62fc34a2c2f3bab85276b7b3a1792cda41b0",
+    "syllogism": "No local basic novels are local basic written works. Some updated main leaky faucet repairs are not updated main kitchen sink repairs. Some regional budget ceiling painting jobs are not regional budget painting jobs. All local basic mystery novels are local basic novels. Some office ironing tasks are not office shirt pressing tasks. Therefore, no local basic mystery novels are local basic written works.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "e5243af7fe143764d0f6f2b6626a17f2f0838ab4ee164e60c360ffe460327c32",
+    "syllogism": "Some weekend outdoor grocery trips are weekend outdoor errands. All budget dental checkups are budget annual cleanings. Some temporary water conservation habits are temporary short shower routines. All approved regional financial tasks are approved regional tax payments. Some private resource saving actions are private water conservation habits. No approved regional income tax filings are approved regional tax payments. No in-person reserved solid foods are in-person reserved sandwich orders. Therefore, some approved regional income tax filings are not approved regional financial tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "e828c2f4b5750cc6699ebfaebd561f2961ddf569ac9e0e924f473af7c5fd8baa",
+    "syllogism": "No liquid neon paper moons are liquid neon singing ladders. Some liquid neon singing ladders are liquid neon transparent violins. No marble purple transparent violins are marble purple singing ladders. All velvet accordion liquid mountains are velvet accordion paper shoes. Some purple edible constellations are purple midnight kitchens. No recursive singing paper submarines are recursive singing sleeping compasses. Some painted plastic forests are not painted whispering boots. Therefore, some liquid neon transparent violins are not liquid neon paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "ee2246506fa3f35c2940796c601f2014ed409068d7d21454223cbab5987bf5b9",
+    "syllogism": "No transparent mirror planets are transparent velvet equations. All crystal midnight kitchens are crystal edible constellations. No purple museum pockets are purple whispering boots. No liquid magnetic glass bicycles are liquid magnetic friendly meteors. No painted liquid electric candles are painted liquid frozen radios. Some invisible lunar singing clocks are not invisible lunar quiet thunderstorms. Some painted liquid violet staircases are painted liquid frozen radios. Therefore, some painted liquid violet staircases are painted liquid electric candles.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4ba419b5470c85f211b4ce6a191526d56ac5c8c49f1cc4e39137cc4daa1d088a",
+    "syllogism": "Some rubber paper moons are not rubber singing ladders. Some velvet marble frozen radios are velvet marble violet staircases. Some backward borrowed garden pockets are backward borrowed friendly meteors. Some ceramic silver shadows are ceramic rainy orchestras. No rubber singing ladders are rubber transparent violins. No borrowed magnetic tidy hurricanes are borrowed magnetic attic festivals. Therefore, all rubber transparent violins are rubber paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3bccca0ef1449503bdf8cb230e8a53c5ce63a0f8f90529d37a32613217670f3e",
+    "syllogism": "Some library hollow wooden oceans are library hollow festival baskets. Some lunar mirror planets are lunar velvet equations. No lunar mirror planets are lunar copper melodies. No festival cloudy garden pockets are festival cloudy friendly meteors. All festival transparent violins are festival singing ladders. Therefore, some lunar copper melodies are lunar velvet equations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "98db8b16db60eae58a5a642ac7197cbf5f3e1a1dc6a69dfce9c85cc8e63dd76e",
+    "syllogism": "Some recursive crystal electric candles are recursive crystal frozen radios. No midnight floating rainy orchestras are midnight floating curious teapots. No purple invisible mittens are purple floating teacups. Some velvet festival paper moons are not velvet festival transparent violins. All purple invisible mittens are purple backward comets. Some magnetic backward frozen radios are not magnetic backward electric candles. Therefore, some purple backward comets are not purple floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b9904989d3f8fec321d95d429ccc606f256c7618e0cfa44deb00b69c2317695a",
+    "syllogism": "No formal scheduled recycling routines are formal scheduled environmental habits. All updated monthly aquarium equipment are updated monthly bird feeders. Some basic stormy afternoons are basic weather events. Some weekly travel plans are not weekly multi city itineraries. Some formal scheduled recycling routines are formal scheduled paper sorting routines. Some home coffee orders are home drink orders. Therefore, some formal scheduled paper sorting routines are not formal scheduled environmental habits.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "5b7dcb0d8fc1861ce321ec32e6ba3a81d4414afe822cdbb3425e36727e59cc1f",
+    "syllogism": "Some indoor planning tasks are not indoor release readiness reviews. No online email tasks are online coffee breaks. No quiet temporary tax payments are quiet temporary income tax filings. All common garden birds are common outdoor animals. All online email tasks are online client follow up emails. No private indoor neon tetras are private indoor farm animals. Therefore, no online client follow up emails are online coffee breaks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "a78395d838932b0e4104c4ad41045d7f8e5487f77c44a4164e1b36fa187c12cd",
+    "syllogism": "Some student calendar fictional works are not student calendar documentary films. No practical concerts are practical silent activities. Some practical orchestra concerts are not practical concerts. Some common weekly calendars are common vacation days. All temporary neighborhood transport options are temporary neighborhood night tram lines. Therefore, no practical orchestra concerts are practical silent activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "39f0d93d5891685876602a2d536ad8787c7ce40839a693844969a1d9c34a074c",
+    "syllogism": "Some velvet recursive quiet thunderstorms are velvet recursive library windows. All hollow wooden singing spoons are hollow wooden edible constellations. Some feathered purple rainy orchestras are not feathered purple curious teapots. Some glowing garden silver shadows are not glowing garden curious teapots. Some hollow wooden singing spoons are hollow wooden midnight kitchens. No clockwork midnight curious teapots are clockwork midnight rainy orchestras. No neon purple liquid mountains are neon purple kitchen moons. Therefore, some hollow wooden midnight kitchens are hollow wooden edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "20885fdee319009146cbed14734c995208469662b9ade2356f664bc8058ab277",
+    "syllogism": "Some neighborhood printed nature documentaries are neighborhood printed fictional works. Some early updated income tax filings are early updated financial tasks. No printed community desserts are printed community chocolate cakes. All practical detailed dog training sessions are practical detailed training activities. All in-person early oil change jobs are in-person early car maintenance jobs. No large neighborhood commuting routines are large neighborhood driving routines. Some practical detailed dog training sessions are practical detailed recall practice sessions. Therefore, some practical detailed recall practice sessions are practical detailed training activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "7b71f1ce6c730d5d3dc08a2f7fe8c3c5108d6001b0a62ba59b763bd2488ba1a9",
+    "syllogism": "Some painted purple plastic forests are painted purple museum pockets. Some lunar floating museum pockets are not lunar floating plastic forests. All lunar accordion friendly meteors are lunar accordion glass bicycles. Some triangular clockwork transparent violins are triangular clockwork singing ladders. All lunar accordion glass bicycles are lunar accordion garden pockets. Some garden invisible silver shadows are garden invisible rainy orchestras. Therefore, some lunar accordion garden pockets are not lunar accordion friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "07995ecf56dd68f46d963347b28c20fd48966d0507dbb95a1f138b0585150da2",
+    "syllogism": "No in-person regular spicy curries are in-person regular savory dishes. Some budget meat dishes are not budget vegetarian meals. Some urban weddings are not urban evening receptions. Some online routine annual cleanings are not online routine dental checkups. Some common community animal care visits are common community veterinary appointments. Some in-person regular spicy curries are in-person regular pepper stews. No autumn short workouts are autumn wellness routines. Therefore, some in-person regular pepper stews are not in-person regular savory dishes.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "1b5599f0f52aff5708a2c51055e513da48cbdc8f8b73ce9f156069876e94a986",
+    "syllogism": "Some lunar sleeping midnight kitchens are not lunar sleeping edible constellations. Some silver velvet equations are silver mirror planets. Some paper accordion tidy hurricanes are not paper accordion sleeping lanterns. Some paper wooden whispering boots are paper wooden museum pockets. Some paper accordion attic festivals are not paper accordion sleeping lanterns. Therefore, all paper accordion attic festivals are paper accordion tidy hurricanes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "94e2ee0eb76240baaf4d6f045d36bf4b1a7fffcc3e371981860fed77d7249575",
+    "syllogism": "All attic nocturnal wooden oceans are attic nocturnal flying teacups. No library ceramic rainbows are library sleeping compasses. Some liquid quiet thunderstorms are not liquid library windows. Some midnight singing ladders are midnight paper moons. Some floating clockwork museum pockets are not floating clockwork whispering boots. No library sleeping compasses are library paper submarines. Therefore, some library paper submarines are not library ceramic rainbows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "ad5c97c76ad93fe4486dcb7e01b45db55ed1002d3ebd640ca9637eb9f68ebee1",
+    "syllogism": "All transparent silent sleeping compasses are transparent silent ceramic rainbows. No liquid paper moons are liquid singing ladders. No attic recursive plastic forests are attic recursive museum pockets. Some garden wooden oceans are not garden festival baskets. All liquid transparent violins are liquid singing ladders. All backward glowing backward comets are backward glowing floating teacups. Some sleeping backward singing ladders are not sleeping backward transparent violins. Therefore, some liquid transparent violins are not liquid paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "054d83f18b8e916569ec9d80fa9cc9f356633c4b4727cf3ba7f13827171ade63",
+    "syllogism": "Some neighborhood airline itineraries are neighborhood multi city itineraries. Some planned detailed house pets are not planned detailed indoor cats. No planned drink orders are planned coffee orders. All planned coffee orders are planned double espresso orders. All simple formal health appointments are simple formal annual cleanings. All budget common vacation days are budget common weekly calendars. Therefore, some planned double espresso orders are not planned drink orders.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "54bb3951f3e73eba08da7b9c2b15f64e5a204abeb754d5a46e9398f6f8aec239",
+    "syllogism": "All backward cloudy quiet thunderstorms are backward cloudy singing clocks. No accordion attic ceramic rainbows are accordion attic paper submarines. Some backward cloudy library windows are not backward cloudy singing clocks. No feathered edible constellations are feathered midnight kitchens. All velvet festival sleeping compasses are velvet festival paper submarines. Therefore, some backward cloudy library windows are not backward cloudy quiet thunderstorms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "37aa9f49f15e7cf4a8030859674dbde0309028b022c0f295acdb22651a1bc892",
+    "syllogism": "All silent invisible glass bicycles are silent invisible friendly meteors. Some silent invisible glass bicycles are not silent invisible garden pockets. Some midnight library festival baskets are midnight library wooden oceans. All backward glowing singing spoons are backward glowing midnight kitchens. No cloudy violet staircases are cloudy frozen radios. Therefore, all silent invisible garden pockets are silent invisible friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "3668871aecb448e7e9883c8f424730d729c3251de4003319586725b93f4cd262",
+    "syllogism": "Some late spring documentary films are late spring fictional works. All late spring documentary films are late spring nature documentaries. Some main neighborhood aquarium fish are main neighborhood farm animals. Some neighborhood public evening receptions are neighborhood public weekday errands. No basic dairy cows are basic farm animals. Some public seasonal video games are public seasonal cooperative games. Therefore, no late spring nature documentaries are late spring fictional works.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "4cf771ea1dc0da8d6ff30c05bdccb9f1598fb6088742abfde48780f62370ff2b",
+    "syllogism": "No borrowed backward sleeping lanterns are borrowed backward tidy hurricanes. No glowing magnetic singing ladders are glowing magnetic paper moons. Some glowing magnetic transparent violins are glowing magnetic singing ladders. No electric backward comets are electric floating teacups. No sleeping electric plastic forests are sleeping electric whispering boots. No magnetic frozen radios are magnetic violet staircases. Some painted transparent midnight kitchens are not painted transparent singing spoons. Therefore, some glowing magnetic transparent violins are not glowing magnetic paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "664ccf40823f5b8ad88206dfe004317f3fc3b1eb9bce7e42a47189c97ebd43b9",
+    "syllogism": "No transparent magnetic sleeping lanterns are transparent magnetic tidy hurricanes. No backward floating teacups are backward backward comets. Some library backward comets are library invisible mittens. Some transparent magnetic attic festivals are transparent magnetic sleeping lanterns. No glowing wooden oceans are glowing flying teacups. All sleeping paper backward comets are sleeping paper invisible mittens. Therefore, some transparent magnetic attic festivals are not transparent magnetic tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "017c36ff02b8d5d85c3a3840c823d35842407f2110324a83b1592e53b72d6a30",
+    "syllogism": "All glowing borrowed silver shadows are glowing borrowed rainy orchestras. All silver festival baskets are silver flying teacups. Some painted rubber friendly meteors are not painted rubber glass bicycles. No borrowed silver violet staircases are borrowed silver electric candles. All neon hollow tidy hurricanes are neon hollow sleeping lanterns. No neon hollow attic festivals are neon hollow sleeping lanterns. No hollow garden singing ladders are hollow garden paper moons. Therefore, no neon hollow attic festivals are neon hollow tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "53bfc4d961509b28e5fc6b8031e4fdc5534c4b2b3289e52164c2a66b696cc155",
+    "syllogism": "No triangular lunar museum pockets are triangular lunar plastic forests. Some transparent curious teapots are transparent silver shadows. No feathered painted edible constellations are feathered painted singing spoons. All transparent curious teapots are transparent rainy orchestras. No upside-down kitchen moons are upside-down liquid mountains. Some sleeping backward paper submarines are sleeping backward ceramic rainbows. Some mirror paper submarines are mirror sleeping compasses. Therefore, some transparent rainy orchestras are transparent silver shadows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "8e81a18d52e4c8d87386073c73018bb069295965b28c575d414aa2af7b79ebb0",
+    "syllogism": "Some library floating midnight kitchens are not library floating edible constellations. Some rubber curious teapots are not rubber silver shadows. No rubber curious teapots are rubber rainy orchestras. Some liquid floating flying teacups are not liquid floating wooden oceans. Some silver wooden invisible mittens are silver wooden floating teacups. Some crystal sleeping compasses are crystal ceramic rainbows. Therefore, some rubber rainy orchestras are rubber silver shadows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "462b36fec2c399ac16d4b622effe2c77fbb9c310caced4605ec4559b569e4b87",
+    "syllogism": "No winter private free activities are winter private online purchases. Some winter private bookstore orders are not winter private online purchases. Some student early sourdough loaves are not student early prepared foods. Some ordinary shared composting habits are not ordinary shared kitchen scrap collections. No formal city travel plans are formal public transport routes. Therefore, some winter private bookstore orders are not winter private free activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "241cf9dd48f9d8f92005ded685b4b380a7641d099048f2290b82e4c803d60cd3",
+    "syllogism": "All planned baked goods are planned raw foods. No home online aquarium equipment are home online filter pumps. Some scheduled draft health appointments are not scheduled draft dental checkups. All professional transport options are professional night tram lines. All large outdoor chores are large shirt pressing tasks. Some planned baked goods are planned rye loaves. Therefore, some planned rye loaves are planned raw foods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "6bf2adbcf4c2b4981f54df890be46f5069320e9a114fbb9b6f9ae1d2e90bc611",
+    "syllogism": "No printed local video games are printed local interactive games. No outdoor approved trash disposal are outdoor approved kitchen scrap collections. All budget simple veterinary appointments are budget simple animal care visits. No budget simple vaccination appointments are budget simple veterinary appointments. No autumn barber appointments are autumn medical treatments. Some online practical social media posts are not online practical online interactions. No long aquarium equipment are long filter pumps. Therefore, some budget simple vaccination appointments are budget simple animal care visits.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "12c7038f658a5d00a65593441c543c51f99664c5be593ec6b660defb1d627dd6",
+    "syllogism": "Some glowing frozen radios are not glowing electric candles. Some paper garden curious teapots are not paper garden silver shadows. All hollow paper moons are hollow singing ladders. Some hollow transparent violins are not hollow singing ladders. Some invisible wooden frozen radios are invisible wooden violet staircases. Therefore, some hollow transparent violins are not hollow paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "2b4c738eb25d34d24894db25dd8981fc4e135392f9cf0a2ccbe8686c5d01e864",
+    "syllogism": "No marble borrowed wooden oceans are marble borrowed flying teacups. All marble borrowed festival baskets are marble borrowed flying teacups. Some nocturnal singing clocks are nocturnal library windows. Some paper borrowed backward comets are paper borrowed floating teacups. All glowing festival baskets are glowing wooden oceans. All sleeping neon friendly meteors are sleeping neon garden pockets. Therefore, no marble borrowed festival baskets are marble borrowed wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "6e7deb2b97fbf9712e3b14756ac009157dbfafa3fade4f2e63b7c8d76d6bb7da",
+    "syllogism": "No optional airline itineraries are optional bike rides. Some approved outdoor online purchases are approved outdoor bookstore orders. No ordinary regional salad bowls are ordinary regional lunch specials. All confirmed indoor solid foods are confirmed indoor sandwich orders. Some optional multi city itineraries are optional airline itineraries. Some public autumn multi city itineraries are not public autumn bike rides. Some practical seasonal conditions are not practical snowfall warnings. Therefore, all optional multi city itineraries are optional bike rides.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "4ec0701257749098d37e3cc858513918bd0aa3b5e0d7d31ecf501ffd079607cf",
+    "syllogism": "All marble lunar rainy orchestras are marble lunar silver shadows. Some silent lunar plastic forests are not silent lunar whispering boots. All silent lunar museum pockets are silent lunar whispering boots. All lunar electric mirror planets are lunar electric copper melodies. No sleeping paper submarines are sleeping sleeping compasses. Some silver garden midnight kitchens are silver garden singing spoons. Therefore, no silent lunar museum pockets are silent lunar plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "77aa96a30b5cd50212bbb041c48efa5f27f5cf63c40539a6e8a41248bb744cca",
+    "syllogism": "No recursive kitchen moons are recursive liquid mountains. Some wooden glass bicycles are wooden garden pockets. No nocturnal mirror wooden oceans are nocturnal mirror flying teacups. Some cloudy purple kitchen moons are not cloudy purple paper shoes. Some backward triangular rainy orchestras are backward triangular silver shadows. Some nocturnal mirror flying teacups are nocturnal mirror festival baskets. Therefore, some nocturnal mirror festival baskets are not nocturnal mirror wooden oceans.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "5dd816f3b63bbc7484b7d3104d0e9319ca1768159d144e788d169c477289263e",
+    "syllogism": "Some small family exercise sessions are not small family sleep periods. No large school resource saving actions are large school water conservation habits. All large school water conservation habits are large school short shower routines. Some formal neon tetras are formal farm animals. Some advanced formal wild animals are advanced formal house pets. All daily creative hobbies are daily portrait shoots. Therefore, no large school short shower routines are large school resource saving actions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "22a70b65acba96af7b4d034e521d496435197b98fba718c4b25a23c4fa5102e4",
+    "syllogism": "No velvet upside-down sleeping lanterns are velvet upside-down tidy hurricanes. Some neon velvet equations are not neon mirror planets. Some hollow copper sleeping compasses are hollow copper ceramic rainbows. All festival quiet thunderstorms are festival library windows. No festival borrowed mirror planets are festival borrowed velvet equations. Some festival borrowed copper melodies are festival borrowed mirror planets. No electric upside-down singing clocks are electric upside-down library windows. Therefore, some festival borrowed copper melodies are not festival borrowed velvet equations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "7cc802c9768bc9ae443a9b4f0bb61d8014bb03c54cbca273d06f0aed10e81faa",
+    "syllogism": "All library glowing glass bicycles are library glowing garden pockets. No rubber liquid friendly meteors are rubber liquid glass bicycles. Some sleeping hollow wooden oceans are not sleeping hollow festival baskets. All rubber transparent kitchen moons are rubber transparent paper shoes. Some rubber liquid garden pockets are rubber liquid glass bicycles. Some transparent sleeping lanterns are transparent attic festivals. Therefore, some rubber liquid garden pockets are not rubber liquid friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "117d6b4be88a7e4828bce03376cefe6d74343d3faf5f644c5a94ee9214c13423",
+    "syllogism": "No rubber triangular singing ladders are rubber triangular paper moons. No library edible constellations are library singing spoons. All clockwork singing spoons are clockwork edible constellations. No library glowing edible constellations are library glowing midnight kitchens. Some singing cloudy frozen radios are not singing cloudy violet staircases. All library midnight kitchens are library singing spoons. Therefore, some library midnight kitchens are not library edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "e99553db14944230329a4d3b9975af2cdfed768d408c8ea3999b4b6ff3905fa0",
+    "syllogism": "No monthly archived health appointments are monthly archived dental checkups. Some personal online shopping orders are personal online purchases. No busy ironing tasks are busy outdoor chores. All regular apartment chore lists are regular garden chores. No regional home projects are regional painting jobs. All busy shirt pressing tasks are busy ironing tasks. All private aquarium equipment are private filter pumps. Therefore, some busy shirt pressing tasks are not busy outdoor chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "f654ffecb291ca3c9687c826c678ad44383abb50e5f2304b27b930f7dd8dc083",
+    "syllogism": "Some rubber purple glass bicycles are not rubber purple friendly meteors. No rubber purple garden pockets are rubber purple glass bicycles. All attic neon midnight kitchens are attic neon edible constellations. Some singing glowing sleeping lanterns are singing glowing attic festivals. Some nocturnal clockwork whispering boots are not nocturnal clockwork plastic forests. Therefore, some rubber purple garden pockets are rubber purple friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "288fec5c17f0a4044015dc2c81570f054e3d26ef3426788c503cb5d64483bb38",
+    "syllogism": "Some autumn private relationship messages are autumn private good morning texts. No spring small deadline reviews are spring small planning tasks. All spring small release readiness reviews are spring small deadline reviews. Some optional wellness routines are not optional morning exercise sessions. All online archived composting habits are online archived kitchen scrap collections. Therefore, all spring small release readiness reviews are spring small planning tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "2069f7c867cbe4aeb679fb8eef0bc38bb8bafcf00bacfe8bdb3974ac13bb1b01",
+    "syllogism": "All copper purple singing clocks are copper purple quiet thunderstorms. All copper purple library windows are copper purple singing clocks. Some floating attic festivals are not floating sleeping lanterns. Some library triangular midnight kitchens are library triangular edible constellations. All singing neon paper submarines are singing neon ceramic rainbows. Some backward sleeping electric candles are not backward sleeping frozen radios. Therefore, some copper purple library windows are copper purple quiet thunderstorms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "d3cfe2947a3b136c3ff9dd7aa82b5a1e3f08be481d4461e3aa44572f3411ceaa",
+    "syllogism": "All sleeping singing clocks are sleeping library windows. Some singing magnetic plastic forests are singing magnetic whispering boots. All silent midnight kitchens are silent singing spoons. Some triangular backward midnight kitchens are not triangular backward edible constellations. All singing magnetic whispering boots are singing magnetic museum pockets. All triangular paper invisible mittens are triangular paper backward comets. Therefore, all singing magnetic museum pockets are singing magnetic plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "555d45164350dcc5f4b4e917afc9d819223fe13cb02beff76ce11827e4e988d0",
+    "syllogism": "All formal autumn house pets are formal autumn indoor cats. Some late remote work schedules are late hybrid Friday schedules. No busy library books are busy borrowed items. All scheduled neighborhood prepared foods are scheduled neighborhood bakery items. All busy reserved novels are busy library books. All family approved snowfall warnings are family approved winter weather patterns. No shared family birthday posts are shared family online interactions. Therefore, some busy reserved novels are not busy borrowed items.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "e615ced2d8543e324d13fa8a8c220f1271eb540aecf1e77518cc9a47b1f65c39",
+    "syllogism": "No digital garden chores are digital vacuuming tasks. No annual ironing tasks are annual outdoor chores. Some main scheduled protective habits are not main scheduled beach day routines. Some digital vacuuming tasks are digital apartment chore lists. Some confirmed daily travel plans are not confirmed daily multi city itineraries. Therefore, some digital apartment chore lists are not digital garden chores.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "301523dcd71d38ccb506c440e9d78cba8e805c402a6f3c2f800a2573ff63d456",
+    "syllogism": "Some weekly approved driving routines are not weekly approved morning highway commutes. Some school budget work arrangements are not school budget remote work schedules. All school budget hybrid Friday schedules are school budget remote work schedules. No spring seasonal concerts are spring seasonal public performances. Some office school vacuuming tasks are office school cleaning jobs. Therefore, some school budget hybrid Friday schedules are school budget work arrangements.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "a01f22078fe047db0a8def387cc96f9542b91713d0ce904049cd9978abb5b4ce",
+    "syllogism": "All silver triangular tidy hurricanes are silver triangular sleeping lanterns. All wooden singing glass bicycles are wooden singing friendly meteors. Some midnight triangular midnight kitchens are midnight triangular edible constellations. All floating garden kitchen moons are floating garden paper shoes. Some silver triangular attic festivals are not silver triangular sleeping lanterns. Some accordion paper submarines are not accordion ceramic rainbows. Therefore, some silver triangular attic festivals are not silver triangular tidy hurricanes.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "bf0cb3d30565fb7917ef69a111a5a22eb6c2a8e2b72c4ce3ccbfd7b6a06fa022",
+    "syllogism": "Some annual spring library books are not annual spring personal possessions. All annual spring reserved novels are annual spring library books. Some autumn urban dry conditions are autumn urban rainy days. Some main mystery novels are not main novels. All family home ironing tasks are family home outdoor chores. Therefore, all annual spring reserved novels are annual spring personal possessions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "74e5d25920d8ef970e9a5fc10b01e7537f7df63b3e981197abf270a49c95e8d2",
+    "syllogism": "Some feathered marble sleeping lanterns are not feathered marble tidy hurricanes. All wooden sleeping paper shoes are wooden sleeping liquid mountains. Some paper accordion quiet thunderstorms are paper accordion singing clocks. Some transparent sleeping compasses are not transparent ceramic rainbows. All transparent paper shoes are transparent kitchen moons. All transparent paper submarines are transparent sleeping compasses. Some velvet floating midnight kitchens are velvet floating edible constellations. Therefore, no transparent paper submarines are transparent ceramic rainbows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "1cd4802059a641c1a53cdd1a2fdb12a0167dccb0db88b15f29fc44104ba64b2a",
+    "syllogism": "Some budget legal contracts are budget friendly texts. Some recurring confirmed garden birds are not recurring confirmed local wildlife. Some budget friendly texts are budget small talk messages. All student weekend training activities are student weekend recall practice sessions. Some morning evening yoga sessions are not morning evening evening stretches. Some digital online purchases are not digital online shopping orders. Therefore, some budget small talk messages are not budget legal contracts.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "cf7174ca49f4ee6d0f8d5d788203ebbf8278f2557cfe83d83e36a9b0ac0ab347",
+    "syllogism": "No magnetic singing ladders are magnetic paper moons. No mirror marble plastic forests are mirror marble museum pockets. No electric velvet festival baskets are electric velvet wooden oceans. Some magnetic transparent violins are magnetic singing ladders. No neon festival baskets are neon flying teacups. Therefore, some magnetic transparent violins are not magnetic paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "703076b562fe2fc46c4c8b7bc16ff4ab79ddae064b509a587a33a59ee164c137",
+    "syllogism": "Some outdoor common final round interviews are not outdoor common career steps. Some annual double espresso orders are annual drink orders. Some in-person central silent activities are not in-person central orchestra concerts. No approved personal office tasks are approved personal email tasks. All approved personal client follow up emails are approved personal email tasks. No public vehicle care tasks are public public transport routes. Some early team schedules are early deadline reviews. Therefore, no approved personal client follow up emails are approved personal office tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "d2c19c729d5f312b931c91fd6d576f6d68494d3d1117779899b7ffa361994e50",
+    "syllogism": "Some community practical reserved novels are community practical personal possessions. All monthly scheduled online purchases are monthly scheduled free activities. No outdoor bike rides are outdoor multi city itineraries. All central annual stormy afternoons are central annual rainy days. No archived private veterinary appointments are archived private vaccination appointments. All monthly scheduled bookstore orders are monthly scheduled online purchases. Some reserved monthly rainy days are reserved monthly stormy afternoons. Therefore, all monthly scheduled bookstore orders are monthly scheduled free activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "c0861ed0f3fb2d21e0f42599bba035dc5047402eb53b468ba0529ba2a1fd5bb5",
+    "syllogism": "All accordion festival mirror planets are accordion festival velvet equations. Some purple electric candles are not purple frozen radios. All purple transparent whispering boots are purple transparent plastic forests. Some neon copper friendly meteors are not neon copper glass bicycles. No neon copper glass bicycles are neon copper garden pockets. No copper library windows are copper singing clocks. Therefore, some neon copper garden pockets are not neon copper friendly meteors.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "4e55aca8d66b17fe4ddf1ba7d55a89d494c27c4ad4938458f9521f03fe36adfa",
+    "syllogism": "Some sleeping recursive curious teapots are sleeping recursive rainy orchestras. No nocturnal invisible singing ladders are nocturnal invisible paper moons. Some floating marble wooden oceans are floating marble flying teacups. Some mirror neon rainy orchestras are mirror neon curious teapots. All nocturnal invisible transparent violins are nocturnal invisible singing ladders. Therefore, some nocturnal invisible transparent violins are not nocturnal invisible paper moons.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "943dcd928f6dca1ed8cf011d7c7583f14056060e8e3f2c9b0da7ffa7e6a688cb",
+    "syllogism": "All neighborhood weekly relaxation practices are neighborhood weekly yoga sessions. No local rainy days are local dry conditions. Some permanent neighborhood recall practice sessions are permanent neighborhood dog training sessions. Some formal late medical treatments are not formal late barber appointments. All local rainy days are local stormy afternoons. Some updated weekend lentil salads are updated weekend meat dishes. All in-person busy board games are in-person busy outdoor hikes. Therefore, some local stormy afternoons are local dry conditions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "c616f1b93e0990407843d38e3a17f52f227f17f2669248bbe6e11890016d5f8b",
+    "syllogism": "Some in-person multi city itineraries are in-person travel plans. All school family reserved novels are school family library books. All advanced waste reduction practices are advanced composting habits. All updated busy public posts are updated busy birthday posts. No advanced kitchen scrap collections are advanced composting habits. Some winter neighborhood income tax filings are winter neighborhood shopping trips. No planned lentil salads are planned vegetarian meals. Therefore, some advanced kitchen scrap collections are not advanced waste reduction practices.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "88632482e7db7d1155d7d479c74691af092a993339483da802f02995ea117324",
+    "syllogism": "Some office confirmed vehicle care tasks are office confirmed public transport routes. Some spring morning workouts are spring exercise sessions. Some office confirmed public transport routes are office confirmed city travel plans. No formal beach day routines are formal sunscreen applications. Some advanced release readiness reviews are not advanced planning tasks. All autumn temporary dairy cows are autumn temporary barn animals. Some scheduled composting habits are scheduled trash disposal. Therefore, some office confirmed city travel plans are office confirmed vehicle care tasks.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "7862f46cd4c43fc8fc7523ebab950a82641bf2d8894f03647aab099f8bb35462",
+    "syllogism": "Some neighborhood wild animals are not neighborhood indoor cats. Some digital home maintenance tasks are not digital shelf labeling tasks. Some neighborhood email tasks are not neighborhood client follow up emails. All common regional air travel are common regional train journeys. All common regional train journeys are common regional regional rail journeys. Therefore, some common regional regional rail journeys are common regional air travel.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "9f871e4667a3d8f3391777197398ab43eed9e8b7d1814e285d109b78ca5f109e",
+    "syllogism": "All ordinary weather events are ordinary rainy days. Some basic approved summer heatwaves are basic approved winter weather patterns. All regular quiet office meetings are regular quiet work activities. Some recurring job interviews are not recurring final round interviews. No weekday private photography sessions are weekday private creative hobbies. All regular quiet office meetings are regular quiet budget review meetings. Therefore, some regular quiet budget review meetings are not regular quiet work activities.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "63aefe66e08d33ecbbbbb01b966cdac619fe4accd8a00b83d4a1017425625a09",
+    "syllogism": "Some copper singing paper moons are not copper singing singing ladders. Some library singing floating teacups are library singing invisible mittens. No crystal wooden sleeping lanterns are crystal wooden tidy hurricanes. All festival backward sleeping lanterns are festival backward tidy hurricanes. Some copper singing transparent violins are not copper singing singing ladders. Therefore, some copper singing transparent violins are not copper singing paper moons.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "df06581bcbbe776dea64d41fda349aea4352f23661c2e62303f8fb6125d7e053",
+    "syllogism": "No permanent autumn office meetings are permanent autumn vacation days. All approved autumn cleansers are approved autumn gentle face washes. No local coffee breaks are local email tasks. No spring solid foods are spring beverages. No outdoor household chores are outdoor laundry tasks. Some spring solid foods are not spring sandwich orders. Therefore, all spring sandwich orders are spring beverages.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "27b5127f7a81e6b358c39f0e25bef505c67aa38fa81d9e819393a48c56597949",
+    "syllogism": "All garden sleeping ceramic rainbows are garden sleeping paper submarines. All mirror accordion friendly meteors are mirror accordion garden pockets. All silent copper glass bicycles are silent copper friendly meteors. All silent copper glass bicycles are silent copper garden pockets. Some library painted rainy orchestras are not library painted silver shadows. Therefore, some silent copper garden pockets are silent copper friendly meteors.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "219deca2e2abfec99acb5fab530ab0b0f473a320465ad53a3acd9ad4cac52671",
+    "syllogism": "All main client follow up emails are main coffee breaks. Some detailed morning plumbing repairs are not detailed morning decor decisions. Some detailed morning maintenance reports are detailed morning plumbing repairs. Some updated cooperative games are not updated interactive games. Some personal professional animal care visits are personal professional veterinary appointments. Therefore, all detailed morning maintenance reports are detailed morning decor decisions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "49b1eb3d202d859ae38e47409bae5bdfec012d353aaa649ac96cbe9614f3bc76",
+    "syllogism": "Some calendar in-person tax payments are calendar in-person income tax filings. Some family home tax filings are not family home shopping trips. Some regular haircuts are regular medical treatments. Some late personal hobbies are not late team schedules. Some advanced salad bowls are not advanced vegetarian dishes. No autumn permanent social events are autumn permanent surprise parties. Some advanced lunch specials are advanced salad bowls. Therefore, no advanced lunch specials are advanced vegetarian dishes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "3c26db89b5ba7ae82ad6f5336c0f72b0c3859c6444960da6db450a1c1f534b69",
+    "syllogism": "Some purple hollow singing spoons are not purple hollow edible constellations. Some transparent magnetic quiet thunderstorms are transparent magnetic singing clocks. Some transparent plastic forests are transparent whispering boots. All purple hollow singing spoons are purple hollow midnight kitchens. No hollow purple rainy orchestras are hollow purple silver shadows. Therefore, some purple hollow midnight kitchens are not purple hollow edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": "492b1be9a88f98888c4282882a13635cab7e3591b0bab302d457e1eb4d8ba152",
+    "syllogism": "Some early weekday bookstore orders are not early weekday free activities. No public savory dishes are public spicy curries. Some public spicy curries are public pepper stews. Some evening school environmental habits are evening school paper sorting routines. Some formal deadline reviews are formal personal hobbies. Some in-person central silent activities are not in-person central orchestra concerts. No draft confirmed aquarium equipment are draft confirmed filter pumps. Therefore, all public pepper stews are public savory dishes.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "d69cec850647bce62b1d4779689f30364328f9316531c8fe89f6d8aa8793209f",
+    "syllogism": "Some secondary vacuuming tasks are not secondary cleaning jobs. Some quiet formal health appointments are not quiet formal annual cleanings. All community neighborhood evening receptions are community neighborhood weekday errands. Some local weekday rainy days are local weekday stormy afternoons. All informal mystery novels are informal novels. Some large public performances are large orchestra concerts. Some secondary hallway vacuuming tasks are secondary vacuuming tasks. Therefore, some secondary hallway vacuuming tasks are not secondary cleaning jobs.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "058093be90363cca4c51fd6091ee96d258a7ba06c9b39cd33789a103cc4b4ebe",
+    "syllogism": "No glowing borrowed singing spoons are glowing borrowed edible constellations. Some hollow wooden oceans are hollow flying teacups. All library rubber flying teacups are library rubber wooden oceans. All accordion silent backward comets are accordion silent invisible mittens. Some library liquid sleeping lanterns are not library liquid attic festivals. No electric plastic forests are electric whispering boots. Some electric museum pockets are electric whispering boots. Therefore, some electric museum pockets are not electric plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "a1d666e43e6db124c1185f4969e6b0be69edd0128fefaa7fb97c1b652c53a5d3",
+    "syllogism": "Some short morning ironing tasks are short morning outdoor chores. All shared updated board games are shared updated strategy games. All ordinary sleep periods are ordinary exercise sessions. No reserved central holiday meals are reserved central family dinners. All autumn advanced novels are autumn advanced written works. No ordinary morning workouts are ordinary exercise sessions. All archived central leaky faucet repairs are archived central kitchen sink repairs. Therefore, no ordinary morning workouts are ordinary sleep periods.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "9f2d34f9285af97ce28a4f57e11f3ac5c2abefa1c4857e3ba7b8d897d4b9363f",
+    "syllogism": "Some weekly calendar grocery trips are weekly calendar errands. All quiet secondary training activities are quiet secondary recall practice sessions. Some formal archived sourdough loaves are not formal archived bakery items. All confirmed basic fictional works are confirmed basic documentary films. Some long hallway vacuuming tasks are long vacuuming tasks. All confirmed basic documentary films are confirmed basic nature documentaries. Therefore, some confirmed basic nature documentaries are confirmed basic fictional works.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "56818fe03f8b5d4e8adc184aef54226f52bd4fa65a761d4229412c4b53affe06",
+    "syllogism": "Some short planned errands are short planned grocery trips. Some shared online outdoor animals are shared online garden birds. All short planned grocery trips are short planned weekly shopping trips. Some updated small cleaning jobs are updated small hallway vacuuming tasks. Some draft email tasks are not draft office tasks. Therefore, some short planned weekly shopping trips are short planned errands.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "149f2da24e949c56275d4cd45673ca53b5056664319c3ae169c64a47498a4bc2",
+    "syllogism": "Some purple singing electric candles are not purple singing frozen radios. Some purple singing violet staircases are not purple singing frozen radios. Some mirror painted paper submarines are mirror painted ceramic rainbows. Some velvet garden pockets are velvet glass bicycles. Some silent purple frozen radios are not silent purple electric candles. Therefore, some purple singing violet staircases are purple singing electric candles.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "af921c2f18d43262b236e464860dfca520f8bf5eae790cf11718b4623cfaa012",
+    "syllogism": "No borrowed garden transparent violins are borrowed garden singing ladders. Some silver midnight library windows are silver midnight singing clocks. Some clockwork mirror velvet equations are clockwork mirror mirror planets. Some clockwork mirror copper melodies are clockwork mirror mirror planets. All magnetic backward singing ladders are magnetic backward paper moons. Some neon recursive tidy hurricanes are neon recursive attic festivals. No liquid neon silver shadows are liquid neon curious teapots. Therefore, some clockwork mirror copper melodies are clockwork mirror velvet equations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "d1343c947e0abb7be247d41110f3e25b04ae946abb13c4d2da7176186db30ff4",
+    "syllogism": "Some weekly basic vacation days are not weekly basic office meetings. Some weekly basic weekly calendars are not weekly basic office meetings. No common in-person novels are common in-person written works. All weekend community borrowed items are weekend community library books. All online permanent friendly texts are online permanent legal contracts. Therefore, all weekly basic weekly calendars are weekly basic vacation days.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "3396ff6b79bb17fa9887f1ea59a60313f3b4a55b8b792aefb2f2bf116b5870c9",
+    "syllogism": "All invisible festival invisible mittens are invisible festival floating teacups. No recursive silent singing spoons are recursive silent edible constellations. Some invisible quiet thunderstorms are invisible singing clocks. All garden floating teacups are garden invisible mittens. Some lunar festival tidy hurricanes are not lunar festival attic festivals. All invisible festival backward comets are invisible festival invisible mittens. Therefore, all invisible festival backward comets are invisible festival floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "bf71c3dde2c6f4f4847b8b10aaf8919e05699ac39281779abdfe3f792c1d1ff8",
+    "syllogism": "All summer secondary dog training sessions are summer secondary recall practice sessions. No annual evening home projects are annual evening painting jobs. All basic vaccination appointments are basic veterinary appointments. Some annual evening ceiling painting jobs are annual evening painting jobs. Some approved indoor budget review meetings are approved indoor work activities. No daily morning written works are daily morning mystery novels. Therefore, no annual evening ceiling painting jobs are annual evening home projects.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "eef4280de87d10480edb2050a98bd1f76d90a18d311fca051f74203bd65ac2ae",
+    "syllogism": "Some basic approved private conversations are basic approved public posts. Some practical protective habits are practical beach day routines. Some busy sleep periods are not busy morning workouts. All secondary calendar outdoor chores are secondary calendar ironing tasks. Some private routine adopted animals are private routine shelter cats. All basic approved public posts are basic approved birthday posts. Therefore, some basic approved birthday posts are basic approved private conversations.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "e74458b084f8f4bbd210b0c6205f801f7a6a9e7b53de4f293f8379d0afedcb51",
+    "syllogism": "Some crystal singing glass bicycles are not crystal singing garden pockets. Some velvet mirror invisible mittens are velvet mirror floating teacups. Some midnight plastic forests are not midnight whispering boots. Some purple liquid paper shoes are not purple liquid kitchen moons. Some midnight museum pockets are midnight whispering boots. Some wooden paper submarines are wooden ceramic rainbows. All festival borrowed sleeping compasses are festival borrowed paper submarines. Therefore, some midnight museum pockets are midnight plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "1484daf60b68e1afea5a6b77fb862f39519b45db8f9f0ee112881f665ccc8fb2",
+    "syllogism": "Some student strategy games are not student outdoor hikes. All common morning vehicle care tasks are common morning car maintenance jobs. No calendar daily client follow up emails are calendar daily office tasks. Some common morning oil change jobs are not common morning car maintenance jobs. All annual permanent coffee breaks are annual permanent client follow up emails. Some home weekday vehicle care tasks are not home weekday car maintenance jobs. Therefore, some common morning oil change jobs are not common morning vehicle care tasks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "2687652fb2bdfca2120136fec3d2b3fc8e43507ba4cba1986073ece8b565223c",
+    "syllogism": "Some formal solid foods are formal sandwich orders. No private ordinary dog training sessions are private ordinary recall practice sessions. No office paper sorting routines are office environmental habits. No indoor summer weddings are indoor summer formal ceremonies. All indoor summer weddings are indoor summer evening receptions. Therefore, some indoor summer evening receptions are not indoor summer formal ceremonies.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "f26c5a672d67cea15e5fa75b4e8b7ffc73560265ccf7c10ee449604b20f2e398",
+    "syllogism": "All evening budget outdoor animals are evening budget local wildlife. No digital chocolate cakes are digital desserts. No in-person commuting routines are in-person driving routines. All in-person driving routines are in-person morning highway commutes. No daily detailed release readiness reviews are daily detailed deadline reviews. Therefore, some in-person morning highway commutes are not in-person commuting routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "e942bdcd0250130838d75e953cafcebe06a2183d5bc549f7dcfeebf8a9d16f02",
+    "syllogism": "All evening pets are evening shelter cats. Some regular urban personal possessions are regular urban library books. All regular urban reserved novels are regular urban library books. Some archived seasonal bird feeders are archived seasonal filter pumps. Some urban evening portrait shoots are not urban evening photography sessions. No daily evening night tram lines are daily evening transport options. Therefore, no regular urban reserved novels are regular urban personal possessions.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "376ef6eea111d90ee64c68f300e7d1e972617d5cda0eee9f974a58b6e1a108a5",
+    "syllogism": "Some triangular sleeping invisible mittens are not triangular sleeping backward comets. Some nocturnal paper wooden oceans are not nocturnal paper flying teacups. No nocturnal paper flying teacups are nocturnal paper festival baskets. All lunar rainy orchestras are lunar silver shadows. No borrowed nocturnal paper moons are borrowed nocturnal transparent violins. Some recursive quiet thunderstorms are recursive library windows. Therefore, no nocturnal paper festival baskets are nocturnal paper wooden oceans.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "e75aa28608370c2ecbade24954c2bd4c1fc4bfae6c2cc67e1217748eedfd2ca9",
+    "syllogism": "All floating mirror flying teacups are floating mirror festival baskets. Some singing invisible frozen radios are not singing invisible electric candles. No hollow singing spoons are hollow edible constellations. All transparent accordion glass bicycles are transparent accordion friendly meteors. All velvet glowing curious teapots are velvet glowing silver shadows. All velvet glowing rainy orchestras are velvet glowing curious teapots. Therefore, some velvet glowing rainy orchestras are not velvet glowing silver shadows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "6de8043ac16e9eb63e6785bdf3a42030efe538592926558490213fd87a420065",
+    "syllogism": "All routine professional plumbing repairs are routine professional maintenance reports. All large printed local wildlife are large printed outdoor animals. Some morning wedding events are not morning evening receptions. Some optional client follow up emails are not optional email tasks. All large printed garden birds are large printed local wildlife. Therefore, some large printed garden birds are large printed outdoor animals.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "361047651f1cd124a38999e5ec704144fe11a7a84feb64f759919410fb9002b4",
+    "syllogism": "No electric mirror plastic forests are electric mirror whispering boots. No midnight backward velvet equations are midnight backward copper melodies. All garden floating festival baskets are garden floating wooden oceans. Some glowing velvet equations are not glowing copper melodies. Some magnetic crystal mirror planets are not magnetic crystal velvet equations. Some electric mirror whispering boots are not electric mirror museum pockets. Therefore, some electric mirror museum pockets are not electric mirror plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "adbf3c4d12de47a59a75e8bc05da6eef8625139d08517590c115e2dec3320499",
+    "syllogism": "All quiet winter library books are quiet winter personal possessions. All simple decor decisions are simple maintenance reports. All quiet winter library books are quiet winter reserved novels. Some budget small train journeys are not budget small urban trips. Some student urban aquarium equipment are not student urban filter pumps. Therefore, some quiet winter reserved novels are quiet winter personal possessions.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "07ab167fcfbb39dc44cdbfa35c7a047565eacac0deba9ccfe73100fefa808764",
+    "syllogism": "All festival clockwork midnight kitchens are festival clockwork edible constellations. All wooden ceramic quiet thunderstorms are wooden ceramic singing clocks. All cloudy feathered flying teacups are cloudy feathered festival baskets. No floating sleeping compasses are floating ceramic rainbows. All wooden ceramic singing clocks are wooden ceramic library windows. No liquid silver museum pockets are liquid silver whispering boots. Therefore, some wooden ceramic library windows are wooden ceramic quiet thunderstorms.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "fadd1e2b93527138df88b3e03f051c47b27dee8718f58bf5099c97a198e0bf02",
+    "syllogism": "All liquid crystal mirror planets are liquid crystal velvet equations. All electric paper submarines are electric sleeping compasses. Some recursive glowing paper shoes are recursive glowing liquid mountains. All liquid crystal copper melodies are liquid crystal mirror planets. Some mirror wooden oceans are mirror flying teacups. Some electric transparent violins are not electric paper moons. Therefore, no liquid crystal copper melodies are liquid crystal velvet equations.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "36efb216e62394e7191ea8845510a6764b4df0e447d4c0dccdcdfa051e7bc758",
+    "syllogism": "Some weekend family email tasks are weekend family client follow up emails. Some central dog training sessions are central training activities. All central dog training sessions are central recall practice sessions. No professional summer baked goods are professional summer rye loaves. Some long indoor online interactions are long indoor social media posts. Some digital public client follow up emails are not digital public coffee breaks. All weekend late sourdough loaves are weekend late bakery items. Therefore, some central recall practice sessions are central training activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "b3cdfa151acb921c2dc663813a8e892c8f3d5bf3eda46dca713243f26b50b462",
+    "syllogism": "No mirror singing ladders are mirror transparent violins. No painted recursive singing ladders are painted recursive paper moons. All wooden velvet velvet equations are wooden velvet copper melodies. No hollow attic plastic forests are hollow attic whispering boots. All hollow attic museum pockets are hollow attic whispering boots. Therefore, no hollow attic museum pockets are hollow attic plastic forests.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "5c1c2a9d0ccc3771e20909f5ab2781c4d3345b3aa5c5e3e737ad679a4e61cabc",
+    "syllogism": "All private in-person email tasks are private in-person coffee breaks. Some quiet errands are not quiet grocery trips. Some private in-person email tasks are private in-person client follow up emails. All public autumn dental checkups are public autumn health appointments. Some large apartment chore lists are not large vacuuming tasks. Some office vehicle care tasks are not office oil change jobs. Therefore, some private in-person client follow up emails are private in-person coffee breaks.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "9784f6f051cb0fcadc1cbf0fddbb847d92c089f0211232dd748c9d64c91a607c",
+    "syllogism": "Some sleeping library rainy orchestras are sleeping library silver shadows. No library nocturnal singing spoons are library nocturnal edible constellations. Some library nocturnal singing spoons are library nocturnal midnight kitchens. Some wooden paper backward comets are wooden paper floating teacups. All wooden backward comets are wooden floating teacups. Some cloudy nocturnal flying teacups are not cloudy nocturnal festival baskets. Therefore, some library nocturnal midnight kitchens are not library nocturnal edible constellations.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "a624318143fb7fab95f017aeda8abece05502397379267b47c26dd7d294e70d0",
+    "syllogism": "All home community veterinary appointments are home community animal care visits. Some autumn public performances are not autumn concerts. Some quiet formal local wildlife are quiet formal garden birds. All weekly late health appointments are weekly late dental checkups. No weekly late annual cleanings are weekly late dental checkups. Therefore, some weekly late annual cleanings are not weekly late health appointments.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "8eb1184e41bf1e48803c2f702a81b435825ff75883a0a416762b4a1b64a1c135",
+    "syllogism": "Some printed text messages are printed good morning texts. Some archived weekend beach day routines are archived weekend sunscreen applications. All archived vaccination appointments are archived veterinary appointments. All personal planned office meetings are personal planned work activities. Some regular ordinary weather events are not regular ordinary stormy afternoons. All personal planned office meetings are personal planned budget review meetings. Some advanced portrait shoots are not advanced photography sessions. Therefore, some personal planned budget review meetings are personal planned work activities.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "b9ebb49f73fba59892368b86c49e57cd7efd7ad11e8b23e4e327ae124fd1d911",
+    "syllogism": "Some digital winter weather patterns are not digital summer heatwaves. All autumn quiet trash disposal are autumn quiet composting habits. No main mystery novels are main novels. All secondary small recall practice sessions are secondary small training activities. Some seasonal weekly shopping trips are not seasonal grocery trips. No calendar weekday trash disposal are calendar weekday composting habits. All digital snowfall warnings are digital winter weather patterns. Therefore, no digital snowfall warnings are digital summer heatwaves.",
+    "validity": false,
+    "plausibility": true,
+    "relevant_premises": []
+  },
+  {
+    "id": "3845f5137b440df8dc5c447b8368af112d43707058b414c3528e3b0724179a9b",
+    "syllogism": "Some feathered cloudy paper submarines are feathered cloudy sleeping compasses. Some velvet violet staircases are velvet electric candles. No clockwork invisible mittens are clockwork floating teacups. No rubber edible constellations are rubber singing spoons. Some clockwork invisible mittens are clockwork backward comets. All invisible transparent friendly meteors are invisible transparent glass bicycles. Therefore, some clockwork backward comets are not clockwork floating teacups.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "b3bfe67f8dd57356004eb3660e660634bcf334dbddec0e97c3952485c42fc9bb",
+    "syllogism": "Some early daily supplements are not early vitamin tablets. No urban morning exercise sessions are urban wellness routines. No basic indoor solid foods are basic indoor sandwich orders. All urban short workouts are urban morning exercise sessions. Some updated lentil salads are not updated vegetarian meals. Some quiet pets are not quiet adopted animals. Some annual school online purchases are annual school bookstore orders. Therefore, some urban short workouts are not urban wellness routines.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "17716c4bd0c1dd4ec228d266cce6e2ef41eb5bfeec8ce76b879f6e4e6b14baad",
+    "syllogism": "All library nocturnal paper shoes are library nocturnal kitchen moons. No silver sleeping compasses are silver ceramic rainbows. Some marble sleeping copper melodies are marble sleeping mirror planets. Some lunar wooden wooden oceans are not lunar wooden flying teacups. Some silver paper submarines are silver sleeping compasses. Therefore, some silver paper submarines are not silver ceramic rainbows.",
+    "validity": true,
+    "plausibility": false,
+    "relevant_premises": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "ed4e2d16b080857c6dea25b32abf9ed6e185066c1d70ad49fd9271bcac8608b0",
+    "syllogism": "Some purple silent sleeping lanterns are purple silent tidy hurricanes. All recursive nocturnal plastic forests are recursive nocturnal museum pockets. Some ceramic quiet thunderstorms are ceramic library windows. No purple silent attic festivals are purple silent sleeping lanterns. Some glowing ceramic floating teacups are not glowing ceramic invisible mittens. No magnetic recursive wooden oceans are magnetic recursive flying teacups. Therefore, no purple silent attic festivals are purple silent tidy hurricanes.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "51d364bcc5d3dc0d87f3e8704f72f377dd1e5da79713fb7c71ba9df49667487d",
+    "syllogism": "All recurring annual bookstore orders are recurring annual online purchases. No office formal entertainment activities are office formal movie nights. All annual long aquarium equipment are annual long bird feeders. Some office central stormy afternoons are office central dry conditions. All advanced scheduled home projects are advanced scheduled painting jobs. All annual long filter pumps are annual long aquarium equipment. Therefore, all annual long filter pumps are annual long bird feeders.",
+    "validity": true,
+    "plausibility": true,
+    "relevant_premises": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "4648591b5e6bbeae0fe8c7b44c92f9e5ef705817cccb64ced89090096d1ada75",
+    "syllogism": "No painted transparent wooden oceans are painted transparent flying teacups. Some electric silver shadows are not electric curious teapots. All painted liquid paper moons are painted liquid singing ladders. No painted hollow floating teacups are painted hollow backward comets. All electric curious teapots are electric rainy orchestras. Some liquid silver shadows are not liquid rainy orchestras. Therefore, no electric rainy orchestras are electric silver shadows.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  },
+  {
+    "id": "60400e7e32711416e429142a9540663039d0bfb4d8963a3a033a784ea7fa163f",
+    "syllogism": "Some ceramic midnight attic festivals are not ceramic midnight sleeping lanterns. All library electric candles are library frozen radios. All painted quiet thunderstorms are painted singing clocks. Some marble hollow plastic forests are not marble hollow whispering boots. All sleeping crystal edible constellations are sleeping crystal midnight kitchens. All lunar triangular mirror planets are lunar triangular copper melodies. All marble hollow whispering boots are marble hollow museum pockets. Therefore, all marble hollow museum pockets are marble hollow plastic forests.",
+    "validity": false,
+    "plausibility": false,
+    "relevant_premises": []
+  }
+]
