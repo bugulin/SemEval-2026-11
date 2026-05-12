@@ -1,7 +1,7 @@
 #!/bin/bash
-#PBS -N npfl140_training
+#PBS -N npfl140_evaluation
 #PBS -l select=1:ncpus=1:ngpus=1:mem=32gb:gpu_mem=24gb:scratch_local=64gb
-#PBS -l walltime=3:00:00
+#PBS -l walltime=20:00:00
 
 ## JOB SETTINGS
 REPOSITORY="https://github.com/bugulin/SemEval-2026-11"

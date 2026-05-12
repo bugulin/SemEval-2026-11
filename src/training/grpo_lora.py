@@ -121,7 +121,7 @@ def fine_tune(
             per_device_train_batch_size=8,
             gradient_accumulation_steps=4,
             learning_rate=2e-4,
-            num_train_epochs=2,
+            num_train_epochs=4,
             logging_steps=1,
             fp16=not torch.cuda.is_bf16_supported(),
             bf16=torch.cuda.is_bf16_supported(),
