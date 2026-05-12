@@ -67,7 +67,8 @@ def validity_reward(completions, validity, **kwargs) -> list[float]:
     """
     rewards = []
     for completion, is_valid in zip(completions, validity):
-        text = completion[0]["content"].strip().lower()
+        # strip whitespace and the period of the last sentence
+        text = completion[0]["content"].strip().strip(".").lower()
         last_sentence = text.split(".")[-1] if "." in text else text
         predictions = {
             True: re.search(r"\bvalid\b", last_sentence),

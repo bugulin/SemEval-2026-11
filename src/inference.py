@@ -87,6 +87,6 @@ class PeftThinkingSyllogismSolver(SyllogismSolver):
         super().__init__(prompt_path="solver_thinking.j2", model=model, tokenizer=tokenizer)
 
     def _extract_validity(self, answer: str) -> bool:
-        answer = answer.strip()
+        answer = answer.strip().strip(".").lower()
         last_sentence = answer.split(".")[-1]
         return re.search(r"\bvalid\b", last_sentence) is not None
