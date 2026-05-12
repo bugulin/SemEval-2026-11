@@ -7,7 +7,7 @@
 REPOSITORY="https://github.com/bugulin/SemEval-2026-11"
 BRANCH="main"
 # arguments passed to src/cli.py
-SCRIPT_ARGS="fine-tune --thinking --dataset data/1/train_data.json --output-repo Jajasek/llama-3.1-syllogism-grpo-lora"
+SCRIPT_ARGS="fine-tune --thinking --dataset datasets/train.json --output-repo Jajasek/llama-3.1-syllogism-grpo-lora"
 # Optional: path to the file containing the huggingface token, relative to the directory from which the job is submitted
 HF_TOKEN_RELATIVE_PATH=".hf_token"
 OUTPUT_DIRECTORY="${PBS_O_WORKDIR}/${PBS_JOBNAME}.${PBS_JOBID}"
