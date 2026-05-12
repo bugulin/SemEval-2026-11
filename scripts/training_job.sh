@@ -5,7 +5,7 @@
 
 ## JOB SETTINGS
 REPOSITORY="https://github.com/bugulin/SemEval-2026-11"
-BRANCH="main"
+BRANCH="jachym-fine-tuning"
 # arguments passed to src/cli.py
 SCRIPT_ARGS="fine-tune --thinking --dataset datasets/train.json --output-repo Jajasek/llama-3.1-syllogism-grpo-lora"
 # Optional: path to the file containing the huggingface token, relative to the directory from which the job is submitted
