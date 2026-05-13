@@ -13,16 +13,27 @@ from typing import Any, Iterable, Literal
 """
 Deterministic Subtask 2 syllogism generator.
 
-Goal:
+Goals:
 - generate Subtask 2 examples without local/api LLM calls.
-- keep validity labels correct by construction
-- add irrelevant premises and compute zero-based relevant_premises mechanically
-- output JSON and optionally JSONL
+- keep synthetic validity labels correct by formal model checking.
+- add irrelevant premises and compute zero based relevant_premises mechanically.
+- support both fully synthetic examples and UFAL derived examples with injected distractors.
+- reduce shortcut prone surface patterns by using varied categorical and conclusion templates.
+- output JSON, optionally JSONL, plus audit and metadata rich files.
 
 This intentionally does not ask a language model whether a syllogism is valid.
-The generator chooses a formal schema first, then fills it with natural terms.
 
-Formal convention used internally:
+For synthetic examples, the generator chooses a formal A/E/I/O schema first,
+model checks its validity under the selected semantics, then realizes it as
+natural language premises and a conclusion.
+
+For UFAL integrated examples, the generator preserves the original UFAL
+two premise syllogism and label, optionally swaps the two core premises,
+injects unrelated synthetic distractors, and computes relevant_premises after
+placement. UFAL examples are not formally re-parsed into A/E/I/O. Their labels
+come from the cleaned UFAL dataset.
+
+Formal convention used internally for synthetic examples:
 - Forms: A/E/I/O
   A(S, P): All S are P.
   E(S, P): No S are P.
@@ -34,21 +45,39 @@ Formal convention used internally:
   2: major P-M, minor S-M, conclusion S-P
   3: major M-P, minor M-S, conclusion S-P
   4: major P-M, minor M-S, conclusion S-P
+
+Figure 4 is defined internally for the later modern 4 figure convention.
+
+Semantics:
+- modern: evaluate validity over all Boolean models of S/P/M.
+- aristotelian: evaluate validity only over models where S, P, and M are all
+  nonempty. This gives the traditional existential-import behavior and makes
+  E/I conversion symmetric while preserving A/O directionality.
+
+Invalid schemata are not manually listed. The synthetic schema catalog is built
+by enumerating all A/E/I/O mood triples for the selected figures and
+model checking each one. classify_invalid_schema() only assigns a fallacy label
+to schemas already determined invalid.
 """
 
 """
 ARGUMENTS:
 
--n / --count              number of examples
--p / --premises           one or more premise counts
---seed                    reproducible generation
---semantics               modern or aristotelian
--o / --output             main JSON output
---jsonl-output            optional JSONL output
---audit-output            audit report path
---metadata-output         metadata rich output path
---include-metadata        include metadata directly in main JSON
---no-id                   omit id fields
+-n / --count              number of examples to generate
+-p / --premises           one or more target premise counts, e.g. -p 2 3 4 5 6 7
+--seed                    random seed for reproducible generation
+--semantics               validity semantics: modern or aristotelian
+--figures                 syllogistic figures to use, e.g. --figures 1 2 3
+--style                   surface style: canonical, varied, or mixed
+--source-mode             data source: synthetic, ufal, or mixed
+--ufal-input              path to cleaned UFAL train set for ufal/mixed mode
+--ufal-ratio              fraction of examples generated from UFAL in mixed mode
+-o / --output             main JSON output path
+--jsonl-output            optional JSONL output path
+--audit-output            audit report output path
+--metadata-output         metadata-rich JSON output path
+--include-metadata        include metadata directly in the main JSON output
+--no-id                   omit id fields from generated examples
 """
 
 Form = Literal["A", "E", "I", "O"]
