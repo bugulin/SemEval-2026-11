@@ -1,0 +1,4699 @@
+[
+  {
+    "id": "2e2e3a19-2008-49b2-a982-4a61b629861f",
+    "syllogism": "All sugar is chocolate. All butter is chocolate. Therefore, all sugar is butter.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "sugar": "a",
+      "chocolate": "b",
+      "butter": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b27bbe3f-9b33-45b1-a519-6a1a5c1546b6",
+    "syllogism": "No ovens are furnaces. All chimineas are furnaces. Therefore, no ovens are chimineas.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "oven": "a",
+      "furnace": "b",
+      "chiminea": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "27dd5946-a3be-45d8-8f16-dfe335d3243c",
+    "syllogism": "No bakery cakes are bread. All library books are bakery cakes. Therefore, no library books are bread.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "bakery": "a",
+      "bread": "b",
+      "library": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "886a98b5-b69b-406f-8ab1-f71196264704",
+    "syllogism": "No cakes are vegetables. No loaves are cakes. Therefore, no loaves are vegetables.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "cake": "a",
+      "vegetable": "b",
+      "loave": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "af703f9d-8758-45ed-b2be-d74e392f0a09",
+    "syllogism": "All sugar is bread. Some bread are ovens. Therefore, some ovens are sugar.",
+    "formal_language": "premise_1: Aab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "sugar": "a",
+      "bread": "b",
+      "oven": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f0ed6c9d-44b1-4f78-94d0-1d6a1e4ba67c",
+    "syllogism": "No yeast breads are gluten-free. Some whole grain breads are yeast breads. Therefore, some whole grain breads are not gluten-free.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "yeast": "a",
+      "gluten-free": "b",
+      "whole": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6ccd0602-e3c4-43de-89c6-f23948383dbf",
+    "syllogism": "No wheat flour is gluten-free. Some baking powders are not wheat flour. Therefore, some baking powders are not gluten-free.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Ocb",
+    "term_mapping": {
+      "wheat": "a",
+      "gluten-free": "b",
+      "baking": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f0f0f664-6731-4095-8e44-fed0ce03f6d3",
+    "syllogism": "No yeast are fruits. Some grains are yeast. Therefore, all grains are fruits.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "yeast": "a",
+      "fruit": "b",
+      "grain": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "057c2c56-219c-45de-b2b3-d6d56d668745",
+    "syllogism": "All fire trucks are red. All strawberries are red. Therefore, all fire trucks are strawberries.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "fire": "a",
+      "red": "b",
+      "strawberry": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "aa58608b-556c-4b5d-8625-fff792b9ba8a",
+    "syllogism": "No vegetables are spicy. All peppers are spicy. Therefore, no peppers are vegetables.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "vegetable": "a",
+      "spicy": "b",
+      "pepper": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0a18eb42-43c5-449a-8d3a-e7ad2002a305",
+    "syllogism": "No stars are hot. All lava flows are considered stars. Therefore, no lava flows are hot.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "star": "a",
+      "hot": "b",
+      "lava": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "90397679-ac7b-4245-a7ce-5bb37fb3b1dd",
+    "syllogism": "No salads are spicy. No drinks are salads. Therefore, no drinks are spicy.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "salad": "a",
+      "spicy": "b",
+      "drink": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3bcc431d-5c40-4bdb-ad9d-b69a58fe07a8",
+    "syllogism": "No penguins are hot foods. No hot foods are fruits. Therefore, no penguins are fruits.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "penguin": "a",
+      "hot": "b",
+      "fruit": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "cb0ec949-9be9-4817-b8f6-9cb21408f876",
+    "syllogism": "No fruits are spicy. Some vegetables are fruits. Therefore, some vegetables are not spicy.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "fruit": "a",
+      "spicy": "b",
+      "vegetable": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "70ae200e-5f91-47b2-99c4-c3a171d67d29",
+    "syllogism": "No spicy foods are desserts. Some dishes are spicy foods. Therefore, all dishes are not desserts.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ecb",
+    "term_mapping": {
+      "spicy": "a",
+      "dessert": "b",
+      "dishe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "fe02806b-da1f-44b4-811e-c09a1c7248a0",
+    "syllogism": "No ferns are spicy. Some vegetables are ferns. Therefore, all vegetables are spicy.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "fern": "a",
+      "spicy": "b",
+      "vegetable": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4248518d-013c-47be-977b-d1b5987c5212",
+    "syllogism": "All rainbows are snacks. All breakfast cereals are snacks. Therefore, all breakfast cereals are rainbows.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "rainbow": "a",
+      "snack": "b",
+      "breakfast": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ed7b0074-1fff-46dc-beea-3c8642be10e9",
+    "syllogism": "No morning is after lunch. All coffees are morning. Therefore, no coffees are after lunch.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "morning": "a",
+      "after": "b",
+      "coffee": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "118a33e3-6bc2-4cb6-85cf-e2beeb41a0dd",
+    "syllogism": "No cromulernons are morning coffee. All aliens are morning coffee. Therefore, no cromulernons are aliens.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "cromulernon": "a",
+      "morning": "b",
+      "alien": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "30e96511-ccc5-40de-9786-c7884b9fffe7",
+    "syllogism": "No morning people are nighttime owls. No nighttime owls are caffeine users. Therefore, some caffeine users are morning people.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Ica",
+    "term_mapping": {
+      "morning": "a",
+      "nighttime": "b",
+      "caffeine": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5c9aa3d3-4af9-4a48-90c1-2e073c2bfc22",
+    "syllogism": "No coffee cups are furniture. No furniture are beverages. Therefore, no coffee cups are beverages.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "coffee": "a",
+      "furniture": "b",
+      "beverage": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c3ed724c-8531-4d88-aca7-6aaff912040a",
+    "syllogism": "No coffee is decaf. Some drinks are decaf. Therefore, some drinks are not coffee.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "coffee": "a",
+      "decaf": "b",
+      "drink": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3872195e-9981-4e08-b291-ea7d01fc55ca",
+    "syllogism": "No drinks are stimulating. Some morning routines are drinks. Therefore, some morning routines are not stimulating.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "drink": "a",
+      "stimulating": "b",
+      "morning": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "b2a15acf-8c82-4a54-849f-1b0774af9823",
+    "syllogism": "No mugs are paper objects. Some mugs are cups. Therefore, some cups are not paper objects.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Ocb",
+    "term_mapping": {
+      "mug": "a",
+      "paper": "b",
+      "cup": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c7918e67-fec2-4ef4-bfa1-964ef44e50c1",
+    "syllogism": "All plants are vegetarian organisms. All seahorses are plant types. Therefore, all seahorses are vegetarian organisms.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "plant": "a",
+      "vegetarian": "b",
+      "seahorse": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3b8adc10-d5b0-4ff0-9aa8-86f61251eb1b",
+    "syllogism": "All carrots are fruits. All fruits are healthy. Therefore, all carrots are healthy.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "carrot": "a",
+      "fruit": "b",
+      "healthy": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "cee5bd00-c6ad-44ee-b09c-74dd6ce38c97",
+    "syllogism": "All cars are plants. All tires are plants. therefore, all tires are cars.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "car": "a",
+      "plant": "b",
+      "tire": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6300de83-c557-42e7-9fae-4b911d2efda9",
+    "syllogism": "No trees are animals. All cats are animals. Therefore, no trees are cats.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "tree": "a",
+      "animal": "b",
+      "cat": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6d318322-b2bb-4757-8dde-7ee441685e19",
+    "syllogism": "No dogs are vegetables. No vegetables are fruits. Therefore, no dogs are fruits.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "vegetable": "b",
+      "fruit": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "50288e93-3c85-4097-94a0-21fa00f39b63",
+    "syllogism": "No dogs are vegetables. No vegetables are astronauts. Therefore, no dogs are astronauts.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "vegetable": "b",
+      "astronaut": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "592cf160-b427-451f-95e5-3c45b2fbeae1",
+    "syllogism": "Some vegetarians are dogs. Some dogs are doctors. Therefore, some vegetarians are doctors.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "vegetarian": "a",
+      "dog": "b",
+      "doctor": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3376567c-02c6-45c4-96a2-292e5c3c0460",
+    "syllogism": "No meat is vegetarian food. Some meals are meat. Therefore, some meals are not vegetarian food.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "meat": "a",
+      "vegetarian": "b",
+      "meal": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4272c892-0209-441b-a960-69ed03e8e3a4",
+    "syllogism": "No vegetables are toxic. Some foods are not vegetables. Therefore, some foods are not toxic.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Ocb",
+    "term_mapping": {
+      "vegetable": "a",
+      "toxic": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1e292fc5-014d-4166-b98d-09716302e259",
+    "syllogism": "No vegetables are meat-eaters. Some vegetarians are vegetables. Therefore, some vegetarians are not meat-eaters.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "vegetable": "a",
+      "meat-eater": "b",
+      "vegetarian": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "d9122686-f273-4964-b9bb-e39c51560f85",
+    "syllogism": "No rabbits are carnivores. Some pets are carnivores. Therefore, all pets are rabbits.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "rabbit": "a",
+      "carnivore": "b",
+      "pet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e6e198cb-2a6c-4505-b93b-4f8d3fadafbe",
+    "syllogism": "All steaks are proteins. all proteins are nutrients. Therefore, all steaks are nutrients.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "steak": "a",
+      "protein": "b",
+      "nutrient": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "dc9827fc-7295-4794-af2d-b7bc3990efd5",
+    "syllogism": "All steaks are iron. All spatulas are steaks. Therefore, all spatulas are iron.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "steak": "a",
+      "iron": "b",
+      "spatula": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "5a3fc4c9-27fb-4eae-9678-3b1c66f3e46b",
+    "syllogism": "All steaks are cooked. All steaks are meals. Therefore, all meals are cooked.",
+    "formal_language": "premise_1: Aab, premise_2: Aac, conclusion: Acb",
+    "term_mapping": {
+      "steak": "a",
+      "cooked": "b",
+      "meal": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a218af4d-87b5-4748-9de3-8cf680200102",
+    "syllogism": "All steaks are diamonds. all diamonds are bicycles. Therefore, all steaks are bicycles.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "steak": "a",
+      "diamond": "b",
+      "bicycle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "74106f22-d220-4e6a-b7ba-9514290a52d2",
+    "syllogism": "No grills are ovens. All kitchen tools are ovens. Therefore, no kitchen tools are grills.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "grill": "a",
+      "oven": "b",
+      "kitchen": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0968fc24-3411-43f8-8a5b-3d32416876cd",
+    "syllogism": "No steak are vegetables. No vegetables are minerals. Therefore, no minerals are steak.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "steak": "a",
+      "vegetable": "b",
+      "mineral": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "08e302ce-c74f-409c-9571-e9e33a5f1d43",
+    "syllogism": "No cows are steak. No steak is food. Therefore, no cows are food.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "cow": "a",
+      "steak": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1c0bcf19-7284-4e04-9b07-2fc2bf84f307",
+    "syllogism": "No vegetables are bad for grilling. Some steaks are vegetables. Therefore, some steaks are not bad for grilling.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "vegetable": "a",
+      "bad": "b",
+      "steak": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f0ef2ea8-7414-4bd0-819e-6475f7896b08",
+    "syllogism": "No steak is a side dish. Some entrees are not steaks. Therefore, some entrees are not side dishes.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Ocb",
+    "term_mapping": {
+      "steak": "a",
+      "side": "b",
+      "entree": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "985d4757-9a39-485c-a066-a679dc08e855",
+    "syllogism": "No steaks are cooked. Some foods are steaks. Therefore, all foods are cooked.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "steak": "a",
+      "cooked": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "05c0be8b-8dbf-440d-b1e9-2af562d665b1",
+    "syllogism": "No steaks are cooked. Some foods are cooked. Therefore, all foods are steaks.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "steak": "a",
+      "cooked": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f37c699d-d8f6-4a29-9e0b-a12b1468fa64",
+    "syllogism": "All sandwiches are food. All desserts are food. Therefore, all desserts are sandwiches.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "sandwiche": "a",
+      "food": "b",
+      "dessert": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2996ea70-ba68-4ab6-a8d2-523bb460898a",
+    "syllogism": "All bananas are fruits. All tables are fruits. therefore, all tables are bananas.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "banana": "a",
+      "fruit": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b8a99e39-7fc9-4d2a-a527-331e94d09d5e",
+    "syllogism": "No servers are managerial staff. All bartenders are managerial staff. Therefore, no servers are bartenders.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "server": "a",
+      "managerial": "b",
+      "bartender": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8e5dcc6a-e1b6-4aaa-8ebd-c865ed969f15",
+    "syllogism": "No restaurants are diners. All buffets are restaurants. Therefore, no buffets are diners.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "restaurant": "a",
+      "diner": "b",
+      "buffet": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "41408f81-e067-40b2-8c0d-29b700f97d2f",
+    "syllogism": "No customers are kitchen staff. No kitchen staff are tables. Therefore, no tables are customers.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "customer": "a",
+      "kitchen": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "994d1ab4-2894-43ff-a726-60908129383e",
+    "syllogism": "No pizzas are soups. No soups are burgers. Therefore, no burgers are pizzas.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "pizza": "a",
+      "soup": "b",
+      "burger": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "dca15794-6f9b-417a-8a42-44b82f3d6d62",
+    "syllogism": "Some servers are fast. Some fast people are chefs. Therefore, some chefs are servers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "server": "a",
+      "fast": "b",
+      "chef": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9b35d5ec-2930-41f9-9c08-3e813fb4ffeb",
+    "syllogism": "No entrees are dessert items. Some specials are dessert items. Therefore, some specials are not entrees.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "entree": "a",
+      "dessert": "b",
+      "special": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1fb8be23-c239-4306-9bca-e59672696ae9",
+    "syllogism": "No appetizers are vegetarian. Some main courses are vegetarian. Therefore, some main courses are not appetizers.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "appetizer": "a",
+      "vegetarian": "b",
+      "main": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "b028208c-285b-4bbb-834d-eae5106f5af3",
+    "syllogism": "No servers are managers. Some managers are chefs. Therefore, some chefs are servers.",
+    "formal_language": "premise_1: Eab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "server": "a",
+      "manager": "b",
+      "chef": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "60cc3613-36d9-46c9-a4b8-c25de98210f4",
+    "syllogism": "No vegetables are preferred by dessert lovers. Some foods are vegetables. Therefore, all foods are preferred by dessert lovers.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "vegetable": "a",
+      "preferred": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4fe61822-6f83-4e72-888b-c03207e5623c",
+    "syllogism": "All fresh herbs are plants. All basil are fresh herbs. Therefore, all basil are plants.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "fresh": "a",
+      "plant": "b",
+      "basil": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1a2bccde-4e11-414a-a5a2-fbe3eaa40748",
+    "syllogism": "All televisions are fresh herbs. all cars are fresh herbs. Therefore, all cars are televisions.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "television": "a",
+      "fresh": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e9aeff63-a0dd-48c3-87ad-5822bfd62fe8",
+    "syllogism": "No herbs are chemicals. All fresh herbs are herbs. Therefore, no fresh herbs are chemicals.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "herb": "a",
+      "chemical": "b",
+      "fresh": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e331575b-c0b3-4bc9-b5e4-cc646fe9c5c5",
+    "syllogism": "No wildflowers are flowers cultivated in gardens. All herbs are flowers cultivated in gardens. Therefore, no herbs are wildflowers.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "wildflower": "a",
+      "flower": "b",
+      "herb": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "9777a593-b44e-48fa-a977-2df2e94f4b1b",
+    "syllogism": "No bananas are fresh herbs. No fresh herbs are vegetables. Therefore, some vegetables are bananas.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Ica",
+    "term_mapping": {
+      "banana": "a",
+      "fresh": "b",
+      "vegetable": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c333b38a-fcd1-44af-bf4b-1933c5f2e8f5",
+    "syllogism": "All fresh herbs are plants. Some vegetables are fresh herbs. Therefore, some vegetables are plants.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "fresh": "a",
+      "plant": "b",
+      "vegetable": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "b9426b55-5181-4326-b7ff-79afa1764482",
+    "syllogism": "All crystals are fresh herbs. Some medicines are crystals. Therefore, some medicines are fresh herbs.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "crystal": "a",
+      "fresh": "b",
+      "medicine": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "43200c5f-c289-473d-a745-681a165d30e6",
+    "syllogism": "Some fresh herbs are spices. Some spices are flowering plants. Therefore, some flowering plants are fresh herbs.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "fresh": "a",
+      "spice": "b",
+      "flowering": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b976f069-cef7-40c3-9cff-b975bfdc0c84",
+    "syllogism": "Some fresh herbs are carrots. Some carrots are electronic devices. Therefore, some fresh herbs are electronic devices.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "fresh": "a",
+      "carrot": "b",
+      "electronic": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9a6c795e-fb3b-4918-a20a-8b8b0bbf7e89",
+    "syllogism": "No fresh herbs are perishable. Some kitchen staples are fresh herbs. Therefore, some kitchen staples are not perishable.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "fresh": "a",
+      "perishable": "b",
+      "kitchen": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e8fe287c-9eb7-44b2-bded-6a14131cc432",
+    "syllogism": "No flowers are pesticides. Some fresh herbs are flowers. Therefore, some fresh herbs are not pesticides.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "flower": "a",
+      "pesticide": "b",
+      "fresh": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c244c016-595a-4ddb-90f4-d9e3bb61516f",
+    "syllogism": "No edible plants are toxic. Some herb plants are not edible. Therefore, all herb plants are toxic.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Acb",
+    "term_mapping": {
+      "edible": "a",
+      "toxic": "b",
+      "herb": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "df62e547-a1a2-4579-843f-32964cc101ea",
+    "syllogism": "No flowers are fresh. All plants are flowers. Therefore, all plants are not fresh.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "flower": "a",
+      "fresh": "b",
+      "plant": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4ce62429-9b77-4232-8e8c-be3067072451",
+    "syllogism": "All fast food is expensive. All airplanes are fast food. Therefore, all airplanes are expensive.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "fast": "a",
+      "expensive": "b",
+      "airplane": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f6789fa6-a006-4195-be2c-f13bb51afb55",
+    "syllogism": "All burgers are fast food. All bicycles are fast food. Therefore, all bicycles are burgers.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "burger": "a",
+      "fast": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2e8fd894-78dd-4059-a081-0da31ca53458",
+    "syllogism": "No fast food products are health foods. All hamburgers are fast food products. Therefore, no hamburgers are health foods.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "fast": "a",
+      "health": "b",
+      "hamburger": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c821a5af-d79d-4969-9ee9-2139f994c02f",
+    "syllogism": "No fast food are vegetables. All potatoes are vegetables. Therefore, no fast food are potatoes.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "fast": "a",
+      "vegetable": "b",
+      "potato": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "226a4f43-8e64-404b-bb3c-eed685c5da3b",
+    "syllogism": "No burgers are vegetables. No vegetables are desserts. Therefore, no burgers are desserts.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "burger": "a",
+      "vegetable": "b",
+      "dessert": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "932d545c-37f0-47ca-894a-e0e784fabaa7",
+    "syllogism": "No fast food are restaurants. No restaurants are chefs. Therefore, no fast food are chefs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "fast": "a",
+      "restaurant": "b",
+      "chef": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6c18c2a1-f0da-46ee-9f93-6459123fb320",
+    "syllogism": "Some fast food restaurants are franchises. Some franchises are headquartered in Texas. Therefore, some fast food restaurants are headquartered in Texas.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "fast": "a",
+      "franchise": "b",
+      "headquartered": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a35ec92f-ac61-4cbe-961f-df40a92e15c3",
+    "syllogism": "No French fries are gluten-free. Some fast foods are French fries. Therefore, some fast foods are not gluten-free.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "french": "a",
+      "gluten-free": "b",
+      "fast": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "383118c0-7f5d-4205-9b38-3649b37e736d",
+    "syllogism": "No hamburgers are vegan. Some foods are hamburgers. Therefore, all foods are not vegan.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ecb",
+    "term_mapping": {
+      "hamburger": "a",
+      "vegan": "b",
+      "food": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "042cfaad-adb6-4724-8012-b188cb5f4863",
+    "syllogism": "No pizza place is served by dragons. Some pizza places are haunted. Therefore, all haunted places are served by dragons.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Acb",
+    "term_mapping": {
+      "pizza": "a",
+      "served": "b",
+      "haunted": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a616c44d-9712-42ca-b22d-7826181e68fc",
+    "syllogism": "All salad ingredients are grown in seconds. All seeds are salad ingredients. Therefore, all seeds are grown in seconds.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "salad": "a",
+      "grown": "b",
+      "seed": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f2c01c8e-c1f7-4c88-bf44-d8532b28b247",
+    "syllogism": "All tomatoes are vegetables. All carrots are vegetables. Therefore, all carrots are tomatoes.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "tomato": "a",
+      "vegetable": "b",
+      "carrot": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "77f97ee0-2288-48bd-9ddc-a1ff5ed11fb2",
+    "syllogism": "All bicycles are vegetables. All bananas are vegetables. Therefore, all bicycles are bananas.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "bicycle": "a",
+      "vegetable": "b",
+      "banana": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "fdf0eaeb-c05d-4203-8b52-9844e02399b7",
+    "syllogism": "No salad greens are fruits. All avocados are fruits. Therefore, no salad greens are avocados.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "salad": "a",
+      "fruit": "b",
+      "avocado": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "07a40267-f61c-457a-9ee8-7dab0a6d7ec9",
+    "syllogism": "No salads are soups. All tomatoes are salads. Therefore, no tomatoes are soups.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "salad": "a",
+      "soup": "b",
+      "tomato": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2f2fed51-1b39-4938-b2d9-4f396da22b20",
+    "syllogism": "No carrots are meat. No meat are herbs. Therefore, no carrots are herbs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "carrot": "a",
+      "meat": "b",
+      "herb": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a5240ae3-56a0-4306-a0e2-a2aaf49d5dae",
+    "syllogism": "No cookies are apples. no brushes are cookies. Therefore, no brushes are apples.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "cooky": "a",
+      "apple": "b",
+      "brushe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a4f29403-632d-4ea8-a7c6-e2f3c4919285",
+    "syllogism": "Some vegetables are green. Some green vegetables are in a salad basket. Therefore, some vegetables are in a salad basket.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "vegetable": "a",
+      "green": "b",
+      "in": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c5fd91af-b7a2-4d88-b3e3-041b7eddee29",
+    "syllogism": "No greens are dessert items. Some ingredients are dessert items. Therefore, some ingredients are not greens.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "green": "a",
+      "dessert": "b",
+      "ingredient": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4af89692-174e-4047-bb62-717601fc094f",
+    "syllogism": "No butter is vegan. Some salad dressings are vegan. Therefore, some salad dressings are not butter.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "butter": "a",
+      "vegan": "b",
+      "salad": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "22d1ed82-d2b3-45cb-afff-abfbfe3a82cf",
+    "syllogism": "All chocolate desserts are sweet. All cakes are chocolate desserts. Therefore, all cakes are sweet.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "chocolate": "a",
+      "sweet": "b",
+      "cake": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e25cf9aa-e09c-480a-aa05-5657c026c7a1",
+    "syllogism": "All desserts are made of plastic. All chocolate candies are desserts. Therefore, all chocolate candies are made of plastic.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "dessert": "a",
+      "made": "b",
+      "chocolate": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2b6f2206-6f2a-4870-b4e6-357587d821b3",
+    "syllogism": "All chocolates are desserts. All pies are desserts. Therefore, all pies are chocolates.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "chocolate": "a",
+      "dessert": "b",
+      "pie": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4021d1f2-99c3-40d9-aa23-9142ff29a29d",
+    "syllogism": "No desserts are baked goods. All chocolate are baked goods. Therefore, no chocolate are desserts.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "dessert": "a",
+      "baked": "b",
+      "chocolate": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "50903655-d263-4210-8edf-d70c364c416e",
+    "syllogism": "All dark chocolate candies are chocolate desserts. Some cake flavors are dark chocolate candies. Therefore, some cake flavors are chocolate desserts.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "dark": "a",
+      "chocolate": "b",
+      "cake": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6c2ac3ff-dca1-4abd-9187-ed155fb5ee2f",
+    "syllogism": "No chocolate desserts are low-fat. Some confections are chocolate desserts. Therefore, some confections are not low-fat.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "chocolate": "a",
+      "low-fat": "b",
+      "confection": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "fb84ebb0-862e-405f-9604-8ff27d32e3da",
+    "syllogism": "No desserts are chocolate-free. Some cakes are not desserts. Therefore, some cakes are not chocolate-free.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Ocb",
+    "term_mapping": {
+      "dessert": "a",
+      "chocolate-free": "b",
+      "cake": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "aee54bae-f22b-4609-9a8e-0e0889a50737",
+    "syllogism": "No brown chocolates are pudding items. Some desserts are brown chocolates. Therefore, all desserts are pudding items.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "brown": "a",
+      "pudding": "b",
+      "dessert": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a38e6ace-6f49-4fc6-adda-0428a4606167",
+    "syllogism": "No ice-creams are chocolate. Some deserts are ice-creams. Therefore, all deserts are chocolate.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "ice-cream": "a",
+      "chocolate": "b",
+      "desert": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ad6f5336-ca3b-4c11-9957-9c00f734c894",
+    "syllogism": "All puppies are laundry. all dryers are laundry. Therefore, all dryers are puppies.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "puppy": "a",
+      "laundry": "b",
+      "dryer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f3351418-dd55-4ef6-baa3-d3adc6d522ad",
+    "syllogism": "No cotton clothes are synthetic clothing. All laundry are synthetic clothing. Therefore, no cotton clothes are laundry.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "cotton": "a",
+      "synthetic": "b",
+      "laundry": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4ee15311-b317-4b08-acaf-ff46b5747d85",
+    "syllogism": "No rocks are clothes. no clothes are laundry. Therefore, no rocks are laundry.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "rock": "a",
+      "clothe": "b",
+      "laundry": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b330f178-8708-416d-a0b5-7323acba514b",
+    "syllogism": "No shirts are trousers. No trousers are hammers. Therefore, no shirts are hammers.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "shirt": "a",
+      "trouser": "b",
+      "hammer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d43aea49-6b5d-4e3b-a89d-caa95fda4d97",
+    "syllogism": "Some clothes are dirty. Some washing detergents are clothes. Therefore, some washing detergents are dirty.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "clothe": "a",
+      "dirty": "b",
+      "washing": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e8a3b011-121a-48bf-8351-0918317fcf8d",
+    "syllogism": "No dirty clothes are clean. Some laundry items are dirty clothes. Therefore, some laundry items are not clean.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "dirty": "a",
+      "clean": "b",
+      "laundry": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2b98672a-986d-4957-9bcc-82b112eebefa",
+    "syllogism": "No socks are dry. Some clothes are socks. Therefore, some clothes are not dry.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "sock": "a",
+      "dry": "b",
+      "clothe": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "7cd0fa7b-bb7d-4c36-97f2-2c8c4b20d391",
+    "syllogism": "No dirty clothes are clean. Some clean clothes are worn. Therefore, some worn clothes are dirty.",
+    "formal_language": "premise_1: Eab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "dirty": "a",
+      "clean": "b",
+      "worn": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "456829cd-2890-4859-b322-600a9dbd4474",
+    "syllogism": "No shirts are pants. Some clothes are shirts. Therefore, all clothes are pants.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "shirt": "a",
+      "pant": "b",
+      "clothe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a38f1b5c-d84e-482d-b410-65cc94ff92e5",
+    "syllogism": "All clothes are fabrics. All towels are clothes. Therefore, all towels are fabrics.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "clothe": "a",
+      "fabric": "b",
+      "towel": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "15a64e3c-5fb1-49d0-aac2-6278a6055a58",
+    "syllogism": "All ironed shirts are clothing items. All washing machine lint balls are clothing items. Therefore, all washing machine lint balls are ironed shirts.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "ironed": "a",
+      "item": "b",
+      "washing": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "63d46414-14fb-4a50-86a3-5a179ff3c61d",
+    "syllogism": "No clothing items are furniture. All pillows are clothing items. Therefore, no pillows are furniture.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "item": "a",
+      "furniture": "b",
+      "pillow": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8e99a448-09f3-4362-89d7-35e68891846b",
+    "syllogism": "No clothes are laundry detergents. All irons are laundry detergents. Therefore, no irons are clothes.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "clothe": "a",
+      "laundry": "b",
+      "iron": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "463e5021-ca4c-496b-8cbf-5ac9eb8c7d97",
+    "syllogism": "No ironing boards are cats. No cats are tables. Therefore, no ironing boards are tables.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "ironing": "a",
+      "cat": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d8906a3b-94ce-4d25-94e8-0de0a4672f03",
+    "syllogism": "No shirts are steaks. No steaks are refrigerators. Therefore, no shirts are refrigerators.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "shirt": "a",
+      "steak": "b",
+      "refrigerator": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a89754f4-96bc-443b-b362-e07bc37b7b3b",
+    "syllogism": "Some shoes are ironed clothes. Some irons are shoes. Therefore, some irons are ironed clothes.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "shoe": "a",
+      "ironed": "b",
+      "iron": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c15313a2-b0d6-4134-8bbb-6b804fb7d4fa",
+    "syllogism": "No clothes are wrinkled. Some shirts are clothes. Therefore, some shirts are not wrinkled.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "clothe": "a",
+      "wrinkled": "b",
+      "shirt": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "df78b3aa-df09-49da-9020-fc8c96d71ad3",
+    "syllogism": "No shirts are irons. Some garments are shirts. Therefore, all garments are irons.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "shirt": "a",
+      "iron": "b",
+      "garment": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "45d4da7a-2db0-4055-83b1-7f194b340d15",
+    "syllogism": "No ironing boards are laundry baskets. Some clean clothes are laundry baskets. Therefore, all ironing boards are clean clothes.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aac",
+    "term_mapping": {
+      "ironing": "a",
+      "laundry": "b",
+      "clean": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "33d0682d-fda9-4b83-ba6c-2f3cecfb4a31",
+    "syllogism": "No carpets are clean after vacuuming. All rugs are clean after vacuuming. Therefore, no rugs are carpets.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "carpet": "a",
+      "clean": "b",
+      "rug": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4be1d136-5df5-403f-876f-a45828181dc2",
+    "syllogism": "No dogs are carpet cleaners. No carpet cleaners are vacuum cleaners. Therefore, no dogs are vacuum cleaners.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "carpet": "b",
+      "vacuum": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "cc9f8343-42b1-4cc2-9904-a038cab64df1",
+    "syllogism": "Some vacuums are heavy. Some heavy items are carpet cleaners. Therefore, some carpet cleaners are not vacuums.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Oca",
+    "term_mapping": {
+      "vacuum": "a",
+      "heavy": "b",
+      "carpet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "668c2b1c-0af5-43be-a289-3f8de3e76f11",
+    "syllogism": "No areas are completely clean after vacuuming. Some carpets are areas. Therefore, some carpets are not completely clean after vacuuming.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "area": "a",
+      "completely": "b",
+      "carpet": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8172ff98-8d3c-4d4f-b1e9-5d757303b2a3",
+    "syllogism": "All sofas are furniture. all furniture are indoor design elements. Therefore, all sofas are indoor design elements.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "sofa": "a",
+      "furniture": "b",
+      "indoor": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2ca3f734-c996-403d-9509-14b112264664",
+    "syllogism": "All sofas are furniture. All doors are furniture. Therefore, all doors are sofas.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "sofa": "a",
+      "furniture": "b",
+      "door": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6151fd58-2b31-47ac-91e6-6fda4ab9b8e9",
+    "syllogism": "No sofas are trees. All trees are kitchens. Therefore, no sofas are kitchens.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "sofa": "a",
+      "tree": "b",
+      "kitchen": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c4b7f1be-5481-4db7-b0fa-92718bc7efe0",
+    "syllogism": "No sofas are paintings. No paintings are windows. Therefore, no sofas are windows.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "sofa": "a",
+      "painting": "b",
+      "window": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "8e04725a-db87-4578-b424-b30572f424f1",
+    "syllogism": "No pots are chairs. No chairs are windows. Therefore, no pots are windows.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "pot": "a",
+      "chair": "b",
+      "window": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e6e72325-ad2e-4998-bcec-5ff55f9e0f0b",
+    "syllogism": "All red rooms are aesthetically pleasing. Some office spaces are not red. Therefore, some office spaces are aesthetically pleasing.",
+    "formal_language": "premise_1: Aab, premise_2: Oca, conclusion: Icb",
+    "term_mapping": {
+      "red": "a",
+      "aesthetically": "b",
+      "office": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "afc423c1-98c6-4462-b446-15a77222d81b",
+    "syllogism": "Some walls are modern. Some contemporary pieces are walls. Therefore, some contemporary pieces are modern.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "wall": "a",
+      "modern": "b",
+      "contemporary": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7ea13a61-9dbb-491f-bb43-2a05886ebbb1",
+    "syllogism": "No pouffes are floor decorations. Some rugs are pouffes. Therefore, some rugs are not floor decorations.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "pouffe": "a",
+      "floor": "b",
+      "rug": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f4a28511-2de4-4437-b984-0fea637adbd6",
+    "syllogism": "No office furniture are modern. Some antiques are office chairs. Therefore, some antiques are not modern.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "office": "a",
+      "modern": "b",
+      "antique": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "fdd95e14-709c-4fe3-a4c3-abe1d3eae123",
+    "syllogism": "No curtains are modern. Some furnishings are modern. Therefore, all furnishings are curtains.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "curtain": "a",
+      "modern": "b",
+      "furnishing": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9f20e704-e90c-4a41-a328-87534eda33af",
+    "syllogism": "All screwdrivers are tools. All faucet repairs are tools. Therefore, all faucet repairs are screwdrivers.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "screwdriver": "a",
+      "tool": "b",
+      "faucet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b51afba0-3934-4528-8f29-51a03deca128",
+    "syllogism": "No faucets are tubes. All copper pipes are faucets. Therefore, no copper pipes are tubes.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "faucet": "a",
+      "tube": "b",
+      "copper": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "29833def-bcdb-4fa0-9550-957ad735787b",
+    "syllogism": "No faucets are doors. No doors are sinks. Therefore, no faucets are sinks.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "faucet": "a",
+      "door": "b",
+      "sink": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ca3827a1-cf41-42a3-bab8-e3f2af1a0d30",
+    "syllogism": "No dogs are wrenches. No faucets are dogs. Therefore, no faucets are wrenches.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "wrenche": "b",
+      "faucet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "da021835-f408-47f5-81ce-09477c4bb948",
+    "syllogism": "Some carrots are green. Some green things are cars. Therefore, some cars are carrots.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "carrot": "a",
+      "green": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b139d032-5e34-4681-a8d4-73a9c8af05fc",
+    "syllogism": "No repair kits are perfect. Some funnel applicators are repair kits. Therefore, some funnel applicators are not perfect.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "repair": "a",
+      "perfect": "b",
+      "funnel": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "473ee496-3516-41d2-b88d-72e1471fa04c",
+    "syllogism": "No nails are plumbing tools. Some tools are nails. Therefore, all tools are plumbing tools.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "nail": "a",
+      "plumbing": "b",
+      "tool": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ca248e2c-545f-4769-b304-fb5aea28bd2b",
+    "syllogism": "All blue walls are square. All brown marks are blue. Therefore, all brown marks are square.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "blue": "a",
+      "square": "b",
+      "brown": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0dfc37bb-3b56-49af-bb81-5432023715cd",
+    "syllogism": "All paints are used for painting walls. All brushes are used for painting tables. Therefore, all brushes are paints.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "paint": "a",
+      "used": "b",
+      "brushe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c2fe5225-58a5-492f-b531-2d8275e528fb",
+    "syllogism": "All paintings are walls. all walls are doors. Therefore, all paintings are doors.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "painting": "a",
+      "wall": "b",
+      "door": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "15f84805-022e-43fc-874a-8ff2f8ef1197",
+    "syllogism": "No doors are windows. All gates are windows. Therefore, no doors are gates.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "door": "a",
+      "window": "b",
+      "gate": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "609fafab-166b-40fd-a045-6395a987ade0",
+    "syllogism": "No paintings are walls. All murals are paintings. Therefore, no murals are walls.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "painting": "a",
+      "wall": "b",
+      "mural": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "20af9277-1ca4-4370-aa7b-0f2d7693273f",
+    "syllogism": "No walls are paints. no paints are brushes. Therefore, no walls are brushes.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "wall": "a",
+      "paint": "b",
+      "brushe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ea172a82-c3f5-4ea5-b8df-eca5a10eac48",
+    "syllogism": "No paints are fruits. No fruits are walls. Therefore, no walls are paints.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "paint": "a",
+      "fruit": "b",
+      "wall": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "20be6c1c-0c7e-4cd7-aee6-fa93b5d7683e",
+    "syllogism": "Some painted walls are green. Some brown walls are painted. Therefore, some brown walls are green.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "painted": "a",
+      "green": "b",
+      "brown": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "46902165-1d0f-46d8-8948-3672b3ea6a91",
+    "syllogism": "No white paints are waterproof. Some jars are white paints. Therefore, some jars are not waterproof.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "white": "a",
+      "waterproof": "b",
+      "jar": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8f0b16c4-4a80-4e6b-81bc-04fd7a735fda",
+    "syllogism": "No green walls are red. Some bedrooms are green walls. Therefore, all bedrooms are red.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "green": "a",
+      "red": "b",
+      "bedroom": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c5496354-b096-4049-9661-52625831a249",
+    "syllogism": "All flowers are houseplants. All chairs are houseplants. Therefore, all chairs are flowers.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "flower": "a",
+      "houseplant": "b",
+      "chair": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6e84ab4e-d293-43e7-bccb-986caf9b84b4",
+    "syllogism": "All fish are houseplants. All clouds are houseplants. Therefore, all clouds are fish.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "fish": "a",
+      "houseplant": "b",
+      "cloud": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4363a8be-2c43-4b55-8077-683b0880f85b",
+    "syllogism": "No ferns are succulents. All cacti are succulents. Therefore, no ferns are cacti.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "fern": "a",
+      "succulent": "b",
+      "cacti": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "38aef5d6-7b9a-4568-bf60-f19d1c030972",
+    "syllogism": "No bamboo plants are ficus trees. All air plants are ficus trees. Therefore, no bamboo plants are air plants.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "bamboo": "a",
+      "ficu": "b",
+      "air": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8a8d6b29-cb87-4fb1-be16-69da8920415a",
+    "syllogism": "No pots are leaves. No leaves are soil. Therefore, some pots are not soil.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Oac",
+    "term_mapping": {
+      "pot": "a",
+      "leave": "b",
+      "soil": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1e471038-b602-4edf-a347-19cf822473d5",
+    "syllogism": "No flowers are metals. No metals are furniture. Therefore, no flowers are furniture.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "flower": "a",
+      "metal": "b",
+      "furniture": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "12114bc5-20ab-4b86-9cfe-b78243eb1c2a",
+    "syllogism": "All flowers are houseplants. Some rocks are flowers. Therefore, some rocks are houseplants.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "flower": "a",
+      "houseplant": "b",
+      "rock": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3af4fda8-42df-4911-9a87-b6e4b3215f2b",
+    "syllogism": "Some houseplants are computers. Some computers are dogs. Therefore, some houseplants are dogs.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "houseplant": "a",
+      "computer": "b",
+      "dog": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "249e14a3-9c06-4a4c-985b-6aca79f71fad",
+    "syllogism": "No pots are outdoor plants. Some houseplants are outdoor plants. Therefore, some houseplants are not pots.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "pot": "a",
+      "outdoor": "b",
+      "houseplant": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "93ce16d7-ae38-4fa3-b6ba-1534b86df21f",
+    "syllogism": "No orchids are succulents. Some盆景 are succulents. Therefore, some盆景 are not orchids.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "orchid": "a",
+      "succulent": "b",
+      "some盆景": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "be7bcaad-1414-4ad6-94b4-7a445d772542",
+    "syllogism": "No tropical plants are cacti. Some houseplants are cacti. Therefore, all houseplants are tropical plants.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "tropical": "a",
+      "cacti": "b",
+      "houseplant": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "0891d47d-7876-4250-afee-2ff7af09a51a",
+    "syllogism": "All clouds are umbrellas. All sunglasses are umbrellas. therefore, all sunglasses are clouds.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "cloud": "a",
+      "umbrella": "b",
+      "sunglasse": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2117a68e-250d-45db-a41f-1234206c22fb",
+    "syllogism": "No books are lawns. All mowers are books. Therefore, no mowers are lawns.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "book": "a",
+      "lawn": "b",
+      "mower": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0891c0ab-5a6a-4bdb-ad3d-30875fabc412",
+    "syllogism": "No dogs are cats. No cars are dogs. Therefore, no cars are cats.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "cat": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f9e9ed26-80b3-4a2a-b7b0-d4fa57608c58",
+    "syllogism": "No ducks are mammals. No motorcycles are ducks. Therefore, no motorcycles are mammals.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "duck": "a",
+      "mammal": "b",
+      "motorcycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3d109e28-133a-489e-8622-d3c29740ce0b",
+    "syllogism": "Some rocks are sharp. Some sharp objects are lawn mowers. Therefore, some lawn mowers are rocks.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "rock": "a",
+      "sharp": "b",
+      "lawn": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b1cb2050-e22b-4e9a-b0fd-f1a1a3354260",
+    "syllogism": "No lawns are swimming pools. Some maintenance tasks are not lawns. Therefore, some maintenance tasks are not swimming pools.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Ocb",
+    "term_mapping": {
+      "lawn": "a",
+      "swimming": "b",
+      "maintenance": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f27dce1a-c847-46f4-9caf-0f6ba6006724",
+    "syllogism": "No dogs are used for mowing lawns. Some machines are dogs. Therefore, all machines are used for mowing lawns.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "dog": "a",
+      "used": "b",
+      "machine": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "453972d6-4ca6-4bf3-8671-a52a5e9516f0",
+    "syllogism": "All shelves are organizing tools. All hangers are organizing tools. Therefore, all hangers are shelves.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "shelve": "a",
+      "organizing": "b",
+      "hanger": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "831fb808-bd10-4b5a-b1f2-f952d7f78de5",
+    "syllogism": "All bananas are clothes hangers. All drawers are clothes hangers. Therefore, all bananas are drawers.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "banana": "a",
+      "clothe": "b",
+      "drawer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "66d8d764-7754-4afc-a541-d93e4d35ec64",
+    "syllogism": "No wardrobes are cabinets. All shelves are cabinets. Therefore, no shelves are wardrobes.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "wardrobe": "a",
+      "cabinet": "b",
+      "shelve": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1f79788c-c3ab-41f3-a60f-7b13687d9e8d",
+    "syllogism": "No shirts are hats. No hats are walls. Therefore, no shirts are walls.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "shirt": "a",
+      "hat": "b",
+      "wall": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ed78a07c-24d6-4ccf-a80c-9f4f34c3f7f9",
+    "syllogism": "No spoons are knives. No knives are furniture. Therefore, no spoons are furniture.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "spoon": "a",
+      "knive": "b",
+      "furniture": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a8a74207-3e03-4828-bad4-b25f16f98a0d",
+    "syllogism": "Some rare books are shelves. Some shelves are teddy bears. Therefore, some teddy bears are rare books.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "rare": "a",
+      "shelve": "b",
+      "teddy": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "47539384-1afb-4de5-b330-08477d279d38",
+    "syllogism": "No small items are fragile enough to be safely hung on closet rods. Some jewelry is small. Therefore, some jewelry is not fragile enough to be safely hung on closet rods.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "small": "a",
+      "fragile": "b",
+      "jewelry": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6f2d496c-509f-40e0-969f-48efd0e71939",
+    "syllogism": "No shelves are drawers. Some closets are shelves. Therefore, all closets are drawers.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "shelve": "a",
+      "drawer": "b",
+      "closet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6ead339a-de47-444e-afee-080df88e9e6e",
+    "syllogism": "No shoes are pants. Some laundry are pants. Therefore, all shoes are laundry.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aac",
+    "term_mapping": {
+      "shoe": "a",
+      "pant": "b",
+      "laundry": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "0a37b34c-1f79-4b79-b8f8-7ef82f669387",
+    "syllogism": "All flowers are brightly colored. All trash is brightly colored. Therefore, all trash is a flower.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "flower": "a",
+      "brightly": "b",
+      "trash": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c7a2f834-ac22-4d58-a37b-4e598b2ed577",
+    "syllogism": "All tomatoes are edible. All garbage are edible. Therefore, all garbage are tomatoes.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "tomato": "a",
+      "edible": "b",
+      "garbage": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1773e49a-1e9c-4652-9143-9a1dbc1dbe99",
+    "syllogism": "All clouds are trash. All bicycles are trash. Therefore, all bicycles are clouds.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "cloud": "a",
+      "trash": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b91c06b5-3909-448e-b38f-66bfee45c23b",
+    "syllogism": "No plastic is biodegradable. All recycleables are biodegradable. Therefore, no recycleables are plastic.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "plastic": "a",
+      "biodegradable": "b",
+      "recycleable": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "70a7da8e-3e07-4f81-bbf1-4a8c86b2d528",
+    "syllogism": "No books are food scraps. All textbooks are books. Therefore, no textbooks are food scraps.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "book": "a",
+      "food": "b",
+      "textbook": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0780250b-6135-4dc9-9648-6a887ff1c12a",
+    "syllogism": "No dogs are bushes. No bicycles are dogs. Therefore, no bicycles are bushes.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "bushe": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "14e1800b-90b4-4e22-8216-12b401ab5599",
+    "syllogism": "No hazardous waste is fit for recycling. Some garbage is hazardous waste. Therefore, some garbage is not fit for recycling.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "hazardou": "a",
+      "fit": "b",
+      "garbage": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "5cfea060-9246-46c2-8f05-742740ac58f4",
+    "syllogism": "No pets are contaminated. Some garbage are considered pets. Therefore, some garbage are not contaminated.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "pet": "a",
+      "contaminated": "b",
+      "garbage": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "7a0efe5d-50a5-4f47-801b-f8f345e3297d",
+    "syllogism": "No cans are recyclebins. Some cans are trash. Therefore, all trash are recyclebins.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Acb",
+    "term_mapping": {
+      "can": "a",
+      "recyclebin": "b",
+      "trash": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "510ab1ad-d735-4b58-a602-69d146893bf1",
+    "syllogism": "All bicycles are vehicles. All motorcycles are vehicles. Therefore, all bicycles are motorcycles.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "bicycle": "a",
+      "vehicle": "b",
+      "motorcycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "f5390fca-c577-4235-a868-3ce7a24b829c",
+    "syllogism": "All laptops are vehicles. all phones are vehicles. Therefore, all phones are laptops.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "laptop": "a",
+      "vehicle": "b",
+      "phone": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "66623782-bd68-4a65-8838-c0a64a7f85a8",
+    "syllogism": "No cars are public transport vehicles. All buses are public transport vehicles. Therefore, no buses are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "car": "a",
+      "public": "b",
+      "bus": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2afdac56-e025-4913-ab1d-d0fec0efdaef",
+    "syllogism": "No bicycles are automobiles. No automobiles are wheels. Therefore, no bicycles are wheels.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "bicycle": "a",
+      "automobile": "b",
+      "wheel": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9f4139ab-d09d-480a-8840-87a94c813a92",
+    "syllogism": "Some people who take the bus to work are late. Some people who are late are not punctual. Therefore, some people who take the bus to work are not punctual.",
+    "formal_language": "premise_1: Iab, premise_2: Obc, conclusion: Oac",
+    "term_mapping": {
+      "person": "a",
+      "late": "b",
+      "punctual": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "983a8472-baa5-4629-aadb-cb6c8172e06b",
+    "syllogism": "Some people who commute by motorcycle are left-handed. Some left-handed people are musicians. Therefore, some musicians are people who commute by motorcycle.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "person": "a",
+      "left-handed": "b",
+      "musician": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9429008b-a74f-4a0d-bdbe-c188e5e6f2cd",
+    "syllogism": "No public transportation users are early risers. Some commutes are early in the day. Therefore, all commutes are public transportation users.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "public": "a",
+      "early": "b",
+      "commute": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "8fc9c00a-93dd-4f61-8f47-3f0e679063a7",
+    "syllogism": "All red cars are fast. All slow cars are fast. therefore, all red cars are slow.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "red": "a",
+      "fast": "b",
+      "slow": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1d59530e-2621-4fc9-846f-33c105a62952",
+    "syllogism": "No cars are bicycles. All driving vehicles are bicycles. Therefore, no cars are driving vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "driving": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "af3cb890-23fe-404a-bc76-f4a2e8960096",
+    "syllogism": "No drivers are skateboarders. No skateboarders are pilots. Therefore, no pilots are drivers.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "driver": "a",
+      "skateboarder": "b",
+      "pilot": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5b95e52c-073c-4532-a948-8b457baa207b",
+    "syllogism": "All cars on the highway are driven by bots. Some turtles are cars. Therefore, some turtles are driven by bots.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "car": "a",
+      "driven": "b",
+      "turtle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "5c4003a5-3e27-45f6-adc6-6f83bd0be769",
+    "syllogism": "Some drivers are impatient. Some impatient drivers are tailgaters. Therefore, some tailgaters are drivers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "driver": "a",
+      "impatient": "b",
+      "tailgater": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "70ab321a-6fe7-404b-bbb1-bec8d9e38e87",
+    "syllogism": "Some cars are stopSigns. Some stopSigns are redLights. Therefore, some cars are redLights.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "car": "a",
+      "stopsign": "b",
+      "redlight": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7cacd86f-10d8-4b84-9891-05e3cd8b28d4",
+    "syllogism": "No cars are bicycles. Some transportation methods are bicycles. Therefore, all transportation methods are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "transportation": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "660ae285-54cf-4364-9541-2e432d2052ed",
+    "syllogism": "All bicycles are cycles. All tricycles are cycles. Therefore, all bicycles are tricycles.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "bicycle": "a",
+      "cycle": "b",
+      "tricycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "23647d40-17b4-4974-a5d7-12375dda3888",
+    "syllogism": "All desks are bicycles. All tires are bicycles. Therefore, all tires are desks.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "desk": "a",
+      "bicycle": "b",
+      "tire": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "22d52cb1-20b0-476e-a9f3-01525ae422e5",
+    "syllogism": "No bicycles are motor vehicles. All bicycles are cycles. Therefore, no cycles are motor vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Aac, conclusion: Ecb",
+    "term_mapping": {
+      "bicycle": "a",
+      "motor": "b",
+      "cycle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "57195d84-e335-475d-9d4e-9df573ff5403",
+    "syllogism": "No bicycles are cars. All bicycles are bikes. Therefore, no cars are bikes.",
+    "formal_language": "premise_1: Eab, premise_2: Aac, conclusion: Ebc",
+    "term_mapping": {
+      "bicycle": "a",
+      "car": "b",
+      "bike": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "602f5f6f-cda6-496d-a652-b7cb6123f726",
+    "syllogism": "No bicycles are cars. No cars are skateboards. Therefore, no bicycles are skateboards.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "bicycle": "a",
+      "car": "b",
+      "skateboard": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1d8265ee-aab8-49d6-be17-2bfd16635e1c",
+    "syllogism": "No bicycles are unicycles. Some tricycles are bicycles. Therefore, some tricycles are not unicycles.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "bicycle": "a",
+      "unicycle": "b",
+      "tricycle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6d95c9ac-728b-4155-a232-07205b006d01",
+    "syllogism": "No children are banned riders. Some students are banned riders. Therefore, all students are children.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "children": "a",
+      "banned": "b",
+      "student": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "70972bd9-789a-4fbe-86ad-4ed4cf2dbe8f",
+    "syllogism": "No bikes are cars. Some vehicles are bikes. Therefore, all vehicles are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "bike": "a",
+      "car": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9f964c7a-6f56-4e60-b973-0ea81367a356",
+    "syllogism": "All cars are vehicles. All bikes are vehicles. Therefore, all bikes are cars.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "car": "a",
+      "vehicle": "b",
+      "bike": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9187e2a2-fc2c-40d9-95b2-a8e1368ce802",
+    "syllogism": "All fish are vehicles. All trains are vehicles. Therefore, all trains are fish.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "fish": "a",
+      "vehicle": "b",
+      "train": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6f7e24c4-2570-456c-b49b-1fda5bd15d61",
+    "syllogism": "No buses are airplanes. All urban transportation in first-tier cities are buses. Therefore, no urban transportation in first-tier cities are airplanes.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "bus": "a",
+      "airplane": "b",
+      "urban": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "175bf56f-fe0d-4eef-8b01-433a7a140c71",
+    "syllogism": "No cars are planes. All subways are cars. Therefore, no subways are planes.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "car": "a",
+      "plane": "b",
+      "subway": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "be126622-ca93-40f8-b58f-022b133587de",
+    "syllogism": "No trucks are bikes. No bikes are boats. Therefore, no trucks are boats.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "truck": "a",
+      "bike": "b",
+      "boat": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1ff272d2-d03d-4faa-93fb-c9bb7cf15fce",
+    "syllogism": "Some birds are airplanes. Some airplanes are singers. Therefore, some birds are singers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "bird": "a",
+      "airplane": "b",
+      "singer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2c8f7f3a-8e78-4694-8b07-3fd1974b6d68",
+    "syllogism": "No buses are airplanes. Some vehicles are buses. Therefore, some vehicles are not airplanes.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "bus": "a",
+      "airplane": "b",
+      "vehicle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c6eb466e-e104-4f4c-9bd0-2e4a78ea26aa",
+    "syllogism": "No bicycles are buses. Some vehicles are bicycles. Therefore, all vehicles are buses.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "bicycle": "a",
+      "bus": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "cf98a3d7-ed35-4f57-a67b-685e8ff1d686",
+    "syllogism": "No cars are bicycles. Some vehicles are cars. Therefore, all vehicles are bicycles.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c3854917-43f7-4dd4-8be4-0964bf252be7",
+    "syllogism": "All car engines are machine parts. All screws are machine parts. Therefore, all screws are car engines.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "car": "a",
+      "machine": "b",
+      "screw": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a49755d8-27aa-4ddc-92ff-016addd820fb",
+    "syllogism": "No cars are tools. All wrenches are tools. Therefore, no cars are wrenches.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "car": "a",
+      "tool": "b",
+      "wrenche": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "a6fadc77-38d8-456c-bb5d-9ab2c85327a7",
+    "syllogism": "No luxury cars are maintenance-dependent. All classic cars are maintenance-dependent. Therefore, no classic cars are luxury cars.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "luxury": "a",
+      "maintenance-dependent": "b",
+      "classic": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "bdae2f71-354d-4aac-8e6f-90c914ed17d8",
+    "syllogism": "No cars are helicopters. No helicopters are bicycles. Therefore, some cars are not bicycles.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Oac",
+    "term_mapping": {
+      "car": "a",
+      "helicopter": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "008892ff-36db-4aeb-ad60-16e6a1f9b041",
+    "syllogism": "No cars are bicycles. No bicycles are fruits. Therefore, some fruits are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Ica",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "fruit": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5f3e7cc3-b372-4d0e-a9bc-f2861920fc30",
+    "syllogism": "Some ice cream cones are chocolate. Some pencils are ice cream cones. Therefore, some pencils are chocolate.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "ice": "a",
+      "chocolate": "b",
+      "pencil": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3c68ec96-4e00-4287-b67c-5806df11658a",
+    "syllogism": "No cars are electric vehicles. Some vehicles are cars. Therefore, all vehicles are electric vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "car": "a",
+      "electric": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "55d26968-c346-458c-9167-9de07135bdf5",
+    "syllogism": "No tires are spark plugs. Some car parts are tires. Therefore, all spark plugs are car parts.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Abc",
+    "term_mapping": {
+      "tire": "a",
+      "spark": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "fc26059c-7831-4aa4-8374-d78d3c3eb277",
+    "syllogism": "All houses are computers. All trucks are computers. Therefore, all trucks are houses.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "house": "a",
+      "computer": "b",
+      "truck": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "17aedacc-3fca-459b-ba68-2103c7139e78",
+    "syllogism": "No pumpkins are gas stations. All gas stations are stores. Therefore, no pumpkins are stores.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "pumpkin": "a",
+      "gas": "b",
+      "store": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "621fe05a-ac6f-44bd-9da3-48eebc5d8139",
+    "syllogism": "No cities are suburbs. All gas stations are suburbs. Therefore, no cities are gas stations.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "city": "a",
+      "suburb": "b",
+      "gas": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3e9b7501-4491-4da7-a060-acb2e317a90a",
+    "syllogism": "No gas stations are cars. No cars are planets. Therefore, no gas stations are planets.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "gas": "a",
+      "car": "b",
+      "planet": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "22dc68f8-5903-46d7-9470-e568ab48373d",
+    "syllogism": "No gas stations are cars. No cars are flying saucers. Therefore, no flying saucers are gas stations.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "gas": "a",
+      "car": "b",
+      "flying": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3bdf4ded-368c-444a-95fe-303b7d61b09c",
+    "syllogism": "No cars are electric vehicles. Some gas vehicles are cars. Therefore, all gas vehicles are electric vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "car": "a",
+      "electric": "b",
+      "gas": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "aa69f0d8-7328-48d1-b517-462829331e24",
+    "syllogism": "All dogs are cars. All trees are cars. therefore, all trees are dogs.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "dog": "a",
+      "car": "b",
+      "tree": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "0b16cb56-56b0-469a-a53b-d189ffadb83d",
+    "syllogism": "No spaces are cars. All cars are parked in Lots. Therefore, no spaces are parked in Lots.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "space": "a",
+      "car": "b",
+      "parked": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6e318685-8767-44d5-9b15-40d58fa92bf1",
+    "syllogism": "No parking spots are cars. All cars are tires. Therefore, no parking spots are tires.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "parking": "a",
+      "car": "b",
+      "tire": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3b80934b-a579-4c8b-9ca0-33e5a1d44271",
+    "syllogism": "No spots are cars. No cars are sidewalks. Therefore, some spots are not sidewalks.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Oac",
+    "term_mapping": {
+      "spot": "a",
+      "car": "b",
+      "sidewalk": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6bbca393-284d-4998-8e97-19a4fcc4d112",
+    "syllogism": "No cars are bicycles. No bicycles are parking spots. Therefore, no cars are parking spots.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "parking": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e044428e-5009-47a4-ba66-fa4dc3b24d3c",
+    "syllogism": "No spaces are accessible downtown. Some vehicles are spaces. Therefore, some vehicles are not accessible downtown.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "space": "a",
+      "accessible": "b",
+      "vehicle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1c9a527c-c4a4-4da7-97df-c5740c72b8c4",
+    "syllogism": "No spaces are cars. Some vehicles are spaces. Therefore, all vehicles are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "space": "a",
+      "car": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "37e3dba3-06eb-4b4a-ba4d-44186ab8070a",
+    "syllogism": "All airplanes are commercial vehicles. All commercial vehicles belong to airlines. Therefore, all airplanes belong to airlines.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "airplane": "a",
+      "commercial": "b",
+      "airline": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "ddc6cd42-674c-4cb1-a3ef-abaffc5d3e4e",
+    "syllogism": "All airline passengers are vegetables. All kumQuats are airline passengers. Therefore, all kumQuats are vegetables.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "airline": "a",
+      "vegetable": "b",
+      "kumquat": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "fc99a5b7-c5ca-41b7-903a-5938595d854e",
+    "syllogism": "All airplanes are vehicles. All bicycles are vehicles. therefore, all bicycles are airplanes.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "airplane": "a",
+      "vehicle": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "80359cb0-c63c-4a45-838d-56160b1570ef",
+    "syllogism": "All planes are cars. All buses are cars. Therefore, all buses are planes.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "plane": "a",
+      "car": "b",
+      "bus": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "09e62d20-3e54-4adf-a451-71b818c86e12",
+    "syllogism": "No business jets are civilian aircraft. All business jets are private jets. Therefore, no private jets are civilian aircraft.",
+    "formal_language": "premise_1: Eab, premise_2: Aac, conclusion: Ecb",
+    "term_mapping": {
+      "business": "a",
+      "civilian": "b",
+      "private": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "a9c7cd96-de70-47e8-b2b6-4fa91b6a3c46",
+    "syllogism": "No planes are fish. No planes are cars. Therefore, no fish are cars.",
+    "formal_language": "premise_1: Eab, premise_2: Eac, conclusion: Ebc",
+    "term_mapping": {
+      "plane": "a",
+      "fish": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6859b044-0f90-4307-9137-e67bca8cd20f",
+    "syllogism": "No humans are fish. No fish are astronauts. Therefore, no astronauts are humans.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "human": "a",
+      "fish": "b",
+      "astronaut": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3fc4c715-e082-440d-8017-4636dbd659c3",
+    "syllogism": "Some airplanes are flying rocks. Some flying objects are basketballs. Therefore, some basketballs are airplanes.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "airplane": "a",
+      "flying": "b",
+      "basketball": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7d9ad9ad-743f-4ec8-b4d3-e2d207f77ae1",
+    "syllogism": "No flyers are birds. Some air vehicles are not flyers. Therefore, all air vehicles are birds.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Acb",
+    "term_mapping": {
+      "flyer": "a",
+      "bird": "b",
+      "air": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "35c664aa-fecd-48fc-9426-9dcb3bdc717f",
+    "syllogism": "All trains are vehicles. All bicycles are vehicles. Therefore, all bicycles are trains.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "train": "a",
+      "vehicle": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "288ff460-8cb8-46b3-b4a9-ca54fbfc1701",
+    "syllogism": "All trains are telephones. All telephones are flowers. Therefore, all trains are flowers.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "train": "a",
+      "telephone": "b",
+      "flower": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "74061301-c21d-4ae6-abc5-3b19b2581821",
+    "syllogism": "No trains are cars. No cars are bicycles. Therefore, no trains are bicycles.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "train": "a",
+      "car": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d68a554c-6d19-41d4-aa0d-0063279f6789",
+    "syllogism": "No trains are bicycles. No bicycles are spaceships. Therefore, no trains are spaceships.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "train": "a",
+      "bicycle": "b",
+      "spaceship": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "62a95e53-b476-480e-abb1-f5b808e04aa1",
+    "syllogism": "Some whales are locomotives. Some trains are whales. Therefore, some trains are locomotives.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "whale": "a",
+      "locomotive": "b",
+      "train": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "96c5c82c-d63e-4e72-999c-210fc3e419e8",
+    "syllogism": "No direct flights are trains. Some journeys are train journeys. Therefore, some journeys are not direct flights.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "direct": "a",
+      "train": "b",
+      "journey": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "39f66884-d25a-4f44-b54c-ba71e1453deb",
+    "syllogism": "All dogs are pets. All bicycles are pets. Therefore, all bicycles are dogs.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "dog": "a",
+      "pet": "b",
+      "bicycle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a56e93d5-5a07-4d28-a54f-da35663853b7",
+    "syllogism": "All turtles are happy. All dogs are happy. Therefore, all dogs are turtles.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "turtle": "a",
+      "happy": "b",
+      "dog": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d235d4c3-425b-4795-8c09-2a07738c8550",
+    "syllogism": "No dogs are reptiles. All snakes are reptiles. Therefore, no snakes are dogs.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "dog": "a",
+      "reptile": "b",
+      "snake": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "bf3e9bb6-daaa-4b7c-b740-1ae3cb504806",
+    "syllogism": "No dogs are cats. All dolphins are dogs. Therefore, no dolphins are cats.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "cat": "b",
+      "dolphin": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "34fd5cba-b8ec-4914-bb69-62f5a06e6557",
+    "syllogism": "No walking sticks are puppies. no puppies are dogs. Therefore, some walking sticks are not dogs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Oac",
+    "term_mapping": {
+      "walking": "a",
+      "puppy": "b",
+      "dog": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "de398284-06aa-4f70-b913-ab26f5fa4b98",
+    "syllogism": "No dogs are butterflies. No butterflies are tables. Therefore, no dogs are tables.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "butterfly": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4e8ae54d-58d0-4a2e-b8fd-ea5e90f1009e",
+    "syllogism": "Some people walking the dog are runners. Some runners are teachers. Therefore, some teachers are people walking the dog.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "person": "a",
+      "runner": "b",
+      "teacher": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9e15c080-ad6b-44bc-bca4-b535e607874a",
+    "syllogism": "No collars are essential attire. Some dog tags are collars. Therefore, some dog tags are not essential attire.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "collar": "a",
+      "essential": "b",
+      "dog": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "a5a87f00-89bb-4e9c-b248-768043461981",
+    "syllogism": "No dogs are houseplants. Some ferns are dog accessories. Therefore, some ferns are not houseplants.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "dog": "a",
+      "houseplant": "b",
+      "fern": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0fb90422-a88f-40f0-8c1b-666c9902d574",
+    "syllogism": "No dogs are cats. Some cats are owners. Therefore, all dogs are owners.",
+    "formal_language": "premise_1: Eab, premise_2: Ibc, conclusion: Aac",
+    "term_mapping": {
+      "dog": "a",
+      "cat": "b",
+      "owner": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9ee32dc0-b400-462a-b099-45abb2a5725c",
+    "syllogism": "All emails are messages. All images are emails. Therefore, all images are messages.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "email": "a",
+      "message": "b",
+      "image": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "58d19c10-8565-48b5-ab05-5a1dbddc4ba2",
+    "syllogism": "No emails are spam. All attachments are spams. Therefore, no emails are attachments.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "email": "a",
+      "spam": "b",
+      "attachment": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "79bce9ae-d0ea-4dd3-b62a-196e25aba46e",
+    "syllogism": "No cell phones are email messages. All emails are digital documents. Therefore, no cell phones are digital documents.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "cell": "a",
+      "email": "b",
+      "digital": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "02eb55b3-6572-4e8f-8356-235dad5aa456",
+    "syllogism": "No emails are letters. No emails are faxes. Therefore, some letters are faxes.",
+    "formal_language": "premise_1: Eab, premise_2: Eac, conclusion: Ibc",
+    "term_mapping": {
+      "email": "a",
+      "letter": "b",
+      "faxe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4c791e1e-db01-4443-b817-45ce3e36ecc3",
+    "syllogism": "All important messages are sent via email. Some promotional documents are important messages. Therefore, some promotional documents are sent via email.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "important": "a",
+      "sent": "b",
+      "promotional": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4fea7ecc-9bef-428d-9ebd-a22664b79a43",
+    "syllogism": "Some emails are important. Some important documents are typed on computers. Therefore, some emails are typed on computers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "email": "a",
+      "important": "b",
+      "typed": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "20635193-09b7-4100-81b2-426e04422d99",
+    "syllogism": "No emails are marketing materials. Some newsletters are marketing materials. Therefore, some newsletters are not emails.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "email": "a",
+      "marketing": "b",
+      "newsletter": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1820e8df-586c-4c6e-abcb-5be16d10aee6",
+    "syllogism": "No emails are urgent. Some emails are promotional. Therefore, some promotional emails are not urgent.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Ocb",
+    "term_mapping": {
+      "email": "a",
+      "urgent": "b",
+      "promotional": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e21a77fb-88a3-498b-b82a-3f45698fb6a4",
+    "syllogism": "No humans are sphegi. Some beings are humans. Therefore, all beings are sphegi.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "human": "a",
+      "sphegi": "b",
+      "being": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "dc323f3e-85b3-41aa-ac08-ce66c178df29",
+    "syllogism": "All pens are staplers. All staplers are furniture. Therefore, all pens are furniture.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "pen": "a",
+      "stapler": "b",
+      "furniture": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0214c666-49dc-4e2c-bc4e-0e05a2fcc12e",
+    "syllogism": "All team members are employees. All guests are employees. Therefore, all guests are team members.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "team": "a",
+      "employee": "b",
+      "guest": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "47331a5d-6c6f-45c2-bdc0-91adb769f2e0",
+    "syllogism": "All meetings are parties. All lunches are meetings. Therefore, all lunches are parties.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "meeting": "a",
+      "party": "b",
+      "lunche": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "21ad022d-0aa5-46b3-8b52-f3e197a8f44a",
+    "syllogism": "No virtual meetings are face-to-face meetings. All impromptu meetings are virtual meetings. Therefore, no impromptu meetings are face-to-face meetings.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "virtual": "a",
+      "face-to-face": "b",
+      "impromptu": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "18070f87-7320-4921-b4c6-da5e089a49f0",
+    "syllogism": "No dogs are monkeys. No monkeys are office chairs. Therefore, no dogs are office chairs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "monkey": "b",
+      "office": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "cce52a66-f968-4f24-b2cd-41e922919e9c",
+    "syllogism": "All employees are invited to attend office meetings. Some team leaders are employees. Therefore, some team leaders are invited to attend office meetings.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "employee": "a",
+      "invited": "b",
+      "team": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "77f9f3d4-1882-432b-b328-6d7785cf7c17",
+    "syllogism": "No meetings are productive. Some agendas are meetings. Therefore, some agendas are not productive.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "meeting": "a",
+      "productive": "b",
+      "agenda": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "702732db-2044-4f4a-8814-4758ca93e67b",
+    "syllogism": "No employees are punctual. Some employees are meeting attendees. Therefore, all meeting attendees are punctual.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Acb",
+    "term_mapping": {
+      "employee": "a",
+      "punctual": "b",
+      "meeting": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7581e4b6-ef1d-4a9e-8b15-8b2feda2ada4",
+    "syllogism": "No executives are coffee drinkers. Some employees are executives. Therefore, all employees are coffee drinkers.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "executive": "a",
+      "coffee": "b",
+      "employee": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ec8a4d2a-3eb0-466c-b956-9933bc0a059f",
+    "syllogism": "All dogs are pets. All birds are pets. therefore, all birds are dogs.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "dog": "a",
+      "pet": "b",
+      "bird": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "06881c0f-4f9d-4c24-98d0-d23af7fc814d",
+    "syllogism": "All puppies are cars. All books are cars. Therefore, all books are puppies.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "puppy": "a",
+      "car": "b",
+      "book": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "fa63a100-d2af-4895-880e-b1a1bd9e75ad",
+    "syllogism": "No executives are regular employees. All remote workers are regular employees. Therefore, no executives are remote workers.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "executive": "a",
+      "regular": "b",
+      "remote": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2bf7f379-863a-42af-8fa6-bbd4f92ec546",
+    "syllogism": "No smartphones are landline telephones. No landline telephones are for home usage. Therefore, no smartphones are for home usage.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "smartphone": "a",
+      "landline": "b",
+      "for": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7dd9c75c-fe11-4d73-9873-07b61998707d",
+    "syllogism": "No trees are flowers. No homes are trees. Therefore, no homes are flowers.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "tree": "a",
+      "flower": "b",
+      "home": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "416924b8-7cde-4e9d-9370-af4d06d0ac08",
+    "syllogism": "All video gamers are happy. Some introverts are video gamers. Therefore, some introverts are happy.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "video": "a",
+      "happy": "b",
+      "introvert": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "ffd14388-d3cf-4299-8534-419068cf159a",
+    "syllogism": "No outdoor jobs are suitable for remote working. Some essential roles are outdoor jobs. Therefore, some essential roles are not suitable for remote working.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "outdoor": "a",
+      "suitable": "b",
+      "essential": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "97867741-e119-4259-86ec-d210282e7d88",
+    "syllogism": "All job applicants are humans. all graduates are humans. Therefore, all graduates are job applicants.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "job": "a",
+      "human": "b",
+      "graduate": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "bcd69733-220b-43a4-b7bf-70ab098a7396",
+    "syllogism": "All bicycles are cars. All phones are cars. Therefore, all phones are bicycles.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "bicycle": "a",
+      "car": "b",
+      "phone": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "03aaa5e2-ea00-4071-986f-2e5f5d162ce5",
+    "syllogism": "No dogs are aliens. No cats are dogs. Therefore, no cats are aliens.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "alien": "b",
+      "cat": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "53621c7d-ce7a-4251-b786-6054eb7bb6da",
+    "syllogism": "No smartphones are wooden objects. No wooden objects are plants. Therefore, some smartphones are plants.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Iac",
+    "term_mapping": {
+      "smartphone": "a",
+      "wooden": "b",
+      "plant": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2b15dd80-d034-4b76-92ce-4a1e648ee4d1",
+    "syllogism": "No job applicants are engineers. Some job applicants are certified. Therefore, some certified individuals are not engineers.",
+    "formal_language": "premise_1: Eab, premise_2: Iac, conclusion: Ocb",
+    "term_mapping": {
+      "job": "a",
+      "engineer": "b",
+      "certified": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "28882cbc-2881-4761-906a-ab13d44484e5",
+    "syllogism": "No engineers are musicians. Some talent show winners are engineers. Therefore, all talent show winners are musicians.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "engineer": "a",
+      "musician": "b",
+      "talent": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6d2e25c8-542d-4522-8871-49a6e2122ec4",
+    "syllogism": "All umbrellas are coffee cups. All computers are coffee cups. Therefore, all computers are umbrellas.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "umbrella": "a",
+      "coffee": "b",
+      "computer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "50fee49c-8fe0-43c5-bc33-67ac020384ca",
+    "syllogism": "No coffee break times are work hours. No work hours are weekend times. Therefore, no weekend times are coffee break times.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "coffee": "a",
+      "work": "b",
+      "weekend": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e73045b0-7ad5-4cef-a1f5-a7b94d86159c",
+    "syllogism": "No coffee breaks are weekdays. No weekdays are weekends. Therefore, no coffee breaks are weekends.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "coffee": "a",
+      "weekday": "b",
+      "weekend": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "853589b2-0c1d-42fe-bd4d-ca2bbc19dd02",
+    "syllogism": "No milk coffee is decaf. Some iced brews are milk coffee. Therefore, some iced brews are not decaf.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "milk": "a",
+      "decaf": "b",
+      "iced": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f30b8a2e-64d3-4c01-b818-562b78ae7e0e",
+    "syllogism": "No coffees are cold. Some drinks are cold. Therefore, some drinks are not coffees.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "coffee": "a",
+      "cold": "b",
+      "drink": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "afd5cb81-bec2-47cd-9ced-7b7448f8eecf",
+    "syllogism": "No smartphones are coffee mugs. Some devices are smartphones. Therefore, all devices are coffee mugs.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "smartphone": "a",
+      "coffee": "b",
+      "device": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1ea9c448-6875-41ba-b519-97f0d63e1b7d",
+    "syllogism": "All pencils are office supplies. All bicycles are pencils. Therefore, all bicycles are office supplies.",
+    "formal_language": "premise_1: Aab, premise_2: Aca, conclusion: Acb",
+    "term_mapping": {
+      "pencil": "a",
+      "office": "b",
+      "bicycle": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "bd016e0a-c2b7-4036-a73a-b7fac239b089",
+    "syllogism": "All staplers are pencils. all crayons are pencils. Therefore, all staplers are crayons.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "stapler": "a",
+      "pencil": "b",
+      "crayon": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1dc8dcb4-d72b-4def-9af7-14c8a87b403e",
+    "syllogism": "All pens are fruits. All erasers are fruits. therefore, all erasers are pens.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "pen": "a",
+      "fruit": "b",
+      "eraser": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "aa9e1d66-72c0-46eb-9a77-b53bdb421228",
+    "syllogism": "No markers are pencils. All erasers are pencils. Therefore, no erasers are markers.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "marker": "a",
+      "pencil": "b",
+      "eraser": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0fbcf004-f1c1-46c6-b45f-ac5b68c8134f",
+    "syllogism": "All notebooks are binders. all binders are filing cabinets. Therefore, all notebooks are filing cabinets.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "notebook": "a",
+      "binder": "b",
+      "filing": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "78dccbec-6443-458b-9642-7419b7fbdcae",
+    "syllogism": "No tables are drinks. No drinks are pens. Therefore, no pens are tables.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "table": "a",
+      "drink": "b",
+      "pen": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6dcf4d72-7f2a-4bb3-b6e8-0877af06c0cc",
+    "syllogism": "All staplers are office supplies. Some invoices are staplers. Therefore, some invoices are office supplies.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "stapler": "a",
+      "office": "b",
+      "invoice": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f1850ad9-cfae-4ce8-9567-31f8d7e0a2b6",
+    "syllogism": "All pencils are purple. Some envelopes are pencils. Therefore, some envelopes are purple.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "pencil": "a",
+      "purple": "b",
+      "envelope": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e7f49004-505e-4fd0-909e-2ab5f357c1d8",
+    "syllogism": "Some desk chairs are office chairs. some office chairs are very expensive. Therefore, some desk chairs are very expensive.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "desk": "a",
+      "office": "b",
+      "very": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e2add02f-d3e9-4cda-9c94-7ab3d48158b1",
+    "syllogism": "Some pens are paperclip holders. Some paperclip holders are staplers. Therefore, some pens are staplers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "pen": "a",
+      "paperclip": "b",
+      "stapler": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3bdeec60-43fc-4366-aedd-b8be8770169f",
+    "syllogism": "No folders are erasers. Some binders are erasers. Therefore, some binders are not folders.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "folder": "a",
+      "eraser": "b",
+      "binder": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "5ed21138-cbfa-4246-9857-70c89a0bad3e",
+    "syllogism": "No pens are pencils. Some markers are pens. Therefore, all markers are pencils.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "pen": "a",
+      "pencil": "b",
+      "marker": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a78dcb9f-3143-405f-b817-163ae360de83",
+    "syllogism": "No pens are laptops. Some devices are pens. Therefore, all devices are laptops.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "pen": "a",
+      "laptop": "b",
+      "device": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "39101946-016d-409b-be97-dd0f8dc4a942",
+    "syllogism": "All project delays are unfortunate. All unforeseen events are unfortunate. Therefore, all unforeseen events are project delays.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "project": "a",
+      "unfortunate": "b",
+      "unforeseen": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5d995b9d-a443-42b7-8849-accfabc0686f",
+    "syllogism": "No Mars missions are successful projects. All project deadlines are successful projects. Therefore, no project deadlines are Mars missions.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "mar": "a",
+      "successful": "b",
+      "project": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "6144cb40-8011-42d1-a90b-bd4e3cb00764",
+    "syllogism": "No projects are due today. no students are projects. Therefore, no students are due today.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "project": "a",
+      "due": "b",
+      "student": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "08f58a24-4da3-4ee2-86f7-f2d49b6e4fcd",
+    "syllogism": "All engineers are reliable in their commitments. Some project members are engineers. Therefore, some project members are reliable in their commitments.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "engineer": "a",
+      "reliable": "b",
+      "project": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "07827e80-8c24-450c-8aa7-43552dbbfa82",
+    "syllogism": "Some project managers are proactive. Some proactive individuals are fastidious. Therefore, some project managers are fastidious.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "project": "a",
+      "proactive": "b",
+      "fastidiou": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "15d51d48-1634-4a44-99f5-dada44f26561",
+    "syllogism": "Some project managers are marathon runners. Some marathon runners are ice cream vendors. Therefore, some project managers are ice cream vendors.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "project": "a",
+      "marathon": "b",
+      "ice": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "7b73c656-dd00-42b2-9478-7888f950cfe6",
+    "syllogism": "No desserts are healthy. Some snacks are desserts. Therefore, some snacks are not healthy.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "dessert": "a",
+      "healthy": "b",
+      "snack": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0bca19e4-b098-4a35-9c28-60db7e68396f",
+    "syllogism": "No projects are completed on time. Some tasks are projects. Therefore, all tasks are never completed on time.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ecb",
+    "term_mapping": {
+      "project": "a",
+      "completed": "b",
+      "task": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "a74abe66-ef06-483f-b984-6ebeb970fa02",
+    "syllogism": "No tasks are deadlines. Some papers are tasks. Therefore, all papers are deadlines.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "task": "a",
+      "deadline": "b",
+      "paper": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4af8ee98-ddd5-441d-9908-6e55b2d8f2d3",
+    "syllogism": "All hats are shoes. All books are shoes. Therefore, all hats are books.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "hat": "a",
+      "shoe": "b",
+      "book": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c1c8244b-3b9a-4adc-ab30-58856bfdf52d",
+    "syllogism": "No scientists are professionals. All medical doctors are professionals. Therefore, no scientists are medical doctors.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "scientist": "a",
+      "professional": "b",
+      "medical": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "cea924b0-6dcb-43f3-aaae-3386a049378e",
+    "syllogism": "No developers are singers. All musical composers are singers. Therefore, no developers are musical composers.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "developer": "a",
+      "singer": "b",
+      "musical": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "37d4c199-4dbb-4c9b-a145-3204667999c3",
+    "syllogism": "No designers are chefs. No chefs are athletes. Therefore, no designers are athletes.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "designer": "a",
+      "chef": "b",
+      "athlete": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5d102944-8234-4a2c-8ae7-2a80f2dbf8c8",
+    "syllogism": "No dogs are birds. No bees are dogs. Therefore, no bees are birds.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "dog": "a",
+      "bird": "b",
+      "bee": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "3700238e-22c6-41a7-83ad-c2d738e8d5f7",
+    "syllogism": "Some professionals are introverts. Some introverts are extroverts. Therefore, some extroverts are professionals.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "professional": "a",
+      "introvert": "b",
+      "extrovert": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1d12e19a-2e55-44ff-94b9-d780139140af",
+    "syllogism": "Some book lovers are millionaires. Some millionaires are musicians. Therefore, some book lovers are musicians.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "book": "a",
+      "millionaire": "b",
+      "musician": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d656e296-9933-4c8b-93ff-1e97a82fa960",
+    "syllogism": "No emails are formal letters. Some resumes are emails. Therefore, some resumes are not formal letters.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "email": "a",
+      "formal": "b",
+      "resume": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "9db72e6e-2738-47bd-97a1-4478bab88113",
+    "syllogism": "No business meetings are virtual. Some training sessions are virtual. Therefore, some training sessions are not business meetings.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "business": "a",
+      "virtual": "b",
+      "training": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0b6c9f03-9cb9-41d8-a6a8-e5f786baeb89",
+    "syllogism": "No IT professionals are architects. Some individuals are IT professionals. Therefore, all individuals are architects.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "it": "a",
+      "architect": "b",
+      "individual": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b522f75c-4114-4034-9a26-239d8560f9e0",
+    "syllogism": "No programmers are fishermen. Some professions are fishermen. Therefore, all professions are programmers.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "programmer": "a",
+      "fishermen": "b",
+      "profession": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "40816337-a73f-475d-9a63-2739cd40527d",
+    "syllogism": "All musicians are proficient in sports. All painters are proficient in sports. Therefore, all painters are musicians.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "musician": "a",
+      "proficient": "b",
+      "painter": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ae0c99c4-2ede-4c9f-bea1-b5ad39d3349e",
+    "syllogism": "No comedians are chefs. All food bloggers are chefs. Therefore, no food bloggers are comedians.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "comedian": "a",
+      "chef": "b",
+      "food": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e9da22d6-1f08-45bc-9953-7fcf93ef35a3",
+    "syllogism": "No marketers are authors. No authors are athletes. Therefore, no marketers are athletes.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "marketer": "a",
+      "author": "b",
+      "athlete": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "86dd4463-4e50-4ca0-9ce9-f0b09ab60e41",
+    "syllogism": "No marketers are activists. No activists are doctors. Therefore, no doctors are marketers.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "marketer": "a",
+      "activist": "b",
+      "doctor": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "154c8fbf-6d54-4449-83e7-02b33f7b1824",
+    "syllogism": "Some software developers are entrepreneurs. Some consultants are entrepreneurs. Therefore, some software developers are consultants.",
+    "formal_language": "premise_1: Iab, premise_2: Icb, conclusion: Iac",
+    "term_mapping": {
+      "software": "a",
+      "entrepreneur": "b",
+      "consultant": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6cee6a97-c8ab-4bf5-9bd9-e40034939f5c",
+    "syllogism": "No programmers are athletes. Some new hires are athletes. Therefore, some new hires are not programmers.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "programmer": "a",
+      "athlete": "b",
+      "new": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8ea080db-93dc-46fe-96c4-40b9469e1ea2",
+    "syllogism": "No doctors are athletes. Some professionals are athletes. Therefore, all doctors are professionals.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aac",
+    "term_mapping": {
+      "doctor": "a",
+      "athlete": "b",
+      "professional": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "278c5f86-f794-45d2-942f-b3678db44ead",
+    "syllogism": "No IT professionals are artists. Some people are IT professionals. Therefore, all people are artists.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "it": "a",
+      "artist": "b",
+      "person": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "71506842-a243-4deb-884c-eb5d74fefdb0",
+    "syllogism": "All retirement accounts are stocks. all stock markets are roller coasters. Therefore, all retirement accounts are roller coasters.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "retirement": "a",
+      "stock": "b",
+      "roller": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d5084521-e24f-4ca7-aca6-5d1e03336d20",
+    "syllogism": "No retirement planning tools are financial products. All insurance policies are retirement planning tools. Therefore, no insurance policies are financial products.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "retirement": "a",
+      "financial": "b",
+      "insurance": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c5724d43-343c-49b1-95b9-79f4ed32b8c2",
+    "syllogism": "No savings plans are reliable. All retirement funds are considered reliable. Therefore, no retirement funds are savings plans.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "saving": "a",
+      "reliable": "b",
+      "retirement": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2bea62dc-9315-4588-9985-bf4ba9aef842",
+    "syllogism": "No pets are eligible voters. No eligible voters are retirees. Therefore, no pets are retirees.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "pet": "a",
+      "eligible": "b",
+      "retiree": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "960361ab-a60c-4726-bee8-ac048e08c29a",
+    "syllogism": "No computers are retirement homes. No retirement homes are islands. Therefore, no computers are islands.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "computer": "a",
+      "retirement": "b",
+      "island": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d35a5624-c90a-47cf-a313-0440d2cce4a6",
+    "syllogism": "Some retired people are elephants. Some elephants are swimmers. Therefore, some retired people are swimmers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "retired": "a",
+      "elephant": "b",
+      "swimmer": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "569c9828-f7a2-4010-a101-8b1ca5e190bc",
+    "syllogism": "No pensions are high-margin investments. Some asset classes are pensions. Therefore, some asset classes are not high-margin investments.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "pension": "a",
+      "high-margin": "b",
+      "asset": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "f13823c6-b706-44ce-9030-5bdd553a82b7",
+    "syllogism": "No early retired individuals are millionaire beginners. Some individuals are early retired. Therefore, some individuals are not millionaire beginners.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "early": "a",
+      "millionaire": "b",
+      "individual": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "939a66e0-70ca-4146-8b2a-b97e0dac8f41",
+    "syllogism": "All roses are flowers. All tomatoes are flowers. therefore, all tomatoes are roses.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "rose": "a",
+      "flower": "b",
+      "tomato": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5a6023ed-51b0-40b0-85a9-3b32d0727094",
+    "syllogism": "All penguins are birds. all trees are birds. Therefore, all penguins are trees.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "penguin": "a",
+      "bird": "b",
+      "tree": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "621cbdee-0649-410a-8a7a-c2bece1a6271",
+    "syllogism": "No florists are first daters. All restaurants are florists. Therefore, no restaurants are first daters.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "florist": "a",
+      "first": "b",
+      "restaurant": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "888e958c-931d-488f-8d9e-fbfb56358c20",
+    "syllogism": "No chocolates are flowers. All first dates are chocolates. Therefore, no first dates are flowers.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "chocolate": "a",
+      "flower": "b",
+      "first": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "303bd422-6769-451f-a39c-f1944f0cda98",
+    "syllogism": "No fish are vegetables. No vegetables are mammals. Therefore, no mammals are fish.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "fish": "a",
+      "vegetable": "b",
+      "mammal": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d5229638-99ea-43c6-b2c6-d56c30342f09",
+    "syllogism": "No reptiles are mammals. No mammals are aquatic. Therefore, no reptiles are aquatic.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "reptile": "a",
+      "mammal": "b",
+      "aquatic": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9dcb7727-2089-49bb-94bc-73b71bee1a71",
+    "syllogism": "No fried foods are healthy. Some grains are fried foods. Therefore, some grains are not healthy.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "fried": "a",
+      "healthy": "b",
+      "grain": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "b0b46ce4-e1d8-4d97-ab1b-612149d84b2f",
+    "syllogism": "No spicy foods are preferred by vegetarians. Some Italian dishes are preferred by vegetarians. Therefore, some Italian dishes are not spicy.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "spicy": "a",
+      "preferred": "b",
+      "italian": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "2abb0e8a-b53e-403a-a206-5164f62aad1b",
+    "syllogism": "No bachelors are women. Some women are daters. Therefore, all daters are bachelors.",
+    "formal_language": "premise_1: Eab, premise_2: Ibc, conclusion: Aca",
+    "term_mapping": {
+      "bachelor": "a",
+      "women": "b",
+      "dater": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "987de773-9e72-4b80-8de1-9f41ed371f9c",
+    "syllogism": "No cakes are sandwiches. No sandwiches are dresses. Therefore, no cakes are dresses.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "cake": "a",
+      "sandwiche": "b",
+      "dresse": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "e24271dd-937a-41c4-bd46-29ec6f7428b4",
+    "syllogism": "Some participants are wedding inspectors. Some wedding inspectors are floral managers. Therefore, some floral managers are participants.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "participant": "a",
+      "wedding": "b",
+      "floral": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "20cc6bb3-b17b-4aac-925a-781068f22926",
+    "syllogism": "No guests are mandatory attendants. Some family members are mandatory attendants. Therefore, some family members are not guests.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "guest": "a",
+      "mandatory": "b",
+      "family": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e8b1476c-c734-4cf7-a4d5-2ad0e9aef5db",
+    "syllogism": "No wedding invitations are formal documents. Some envelopes are wedding invitations. Therefore, some envelopes are not formal documents.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "wedding": "a",
+      "formal": "b",
+      "envelope": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "52711558-940c-4976-ae8c-aff122c84f48",
+    "syllogism": "No bouquets are budget-friendly. Some wedding planners are bouquet designers. Therefore, some wedding planners are not budget-friendly.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "bouquet": "a",
+      "budget-friendly": "b",
+      "wedding": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6ff5e4d0-2313-478b-9075-37686d6a1558",
+    "syllogism": "No bridges are desserts. Some decorations are bridges. Therefore, all decorations are desserts.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "bridge": "a",
+      "dessert": "b",
+      "decoration": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "441a8d15-6f09-4ed9-ac6c-53f3a8d1dc84",
+    "syllogism": "No balloons are food items. All decorations are balloons. Therefore, no decorations are food items.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "balloon": "a",
+      "food": "b",
+      "decoration": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "71e58cba-20d1-414e-a2b4-858706838995",
+    "syllogism": "No puppies are adults. All adults are birthday parties. Therefore, no puppies are birthday parties.",
+    "formal_language": "premise_1: Eab, premise_2: Abc, conclusion: Eac",
+    "term_mapping": {
+      "puppy": "a",
+      "adult": "b",
+      "birthday": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "ea129d91-175e-474d-b72a-502304d2ea91",
+    "syllogism": "No cats are vehicles. No fruits are cats. Therefore, no fruits are vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Eca, conclusion: Ecb",
+    "term_mapping": {
+      "cat": "a",
+      "vehicle": "b",
+      "fruit": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "03f3ee40-65ff-4337-9ec0-0f7c7723f904",
+    "syllogism": "No balloons are vegetarian food. Some party decorations are balloons. Therefore, some party decorations are not vegetarian food.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "balloon": "a",
+      "vegetarian": "b",
+      "party": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "af456902-9e0a-4d28-a1fa-4af5f12fb895",
+    "syllogism": "No birthday cakes are gluten-free. Some desserts are gluten-free. Therefore, some desserts are not birthday cakes.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "birthday": "a",
+      "gluten-free": "b",
+      "dessert": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "8da0897f-f3e6-408d-83b2-30a1baaa94bd",
+    "syllogism": "No invited guests are under 10 years old. Some children are invited guests. Therefore, all children are under 10 years old.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "invited": "a",
+      "under": "b",
+      "children": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c2695f95-78c3-4ace-9c46-8a1f493e3684",
+    "syllogism": "No cars are bicycles. Some vehicles are bicycles. Therefore, all cars are vehicles.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aac",
+    "term_mapping": {
+      "car": "a",
+      "bicycle": "b",
+      "vehicle": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "c8020c04-89b0-4716-a6b2-5beec8721fc5",
+    "syllogism": "All gifts are presents. All personalized items are presents. Therefore, all personalized items are gifts.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "gift": "a",
+      "present": "b",
+      "personalized": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "349acb66-24e8-43e1-b166-67c764cbb063",
+    "syllogism": "All snowflakes are gifts. all ornaments are gifts. Therefore, all ornaments are snowflakes.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "snowflake": "a",
+      "gift": "b",
+      "ornament": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "2eb455b1-4184-4b67-aa24-65fac8c6a507",
+    "syllogism": "All Christmas trees are reindeer. All presents are reindeer. Therefore, all Christmas trees are presents.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "christma": "a",
+      "reindeer": "b",
+      "present": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "1096bc2a-79f3-4f4b-a0af-fb0c7eb25330",
+    "syllogism": "No decorations are electronic devices. All lamps are decorations. Therefore, no lamps are electronic devices.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "decoration": "a",
+      "electronic": "b",
+      "lamp": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "0ecc1002-00c4-4d46-9b7c-4945aa573553",
+    "syllogism": "No rocks are gifts. All decorations are gifts. Therefore, no decorations are rocks.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "rock": "a",
+      "gift": "b",
+      "decoration": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4da7eae9-6949-4992-a21a-46e029336490",
+    "syllogism": "All ornaments are holiday gifts. Some New Year's items are ornaments. Therefore, some New Year's items are holiday gifts.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "ornament": "a",
+      "holiday": "b",
+      "new": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "a731dc56-8560-4e51-b508-f8813ea7c308",
+    "syllogism": "All professional Santa Claus helpers are clorofungus carriers. Some gift_wrappers are professional Santa Claus helpers. Therefore, some gift_wrappers are clorofungus carriers.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "professional": "a",
+      "clorofungu": "b",
+      "gift_wrapper": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "e48d71de-2459-4945-85e8-e6ababb3c9c1",
+    "syllogism": "Some people who buy Christmas gifts are environmentally conscious. Some people who are environmentally conscious are craft-makers. Therefore, some people who buy Christmas gifts are craft-makers.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "person": "a",
+      "environmentally": "b",
+      "craft-maker": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "bf55b301-6338-45ca-927c-fdeb0d1ee84a",
+    "syllogism": "Some people are astronauts. Some astronauts are plumbers. Therefore, some plumbers are people.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "person": "a",
+      "astronaut": "b",
+      "plumber": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "5c38fca0-d7fc-4456-bb77-2840ac4e8d9b",
+    "syllogism": "No toys are necessary. Some presents are toys. Therefore, some presents are not necessary.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "toy": "a",
+      "necessary": "b",
+      "present": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "cc9cb9e4-fcd5-4d60-8f21-288514d62a7b",
+    "syllogism": "No gifts are eco-friendly. Some items are gifts. Therefore, some items are not eco-friendly.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "gift": "a",
+      "eco-friendly": "b",
+      "item": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "290df826-db3c-44ba-ad39-ff74a75bf1c5",
+    "syllogism": "No potted plants are gourmet foods. Some ornaments are potted plants. Therefore, all ornaments are gourmet foods.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "potted": "a",
+      "gourmet": "b",
+      "ornament": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "41a1cbf2-cf99-4bf2-ae2a-89c5323d966a",
+    "syllogism": "All family dinners are meal times. All meal times are social events. Therefore, all social events are family dinners.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aca",
+    "term_mapping": {
+      "family": "a",
+      "meal": "b",
+      "social": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ed6d1d95-be26-4250-b63b-19fc793f681b",
+    "syllogism": "All puppies are fast runners. All tables are fast runners. Therefore, all tables are puppies.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "puppy": "a",
+      "fast": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ef53a792-680d-46db-aa5c-016aae85db27",
+    "syllogism": "No smartphones are mealware. All forks are smartphone accessories. Therefore, no forks are mealware.",
+    "formal_language": "premise_1: Eab, premise_2: Aca, conclusion: Ecb",
+    "term_mapping": {
+      "smartphone": "a",
+      "mealware": "b",
+      "fork": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "8f50e646-ef33-446d-acbd-94bc9f65fd9f",
+    "syllogism": "No dogs are cats. No cats are humans. Therefore, no humans are dogs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eca",
+    "term_mapping": {
+      "dog": "a",
+      "cat": "b",
+      "human": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "50b90b75-c3bb-416a-bd3a-7bbe39d9aaaf",
+    "syllogism": "No cats are vegetables. No vegetables are furniture. Therefore, no cats are furniture.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "cat": "a",
+      "vegetable": "b",
+      "furniture": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d08da7dc-2125-40d7-9210-4aa420f39d57",
+    "syllogism": "Some family dinner guests are extroverts. Some extroverts are artists. Therefore, some family dinner guests are artists.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "family": "a",
+      "extrovert": "b",
+      "artist": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6ec2cd77-06a8-4d6f-a21a-b0e7d0cc346a",
+    "syllogism": "No main courses are ice cream. Some desserts are main courses. Therefore, some desserts are not ice cream.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "main": "a",
+      "ice": "b",
+      "dessert": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "a41146a8-6603-46a9-9a16-145d2db2e995",
+    "syllogism": "No dinners are vegetarian. Some appetizers are vegetarian. Therefore, some appetizers are not dinners.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "dinner": "a",
+      "vegetarian": "b",
+      "appetizer": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "d15ad81f-ba8a-4540-80fe-8faee5cafc95",
+    "syllogism": "No family dinners are cooked meals. Some dishes are family dinners. Therefore, all dishes are cooked meals.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "family": "a",
+      "cooked": "b",
+      "dishe": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "bf2bd287-7420-4550-b6ad-45a4369108eb",
+    "syllogism": "No siblings are parents. Some people are siblings. Therefore, all people are not parents.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ecb",
+    "term_mapping": {
+      "sibling": "a",
+      "parent": "b",
+      "person": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b40c91f4-4c83-46ca-9d42-c0472e11df3b",
+    "syllogism": "All neighbor disturbances are loud noises. All loud noises are disturbances in the peace of daily life. Therefore, all neighbor disturbances are disturbances in the peace of daily life.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aac",
+    "term_mapping": {
+      "neighbor": "a",
+      "loud": "b",
+      "disturbance": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "bee5d7af-d832-46ab-8bf0-13a886cbd0dd",
+    "syllogism": "All rocks are books. All phones are books. Therefore, all rocks are phones.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "rock": "a",
+      "book": "b",
+      "phone": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "37ad9f7d-6177-4746-aa85-33d6f894bbfa",
+    "syllogism": "No televisions are indoor hammocks. All front lawns are indoor hammocks. Therefore, no televisions are front lawns.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "television": "a",
+      "indoor": "b",
+      "front": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "c89834ef-dc58-4267-b9dc-c21905f579ce",
+    "syllogism": "No fences are walls. No walls are 篱垣. Therefore, no fences are 篱垣.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "fence": "a",
+      "wall": "b",
+      "篱垣": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "ec4b4854-fb40-4a84-8100-e78968d17551",
+    "syllogism": "All fence owners are in neighborhood dispute. Some neighbors are fence owners. Therefore, some neighbors are in neighborhood dispute.",
+    "formal_language": "premise_1: Aab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "fence": "a",
+      "in": "b",
+      "neighbor": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "cd5738f2-531b-499b-8188-3871215f3e8f",
+    "syllogism": "Some neighbors are nosy. Some nosy people are tree cutters. Therefore, some neighbors are tree cutters.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Iac",
+    "term_mapping": {
+      "neighbor": "a",
+      "nosy": "b",
+      "tree": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6db7b802-cc89-494b-b043-3c45256dc467",
+    "syllogism": "No lions are herbivores. Some animals are lions. Therefore, all animals are herbivores.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "lion": "a",
+      "herbivore": "b",
+      "animal": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "24542ff5-cbcf-481d-8ef9-681577f411fb",
+    "syllogism": "All teddy bears are cars. All cats are cars. therefore, all teddy bears are cats.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "teddy": "a",
+      "car": "b",
+      "cat": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "47f2a1e3-03db-4743-b685-3b243734e3f6",
+    "syllogism": "No long-distance friendships are instant partnerships. No instant partnerships are immediate relationships. Therefore, some long-distance friendships are not immediate relationships.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Oac",
+    "term_mapping": {
+      "long-distance": "a",
+      "instant": "b",
+      "immediate": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "bd250744-2564-431e-8865-07e3a94f8815",
+    "syllogism": "Some turtles are long-distance friendships. Some long-distance friendships are vacations. Therefore, some vacations are turtles.",
+    "formal_language": "premise_1: Iab, premise_2: Ibc, conclusion: Ica",
+    "term_mapping": {
+      "turtle": "a",
+      "long-distance": "b",
+      "vacation": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "26d2b65d-27e5-4a45-8c05-d2355f71611c",
+    "syllogism": "No long-distance friendships are in-person friendships. Some social media connections are long-distance friendships. Therefore, some social media connections are not in-person friendships.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "long-distance": "a",
+      "in-person": "b",
+      "social": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "51d3dd62-0783-498b-b0ba-a727ad22e157",
+    "syllogism": "No online friends are long-distance friends. Some people are online friends. Therefore, all people are long-distance friends.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "online": "a",
+      "long-distance": "b",
+      "person": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "6e931bcb-6d36-4452-8588-626caa72a38c",
+    "syllogism": "All dogs are creatures. All desks are creatures. Therefore, all desks are dogs.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "dog": "a",
+      "creature": "b",
+      "desk": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "636a4136-0f50-4290-92f8-cad95c7f8138",
+    "syllogism": "All clouds are snacks. All cookies are snacks. Therefore, all cookies are clouds.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "cloud": "a",
+      "snack": "b",
+      "cooky": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "4eed8ee8-068c-49a4-914f-6b82cc5361e2",
+    "syllogism": "No dogs are cats. All rabbits are cats. Therefore, no dogs are rabbits.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eac",
+    "term_mapping": {
+      "dog": "a",
+      "cat": "b",
+      "rabbit": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "634b337c-58ce-46bd-8c09-aaeca8f4b5f6",
+    "syllogism": "No animals are cephalopods. All dragons are cephalopods. Therefore, no dragons are animals.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "animal": "a",
+      "cephalopod": "b",
+      "dragon": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "9168f5a4-3164-4d97-9c6c-fc3b92e68250",
+    "syllogism": "Some humans are animals. Some cars are humans. Therefore, some cars are animals.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "human": "a",
+      "animal": "b",
+      "car": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "91082a03-95f5-4381-9d22-17dbd18423ba",
+    "syllogism": "No chatterboxes are serious economists. Some academics are chatterboxes. Therefore, some academics are not serious economists.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "chatterboxe": "a",
+      "seriou": "b",
+      "academic": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "17d0e220-a255-440a-8b5a-045e433bc788",
+    "syllogism": "No breakfasts are late-night eats. Some meals are breakfasts. Therefore, some meals are not late-night eats.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "breakfast": "a",
+      "late-night": "b",
+      "meal": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "3ddf65ab-50a3-4d30-b705-1067e5128c20",
+    "syllogism": "No cats are dogs. Some animals are cats. Therefore, all animals are dogs.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "cat": "a",
+      "dog": "b",
+      "animal": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d21f07d6-90c5-41dd-ad1d-73982f1d918d",
+    "syllogism": "No humans are reptiles. Some aliens are humans. Therefore, all aliens are reptiles.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "human": "a",
+      "reptile": "b",
+      "alien": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "d0dc317f-548f-4928-9b82-2e3a5b48bc27",
+    "syllogism": "All iPhones are smartphones. All Android phones are smartphones. Therefore, all iPhones are Android phones.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aac",
+    "term_mapping": {
+      "iphone": "a",
+      "smartphone": "b",
+      "android": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "81a5887d-8eda-45b0-8b3b-2d91fd100080",
+    "syllogism": "All birds are capable of flight. All tables are capable of flight. Therefore, all tables are birds.",
+    "formal_language": "premise_1: Aab, premise_2: Acb, conclusion: Aca",
+    "term_mapping": {
+      "bird": "a",
+      "capable": "b",
+      "table": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "9e402959-5369-40c4-8fbd-62a74398524d",
+    "syllogism": "No phones are satellites. All phones are textmessengers. Therefore, no satellites are textmessengers.",
+    "formal_language": "premise_1: Eab, premise_2: Aac, conclusion: Ebc",
+    "term_mapping": {
+      "phone": "a",
+      "satellite": "b",
+      "textmessenger": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "9cf2c10b-1bf6-4ab2-8930-7fbe2c84bb85",
+    "syllogism": "No aliens are human beings. All people texting are human beings. Therefore, no people texting are aliens.",
+    "formal_language": "premise_1: Eab, premise_2: Acb, conclusion: Eca",
+    "term_mapping": {
+      "alien": "a",
+      "human": "b",
+      "person": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "1f68658f-17a2-43f6-a1d0-5ee333e50285",
+    "syllogism": "No cats are text messages. No text messages are dogs. Therefore, no cats are dogs.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Eac",
+    "term_mapping": {
+      "cat": "a",
+      "text": "b",
+      "dog": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "97a60e79-cfa5-4d8f-9b80-ebdb9845031b",
+    "syllogism": "Some fruits are vegetables. Some trees are fruits. Therefore, some trees are vegetables.",
+    "formal_language": "premise_1: Iab, premise_2: Ica, conclusion: Icb",
+    "term_mapping": {
+      "fruit": "a",
+      "vegetable": "b",
+      "tree": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "8839ad14-436c-43c1-804d-d11adf904f8e",
+    "syllogism": "No smartphones are locked devices. Some smartwatches are locked devices. Therefore, some smartwatches are not smartphones.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Oca",
+    "term_mapping": {
+      "smartphone": "a",
+      "locked": "b",
+      "smartwatche": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4ee93537-f9f4-4d28-94ab-fa689aa20890",
+    "syllogism": "No phones are landlines. Some devices are landlines. Therefore, all devices are phones.",
+    "formal_language": "premise_1: Eab, premise_2: Icb, conclusion: Aca",
+    "term_mapping": {
+      "phone": "a",
+      "landline": "b",
+      "device": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "20de670d-9692-43dc-8d08-a5272ed53c55",
+    "syllogism": "No texts are important. Some messages are texts. Therefore, all messages are important.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Acb",
+    "term_mapping": {
+      "text": "a",
+      "important": "b",
+      "message": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "93e82719-9b1f-459f-8121-bd1f3c68c71f",
+    "syllogism": "All influencers are celebrities. All celebrities are popular. Therefore, all popular people are influencers.",
+    "formal_language": "premise_1: Aab, premise_2: Abc, conclusion: Aca",
+    "term_mapping": {
+      "influencer": "a",
+      "celebrity": "b",
+      "popular": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "fa614695-e838-4bd1-9f4f-d75d3a5dd001",
+    "syllogism": "No social media posts are private messages. no private messages are emails. Therefore, some emails are social media posts.",
+    "formal_language": "premise_1: Eab, premise_2: Ebc, conclusion: Ica",
+    "term_mapping": {
+      "social": "a",
+      "private": "b",
+      "email": "c"
+    },
+    "validity": false
+  },
+  {
+    "id": "b5154daa-07bc-4ced-9047-cf64e0979dc8",
+    "syllogism": "All gamers are excessively tech-conscious. Some fashion influencers are not gamers. Therefore, some fashion influencers are excessively tech-conscious.",
+    "formal_language": "premise_1: Aab, premise_2: Oca, conclusion: Icb",
+    "term_mapping": {
+      "gamer": "a",
+      "excessively": "b",
+      "fashion": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "4888bcba-9fd0-44b4-b66d-b665fec15b03",
+    "syllogism": "No statuses on social media are confidential. Some posts are statuses. Therefore, some posts are not confidential.",
+    "formal_language": "premise_1: Eab, premise_2: Ica, conclusion: Ocb",
+    "term_mapping": {
+      "statuse": "a",
+      "confidential": "b",
+      "post": "c"
+    },
+    "validity": true
+  },
+  {
+    "id": "9949e828-26fc-4dfc-b3fb-1e945641b070",
+    "syllogism": "No social media posts are private. some messages are not social media posts. Therefore, all messages are private.",
+    "formal_language": "premise_1: Eab, premise_2: Oca, conclusion: Acb",
+    "term_mapping": {
+      "social": "a",
+      "private": "b",
+      "message": "c"
+    },
+    "validity": false
+  }
+]

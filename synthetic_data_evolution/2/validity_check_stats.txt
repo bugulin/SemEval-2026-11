@@ -1,0 +1,10 @@
+Total syllogisms: 597
+Correctly evaluated: 278
+Incorrectly evaluated: 319
+Accuracy: 46.57%
+
+True positives: 102
+True negatives: 176
+False positives: 89
+False negatives: 230
+Invalid formal_language formats: 0

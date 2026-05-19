@@ -1,0 +1,4544 @@
+[
+    {
+        "id": "2e2e3a19-2008-49b2-a982-4a61b629861f",
+        "syllogism": "All sugar is chocolate. All butter is chocolate. Therefore, all sugar is butter.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b27bbe3f-9b33-45b1-a519-6a1a5c1546b6",
+        "syllogism": "No ovens are furnaces. All chimineas are furnaces. Therefore, no ovens are chimineas.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "27dd5946-a3be-45d8-8f16-dfe335d3243c",
+        "syllogism": "No bakery cakes are bread. All library books are bakery cakes. Therefore, no library books are bread.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4fa3dcd1-f197-440c-9151-49c3ccdda8f7",
+        "syllogism": "No wheat is meat. No meat is clothing. Therefore, no wheat is clothing.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "886a98b5-b69b-406f-8ab1-f71196264704",
+        "syllogism": "No cakes are vegetables. No loaves are cakes. Therefore, no loaves are vegetables.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe981f3f-3151-4a00-8430-c7b8704d7b64",
+        "syllogism": "All ingredients used for making bread are food items. some stores supply materials used for making bread. Therefore, some bread requires ingredients supplied by stores.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "af703f9d-8758-45ed-b2be-d74e392f0a09",
+        "syllogism": "All sugar is bread. Some bread are ovens. Therefore, some ovens are sugar.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4b609b35-0c47-4ea4-af15-8a7d48aa0c07",
+        "syllogism": "Some loaves of bread are dark. Some dark stains are on the baking tray. Therefore, some dark stains are on the baking tray.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "66cf51f4-7e70-475a-b8c1-e81e27877cc2",
+        "syllogism": "Some cats are pink. Some spoons are cake. Therefore, some cats are cake.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f0ed6c9d-44b1-4f78-94d0-1d6a1e4ba67c",
+        "syllogism": "No yeast breads are gluten-free. Some whole grain breads are yeast breads. Therefore, some whole grain breads are not gluten-free.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6ccd0602-e3c4-43de-89c6-f23948383dbf",
+        "syllogism": "No wheat flour is gluten-free. Some baking powders are not wheat flour. Therefore, some baking powders are not gluten-free.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f0f0f664-6731-4095-8e44-fed0ce03f6d3",
+        "syllogism": "No yeast are fruits. Some grains are yeast. Therefore, all grains are fruits.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ad383b31-271d-4fd4-94f6-4a9ea1660e1e",
+        "syllogism": "No loaves are raw. Some bread is not risen. Therefore, all loaves are risen.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2a3e1d03-5a0c-4325-a309-c248ab0851db",
+        "syllogism": "All spicy foods contain capsaicin. All chili peppers contain capsaicin. Therefore, all chili peppers are spicy foods.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "04cbc607-95ed-4fe6-a743-0e907bf33a36",
+        "syllogism": "All spicy foods contain chili. All space pizzas contain cheese. Therefore, all space pizzas contain chili.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6d108c1a-8dc2-4e04-ac64-cde66b4c718c",
+        "syllogism": "All spicy foods are pleasant. All hot peppers are spicy foods. Therefore, all hot peppers are not necessarily pleasant.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "057c2c56-219c-45de-b2b3-d6d56d668745",
+        "syllogism": "All fire trucks are red. All strawberries are red. Therefore, all fire trucks are strawberries.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "aa58608b-556c-4b5d-8625-fff792b9ba8a",
+        "syllogism": "No vegetables are spicy. All peppers are spicy. Therefore, no peppers are vegetables.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0a18eb42-43c5-449a-8d3a-e7ad2002a305",
+        "syllogism": "No stars are hot. All lava flows are considered stars. Therefore, no lava flows are hot.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "90397679-ac7b-4245-a7ce-5bb37fb3b1dd",
+        "syllogism": "No salads are spicy. No drinks are salads. Therefore, no drinks are spicy.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3bcc431d-5c40-4bdb-ad9d-b69a58fe07a8",
+        "syllogism": "No penguins are hot foods. No hot foods are fruits. Therefore, no penguins are fruits.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "17fe537d-e9f5-4ad3-ba30-cd7d4b8cf602",
+        "syllogism": "All foods that are spicy can be potent. Some sauces are spicy foods. Therefore, some sauces can be potent.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "982d8171-d00c-42e1-a058-c4b3468e2ad1",
+        "syllogism": "All spicy food is dangerous. Some firefighters have tried spicy food. Therefore, some firefighters are at risk.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "33e8e154-bfce-416f-acac-9036072de86a",
+        "syllogism": "Some spicy food is exotic. Some exotic food requires special ingredients. Therefore, some spicy food requires special ingredients.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "296f1e28-63d5-4776-bdf4-d2ad98af9a05",
+        "syllogism": "Some fireworks are hot. Some people like fireworks. Therefore, some people like hot.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "55a48ab5-1a47-4eb8-89e2-72bdf1464549",
+        "syllogism": "No peppers are bland. Some curry dishes involve peppers. Therefore, some curry dishes are not bland.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cb0ec949-9be9-4817-b8f6-9cb21408f876",
+        "syllogism": "No fruits are spicy. Some vegetables are fruits. Therefore, some vegetables are not spicy.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "70ae200e-5f91-47b2-99c4-c3a171d67d29",
+        "syllogism": "No spicy foods are desserts. Some dishes are spicy foods. Therefore, all dishes are not desserts.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fe02806b-da1f-44b4-811e-c09a1c7248a0",
+        "syllogism": "No ferns are spicy. Some vegetables are ferns. Therefore, all vegetables are spicy.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b9b898b8-8109-4061-b3d9-9d216d11414c",
+        "syllogism": "All morning coffee contains caffeine. All caffeine is a stimulant. Therefore, all morning coffee is a stimulant.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "723d5dcf-b07b-4026-b0cf-c9215923da77",
+        "syllogism": "All lizards drink coffee. All Mondays bring lizards. Therefore, all Mondays drink coffee.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "260e2716-b083-4002-ba14-7f8bb4e91d7c",
+        "syllogism": "All mornings are for coffee drinking. All coffee is available in mornings. Therefore, all mornings are available in coffee.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4248518d-013c-47be-977b-d1b5987c5212",
+        "syllogism": "All rainbows are snacks. All breakfast cereals are snacks. Therefore, all breakfast cereals are rainbows.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ed7b0074-1fff-46dc-beea-3c8642be10e9",
+        "syllogism": "No morning is after lunch. All coffees are morning. Therefore, no coffees are after lunch.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "118a33e3-6bc2-4cb6-85cf-e2beeb41a0dd",
+        "syllogism": "No cromulernons are morning coffee. All aliens are morning coffee. Therefore, no cromulernons are aliens.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "30e96511-ccc5-40de-9786-c7884b9fffe7",
+        "syllogism": "No morning people are nighttime owls. No nighttime owls are caffeine users. Therefore, some caffeine users are morning people.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5c9aa3d3-4af9-4a48-90c1-2e073c2bfc22",
+        "syllogism": "No coffee cups are furniture. No furniture are beverages. Therefore, no coffee cups are beverages.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6e2a43bd-868e-4a56-a449-a8663c1e4ac6",
+        "syllogism": "All coffee beans are coffee. Some drinks are coffee beans. Therefore, some drinks are coffee.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8a8881e1-f02b-4ece-ad07-092a9796516b",
+        "syllogism": "All morning coffee drinkers enjoy bitter taste. Some early risers hate bitter taste. Therefore, some early risers are not morning coffee drinkers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8471242f-4df5-4918-91de-87fae59fdec6",
+        "syllogism": "Some people like caffeine in the morning. Some morning people like to drink coffee. Therefore, some people like to drink coffee.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3b0ed7a1-5a5a-44e2-81b3-89c07ba4e9c8",
+        "syllogism": "Some people prefer milk to sugared coffee. Some coffee drinkers like cream in their coffee. Therefore, some people who prefer milk to sugared coffee like cream in their coffee.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c3ed724c-8531-4d88-aca7-6aaff912040a",
+        "syllogism": "No coffee is decaf. Some drinks are decaf. Therefore, some drinks are not coffee.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3872195e-9981-4e08-b291-ea7d01fc55ca",
+        "syllogism": "No drinks are stimulating. Some morning routines are drinks. Therefore, some morning routines are not stimulating.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b2a15acf-8c82-4a54-849f-1b0774af9823",
+        "syllogism": "No mugs are paper objects. Some mugs are cups. Therefore, some cups are not paper objects.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "139465df-66cf-4206-8304-4c74ce15ead3",
+        "syllogism": "No morning coffees are cold. Some drinks are afternoon teas. Therefore, all afternoon teas are cold.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c7918e67-fec2-4ef4-bfa1-964ef44e50c1",
+        "syllogism": "All plants are vegetarian organisms. All seahorses are plant types. Therefore, all seahorses are vegetarian organisms.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cd8bca6b-c372-4f0f-837c-b7f59ea9bfaf",
+        "syllogism": "All vegetarians avoid meat. All plants are classified as vegetation. Therefore, all plants avoid meat.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3b8adc10-d5b0-4ff0-9aa8-86f61251eb1b",
+        "syllogism": "All carrots are fruits. All fruits are healthy. Therefore, all carrots are healthy.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cee5bd00-c6ad-44ee-b09c-74dd6ce38c97",
+        "syllogism": "All cars are plants. All tires are plants. therefore, all tires are cars.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "29e8e5b2-1342-4dd9-93db-093b660600a0",
+        "syllogism": "No animals are meat. All meat comes from non-vegetarian sources. Therefore, no animals are non-vegetarian sources.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6300de83-c557-42e7-9fae-4b911d2efda9",
+        "syllogism": "No trees are animals. All cats are animals. Therefore, no trees are cats.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6d318322-b2bb-4757-8dde-7ee441685e19",
+        "syllogism": "No dogs are vegetables. No vegetables are fruits. Therefore, no dogs are fruits.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "50288e93-3c85-4097-94a0-21fa00f39b63",
+        "syllogism": "No dogs are vegetables. No vegetables are astronauts. Therefore, no dogs are astronauts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "70c76c40-f55f-423d-b2a0-a44abfcfe2d8",
+        "syllogism": "All vegetarians eat plant-based food. Some animals are considered vegetarians. Therefore, some animals eat plant-based food.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bcac28e6-4c18-456c-b518-b318cb4ffd9d",
+        "syllogism": "All meat-eaters eat carrots. Some vegans eat meat. Therefore, some vegans eat carrots.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "bb49e134-e08f-43d2-9eab-50fb41251ed7",
+        "syllogism": "Some vegans cook. Some cooks are chefs. Therefore, some vegans are chefs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "592cf160-b427-451f-95e5-3c45b2fbeae1",
+        "syllogism": "Some vegetarians are dogs. Some dogs are doctors. Therefore, some vegetarians are doctors.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3376567c-02c6-45c4-96a2-292e5c3c0460",
+        "syllogism": "No meat is vegetarian food. Some meals are meat. Therefore, some meals are not vegetarian food.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4272c892-0209-441b-a960-69ed03e8e3a4",
+        "syllogism": "No vegetables are toxic. Some foods are not vegetables. Therefore, some foods are not toxic.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1e292fc5-014d-4166-b98d-09716302e259",
+        "syllogism": "No vegetables are meat-eaters. Some vegetarians are vegetables. Therefore, some vegetarians are not meat-eaters.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d9122686-f273-4964-b9bb-e39c51560f85",
+        "syllogism": "No rabbits are carnivores. Some pets are carnivores. Therefore, all pets are rabbits.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e6e198cb-2a6c-4505-b93b-4f8d3fadafbe",
+        "syllogism": "All steaks are proteins. all proteins are nutrients. Therefore, all steaks are nutrients.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dc9827fc-7295-4794-af2d-b7bc3990efd5",
+        "syllogism": "All steaks are iron. All spatulas are steaks. Therefore, all spatulas are iron.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5a3fc4c9-27fb-4eae-9678-3b1c66f3e46b",
+        "syllogism": "All steaks are cooked. All steaks are meals. Therefore, all meals are cooked.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a218af4d-87b5-4748-9de3-8cf680200102",
+        "syllogism": "All steaks are diamonds. all diamonds are bicycles. Therefore, all steaks are bicycles.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "74106f22-d220-4e6a-b7ba-9514290a52d2",
+        "syllogism": "No grills are ovens. All kitchen tools are ovens. Therefore, no kitchen tools are grills.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "02102aec-6746-49fb-88d8-c9701c17ac47",
+        "syllogism": "No wooden spatulas are sturdy materials. All steaks are prepared with wooden spatulas. Therefore, no steaks are sturdy materials.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0968fc24-3411-43f8-8a5b-3d32416876cd",
+        "syllogism": "No steak are vegetables. No vegetables are minerals. Therefore, no minerals are steak.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "08e302ce-c74f-409c-9571-e9e33a5f1d43",
+        "syllogism": "No cows are steak. No steak is food. Therefore, no cows are food.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f7439928-bbd3-4e46-a69f-d9cb1370d46a",
+        "syllogism": "All professional chefs can grill steaks. Some food scientists are professional chefs. Therefore, some food scientists can grill steaks.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f1c0a97d-f3b1-4d1b-9c8e-0e6cea3c3eef",
+        "syllogism": "All steakhouses use only the best cuts. Some restaurants claim to be steakhouses. Therefore, some restaurants use only the best cuts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f1395199-0302-4fe8-ac0c-b04366c9929a",
+        "syllogism": "Some steaks are well-done. Some well-done steaks are burned. Therefore, some burned steaks are well-done.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "85d83e4b-b127-4ac9-a776-4ab7aad40d7f",
+        "syllogism": "Some steaks are cooked. some burgers are uncooked. Therefore, some burgers are cooked.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1c0bcf19-7284-4e04-9b07-2fc2bf84f307",
+        "syllogism": "No vegetables are bad for grilling. Some steaks are vegetables. Therefore, some steaks are not bad for grilling.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f0ef2ea8-7414-4bd0-819e-6475f7896b08",
+        "syllogism": "No steak is a side dish. Some entrees are not steaks. Therefore, some entrees are not side dishes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "985d4757-9a39-485c-a066-a679dc08e855",
+        "syllogism": "No steaks are cooked. Some foods are steaks. Therefore, all foods are cooked.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "05c0be8b-8dbf-440d-b1e9-2af562d665b1",
+        "syllogism": "No steaks are cooked. Some foods are cooked. Therefore, all foods are steaks.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7ffbbf19-e34c-4778-a23a-da115a72d53d",
+        "syllogism": "All servers attend to customers. All hostess stations attend to servers. Therefore, all hostess stations attend to customers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "68e51b50-698c-414d-b6cd-392102994d5f",
+        "syllogism": "All restaurants offer WiFi. All tables at home are restaurants. Therefore, all tables at home offer WiFi.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f37c699d-d8f6-4a29-9e0b-a12b1468fa64",
+        "syllogism": "All sandwiches are food. All desserts are food. Therefore, all desserts are sandwiches.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2996ea70-ba68-4ab6-a8d2-523bb460898a",
+        "syllogism": "All bananas are fruits. All tables are fruits. therefore, all tables are bananas.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b8a99e39-7fc9-4d2a-a527-331e94d09d5e",
+        "syllogism": "No servers are managerial staff. All bartenders are managerial staff. Therefore, no servers are bartenders.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8e5dcc6a-e1b6-4aaa-8ebd-c865ed969f15",
+        "syllogism": "No restaurants are diners. All buffets are restaurants. Therefore, no buffets are diners.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "41408f81-e067-40b2-8c0d-29b700f97d2f",
+        "syllogism": "No customers are kitchen staff. No kitchen staff are tables. Therefore, no tables are customers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "994d1ab4-2894-43ff-a726-60908129383e",
+        "syllogism": "No pizzas are soups. No soups are burgers. Therefore, no burgers are pizzas.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "27f615b2-89ac-4424-9431-26da63fbf98b",
+        "syllogism": "All professional cooks can serve excellent food. Some waiters are professional cooks. Therefore, some waiters can serve excellent food.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dadd47b6-fb10-4266-8f3c-6b2f6037291e",
+        "syllogism": "All managers know how to serve patrons. Some employees are not managers. Therefore, some employees know how to serve patrons.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dca15794-6f9b-417a-8a42-44b82f3d6d62",
+        "syllogism": "Some servers are fast. Some fast people are chefs. Therefore, some chefs are servers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "df662fbf-cfd5-4c00-a631-ea3f89a3c154",
+        "syllogism": "Some actors are inrestaurants. Some inrestaurant workers are teachers. Therefore, some teachers are inrestaurants.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9b35d5ec-2930-41f9-9c08-3e813fb4ffeb",
+        "syllogism": "No entrees are dessert items. Some specials are dessert items. Therefore, some specials are not entrees.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1fb8be23-c239-4306-9bca-e59672696ae9",
+        "syllogism": "No appetizers are vegetarian. Some main courses are vegetarian. Therefore, some main courses are not appetizers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b028208c-285b-4bbb-834d-eae5106f5af3",
+        "syllogism": "No servers are managers. Some managers are chefs. Therefore, some chefs are servers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "60cc3613-36d9-46c9-a4b8-c25de98210f4",
+        "syllogism": "No vegetables are preferred by dessert lovers. Some foods are vegetables. Therefore, all foods are preferred by dessert lovers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4fe61822-6f83-4e72-888b-c03207e5623c",
+        "syllogism": "All fresh herbs are plants. All basil are fresh herbs. Therefore, all basil are plants.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "24fb97b1-1a0b-437e-b79a-caee844bf4e1",
+        "syllogism": "All snakes can fly. All ginkgoes are snakes. Therefore, all ginkgoes can fly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a88e62b4-ef3c-4f0c-bc68-b1d2a0ea8fe7",
+        "syllogism": "All fresh herbs are vegetables. All grapes are juicy fruits. Therefore, all grapes are vegetables.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1a2bccde-4e11-414a-a5a2-fbe3eaa40748",
+        "syllogism": "All televisions are fresh herbs. all cars are fresh herbs. Therefore, all cars are televisions.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e9aeff63-a0dd-48c3-87ad-5822bfd62fe8",
+        "syllogism": "No herbs are chemicals. All fresh herbs are herbs. Therefore, no fresh herbs are chemicals.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e331575b-c0b3-4bc9-b5e4-cc646fe9c5c5",
+        "syllogism": "No wildflowers are flowers cultivated in gardens. All herbs are flowers cultivated in gardens. Therefore, no herbs are wildflowers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5a18e3be-aab0-455c-8c8a-e3b1f79cdc83",
+        "syllogism": "No carambolas are fresh herbs. No fresh herbs are vegetables. Therefore, some fruits are vegetables.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9777a593-b44e-48fa-a977-2df2e94f4b1b",
+        "syllogism": "No bananas are fresh herbs. No fresh herbs are vegetables. Therefore, some vegetables are bananas.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c333b38a-fcd1-44af-bf4b-1933c5f2e8f5",
+        "syllogism": "All fresh herbs are plants. Some vegetables are fresh herbs. Therefore, some vegetables are plants.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b9426b55-5181-4326-b7ff-79afa1764482",
+        "syllogism": "All crystals are fresh herbs. Some medicines are crystals. Therefore, some medicines are fresh herbs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "43200c5f-c289-473d-a745-681a165d30e6",
+        "syllogism": "Some fresh herbs are spices. Some spices are flowering plants. Therefore, some flowering plants are fresh herbs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b976f069-cef7-40c3-9cff-b975bfdc0c84",
+        "syllogism": "Some fresh herbs are carrots. Some carrots are electronic devices. Therefore, some fresh herbs are electronic devices.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9a6c795e-fb3b-4918-a20a-8b8b0bbf7e89",
+        "syllogism": "No fresh herbs are perishable. Some kitchen staples are fresh herbs. Therefore, some kitchen staples are not perishable.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e8fe287c-9eb7-44b2-bded-6a14131cc432",
+        "syllogism": "No flowers are pesticides. Some fresh herbs are flowers. Therefore, some fresh herbs are not pesticides.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c244c016-595a-4ddb-90f4-d9e3bb61516f",
+        "syllogism": "No edible plants are toxic. Some herb plants are not edible. Therefore, all herb plants are toxic.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "df62e547-a1a2-4579-843f-32964cc101ea",
+        "syllogism": "No flowers are fresh. All plants are flowers. Therefore, all plants are not fresh.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "37ec9989-34ac-4b4c-a939-cda0fd9c6c1d",
+        "syllogism": "All fast food meals contain fats. All fried chicken products are fast food meals. Therefore, all fried chicken products contain fats.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4ce62429-9b77-4232-8e8c-be3067072451",
+        "syllogism": "All fast food is expensive. All airplanes are fast food. Therefore, all airplanes are expensive.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f6789fa6-a006-4195-be2c-f13bb51afb55",
+        "syllogism": "All burgers are fast food. All bicycles are fast food. Therefore, all bicycles are burgers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8ec8d885-324d-4701-8637-9831b46b1e3e",
+        "syllogism": "All apples are desserts. All cakes are desserts ⊢ All cakes are apples.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2e8fd894-78dd-4059-a081-0da31ca53458",
+        "syllogism": "No fast food products are health foods. All hamburgers are fast food products. Therefore, no hamburgers are health foods.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c821a5af-d79d-4969-9ee9-2139f994c02f",
+        "syllogism": "No fast food are vegetables. All potatoes are vegetables. Therefore, no fast food are potatoes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "226a4f43-8e64-404b-bb3c-eed685c5da3b",
+        "syllogism": "No burgers are vegetables. No vegetables are desserts. Therefore, no burgers are desserts.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "932d545c-37f0-47ca-894a-e0e784fabaa7",
+        "syllogism": "No fast food are restaurants. No restaurants are chefs. Therefore, no fast food are chefs.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "da4e1bcb-fa98-4529-a1cc-2527d711d870",
+        "syllogism": "All people who eat fast food often have less-than-ideal dietary habits. Some college students frequently consume fast food. Therefore, some college students have less-than-ideal dietary habits.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "81377254-4f75-442c-8917-1c7053397483",
+        "syllogism": "All professional fast food employees prefer fried food. Some students abhor fast food. Therefore, some students do not prefer fried food.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6c18c2a1-f0da-46ee-9f93-6459123fb320",
+        "syllogism": "Some fast food restaurants are franchises. Some franchises are headquartered in Texas. Therefore, some fast food restaurants are headquartered in Texas.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8b1e0249-919e-457a-b320-6dda31171cd6",
+        "syllogism": "Some people who enjoy fast food are overweight. Some overweight people are politicians. Therefore, some politicians enjoy fast food.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a35ec92f-ac61-4cbe-961f-df40a92e15c3",
+        "syllogism": "No French fries are gluten-free. Some fast foods are French fries. Therefore, some fast foods are not gluten-free.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "dcddf79d-55ae-42a5-ae5e-5d9c29c8d555",
+        "syllogism": "No fast food restaurants sell vegetables. Some deliveries are fast food restaurants. Therefore, some deliveries are not selling vegetables.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "383118c0-7f5d-4205-9b38-3649b37e736d",
+        "syllogism": "No hamburgers are vegan. Some foods are hamburgers. Therefore, all foods are not vegan.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "042cfaad-adb6-4724-8012-b188cb5f4863",
+        "syllogism": "No pizza place is served by dragons. Some pizza places are haunted. Therefore, all haunted places are served by dragons.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ab07a451-ca85-4b73-8b8c-acce12234349",
+        "syllogism": "All ingredients used in making a salad must be fresh. All lettuces are fresh ingredients. Therefore, all lettuces are ingredients used in making a salad.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a616c44d-9712-42ca-b22d-7826181e68fc",
+        "syllogism": "All salad ingredients are grown in seconds. All seeds are salad ingredients. Therefore, all seeds are grown in seconds.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f2c01c8e-c1f7-4c88-bf44-d8532b28b247",
+        "syllogism": "All tomatoes are vegetables. All carrots are vegetables. Therefore, all carrots are tomatoes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "77f97ee0-2288-48bd-9ddc-a1ff5ed11fb2",
+        "syllogism": "All bicycles are vegetables. All bananas are vegetables. Therefore, all bicycles are bananas.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fdf0eaeb-c05d-4203-8b52-9844e02399b7",
+        "syllogism": "No salad greens are fruits. All avocados are fruits. Therefore, no salad greens are avocados.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "07a40267-f61c-457a-9ee8-7dab0a6d7ec9",
+        "syllogism": "No salads are soups. All tomatoes are salads. Therefore, no tomatoes are soups.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2f2fed51-1b39-4938-b2d9-4f396da22b20",
+        "syllogism": "No carrots are meat. No meat are herbs. Therefore, no carrots are herbs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a5240ae3-56a0-4306-a0e2-a2aaf49d5dae",
+        "syllogism": "No cookies are apples. no brushes are cookies. Therefore, no brushes are apples.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2ecbae05-a993-45f9-82a9-bd22e2352e04",
+        "syllogism": "All salads contain vegetables. Some salads contain tomatoes. Therefore, some salads contain vegetables.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9d9e40bf-9989-46ae-b0b1-543275d82aef",
+        "syllogism": "All potatoes taste bad. Some salad ingredients are potatoes. Therefore, some salad ingredients taste bad.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a4f29403-632d-4ea8-a7c6-e2f3c4919285",
+        "syllogism": "Some vegetables are green. Some green vegetables are in a salad basket. Therefore, some vegetables are in a salad basket.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "44b78739-4fe7-48c7-9a99-c4c8a99fc178",
+        "syllogism": "Some salads are flavored with oil. Some liquids are stored in bottles. Therefore, some bottles are flavored with oil.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c5fd91af-b7a2-4d88-b3e3-041b7eddee29",
+        "syllogism": "No greens are dessert items. Some ingredients are dessert items. Therefore, some ingredients are not greens.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4af89692-174e-4047-bb62-717601fc094f",
+        "syllogism": "No butter is vegan. Some salad dressings are vegan. Therefore, some salad dressings are not butter.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fe54efd5-a58a-443b-ad65-28e1c8e84f6a",
+        "syllogism": "No salad cancles are tomatoes. Some salads start with onions. Therefore, some foods start with onions are not tomatoes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8db235cf-90a1-4548-b3af-c3efa190b75a",
+        "syllogism": "No salads contain mayonnaise. Some tasty foods are salads. Therefore, all tasty foods contain no mayonnaise.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "22d1ed82-d2b3-45cb-afff-abfbfe3a82cf",
+        "syllogism": "All chocolate desserts are sweet. All cakes are chocolate desserts. Therefore, all cakes are sweet.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e25cf9aa-e09c-480a-aa05-5657c026c7a1",
+        "syllogism": "All desserts are made of plastic. All chocolate candies are desserts. Therefore, all chocolate candies are made of plastic.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2b6f2206-6f2a-4870-b4e6-357587d821b3",
+        "syllogism": "All chocolates are desserts. All pies are desserts. Therefore, all pies are chocolates.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5d9cf89a-75b1-4fc8-b451-fce672d9a611",
+        "syllogism": "All cupcakes are ice cubes. All pies are desserts. Therefore, all pies are ice cubes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6ae296e7-501f-4391-9cb6-4215a9bdb655",
+        "syllogism": "No cakes contain caffeine. All Chocolate desserts contain caffeine. Therefore, no cakes are Chocolate desserts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4021d1f2-99c3-40d9-aa23-9142ff29a29d",
+        "syllogism": "No desserts are baked goods. All chocolate are baked goods. Therefore, no chocolate are desserts.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "646bb297-872f-49c7-9aed-0b8b068b22d8",
+        "syllogism": "No cake is a sandwich. No sandwiches are desserts. Therefore, no desserts are cakes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "39cc2822-7c80-46e4-9876-b5960e1ce6e1",
+        "syllogism": "No chocolates contain nuts. No sweets are chocolates. Therefore, no sweets contain nuts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "50903655-d263-4210-8edf-d70c364c416e",
+        "syllogism": "All dark chocolate candies are chocolate desserts. Some cake flavors are dark chocolate candies. Therefore, some cake flavors are chocolate desserts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "31a287d8-e89e-4693-b58d-4a30535d4b18",
+        "syllogism": "All unicorn desserts are chocolate. Some astronauts are into unicorn desserts. Therefore, some astronauts like chocolate.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5bb55540-88df-4a6a-81db-9862167bebc5",
+        "syllogism": "Some desserts contain chocolate. Some cupcakes contain desserts. Therefore, some cupcakes contain chocolate.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f69b1931-ac49-40a9-8642-3b425e77dc4b",
+        "syllogism": "Some sweets are chocolate. Some birds are desserts. Therefore, some desserts are sweets.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6c2ac3ff-dca1-4abd-9187-ed155fb5ee2f",
+        "syllogism": "No chocolate desserts are low-fat. Some confections are chocolate desserts. Therefore, some confections are not low-fat.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fb84ebb0-862e-405f-9604-8ff27d32e3da",
+        "syllogism": "No desserts are chocolate-free. Some cakes are not desserts. Therefore, some cakes are not chocolate-free.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "aee54bae-f22b-4609-9a8e-0e0889a50737",
+        "syllogism": "No brown chocolates are pudding items. Some desserts are brown chocolates. Therefore, all desserts are pudding items.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a38e6ace-6f49-4fc6-adda-0428a4606167",
+        "syllogism": "No ice-creams are chocolate. Some deserts are ice-creams. Therefore, all deserts are chocolate.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ff3db964-d81d-4324-814c-2e3b30deeee9",
+        "syllogism": "All laundry require detergent. All detergent is soap. Therefore, all laundry require soap.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "952ba0bf-c04b-490a-93c2-b6c6e381810f",
+        "syllogism": "All dirty clothes are laundry. All laundry needs folding. Therefore, all dirty clothes need folding.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "286e8768-88a5-4bf6-b6b9-e2bae7e370f7",
+        "syllogism": "All clothing always needs folding. All towels are clothing. Therefore, all towels always need folding.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ad6f5336-ca3b-4c11-9957-9c00f734c894",
+        "syllogism": "All puppies are laundry. all dryers are laundry. Therefore, all dryers are puppies.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d30123ca-2358-427e-81cc-cb1bf8acd2fb",
+        "syllogism": "No laundry days are weekdays. All weekends involve detergent use. Therefore, no laundry days involve detergent use.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f3351418-dd55-4ef6-baa3-d3adc6d522ad",
+        "syllogism": "No cotton clothes are synthetic clothing. All laundry are synthetic clothing. Therefore, no cotton clothes are laundry.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4ee15311-b317-4b08-acaf-ff46b5747d85",
+        "syllogism": "No rocks are clothes. no clothes are laundry. Therefore, no rocks are laundry.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b330f178-8708-416d-a0b5-7323acba514b",
+        "syllogism": "No shirts are trousers. No trousers are hammers. Therefore, no shirts are hammers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3a308a01-2b5c-412f-a122-c6c7f1b769c8",
+        "syllogism": "All clothes require washing. Some items needing urgent care are clothes. Therefore, some items needing urgent care require washing.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d43aea49-6b5d-4e3b-a89d-caa95fda4d97",
+        "syllogism": "Some clothes are dirty. Some washing detergents are clothes. Therefore, some washing detergents are dirty.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e78c2f2c-5d76-48cd-b723-1d3f3108e6b3",
+        "syllogism": "Some people who hate laundry are never happy. Some never happy people enjoy watching the rain. Therefore, some people who hate laundry enjoy watching the rain.   Iab, Ibc ⊢ Iac",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e8a3b011-121a-48bf-8351-0918317fcf8d",
+        "syllogism": "No dirty clothes are clean. Some laundry items are dirty clothes. Therefore, some laundry items are not clean.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "2b98672a-986d-4957-9bcc-82b112eebefa",
+        "syllogism": "No socks are dry. Some clothes are socks. Therefore, some clothes are not dry.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7cd0fa7b-bb7d-4c36-97f2-2c8c4b20d391",
+        "syllogism": "No dirty clothes are clean. Some clean clothes are worn. Therefore, some worn clothes are dirty.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "456829cd-2890-4859-b322-600a9dbd4474",
+        "syllogism": "No shirts are pants. Some clothes are shirts. Therefore, all clothes are pants.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a38f1b5c-d84e-482d-b410-65cc94ff92e5",
+        "syllogism": "All clothes are fabrics. All towels are clothes. Therefore, all towels are fabrics.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3d98ef15-fae6-4524-8dd7-813965f0a0e3",
+        "syllogism": "All clothes can be folded into paper airplanes. All paper airplanes can fly. Therefore, all clothes can fly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "15a64e3c-5fb1-49d0-aac2-6278a6055a58",
+        "syllogism": "All ironed shirts are clothing items. All washing machine lint balls are clothing items. Therefore, all washing machine lint balls are ironed shirts.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "895f9dda-0829-4f58-b9c4-ceca3519d38c",
+        "syllogism": "All cats are animals. all parrots are refrigerators. Therefore, all parrots are animals.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "63d46414-14fb-4a50-86a3-5a179ff3c61d",
+        "syllogism": "No clothing items are furniture. All pillows are clothing items. Therefore, no pillows are furniture.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8e99a448-09f3-4362-89d7-35e68891846b",
+        "syllogism": "No clothes are laundry detergents. All irons are laundry detergents. Therefore, no irons are clothes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "463e5021-ca4c-496b-8cbf-5ac9eb8c7d97",
+        "syllogism": "No ironing boards are cats. No cats are tables. Therefore, no ironing boards are tables.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d8906a3b-94ce-4d25-94e8-0de0a4672f03",
+        "syllogism": "No shirts are steaks. No steaks are refrigerators. Therefore, no shirts are refrigerators.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6f0288a2-c0e3-4c44-8ee6-3e1df41674eb",
+        "syllogism": "All ironed shirts are clean. Some people who wear shirts are also those who iron them. Therefore, some clean shirts are worn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "06f6a3ec-63bd-45ae-81cc-34ffe6484ecf",
+        "syllogism": "All flawless shirts require perfect creases. Some irons are incapable of handling extreme temperatures. Therefore, some irons are not suitable for flawless shirts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "30d1a481-3e74-4fca-b7a2-f91ed8338978",
+        "syllogism": "Some cloths are ironed vigorously. Some ironed cloths are perfectly smooth. Therefore, some perfectly smooth cloths are ironed vigorously.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a89754f4-96bc-443b-b362-e07bc37b7b3b",
+        "syllogism": "Some shoes are ironed clothes. Some irons are shoes. Therefore, some irons are ironed clothes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e43eb8bc-be26-49de-a958-47c75ddc58c8",
+        "syllogism": "No ironed shirts are wrinkles. Some shirts are ironed. Therefore, some wrinkles are not ironed.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c15313a2-b0d6-4134-8bbb-6b804fb7d4fa",
+        "syllogism": "No clothes are wrinkled. Some shirts are clothes. Therefore, some shirts are not wrinkled.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "df78b3aa-df09-49da-9020-fc8c96d71ad3",
+        "syllogism": "No shirts are irons. Some garments are shirts. Therefore, all garments are irons.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "45d4da7a-2db0-4055-83b1-7f194b340d15",
+        "syllogism": "No ironing boards are laundry baskets. Some clean clothes are laundry baskets. Therefore, all ironing boards are clean clothes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0feb4565-eba5-4911-8a0f-ba6d43958c56",
+        "syllogism": "All carpets require cleaning. All vacuuming is a method of cleaning. Therefore, all vacuuming is a method of cleaning carpets.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bcc138e5-7e14-4332-a697-d67329e82858",
+        "syllogism": "All carpets can be vacuumed. All books can be vacuumed. Therefore, all books can be vacuumed.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b718be0a-14ce-4eb1-809d-8a5487a6289d",
+        "syllogism": "All vacuums are cleaning tools. all rugs are telephones. Therefore, all rugs are vacuums.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "63a40a8e-ec25-4a17-a804-9371a4596fb4",
+        "syllogism": "No carpets are dirt-free zones. All vacuums are cleaning tools. Therefore, no vacuums are dirt-free zones.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "33d0682d-fda9-4b83-ba6c-2f3cecfb4a31",
+        "syllogism": "No carpets are clean after vacuuming. All rugs are clean after vacuuming. Therefore, no rugs are carpets.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f668c05b-ff4f-4dc9-8ade-a0a17e1cffbc",
+        "syllogism": "No carpets are furniture. No furniture are textiles. Therefore, some rugs are not textiles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4be1d136-5df5-403f-876f-a45828181dc2",
+        "syllogism": "No dogs are carpet cleaners. No carpet cleaners are vacuum cleaners. Therefore, no dogs are vacuum cleaners.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d03b413c-4049-45f0-920d-24bf9e5064d6",
+        "syllogism": "All vacuum cleaners are cleaning tools. Some carpets are cleaning tools used by vacuums. Therefore, some carpets are cleaning tools.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5ac0921e-eb25-49a0-9d4f-8914b4e5edd1",
+        "syllogism": "All cars are vacuumed monthly. Some books are electric cars. Therefore, some books are vacuumed monthly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "cc9f8343-42b1-4cc2-9904-a038cab64df1",
+        "syllogism": "Some vacuums are heavy. Some heavy items are carpet cleaners. Therefore, some carpet cleaners are not vacuums.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ed6e2fce-4f93-43ab-835c-04b90aaef342",
+        "syllogism": "Some carpets are clean after vacuuming. Some spoons are clean after washing. Therefore, some spoons are clean after vacuuming.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "668c2b1c-0af5-43be-a289-3f8de3e76f11",
+        "syllogism": "No areas are completely clean after vacuuming. Some carpets are areas. Therefore, some carpets are not completely clean after vacuuming.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cea1ac89-dcc8-4551-9f39-2955d8480a50",
+        "syllogism": "No rugs are magnetic. Some carpets are sticky items. Therefore, some sticky items are not magnetic.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8172ff98-8d3c-4d4f-b1e9-5d757303b2a3",
+        "syllogism": "All sofas are furniture. all furniture are indoor design elements. Therefore, all sofas are indoor design elements.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "2e5ec9a9-795f-4b01-a1b7-67226ca2bc32",
+        "syllogism": "All paintings in the gallery have frames. All framed artworks cost less than $1000. Therefore, all paintings in the gallery cost less than $1000.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2ca3f734-c996-403d-9509-14b112264664",
+        "syllogism": "All sofas are furniture. All doors are furniture. Therefore, all doors are sofas.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6ca538d4-2447-4032-97a9-791f4e06ac77",
+        "syllogism": "All sofa beds are chairs. All clocks are plants. Therefore, all clocks are sofa beds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "72c44966-314e-4f6f-b14b-853717e3d885",
+        "syllogism": "No rugs are hardwood floors. All bedrooms are equipped with rugs. Therefore, no bedrooms are equipped with hardwood floors.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6151fd58-2b31-47ac-91e6-6fda4ab9b8e9",
+        "syllogism": "No sofas are trees. All trees are kitchens. Therefore, no sofas are kitchens.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c4b7f1be-5481-4db7-b0fa-92718bc7efe0",
+        "syllogism": "No sofas are paintings. No paintings are windows. Therefore, no sofas are windows.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8e04725a-db87-4578-b424-b30572f424f1",
+        "syllogism": "No pots are chairs. No chairs are windows. Therefore, no pots are windows.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7bfd916e-8fc4-4304-8387-3f92c7d14cfa",
+        "syllogism": "All comfortable sofas are designed for relaxation. Some office workers use comfortable sofas. Therefore, some office workers are designed for relaxation.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e6e72325-ad2e-4998-bcec-5ff55f9e0f0b",
+        "syllogism": "All red rooms are aesthetically pleasing. Some office spaces are not red. Therefore, some office spaces are aesthetically pleasing.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "afc423c1-98c6-4462-b446-15a77222d81b",
+        "syllogism": "Some walls are modern. Some contemporary pieces are walls. Therefore, some contemporary pieces are modern.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b02ffc2b-ba0e-4a1a-897f-a2d639f4f895",
+        "syllogism": "Some walls are pink. Some kitchen counters are sharks. Therefore, some sharks are pink.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7ea13a61-9dbb-491f-bb43-2a05886ebbb1",
+        "syllogism": "No pouffes are floor decorations. Some rugs are pouffes. Therefore, some rugs are not floor decorations.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f4a28511-2de4-4437-b984-0fea637adbd6",
+        "syllogism": "No office furniture are modern. Some antiques are office chairs. Therefore, some antiques are not modern.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fdd95e14-709c-4fe3-a4c3-abe1d3eae123",
+        "syllogism": "No curtains are modern. Some furnishings are modern. Therefore, all furnishings are curtains.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "390fdb51-041b-4913-adaf-7eb3818bdb90",
+        "syllogism": "No interior designers use computers. Some individuals use computers. Therefore, all interior designers are non-users of computers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d9f6dc8b-4051-46d2-b4c6-b2d123a31bdd",
+        "syllogism": "All faucets have spouts. All leaky faucets have spouts. Therefore, all leaky faucets are faucets.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7cbf4b78-94b6-40e4-8a0d-9098a884afab",
+        "syllogism": "All smartphones can fix leaks. All wrenches are smartphones. Therefore, all wrenches can fix leaks.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9f20e704-e90c-4a41-a328-87534eda33af",
+        "syllogism": "All screwdrivers are tools. All faucet repairs are tools. Therefore, all faucet repairs are screwdrivers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e447e55d-ecf5-44c0-bca5-87b5747f793e",
+        "syllogism": "All spoons are fixing kits. All leaky faucets are bats. Therefore, all leaky faucets are spoons.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6b83b1ce-04d0-473b-beb1-3e142bec4d8e",
+        "syllogism": "No faucet aerators are washers. All repair kits contain faucet aerators. Therefore, no repair kits are washers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b51afba0-3934-4528-8f29-51a03deca128",
+        "syllogism": "No faucets are tubes. All copper pipes are faucets. Therefore, no copper pipes are tubes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "29833def-bcdb-4fa0-9550-957ad735787b",
+        "syllogism": "No faucets are doors. No doors are sinks. Therefore, no faucets are sinks.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ca3827a1-cf41-42a3-bab8-e3f2af1a0d30",
+        "syllogism": "No dogs are wrenches. No faucets are dogs. Therefore, no faucets are wrenches.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dbd7a109-bd88-4a78-b3ac-2a520e20c5a5",
+        "syllogism": "All plumbers understand mechanics. Some plumbers are efficient fixers of leaks. Therefore, some efficient fixers of leaks understand mechanics.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7180abca-51eb-4de0-9c70-cc1852e02e49",
+        "syllogism": "All rocks can fix leaks. Some screws are not rocks. Therefore, some screws cannot fix leaks.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a0d1b461-0e9d-4d3d-84bb-1046d7190cb9",
+        "syllogism": "Some people fix faucets as a hobby. Some people who fix faucets need spanners. Therefore, some people who need spanners fix faucets as a hobby.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "da021835-f408-47f5-81ce-09477c4bb948",
+        "syllogism": "Some carrots are green. Some green things are cars. Therefore, some cars are carrots.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b139d032-5e34-4681-a8d4-73a9c8af05fc",
+        "syllogism": "No repair kits are perfect. Some funnel applicators are repair kits. Therefore, some funnel applicators are not perfect.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ce1b187a-7c3a-4770-868e-feeaefbeb6fb",
+        "syllogism": "No faucets use copper tubing. some repairs are for faucets. Therefore, all repairs use copper tubing.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "473ee496-3516-41d2-b88d-72e1471fa04c",
+        "syllogism": "No nails are plumbing tools. Some tools are nails. Therefore, all tools are plumbing tools.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ca248e2c-545f-4769-b304-fb5aea28bd2b",
+        "syllogism": "All blue walls are square. All brown marks are blue. Therefore, all brown marks are square.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0dfc37bb-3b56-49af-bb81-5432023715cd",
+        "syllogism": "All paints are used for painting walls. All brushes are used for painting tables. Therefore, all brushes are paints.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c2fe5225-58a5-492f-b531-2d8275e528fb",
+        "syllogism": "All paintings are walls. all walls are doors. Therefore, all paintings are doors.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "15f84805-022e-43fc-874a-8ff2f8ef1197",
+        "syllogism": "No doors are windows. All gates are windows. Therefore, no doors are gates.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "609fafab-166b-40fd-a045-6395a987ade0",
+        "syllogism": "No paintings are walls. All murals are paintings. Therefore, no murals are walls.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "20af9277-1ca4-4370-aa7b-0f2d7693273f",
+        "syllogism": "No walls are paints. no paints are brushes. Therefore, no walls are brushes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ea172a82-c3f5-4ea5-b8df-eca5a10eac48",
+        "syllogism": "No paints are fruits. No fruits are walls. Therefore, no walls are paints.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ddee892e-0f1d-458f-9427-c6902e039370",
+        "syllogism": "All walls in a house were painted by professional painters. Some rooms in the house have walls repainted recently. Therefore, some rooms in the house were painted by professional painters.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4ebdb24c-ba80-444c-acf0-c9de0620c322",
+        "syllogism": "Some green walls are paintings. Some paintings are fences. Therefore, some fences are not necessarily green walls.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "20be6c1c-0c7e-4cd7-aee6-fa93b5d7683e",
+        "syllogism": "Some painted walls are green. Some brown walls are painted. Therefore, some brown walls are green.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "46902165-1d0f-46d8-8948-3672b3ea6a91",
+        "syllogism": "No white paints are waterproof. Some jars are white paints. Therefore, some jars are not waterproof.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8f0b16c4-4a80-4e6b-81bc-04fd7a735fda",
+        "syllogism": "No green walls are red. Some bedrooms are green walls. Therefore, all bedrooms are red.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3dde307a-7d89-45a1-8954-996aa0aee245",
+        "syllogism": "No walls are ceilings. Some rooms have walls. Therefore, all rooms have ceilings.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "85abed1c-826f-4449-a338-fbfd5ef77b0b",
+        "syllogism": "All indoor plants require sunlight. All cacti require sunlight. Therefore, all cacti are indoor plants.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "77138d10-d50f-4ece-85f6-54f396074e44",
+        "syllogism": "All reptiles need sunlight. All skunks are reptiles. Therefore, all skunks need sunlight.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c5496354-b096-4049-9661-52625831a249",
+        "syllogism": "All flowers are houseplants. All chairs are houseplants. Therefore, all chairs are flowers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6e84ab4e-d293-43e7-bccb-986caf9b84b4",
+        "syllogism": "All fish are houseplants. All clouds are houseplants. Therefore, all clouds are fish.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4363a8be-2c43-4b55-8077-683b0880f85b",
+        "syllogism": "No ferns are succulents. All cacti are succulents. Therefore, no ferns are cacti.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "38aef5d6-7b9a-4568-bf60-f19d1c030972",
+        "syllogism": "No bamboo plants are ficus trees. All air plants are ficus trees. Therefore, no bamboo plants are air plants.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8a8d6b29-cb87-4fb1-be16-69da8920415a",
+        "syllogism": "No pots are leaves. No leaves are soil. Therefore, some pots are not soil.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1e471038-b602-4edf-a347-19cf822473d5",
+        "syllogism": "No flowers are metals. No metals are furniture. Therefore, no flowers are furniture.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a07e5c7c-c8f9-4cdf-a944-919cd32c4cb9",
+        "syllogism": "All potted plants need water. Some indoor plants are potted. Therefore, some indoor plants need water.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "12114bc5-20ab-4b86-9cfe-b78243eb1c2a",
+        "syllogism": "All flowers are houseplants. Some rocks are flowers. Therefore, some rocks are houseplants.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "50219bf8-be13-49ab-bd36-337b6a1e6f72",
+        "syllogism": "Some plants need a lot of water. Some tall plants are ferns. Therefore, some ferns need a lot of water.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3af4fda8-42df-4911-9a87-b6e4b3215f2b",
+        "syllogism": "Some houseplants are computers. Some computers are dogs. Therefore, some houseplants are dogs.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "249e14a3-9c06-4a4c-985b-6aca79f71fad",
+        "syllogism": "No pots are outdoor plants. Some houseplants are outdoor plants. Therefore, some houseplants are not pots.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "93ce16d7-ae38-4fa3-b6ba-1534b86df21f",
+        "syllogism": "No orchids are succulents. Some盆景 are succulents. Therefore, some盆景 are not orchids.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "be7bcaad-1414-4ad6-94b4-7a445d772542",
+        "syllogism": "No tropical plants are cacti. Some houseplants are cacti. Therefore, all houseplants are tropical plants.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b681fc09-f439-4886-8fa0-27ed0b70a67d",
+        "syllogism": "No potted plants do not require light. Some windowsills are not potted plants. Therefore, all windowsills require light.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ef8c60b8-cced-48a2-bf4e-6facc5cf10b7",
+        "syllogism": "All grounds need maintenance. All lawns are grounds. Therefore, all lawns need maintenance.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "829f9f4a-072a-46fa-8b71-2c642d79aa02",
+        "syllogism": "All lawn care devices move. All grass clippers move therefore, all grass clippers are lawn care devices.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6c670461-a5a7-45b4-b6be-a08c6744ef02",
+        "syllogism": "All dogs are animals. All elephants are mammals. Therefore, all elephants are animals.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0891d47d-7876-4250-afee-2ff7af09a51a",
+        "syllogism": "All clouds are umbrellas. All sunglasses are umbrellas. therefore, all sunglasses are clouds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "647506c9-7826-4d10-8f7b-90f77544f225",
+        "syllogism": "No lawns are trees. All lawnmowers are machines. Therefore, no lawnmowers are trees.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2117a68e-250d-45db-a41f-1234206c22fb",
+        "syllogism": "No books are lawns. All mowers are books. Therefore, no mowers are lawns.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0891c0ab-5a6a-4bdb-ad3d-30875fabc412",
+        "syllogism": "No dogs are cats. No cars are dogs. Therefore, no cars are cats.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f9e9ed26-80b3-4a2a-b7b0-d4fa57608c58",
+        "syllogism": "No ducks are mammals. No motorcycles are ducks. Therefore, no motorcycles are mammals.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ff1b5293-0e0a-4d6c-95e4-55a93a7ec572",
+        "syllogism": "All lawnguards use scissors. Some tools are lawnguard items. Therefore, some tools use scissors.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "163f61f2-8670-44b3-bc2b-9fbd70606909",
+        "syllogism": "Some people enjoy mowing the lawn. Some people who enjoy mowing the lawn like to wear sandals. Therefore, some people who wear sandals enjoy mowing the lawn.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3d109e28-133a-489e-8622-d3c29740ce0b",
+        "syllogism": "Some rocks are sharp. Some sharp objects are lawn mowers. Therefore, some lawn mowers are rocks.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3b001758-1946-43be-8790-dcfecba8bc2e",
+        "syllogism": "No lawns are forest territories. Some grasses are found in lawns. Therefore, some grasses are not forest territories.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b1cb2050-e22b-4e9a-b0fd-f1a1a3354260",
+        "syllogism": "No lawns are swimming pools. Some maintenance tasks are not lawns. Therefore, some maintenance tasks are not swimming pools.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "47769ed4-7680-4bc3-853c-75637f064b49",
+        "syllogism": "No trees are lawnmowers. Some grass is used by lawnmowers. Therefore, some grass are trees.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f27dce1a-c847-46f4-9caf-0f6ba6006724",
+        "syllogism": "No dogs are used for mowing lawns. Some machines are dogs. Therefore, all machines are used for mowing lawns.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "453972d6-4ca6-4bf3-8671-a52a5e9516f0",
+        "syllogism": "All shelves are organizing tools. All hangers are organizing tools. Therefore, all hangers are shelves.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "58e00e99-d0ed-417f-bb3a-6164923f419f",
+        "syllogism": "All clothes can fly. All organizers are clothes. Therefore, all organizers can fly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "df9fafba-3d48-45e5-b61d-892f090cde0e",
+        "syllogism": "All socks are laundry items. All shirts are laundry items ⊢ All shirts are socks",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "831fb808-bd10-4b5a-b1f2-f952d7f78de5",
+        "syllogism": "All bananas are clothes hangers. All drawers are clothes hangers. Therefore, all bananas are drawers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "66d8d764-7754-4afc-a541-d93e4d35ec64",
+        "syllogism": "No wardrobes are cabinets. All shelves are cabinets. Therefore, no shelves are wardrobes.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "01250bf5-2eea-46bd-baf8-cc636b690888",
+        "syllogism": "No furniture are electronics. All bookshelves are electrical appliances. Therefore, no bookshelves are furniture.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1f79788c-c3ab-41f3-a60f-7b13687d9e8d",
+        "syllogism": "No shirts are hats. No hats are walls. Therefore, no shirts are walls.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ed78a07c-24d6-4ccf-a80c-9f4f34c3f7f9",
+        "syllogism": "No spoons are knives. No knives are furniture. Therefore, no spoons are furniture.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "33f322de-5c1a-420d-a26d-3cbd0fc71eff",
+        "syllogism": "All professional organizers can hang clothes. Some vacuum cleaners are professional organizers. Therefore, some vacuum cleaners can hang clothes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "dc164664-c9a2-4a6e-8d4c-9f571e6ccadb",
+        "syllogism": "Some shelves are decorated. Some decorated items are clothing. Therefore, some clothing are shelves.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a8a74207-3e03-4828-bad4-b25f16f98a0d",
+        "syllogism": "Some rare books are shelves. Some shelves are teddy bears. Therefore, some teddy bears are rare books.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "47539384-1afb-4de5-b330-08477d279d38",
+        "syllogism": "No small items are fragile enough to be safely hung on closet rods. Some jewelry is small. Therefore, some jewelry is not fragile enough to be safely hung on closet rods.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3e7fb3ce-62b2-457a-a3fd-1bba76a3b2a9",
+        "syllogism": "No shoes are clean. Some clothing are shoes. Therefore, some clothing are not clean.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6f2d496c-509f-40e0-969f-48efd0e71939",
+        "syllogism": "No shelves are drawers. Some closets are shelves. Therefore, all closets are drawers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6ead339a-de47-444e-afee-080df88e9e6e",
+        "syllogism": "No shoes are pants. Some laundry are pants. Therefore, all shoes are laundry.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8482b1b4-144e-4960-aa25-50ed8f1076eb",
+        "syllogism": "All cans are trash. All waste comes from cans. Therefore, all waste is trash.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0a37b34c-1f79-4b79-b8f8-7ef82f669387",
+        "syllogism": "All flowers are brightly colored. All trash is brightly colored. Therefore, all trash is a flower.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c7a2f834-ac22-4d58-a37b-4e598b2ed577",
+        "syllogism": "All tomatoes are edible. All garbage are edible. Therefore, all garbage are tomatoes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1773e49a-1e9c-4652-9143-9a1dbc1dbe99",
+        "syllogism": "All clouds are trash. All bicycles are trash. Therefore, all bicycles are clouds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b91c06b5-3909-448e-b38f-66bfee45c23b",
+        "syllogism": "No plastic is biodegradable. All recycleables are biodegradable. Therefore, no recycleables are plastic.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "70a7da8e-3e07-4f81-bbf1-4a8c86b2d528",
+        "syllogism": "No books are food scraps. All textbooks are books. Therefore, no textbooks are food scraps.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "692f64c6-ca58-466b-b26f-ece64745b24b",
+        "syllogism": "No trash bins are recyclable items. No recyclable items are废弃物. Therefore, no废弃物 are_Trash_bins.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0780250b-6135-4dc9-9648-6a887ff1c12a",
+        "syllogism": "No dogs are bushes. No bicycles are dogs. Therefore, no bicycles are bushes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7aa2b45a-3ce4-4567-a12e-fe89b4cd6e95",
+        "syllogism": "All trees can eat meat. Some couches are trees. Therefore, some couches can eat meat.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c4831648-cd23-42c1-b490-fe420f0c43ec",
+        "syllogism": "Some people take out trash. Some people who take out trash are sanitation workers. Therefore, some sanitation workers take out trash.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "09cbec60-ff23-44c2-a5bd-e9f08c685154",
+        "syllogism": "Some butterflies are recyclable. Some trash is interchangeable with butterfly pupae. Therefore, some trash is recyclable.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "14e1800b-90b4-4e22-8216-12b401ab5599",
+        "syllogism": "No hazardous waste is fit for recycling. Some garbage is hazardous waste. Therefore, some garbage is not fit for recycling.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5cfea060-9246-46c2-8f05-742740ac58f4",
+        "syllogism": "No pets are contaminated. Some garbage are considered pets. Therefore, some garbage are not contaminated.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7a0efe5d-50a5-4f47-801b-f8f345e3297d",
+        "syllogism": "No cans are recyclebins. Some cans are trash. Therefore, all trash are recyclebins.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6a6eddce-a011-4841-b180-f21aa189e3a1",
+        "syllogism": "No trash is classified as dangerous. Some items are classified as dangerous. Therefore, all items are trash.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "964df829-5d77-460c-8922-48111ad27ef8",
+        "syllogism": "All employees have commuted to work. All professionals are employees. Therefore, all professionals have commuted to work.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "aa259c78-027f-4b37-adcf-8152b70fa6a5",
+        "syllogism": "All horses can drink water. All zebras wear harnesses. Therefore, all zebras can drink water.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "510ab1ad-d735-4b58-a602-69d146893bf1",
+        "syllogism": "All bicycles are vehicles. All motorcycles are vehicles. Therefore, all bicycles are motorcycles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f5390fca-c577-4235-a868-3ce7a24b829c",
+        "syllogism": "All laptops are vehicles. all phones are vehicles. Therefore, all phones are laptops.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "66623782-bd68-4a65-8838-c0a64a7f85a8",
+        "syllogism": "No cars are public transport vehicles. All buses are public transport vehicles. Therefore, no buses are cars.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "94cc7bed-daac-42de-9508-d664f48a29cd",
+        "syllogism": "No bicycles are cars. No cars are bicycles. Therefore, no bicycles are bicycles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2afdac56-e025-4913-ab1d-d0fec0efdaef",
+        "syllogism": "No bicycles are automobiles. No automobiles are wheels. Therefore, no bicycles are wheels.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "23651244-e0a0-48cf-a3c1-1d68f1e95864",
+        "syllogism": "All downtown offices are in the city. Some professionals work in downtown offices. Therefore, some professionals work in the city.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "be96881d-f3f1-4e0d-ba48-fbb0055d4cc7",
+        "syllogism": "All people who buy bicycles live on Mars. Some Martians enjoy playing chess. Therefore, some people who buy bicycles enjoy playing chess.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9f4139ab-d09d-480a-8840-87a94c813a92",
+        "syllogism": "Some people who take the bus to work are late. Some people who are late are not punctual. Therefore, some people who take the bus to work are not punctual.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "983a8472-baa5-4629-aadb-cb6c8172e06b",
+        "syllogism": "Some people who commute by motorcycle are left-handed. Some left-handed people are musicians. Therefore, some musicians are people who commute by motorcycle.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "95ea3ff0-725f-40eb-9ed3-37ea25db291d",
+        "syllogism": "No traffic is enjoyable. Some commutes are traffic. Therefore, some commutes are not joyful.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9429008b-a74f-4a0d-bdbe-c188e5e6f2cd",
+        "syllogism": "No public transportation users are early risers. Some commutes are early in the day. Therefore, all commutes are public transportation users.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d80df135-a4d3-4222-8eda-e3aa42481ff0",
+        "syllogism": "No bicycles are vehicles. Some vehicles are bicycles. Therefore, all bicycles are vehicles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "82e36555-a7b3-484e-9978-bab8c4448a6d",
+        "syllogism": "All vehicles on the road obey traffic laws. All cars are vehicles on the road. Therefore, all cars obey traffic laws.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3b976832-0762-48f4-b008-259b90f24fdd",
+        "syllogism": "All drivers honk their car horns. All horn users are new drivers. Therefore, all new drivers honk their car horns.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8fc9c00a-93dd-4f61-8f47-3f0e679063a7",
+        "syllogism": "All red cars are fast. All slow cars are fast. therefore, all red cars are slow.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "111a9300-009f-48de-9a8b-43d53debfaa4",
+        "syllogism": "All cars are red. All motorcycles are speedy ⊢ All motorcycles are red",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a9afd5ae-a660-40fa-ac65-3e02fd2e3eba",
+        "syllogism": "No speeding vehicles are safe. All speeders are unsafe drivers. Therefore, no unsafe drivers are safe.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1d59530e-2621-4fc9-846f-33c105a62952",
+        "syllogism": "No cars are bicycles. All driving vehicles are bicycles. Therefore, no cars are driving vehicles.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "af3cb890-23fe-404a-bc76-f4a2e8960096",
+        "syllogism": "No drivers are skateboarders. No skateboarders are pilots. Therefore, no pilots are drivers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e7ff1bff-b27d-4280-9c8c-97afec21a237",
+        "syllogism": "No red cars are sedans. No sedans are hybrids. Therefore, some blue cars are hybrids.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5b95e52c-073c-4532-a948-8b457baa207b",
+        "syllogism": "All cars on the highway are driven by bots. Some turtles are cars. Therefore, some turtles are driven by bots.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5c4003a5-3e27-45f6-adc6-6f83bd0be769",
+        "syllogism": "Some drivers are impatient. Some impatient drivers are tailgaters. Therefore, some tailgaters are drivers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "70ab321a-6fe7-404b-bbb1-bec8d9e38e87",
+        "syllogism": "Some cars are stopSigns. Some stopSigns are redLights. Therefore, some cars are redLights.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c45f1feb-9cb5-4f58-b498-d1eeabce5e66",
+        "syllogism": "No traffic violations are lawful. Some commuters are involved in traffic violations. Therefore, some commuters are not lawful.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bc0429a9-1757-497d-b157-79de65fde1e5",
+        "syllogism": "No cars are parking lots. Some things are both cars and are in traffic. Therefore, some things in traffic are not parking lots.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7cacd86f-10d8-4b84-9891-05e3cd8b28d4",
+        "syllogism": "No cars are bicycles. Some transportation methods are bicycles. Therefore, all transportation methods are cars.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a65d79e0-6b9a-469c-856e-688e6f20e5b0",
+        "syllogism": "No traffic jam occurs without cars. Some cars are not in traffic. Therefore, all cars are in traffic jams.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2ede747d-5a76-4203-b4bf-0b263ed16572",
+        "syllogism": "All bicycles are骑车的辅助工具. All上学工具都是自行车. Therefore, all上学工具都是骑车的辅助工具.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bdbb9b1c-737d-4066-946b-9e2fa575c72a",
+        "syllogism": "All bicycles glow in the dark. All students who ride cycles to school have bicycles. Therefore, all students who ride cycles to school have bicycles that glow in the dark.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "660ae285-54cf-4364-9541-2e432d2052ed",
+        "syllogism": "All bicycles are cycles. All tricycles are cycles. Therefore, all bicycles are tricycles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "23647d40-17b4-4974-a5d7-12375dda3888",
+        "syllogism": "All desks are bicycles. All tires are bicycles. Therefore, all tires are desks.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "22d52cb1-20b0-476e-a9f3-01525ae422e5",
+        "syllogism": "No bicycles are motor vehicles. All bicycles are cycles. Therefore, no cycles are motor vehicles.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "57195d84-e335-475d-9d4e-9df573ff5403",
+        "syllogism": "No bicycles are cars. All bicycles are bikes. Therefore, no cars are bikes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "602f5f6f-cda6-496d-a652-b7cb6123f726",
+        "syllogism": "No bicycles are cars. No cars are skateboards. Therefore, no bicycles are skateboards.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f9b76cf0-9019-476a-b036-b5c4f243791b",
+        "syllogism": "No bicycles are cars. no cars are bicycles. Therefore, no bicycles are bicycles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "808f9a99-f0ed-4c88-b7ea-497ff26d9df3",
+        "syllogism": "All students who cycle to school use bicycles. Some students use sports shoes while cycling. Therefore, some students use sports shoes and bicycles.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "2567fca8-2151-4cfd-8178-45b5dd785c32",
+        "syllogism": "Some students ride bicycles to school. Some bicycles are red. Therefore, some red things are not necessarily students.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "546fa468-054e-4fe1-ae1e-9b7964e61690",
+        "syllogism": "Some students eat cereal. Some cyclists wear Lederhosenschorts. Therefore, some students wear Lederhosenschorts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "25b5fa44-07cd-43b9-aa4d-cfb07cbb7bcc",
+        "syllogism": "No cycling gear is necessary for occasional riders. Some students who bike to school are occasional riders. Therefore, some students who bike to school are not necessary to have cycling gear.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1d8265ee-aab8-49d6-be17-2bfd16635e1c",
+        "syllogism": "No bicycles are unicycles. Some tricycles are bicycles. Therefore, some tricycles are not unicycles.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6d95c9ac-728b-4155-a232-07205b006d01",
+        "syllogism": "No children are banned riders. Some students are banned riders. Therefore, all students are children.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "70972bd9-789a-4fbe-86ad-4ed4cf2dbe8f",
+        "syllogism": "No bikes are cars. Some vehicles are bikes. Therefore, all vehicles are cars.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fe2f51fd-9eb1-4f3b-a565-8558b392868d",
+        "syllogism": "All buses_run_on_gasoline. All tanks_are_buses_run_on_gasoline. Therefore, all tanks_run_on_gasoline.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e6b8b1a9-5d67-4855-8264-27955d4c8c8a",
+        "syllogism": "All boats can fly. All jets can sail. Therefore, all jets can fly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9f964c7a-6f56-4e60-b973-0ea81367a356",
+        "syllogism": "All cars are vehicles. All bikes are vehicles. Therefore, all bikes are cars.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9187e2a2-fc2c-40d9-95b2-a8e1368ce802",
+        "syllogism": "All fish are vehicles. All trains are vehicles. Therefore, all trains are fish.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6f7e24c4-2570-456c-b49b-1fda5bd15d61",
+        "syllogism": "No buses are airplanes. All urban transportation in first-tier cities are buses. Therefore, no urban transportation in first-tier cities are airplanes.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "175bf56f-fe0d-4eef-8b01-433a7a140c71",
+        "syllogism": "No cars are planes. All subways are cars. Therefore, no subways are planes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "be126622-ca93-40f8-b58f-022b133587de",
+        "syllogism": "No trucks are bikes. No bikes are boats. Therefore, no trucks are boats.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a0c30024-aa3c-4948-9c0c-8b5b4b9401c0",
+        "syllogism": "No trains are bicycles. No bicycles are airplanes. Therefore, some cars are trains.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cb2b4716-a5ee-4bb7-9c70-089606a5b5b4",
+        "syllogism": "All students use public transportation. Some executives are students. Therefore, some executives use public transportation.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "82c209c9-6598-431b-8f97-c079f280cfd0",
+        "syllogism": "Some people use Public Transportation. Some students are wearing hats. Therefore, some people using Public Transportation are wearing hats.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1ff272d2-d03d-4faa-93fb-c9bb7cf15fce",
+        "syllogism": "Some birds are airplanes. Some airplanes are singers. Therefore, some birds are singers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2c8f7f3a-8e78-4694-8b07-3fd1974b6d68",
+        "syllogism": "No buses are airplanes. Some vehicles are buses. Therefore, some vehicles are not airplanes.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "83cae6f4-8972-4546-af4a-853c8cdc6979",
+        "syllogism": "No buses are underwater vehicles. Some bikes are not vehicles. Therefore, some bikes are not buses.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c6eb466e-e104-4f4c-9bd0-2e4a78ea26aa",
+        "syllogism": "No bicycles are buses. Some vehicles are bicycles. Therefore, all vehicles are buses.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "cf98a3d7-ed35-4f57-a67b-685e8ff1d686",
+        "syllogism": "No cars are bicycles. Some vehicles are cars. Therefore, all vehicles are bicycles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e8aaca87-bd83-49d7-9101-96af03b3faad",
+        "syllogism": "All cars require regular maintenance. All BMWs are cars. Therefore, all BMWs require regular maintenance.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "29ccdbf7-9dfb-43ad-bf67-1fca4c25743d",
+        "syllogism": "All cars need regular oil changes. All roller skates need regular oil changes. Therefore, all roller skates need regular oil changes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c3854917-43f7-4dd4-8be4-0964bf252be7",
+        "syllogism": "All car engines are machine parts. All screws are machine parts. Therefore, all screws are car engines.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "99112047-e7ca-4b89-8fd7-20616aff9b67",
+        "syllogism": "All tires are wheels. All engines are wheels ⊢ All engines are tires.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a49755d8-27aa-4ddc-92ff-016addd820fb",
+        "syllogism": "No cars are tools. All wrenches are tools. Therefore, no cars are wrenches.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a6fadc77-38d8-456c-bb5d-9ab2c85327a7",
+        "syllogism": "No luxury cars are maintenance-dependent. All classic cars are maintenance-dependent. Therefore, no classic cars are luxury cars.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "bdae2f71-354d-4aac-8e6f-90c914ed17d8",
+        "syllogism": "No cars are helicopters. No helicopters are bicycles. Therefore, some cars are not bicycles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "008892ff-36db-4aeb-ad60-16e6a1f9b041",
+        "syllogism": "No cars are bicycles. No bicycles are fruits. Therefore, some fruits are cars.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cf3ddbac-c988-4d0d-9247-79e2b518eda1",
+        "syllogism": "Some car engines need oil changes every 3000 miles. Some high-performance cars require frequent oil changes. Therefore, some high-performance cars have car engines.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5f3e7cc3-b372-4d0e-a9bc-f2861920fc30",
+        "syllogism": "Some ice cream cones are chocolate. Some pencils are ice cream cones. Therefore, some pencils are chocolate.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7c8ba6b0-e05b-49dd-a2f1-f50a61a4e584",
+        "syllogism": "No maintenance tasks are optional. Some tasks are basics. Therefore, some basics are not optional.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a96f4b19-2af8-4dd6-8108-697279061c41",
+        "syllogism": "No car filters are mandatory. Some auto fluids are filters. Therefore, some auto fluids are not mandatory.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3c68ec96-4e00-4287-b67c-5806df11658a",
+        "syllogism": "No cars are electric vehicles. Some vehicles are cars. Therefore, all vehicles are electric vehicles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "55d26968-c346-458c-9167-9de07135bdf5",
+        "syllogism": "No tires are spark plugs. Some car parts are tires. Therefore, all spark plugs are car parts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a01dbd3c-9b4c-4e8a-920a-679ca8dfe6d1",
+        "syllogism": "All cars require gas to operate. All automobiles are cars. Therefore, all automobiles require gas to operate.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "38aa70a8-530a-4e23-b9ae-aab00be18e2b",
+        "syllogism": "All increases in gas prices do not affect production costs. production costs are considered uncontested by policymakers. Therefore, all increases in gas prices do not affect uncontested production costs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "f1b01342-0948-4c2c-98c5-4cbcfc516b8c",
+        "syllogism": "All cars increase in price. All energy drinks increase in price. Therefore, all energy drinks are cars.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fc26059c-7831-4aa4-8374-d78d3c3eb277",
+        "syllogism": "All houses are computers. All trucks are computers. Therefore, all trucks are houses.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "17aedacc-3fca-459b-ba68-2103c7139e78",
+        "syllogism": "No pumpkins are gas stations. All gas stations are stores. Therefore, no pumpkins are stores.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "621fe05a-ac6f-44bd-9da3-48eebc5d8139",
+        "syllogism": "No cities are suburbs. All gas stations are suburbs. Therefore, no cities are gas stations.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3e9b7501-4491-4da7-a060-acb2e317a90a",
+        "syllogism": "No gas stations are cars. No cars are planets. Therefore, no gas stations are planets.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "22dc68f8-5903-46d7-9470-e568ab48373d",
+        "syllogism": "No gas stations are cars. No cars are flying saucers. Therefore, no flying saucers are gas stations.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6b35aca3-cebd-46fe-bdff-b3bed36ae3eb",
+        "syllogism": "All petroleum refineries produce fuel. Some new energy businesses are petroleum refineries. Therefore, some new energy businesses produce fuel.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0ce5cbf5-10ce-468e-b61b-58c190c10925",
+        "syllogism": "All gasoline stations raised their prices. Some government-owned stations did not increase their prices. Therefore, some non-government-owned stations raised their prices.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ad539878-aaf9-408c-abe5-2f8c90a31558",
+        "syllogism": "Some cars have high gas prices. Some vehicles with high gas prices are hybrids. Therefore, some hybrids are cars.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "898dd245-2ae3-4ef3-8c34-8d3af24183dc",
+        "syllogism": "Some countries increase gas prices. Some basketball players prefer motorcycles. Therefore, some basketball players are from countries that increase gas prices.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7a876ec5-b4b5-4a02-8fd5-3d75c5e76c90",
+        "syllogism": "No gas stations sell organic products. Some convenience stores are gas stations. Therefore, some convenience stores do not sell organic products.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7e38cb48-8163-4a56-82ef-af2516959b27",
+        "syllogism": "No expensive gas stations are necessary. Some remote locations are places with expensive gas stations. Therefore, some remote locations are not necessary.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3bdf4ded-368c-444a-95fe-303b7d61b09c",
+        "syllogism": "No cars are electric vehicles. Some gas vehicles are cars. Therefore, all gas vehicles are electric vehicles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "64e49ad2-0f3d-42b0-b21f-470e978597cf",
+        "syllogism": "No gasoline stations set prices. Some products have gas prices. Therefore, all products are gasoline stations.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b034c86d-1d9b-4380-978a-28c97c89f2c5",
+        "syllogism": "All cars with disabled permits must pay to park. All illegally parked vehicles must clear the lot. Therefore, all illegally parked vehicles must pay to park.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bb71e38e-39a9-49a4-9c6c-472c6c56e7e8",
+        "syllogism": "All birds can fly. All eagles are birds. Therefore, all eagles can fly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4d435160-a63c-46a5-a8c2-e42f9f980fb3",
+        "syllogism": "All cars are found in parking spaces. All bicycles are found in parks. Therefore, all bicycles are found in parking spaces.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "aa69f0d8-7328-48d1-b517-462829331e24",
+        "syllogism": "All dogs are cars. All trees are cars. therefore, all trees are dogs.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0b16cb56-56b0-469a-a53b-d189ffadb83d",
+        "syllogism": "No spaces are cars. All cars are parked in Lots. Therefore, no spaces are parked in Lots.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6e318685-8767-44d5-9b15-40d58fa92bf1",
+        "syllogism": "No parking spots are cars. All cars are tires. Therefore, no parking spots are tires.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3b80934b-a579-4c8b-9ca0-33e5a1d44271",
+        "syllogism": "No spots are cars. No cars are sidewalks. Therefore, some spots are not sidewalks.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6bbca393-284d-4998-8e97-19a4fcc4d112",
+        "syllogism": "No cars are bicycles. No bicycles are parking spots. Therefore, no cars are parking spots.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "771010b9-7aaa-41a8-bc8d-42f8ac39960d",
+        "syllogism": "Some parking spaces are located near schools. some workers commute from schools. Therefore, some workers are using parking spaces.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fd2ed4cf-57b0-4c10-80aa-4e5b5b6636e3",
+        "syllogism": "Some cars are red. Some fish are blue. Therefore, some fish are red.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e044428e-5009-47a4-ba66-fa4dc3b24d3c",
+        "syllogism": "No spaces are accessible downtown. Some vehicles are spaces. Therefore, some vehicles are not accessible downtown.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4f367fac-8831-482a-abb5-b52ef67835c6",
+        "syllogism": "No parkings are valid. Some spaces are driveways. Therefore, some driveways are not parkings.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1514b56d-8efa-4c4f-a773-19c1bf11378d",
+        "syllogism": "No cars are flying vehicles. Some cars are parked in flying parking structures. Therefore, some flying parking structures are not flying vehicles.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1c9a527c-c4a4-4da7-97df-c5740c72b8c4",
+        "syllogism": "No spaces are cars. Some vehicles are spaces. Therefore, all vehicles are cars.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "37e3dba3-06eb-4b4a-ba4d-44186ab8070a",
+        "syllogism": "All airplanes are commercial vehicles. All commercial vehicles belong to airlines. Therefore, all airplanes belong to airlines.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ddc6cd42-674c-4cb1-a3ef-abaffc5d3e4e",
+        "syllogism": "All airline passengers are vegetables. All kumQuats are airline passengers. Therefore, all kumQuats are vegetables.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fc99a5b7-c5ca-41b7-903a-5938595d854e",
+        "syllogism": "All airplanes are vehicles. All bicycles are vehicles. therefore, all bicycles are airplanes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "80359cb0-c63c-4a45-838d-56160b1570ef",
+        "syllogism": "All planes are cars. All buses are cars. Therefore, all buses are planes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "09e62d20-3e54-4adf-a451-71b818c86e12",
+        "syllogism": "No business jets are civilian aircraft. All business jets are private jets. Therefore, no private jets are civilian aircraft.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b85c0062-63db-4047-81c6-fb711d573024",
+        "syllogism": "No animals are airline从业人员. All空中飞机都是航空从业者. Therefore, no animals are空中飞机.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a9c7cd96-de70-47e8-b2b6-4fa91b6a3c46",
+        "syllogism": "No planes are fish. No planes are cars. Therefore, no fish are cars.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6859b044-0f90-4307-9137-e67bca8cd20f",
+        "syllogism": "No humans are fish. No fish are astronauts. Therefore, no astronauts are humans.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "f8a0edaa-7357-428e-b39e-d3277df156dd",
+        "syllogism": "All passenger aircraft have wings. Some private jets are passenger aircraft. Therefore, some private jets have wings.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b05613ac-271e-4a7e-905e-1c12d8787ad9",
+        "syllogism": "All airport employees board flights for free. Some pilots listen to airport radio. Therefore, some pilots board flights for free.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "b43f986e-5020-4a8b-ace4-9e6d5b8188c3",
+        "syllogism": "Some airplane passengers wear masks. some aircrew members wear masks. Therefore, some aircrew members are airplane passengers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "3fc4c715-e082-440d-8017-4636dbd659c3",
+        "syllogism": "Some airplanes are flying rocks. Some flying objects are basketballs. Therefore, some basketballs are airplanes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a9d68f3a-8faa-4f86-95c0-f26291e580fc",
+        "syllogism": "No flights are free. Some旅途都涉及费用。 Therefore, some旅途都涉及费用。are not free.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "28b21bf4-96a1-4f36-9fce-4fa737a0382a",
+        "syllogism": "No pilots are required for small aircraft. Some propeller planes are small aircraft. Therefore, some propeller planes are not required to have pilots.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7d9ad9ad-743f-4ec8-b4d3-e2d207f77ae1",
+        "syllogism": "No flyers are birds. Some air vehicles are not flyers. Therefore, all air vehicles are birds.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5d32ce1d-9212-4b8d-91fe-2239836f0273",
+        "syllogism": "No flights are everDelayed ontime. Some flights are delays. Therefore, all delays are ontime.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "df28f6db-fcfb-4164-a1ab-e828caf9f40d",
+        "syllogism": "All train stations have schedules. All trips on Schedule A leave from all train stations. Therefore, all trips on Schedule A have schedules.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "35c664aa-fecd-48fc-9426-9dcb3bdc717f",
+        "syllogism": "All trains are vehicles. All bicycles are vehicles. Therefore, all bicycles are trains.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5d6ef68e-8a5e-4352-93ad-df5b5302af5f",
+        "syllogism": "All trains run on time. All passenger flights are modes of transportation. Therefore, all passenger flights run on time.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "288ff460-8cb8-46b3-b4a9-ca54fbfc1701",
+        "syllogism": "All trains are telephones. All telephones are flowers. Therefore, all trains are flowers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "74061301-c21d-4ae6-abc5-3b19b2581821",
+        "syllogism": "No trains are cars. No cars are bicycles. Therefore, no trains are bicycles.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d68a554c-6d19-41d4-aa0d-0063279f6789",
+        "syllogism": "No trains are bicycles. No bicycles are spaceships. Therefore, no trains are spaceships.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5f89f766-111f-4110-b510-df15d3574ead",
+        "syllogism": "All train stations have platforms. Some train journeys take place at train stations. Therefore, some train journeys have platforms.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6a7b2f40-d667-4747-a468-0187c1463402",
+        "syllogism": "All commuters use the subway frequently. Some employees are never commuters. Therefore, some employees use the subway frequently.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "fc3975a2-c6f9-4355-b882-3e965048c6df",
+        "syllogism": "Some train stations are in cities. Some cities have a lot of trains. Therefore, some cities with a lot of trains are in train stations.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "62a95e53-b476-480e-abb1-f5b808e04aa1",
+        "syllogism": "Some whales are locomotives. Some trains are whales. Therefore, some trains are locomotives.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "96c5c82c-d63e-4e72-999c-210fc3e419e8",
+        "syllogism": "No direct flights are trains. Some journeys are train journeys. Therefore, some journeys are not direct flights.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "63c365d8-fa35-4e99-be5b-bf0e605a97ad",
+        "syllogism": "No delayed trains arrive on time. Some fast trains are delayed. Therefore, some fast trains are not on time.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "19238132-4f45-4d58-abec-a7df6421cf5e",
+        "syllogism": "No_train_journeys_have_rest_stops. Some_train_stations_have_departures. Therefore, some_train_stations_have_refuges.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b920923e-da5d-4e16-b354-b55c259afd6c",
+        "syllogism": "No trains run upside down. Some objects are trains. Therefore, all objects are upside down.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "39ff54a0-2435-46cd-82c7-5d4390c01c38",
+        "syllogism": "All dogs need to be walked regularly. All dogs are animals needing care. Therefore, all animals needing care need to be walked regularly.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "39f66884-d25a-4f44-b54c-ba71e1453deb",
+        "syllogism": "All dogs are pets. All bicycles are pets. Therefore, all bicycles are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a56e93d5-5a07-4d28-a54f-da35663853b7",
+        "syllogism": "All turtles are happy. All dogs are happy. Therefore, all dogs are turtles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d235d4c3-425b-4795-8c09-2a07738c8550",
+        "syllogism": "No dogs are reptiles. All snakes are reptiles. Therefore, no snakes are dogs.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bf3e9bb6-daaa-4b7c-b740-1ae3cb504806",
+        "syllogism": "No dogs are cats. All dolphins are dogs. Therefore, no dolphins are cats.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "34fd5cba-b8ec-4914-bb69-62f5a06e6557",
+        "syllogism": "No walking sticks are puppies. no puppies are dogs. Therefore, some walking sticks are not dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "de398284-06aa-4f70-b913-ab26f5fa4b98",
+        "syllogism": "No dogs are butterflies. No butterflies are tables. Therefore, no dogs are tables.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2f248137-ca60-439a-96ae-bb289f404705",
+        "syllogism": "All dog walkers go outside with their dogs. Some evenings are peak times for engagement from dog owners. Therefore, some evenings involve dog walkers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4e8ae54d-58d0-4a2e-b8fd-ea5e90f1009e",
+        "syllogism": "Some people walking the dog are runners. Some runners are teachers. Therefore, some teachers are people walking the dog.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8fcf48dd-1b34-4985-aae7-c23da36e8dc7",
+        "syllogism": "Some people who walk the dog are bald. Some bald people wear sunglasses. Therefore, some people who walk the dog wear sunglasses.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9e15c080-ad6b-44bc-bca4-b535e607874a",
+        "syllogism": "No collars are essential attire. Some dog tags are collars. Therefore, some dog tags are not essential attire.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a5a87f00-89bb-4e9c-b248-768043461981",
+        "syllogism": "No dogs are houseplants. Some ferns are dog accessories. Therefore, some ferns are not houseplants.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0fb90422-a88f-40f0-8c1b-666c9902d574",
+        "syllogism": "No dogs are cats. Some cats are owners. Therefore, all dogs are owners.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "77a267ff-d731-487f-849c-37adcb02d1db",
+        "syllogism": "No dogs can fly. Some pets are dogs. Therefore, all pets cannot fly.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "43e730ca-e432-42d9-bdfa-3e297fa12206",
+        "syllogism": "All emails require a recipient. All emails contain text. Therefore, all emails contain text.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "98b6f83c-11de-43be-8679-1a8be06dae6d",
+        "syllogism": "All emails contain cats. All cats are dogs. Therefore, all emails contain dogs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9ee32dc0-b400-462a-b099-45abb2a5725c",
+        "syllogism": "All emails are messages. All images are emails. Therefore, all images are messages.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "28df08f5-1aad-4fa4-979e-2f8521d8f2e4",
+        "syllogism": "All hats are bicycles. all alleys are appliances. Therefore, all alleys are hats.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "58d19c10-8565-48b5-ab05-5a1dbddc4ba2",
+        "syllogism": "No emails are spam. All attachments are spams. Therefore, no emails are attachments.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "79bce9ae-d0ea-4dd3-b62a-196e25aba46e",
+        "syllogism": "No cell phones are email messages. All emails are digital documents. Therefore, no cell phones are digital documents.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "02eb55b3-6572-4e8f-8356-235dad5aa456",
+        "syllogism": "No emails are letters. No emails are faxes. Therefore, some letters are faxes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a28efc0e-57d4-4aa7-8cda-dd1410db50b3",
+        "syllogism": "No emails are pictures. No pictures are emails. Therefore, some emails are not emails.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4c791e1e-db01-4443-b817-45ce3e36ecc3",
+        "syllogism": "All important messages are sent via email. Some promotional documents are important messages. Therefore, some promotional documents are sent via email.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "df2ebbe4-0c01-4317-9340-2dbd24c34f8b",
+        "syllogism": "All emails include attachments. Some employees never send emails. Therefore, some employees never include attachments.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4fea7ecc-9bef-428d-9ebd-a22664b79a43",
+        "syllogism": "Some emails are important. Some important documents are typed on computers. Therefore, some emails are typed on computers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0a61cb26-77e1-4d0d-bdc9-33026faf5550",
+        "syllogism": "Some emails are delicious. Some chocolates are edible. Therefore, some chocolates are delicious.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "20635193-09b7-4100-81b2-426e04422d99",
+        "syllogism": "No emails are marketing materials. Some newsletters are marketing materials. Therefore, some newsletters are not emails.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1820e8df-586c-4c6e-abcb-5be16d10aee6",
+        "syllogism": "No emails are urgent. Some emails are promotional. Therefore, some promotional emails are not urgent.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "76834cad-766e-47e2-b41a-db4a72423515",
+        "syllogism": "No cats are professional email writers. Some professionals are cat owners. Therefore, all cat owners are professional email writers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e21a77fb-88a3-498b-b82a-3f45698fb6a4",
+        "syllogism": "No humans are sphegi. Some beings are humans. Therefore, all beings are sphegi.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "dc323f3e-85b3-41aa-ac08-ce66c178df29",
+        "syllogism": "All pens are staplers. All staplers are furniture. Therefore, all pens are furniture.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0214c666-49dc-4e2c-bc4e-0e05a2fcc12e",
+        "syllogism": "All team members are employees. All guests are employees. Therefore, all guests are team members.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "47331a5d-6c6f-45c2-bdc0-91adb769f2e0",
+        "syllogism": "All meetings are parties. All lunches are meetings. Therefore, all lunches are parties.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "21ad022d-0aa5-46b3-8b52-f3e197a8f44a",
+        "syllogism": "No virtual meetings are face-to-face meetings. All impromptu meetings are virtual meetings. Therefore, no impromptu meetings are face-to-face meetings.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a7edb348-bcf0-4982-ac5d-17361e6a2421",
+        "syllogism": "No meeting agendas are meeting议程. All meeting决算是会议议程的一部分。 Therefore, no meeting决算是meeting议程.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "18070f87-7320-4921-b4c6-da5e089a49f0",
+        "syllogism": "No dogs are monkeys. No monkeys are office chairs. Therefore, no dogs are office chairs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e18d5e8d-539a-434d-a3fa-99d79db82c06",
+        "syllogism": "No cats are mammals. No dogs are fish. Therefore, no mammals are fish.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cce52a66-f968-4f24-b2cd-41e922919e9c",
+        "syllogism": "All employees are invited to attend office meetings. Some team leaders are employees. Therefore, some team leaders are invited to attend office meetings.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0e455afe-1b2c-4110-981b-9a03a8f75661",
+        "syllogism": "All office managers use projector bulbs. Some developers prefer writing codes without projection devices. Therefore, some developers use projector bulbs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7cdb628f-db16-4835-9c79-3e2acc812fb4",
+        "syllogism": "Some people enjoy caffeine. Some coffee drinks contain caffeine. Therefore, some people enjoy coffee drinks.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a4a17a31-67ed-4ad5-9849-9ad99aae8aa5",
+        "syllogism": "Some office meetings start late. some late meetings end quickly. Therefore, some quickly ending meetings are not necessarily late.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "77f9f3d4-1882-432b-b328-6d7785cf7c17",
+        "syllogism": "No meetings are productive. Some agendas are meetings. Therefore, some agendas are not productive.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6681ebfb-9078-4fb0-aa3c-1c29d98d6e88",
+        "syllogism": "All successful leaders are punctual. Some employees are never on time. Therefore, some employees are not successful leaders.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "702732db-2044-4f4a-8814-4758ca93e67b",
+        "syllogism": "No employees are punctual. Some employees are meeting attendees. Therefore, all meeting attendees are punctual.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7581e4b6-ef1d-4a9e-8b15-8b2feda2ada4",
+        "syllogism": "No executives are coffee drinkers. Some employees are executives. Therefore, all employees are coffee drinkers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cf016125-7c8c-4887-9587-3467d96e73c2",
+        "syllogism": "All employees prefer working from home that provides comfort. All remote locations provide comfort. Therefore, all employees prefer working from remote locations.   Aab, Abc ⊢ Aac",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "591e5e75-6508-446b-af5e-af744da2c027",
+        "syllogism": "All computers have internet connection. All work-related tasks are conducted on computers. Therefore, all work-related tasks have internet connection.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ec8a4d2a-3eb0-466c-b956-9933bc0a059f",
+        "syllogism": "All dogs are pets. All birds are pets. therefore, all birds are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "06881c0f-4f9d-4c24-98d0-d23af7fc814d",
+        "syllogism": "All puppies are cars. All books are cars. Therefore, all books are puppies.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fa63a100-d2af-4895-880e-b1a1bd9e75ad",
+        "syllogism": "No executives are regular employees. All remote workers are regular employees. Therefore, no executives are remote workers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "15a4b5c6-f183-42b9-aefb-a55cba3d2c98",
+        "syllogism": "No working environments are дома. All houses are homes. Therefore, no working environments are houses.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2bf7f379-863a-42af-8fa6-bbd4f92ec546",
+        "syllogism": "No smartphones are landline telephones. No landline telephones are for home usage. Therefore, no smartphones are for home usage.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7dd9c75c-fe11-4d73-9873-07b61998707d",
+        "syllogism": "No trees are flowers. No homes are trees. Therefore, no homes are flowers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5637c018-3137-4e13-88e5-34e22be1958d",
+        "syllogism": "All employees working from home have access to dedicated workspaces. Some software developers work from home. Therefore, some software developers have access to dedicated workspaces.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "416924b8-7cde-4e9d-9370-af4d06d0ac08",
+        "syllogism": "All video gamers are happy. Some introverts are video gamers. Therefore, some introverts are happy.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "eed99236-81a7-4540-ab4e-a9f57a5ed25b",
+        "syllogism": "Some people like fruits are people who work from home. Some working from home people drive electric cars. Therefore, some people who drive electric cars like fruits. Iab, Ibc ⊢ Iac",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "f771aee3-91a0-4541-9ff2-6f7da70a3429",
+        "syllogism": "Some people who work from home are astronauts. Some astronauts enjoy hiking. Therefore, some people who work from home enjoy hiking.   Iab, Ibc ⊢ Iac",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ffd14388-d3cf-4299-8534-419068cf159a",
+        "syllogism": "No outdoor jobs are suitable for remote working. Some essential roles are outdoor jobs. Therefore, some essential roles are not suitable for remote working.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "655e79e9-980d-42a9-8f5d-dcbab4c4dbc7",
+        "syllogism": "No telecommuters work in critical industries. Some scientists work from home. Therefore, some scientists do not work in critical industries.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2838306c-e93a-4290-a954-08323a6e2d83",
+        "syllogism": "No work-from-home professionals listen to loud music. Some work-from-home professionals enjoy working in cafes. Therefore, all work-from-home professionals enjoy working in cafes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "30d16d20-99ec-4ebc-a4a0-8084ee962451",
+        "syllogism": "No humans can fly. Some people who work from home can fly. Therefore, all people who work from home are humans.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "44f30fb5-f4fc-4245-b08b-3788d8caec67",
+        "syllogism": "All job applicants must submit a résumé. All qualified candidates submit written applications. Therefore, all qualified candidates must submit a résumé.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "389e7064-0628-4709-9813-2cd21a566597",
+        "syllogism": "All job interviews are concerts. All job seekers are auditees. Therefore, all job seekers are concert attendees.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "97867741-e119-4259-86ec-d210282e7d88",
+        "syllogism": "All job applicants are humans. all graduates are humans. Therefore, all graduates are job applicants.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bcd69733-220b-43a4-b7bf-70ab098a7396",
+        "syllogism": "All bicycles are cars. All phones are cars. Therefore, all phones are bicycles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d53b2325-991a-4702-8fbb-a59bba708697",
+        "syllogism": "No CEOs are entrepreneurs. All startups are owned by entrepreneurs. Therefore, no startups are CEOs.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1899f244-df22-440a-80fd-ffad32f8df60",
+        "syllogism": "No candidates applying for data analyst position are from astronomy background. All candidates from astronomy background are experienced with Python. Therefore, no candidates applying for data analyst position are experienced with Python.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "03aaa5e2-ea00-4071-986f-2e5f5d162ce5",
+        "syllogism": "No dogs are aliens. No cats are dogs. Therefore, no cats are aliens.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "53621c7d-ce7a-4251-b786-6054eb7bb6da",
+        "syllogism": "No smartphones are wooden objects. No wooden objects are plants. Therefore, some smartphones are plants.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "96eea8c9-faea-4608-8166-edc7692afbdf",
+        "syllogism": "All interview panels have judges. Some judges are experienced interviewers. Therefore, some interview panels have experienced interviewers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8e4a328d-f48c-408d-8547-4a2abc6aec88",
+        "syllogism": "All job interviewers are dressed formally. Some job applicants are not prepared fully. Therefore, some job interviewers are not prepared fully.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d3cf12b3-5db2-4dbc-8e92-0f8d3db374c0",
+        "syllogism": "Some interview panels include experienced managers. Some experienced managers dress formally. Therefore, some interview panels include people who dress formally.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4b9ab125-5387-49a9-96cd-c119a33e6d5a",
+        "syllogism": "Some job seekers are hungry. Some interviewers are punctuality执法人员。 Therefore, some punctuality执法人员 are hungry.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "fb989116-74c9-49e3-ba93-016b12c23b3a",
+        "syllogism": "No interview questions are unrelated. Some assessments are related to interviews. Therefore, some assessments are not unrelated.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "065e5d7c-dc54-4534-aaec-b1bb0f2fa2cf",
+        "syllogism": "No job interviews allow mobile phones. Some candidates use notes as snippets. Therefore, some candidates are not allowed to use mobile phones.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2b15dd80-d034-4b76-92ce-4a1e648ee4d1",
+        "syllogism": "No job applicants are engineers. Some job applicants are certified. Therefore, some certified individuals are not engineers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "28882cbc-2881-4761-906a-ab13d44484e5",
+        "syllogism": "No engineers are musicians. Some talent show winners are engineers. Therefore, all talent show winners are musicians.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1ccdde1b-fcef-44db-8e63-fd52af2475ad",
+        "syllogism": "All coffee breaks involve caffeine. All people drinking espresso have coffee breaks. Therefore, all people drinking espresso consume caffeine.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a06ab312-fc6e-420a-8ad0-58fc897c9f80",
+        "syllogism": "All people who drink coffee are morning early. all morning early people sleep with alarm clocks. Therefore, all people who drink coffee sleep with alarm clocks.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6d2e25c8-542d-4522-8871-49a6e2122ec4",
+        "syllogism": "All umbrellas are coffee cups. All computers are coffee cups. Therefore, all computers are umbrellas.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "21930e8b-c9aa-4685-ad1c-ccb16159ede1",
+        "syllogism": "No coffee is a tea. All breaks are enjoyed with coffee. Therefore, no breaks are enjoyed with tea.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8fbff028-2210-4f41-8010-e7c5be6de9c2",
+        "syllogism": "No coffee cups are thermoses. All offices have coffee cups. Therefore, no offices have thermoses.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "50fee49c-8fe0-43c5-bc33-67ac020384ca",
+        "syllogism": "No coffee break times are work hours. No work hours are weekend times. Therefore, no weekend times are coffee break times.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e73045b0-7ad5-4cef-a1f5-a7b94d86159c",
+        "syllogism": "No coffee breaks are weekdays. No weekdays are weekends. Therefore, no coffee breaks are weekends.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2ecce7d7-48f6-4478-abe2-deaa7b070834",
+        "syllogism": "All coffee break attendees consume caffeine. Some coworkers are coffee break attendees. Therefore, some coworkers consume caffeine.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bcc34ece-bb96-4eb6-af11-e36b647f4a7e",
+        "syllogism": "All coffee break speeches are delicious. Some break attendees are terrible speakers. Therefore, some terrible speakers are delicious.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d9db61f2-975f-49cb-80db-9c470321b9d2",
+        "syllogism": "Some coffee break attendees drink café au lait. Some people drink café au lait aremor enthusiasts. Therefore, some mor enthusiasts are coffee break attendees.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8e389130-1b43-4ede-96f2-05b709460806",
+        "syllogism": "Some people who drink coffee are energized. Some energized people play video games often. Therefore, some people who drink coffee play video games often.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "853589b2-0c1d-42fe-bd4d-ca2bbc19dd02",
+        "syllogism": "No milk coffee is decaf. Some iced brews are milk coffee. Therefore, some iced brews are not decaf.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f30b8a2e-64d3-4c01-b818-562b78ae7e0e",
+        "syllogism": "No coffees are cold. Some drinks are cold. Therefore, some drinks are not coffees.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "cbcd6318-38a4-484e-b091-d253c9432321",
+        "syllogism": "No coffee breaks allow phones. Some coffee breaks encourage discussions. Therefore, all discussions are allowed phones.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "afd5cb81-bec2-47cd-9ced-7b7448f8eecf",
+        "syllogism": "No smartphones are coffee mugs. Some devices are smartphones. Therefore, all devices are coffee mugs.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "625f4be3-dee4-4ac0-939b-7106849be2d9",
+        "syllogism": "All ballpoint pens have tips. All desk pencils have graphite tips. Therefore, all desk pencils have tips.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1ea9c448-6875-41ba-b519-97f0d63e1b7d",
+        "syllogism": "All pencils are office supplies. All bicycles are pencils. Therefore, all bicycles are office supplies.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "bd016e0a-c2b7-4036-a73a-b7fac239b089",
+        "syllogism": "All staplers are pencils. all crayons are pencils. Therefore, all staplers are crayons.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1dc8dcb4-d72b-4def-9af7-14c8a87b403e",
+        "syllogism": "All pens are fruits. All erasers are fruits. therefore, all erasers are pens.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "aa9e1d66-72c0-46eb-9a77-b53bdb421228",
+        "syllogism": "No markers are pencils. All erasers are pencils. Therefore, no erasers are markers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0fbcf004-f1c1-46c6-b45f-ac5b68c8134f",
+        "syllogism": "All notebooks are binders. all binders are filing cabinets. Therefore, all notebooks are filing cabinets.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "78dccbec-6443-458b-9642-7419b7fbdcae",
+        "syllogism": "No tables are drinks. No drinks are pens. Therefore, no pens are tables.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6dcf4d72-7f2a-4bb3-b6e8-0877af06c0cc",
+        "syllogism": "All staplers are office supplies. Some invoices are staplers. Therefore, some invoices are office supplies.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f1850ad9-cfae-4ce8-9567-31f8d7e0a2b6",
+        "syllogism": "All pencils are purple. Some envelopes are pencils. Therefore, some envelopes are purple.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e7f49004-505e-4fd0-909e-2ab5f357c1d8",
+        "syllogism": "Some desk chairs are office chairs. some office chairs are very expensive. Therefore, some desk chairs are very expensive.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e2add02f-d3e9-4cda-9c94-7ab3d48158b1",
+        "syllogism": "Some pens are paperclip holders. Some paperclip holders are staplers. Therefore, some pens are staplers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3bdeec60-43fc-4366-aedd-b8be8770169f",
+        "syllogism": "No folders are erasers. Some binders are erasers. Therefore, some binders are not folders.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ca3090e9-4de2-4030-8f8c-7b0b4d62b3a2",
+        "syllogism": "No notepads have pencils. Some binders are notepads. Therefore, some binders have no pencils.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "5ed21138-cbfa-4246-9857-70c89a0bad3e",
+        "syllogism": "No pens are pencils. Some markers are pens. Therefore, all markers are pencils.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a78dcb9f-3143-405f-b817-163ae360de83",
+        "syllogism": "No pens are laptops. Some devices are pens. Therefore, all devices are laptops.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ded30377-6e52-4261-a8b7-3c3fffce1208",
+        "syllogism": "All projects have deadlines. All tasks in a project share the same deadlines. Therefore, all tasks in a project have deadlines.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7112ed43-095a-4152-a83e-3a3fd17b2379",
+        "syllogism": "All reports are written ahead of deadlines. All meetings are not considered reports. Therefore, all meetings are not written ahead of deadlines.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "39101946-016d-409b-be97-dd0f8dc4a942",
+        "syllogism": "All project delays are unfortunate. All unforeseen events are unfortunate. Therefore, all unforeseen events are project delays.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "246a0cee-cf1c-43fa-86d4-6c666788d2d0",
+        "syllogism": "All project tasks are dead giveaways. All missed opportunities are dead giveaways ⊥ All project tasks are missed opportunities. ",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "659db323-7b4d-4ebf-a9c9-5df3b3c83f2e",
+        "syllogism": "No projects are deadlines. All completed projects are current tasks. Therefore, no current tasks are deadlines.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5d995b9d-a443-42b7-8849-accfabc0686f",
+        "syllogism": "No Mars missions are successful projects. All project deadlines are successful projects. Therefore, no project deadlines are Mars missions.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2baacfc8-3b3f-4901-af39-542287963040",
+        "syllogism": "No project delays are紧急状态. No紧急状态 are acceptable deadlines. Therefore, no acceptable deadlines are project delays.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6144cb40-8011-42d1-a90b-bd4e3cb00764",
+        "syllogism": "No projects are due today. no students are projects. Therefore, no students are due today.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "eb43087b-2901-4c03-b8f9-9fcb2e4636e5",
+        "syllogism": "All project managers set deadlines. Some developers are project managers. Therefore, some developers set deadlines.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "08f58a24-4da3-4ee2-86f7-f2d49b6e4fcd",
+        "syllogism": "All engineers are reliable in their commitments. Some project members are engineers. Therefore, some project members are reliable in their commitments.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "07827e80-8c24-450c-8aa7-43552dbbfa82",
+        "syllogism": "Some project managers are proactive. Some proactive individuals are fastidious. Therefore, some project managers are fastidious.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "15d51d48-1634-4a44-99f5-dada44f26561",
+        "syllogism": "Some project managers are marathon runners. Some marathon runners are ice cream vendors. Therefore, some project managers are ice cream vendors.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7b73c656-dd00-42b2-9478-7888f950cfe6",
+        "syllogism": "No desserts are healthy. Some snacks are desserts. Therefore, some snacks are not healthy.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "5bcf0268-1f0a-4535-bdc3-17e5b61b22cd",
+        "syllogism": "No project deadlines are optional. Some tasks are deadlines. Therefore, some tasks are not optional.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0bca19e4-b098-4a35-9c28-60db7e68396f",
+        "syllogism": "No projects are completed on time. Some tasks are projects. Therefore, all tasks are never completed on time.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a74abe66-ef06-483f-b984-6ebeb970fa02",
+        "syllogism": "No tasks are deadlines. Some papers are tasks. Therefore, all papers are deadlines.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "edeba865-b9bb-4fe0-8800-7956ebfef511",
+        "syllogism": "All professionals use social media for networking. All LinkedIn users are professionals. Therefore, all LinkedIn users use social media for networking.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "4be9db9e-d51c-4fb0-8de4-b0ed42c94466",
+        "syllogism": "All professional networks require a resume. All pineapples are professional networks. Therefore, all pineapples require a resume.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "a3c402d9-be4a-40e5-86a9-61de08190747",
+        "syllogism": "All tech moguls are billionaires. All tech investors are venture capitalists. Therefore, all venture capitalists are tech moguls.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "4af8ee98-ddd5-441d-9908-6e55b2d8f2d3",
+        "syllogism": "All hats are shoes. All books are shoes. Therefore, all hats are books.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c1c8244b-3b9a-4adc-ab30-58856bfdf52d",
+        "syllogism": "No scientists are professionals. All medical doctors are professionals. Therefore, no scientists are medical doctors.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cea924b0-6dcb-43f3-aaae-3386a049378e",
+        "syllogism": "No developers are singers. All musical composers are singers. Therefore, no developers are musical composers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "37d4c199-4dbb-4c9b-a145-3204667999c3",
+        "syllogism": "No designers are chefs. No chefs are athletes. Therefore, no designers are athletes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5d102944-8234-4a2c-8ae7-2a80f2dbf8c8",
+        "syllogism": "No dogs are birds. No bees are dogs. Therefore, no bees are birds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b27b8186-12b8-4147-bce2-cd44db9658ef",
+        "syllogism": "All professionals in telecommunications can make presentations. Some marketers are professionals in telecommunications. Therefore, some marketers can make presentations.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "25ab1487-47b0-4830-a897-fc71d13c6766",
+        "syllogism": "All engineers have programming skills. Some writers have programming skills. Therefore, some writers are engineers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "3700238e-22c6-41a7-83ad-c2d738e8d5f7",
+        "syllogism": "Some professionals are introverts. Some introverts are extroverts. Therefore, some extroverts are professionals.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "1d12e19a-2e55-44ff-94b9-d780139140af",
+        "syllogism": "Some book lovers are millionaires. Some millionaires are musicians. Therefore, some book lovers are musicians.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d656e296-9933-4c8b-93ff-1e97a82fa960",
+        "syllogism": "No emails are formal letters. Some resumes are emails. Therefore, some resumes are not formal letters.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9db72e6e-2738-47bd-97a1-4478bab88113",
+        "syllogism": "No business meetings are virtual. Some training sessions are virtual. Therefore, some training sessions are not business meetings.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0b6c9f03-9cb9-41d8-a6a8-e5f786baeb89",
+        "syllogism": "No IT professionals are architects. Some individuals are IT professionals. Therefore, all individuals are architects.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "b522f75c-4114-4034-9a26-239d8560f9e0",
+        "syllogism": "No programmers are fishermen. Some professions are fishermen. Therefore, all professions are programmers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "484d867a-66f2-4079-a3ee-4ee120072ec6",
+        "syllogism": "All employees who change careers upgrade their skills. All IT professionals upgrading skills are employees. Therefore, all IT professionals upgrading skills are changing careers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ecbf5444-768f-46cd-88e2-f37e4a0c05a7",
+        "syllogism": "All aspiring astronauts travel to space. All comets travel to space. Therefore, all aspiring astronauts are comets.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "62ae1a10-b832-4da3-ae5f-1715ccc91f52",
+        "syllogism": "All programmers are tech lovers. All data analysts are mathematicians. Therefore, all mathematicians are tech lovers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "40816337-a73f-475d-9a63-2739cd40527d",
+        "syllogism": "All musicians are proficient in sports. All painters are proficient in sports. Therefore, all painters are musicians.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a96dab0a-4cf0-43cf-8120-c8200bf3b858",
+        "syllogism": "No consultants are athletes. All marketing specialists are consulted on their domain knowledge in business improvements. Therefore, no marketing specialists are athletes.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ae0c99c4-2ede-4c9f-bea1-b5ad39d3349e",
+        "syllogism": "No comedians are chefs. All food bloggers are chefs. Therefore, no food bloggers are comedians.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e9da22d6-1f08-45bc-9953-7fcf93ef35a3",
+        "syllogism": "No marketers are authors. No authors are athletes. Therefore, no marketers are athletes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "86dd4463-4e50-4ca0-9ce9-f0b09ab60e41",
+        "syllogism": "No marketers are activists. No activists are doctors. Therefore, no doctors are marketers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6b2fcb47-942e-44e3-a8c7-488d27ac453c",
+        "syllogism": "All accountants have experience with numbers. Some people switching careers try new industries. Therefore, some people switching careers have experience with numbers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bf044c51-8544-42e7-bde5-1e7498f70b5c",
+        "syllogism": "All freelance journalists are freelance writers. Some marketers are freelancers but not journalists. Therefore, some marketers are freelance writers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "154c8fbf-6d54-4449-83e7-02b33f7b1824",
+        "syllogism": "Some software developers are entrepreneurs. Some consultants are entrepreneurs. Therefore, some software developers are consultants.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c7c0feda-a3a1-49ea-9c54-7ff7318b3a62",
+        "syllogism": "Some hedge fund managers are pilots. Some chefs are airline workers. Therefore, some airline workers are hedge fund managers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "41c69add-96e0-4b4c-817d-6a73e4cafae5",
+        "syllogism": "No jobs in finance are freelance. Some career changers are freelance. Therefore, some career changers are not in finance.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6cee6a97-c8ab-4bf5-9bd9-e40034939f5c",
+        "syllogism": "No programmers are athletes. Some new hires are athletes. Therefore, some new hires are not programmers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8ea080db-93dc-46fe-96c4-40b9469e1ea2",
+        "syllogism": "No doctors are athletes. Some professionals are athletes. Therefore, all doctors are professionals.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "278c5f86-f794-45d2-942f-b3678db44ead",
+        "syllogism": "No IT professionals are artists. Some people are IT professionals. Therefore, all people are artists.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ed6a8f0c-ee19-434a-91ef-401e24df125d",
+        "syllogism": "All Americans prefer to save for retirement. All Baby boomers are Americans. Therefore, all Baby boomers prefer to save for retirement.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "3ded340d-c5b4-44bd-8e74-d4d41f7d9c12",
+        "syllogism": "All squirrels will receive retirement benefits. All cars will be squirrels. Therefore, all cars will receive retirement benefits.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0fe12dd0-8de0-4cb6-b052-4edb40856b66",
+        "syllogism": "All old people need retirement plans. All travel enthusiasts are old people. Therefore, all travel enthusiasts need retirement plans.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "71506842-a243-4deb-884c-eb5d74fefdb0",
+        "syllogism": "All retirement accounts are stocks. all stock markets are roller coasters. Therefore, all retirement accounts are roller coasters.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d5084521-e24f-4ca7-aca6-5d1e03336d20",
+        "syllogism": "No retirement planning tools are financial products. All insurance policies are retirement planning tools. Therefore, no insurance policies are financial products.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c5724d43-343c-49b1-95b9-79f4ed32b8c2",
+        "syllogism": "No savings plans are reliable. All retirement funds are considered reliable. Therefore, no retirement funds are savings plans.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "2bea62dc-9315-4588-9985-bf4ba9aef842",
+        "syllogism": "No pets are eligible voters. No eligible voters are retirees. Therefore, no pets are retirees.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "960361ab-a60c-4726-bee8-ac048e08c29a",
+        "syllogism": "No computers are retirement homes. No retirement homes are islands. Therefore, no computers are islands.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "17cf20f6-1ebc-432a-bd34-c53c9bb73c07",
+        "syllogism": "All professional athletes require physical fitness. Some marathon runners are professional athletes. Therefore, some marathon runners require physical fitness.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "1d4a28f0-a49a-48c9-a867-3a3dd38368c5",
+        "syllogism": "All pension funds invest in the stock market. Some insurance policies do not cover pension funds. Therefore, some insurance policies do not cover pension fund investments.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3afffd3c-450d-4af5-bd0b-4315e7086bd5",
+        "syllogism": "Some people plan their retirement digitally. Some digital solutions are popular among young professionals. Therefore, some young professionals plan their retirement digitally.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d35a5624-c90a-47cf-a313-0440d2cce4a6",
+        "syllogism": "Some retired people are elephants. Some elephants are swimmers. Therefore, some retired people are swimmers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "569c9828-f7a2-4010-a101-8b1ca5e190bc",
+        "syllogism": "No pensions are high-margin investments. Some asset classes are pensions. Therefore, some asset classes are not high-margin investments.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "f13823c6-b706-44ce-9030-5bdd553a82b7",
+        "syllogism": "No early retired individuals are millionaire beginners. Some individuals are early retired. Therefore, some individuals are not millionaire beginners.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "45342239-7d72-4158-bd74-03cb45345877",
+        "syllogism": "No pensions are investment products. Some savings accounts are retirement tools. Therefore, some savings accounts are not investment products.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d4ff62a6-1d90-467f-b770-a0cdae8c1c18",
+        "syllogism": "No people retiring are under 60 years old. Some people are retirees over 50. Therefore, all people over 50 are 61 or older.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "8bae2c63-5c3c-4a46-802b-577015d624dc",
+        "syllogism": "All first dates involve introductions. All introductions include self-presentation. Therefore, all first dates include self-presentation.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "939a66e0-70ca-4146-8b2a-b97e0dac8f41",
+        "syllogism": "All roses are flowers. All tomatoes are flowers. therefore, all tomatoes are roses.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5a6023ed-51b0-40b0-85a9-3b32d0727094",
+        "syllogism": "All penguins are birds. all trees are birds. Therefore, all penguins are trees.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "621cbdee-0649-410a-8a7a-c2bece1a6271",
+        "syllogism": "No florists are first daters. All restaurants are florists. Therefore, no restaurants are first daters.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "888e958c-931d-488f-8d9e-fbfb56358c20",
+        "syllogism": "No chocolates are flowers. All first dates are chocolates. Therefore, no first dates are flowers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "303bd422-6769-451f-a39c-f1944f0cda98",
+        "syllogism": "No fish are vegetables. No vegetables are mammals. Therefore, no mammals are fish.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d5229638-99ea-43c6-b2c6-d56c30342f09",
+        "syllogism": "No reptiles are mammals. No mammals are aquatic. Therefore, no reptiles are aquatic.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "bc19a164-45f9-43c9-957c-696b2c390fab",
+        "syllogism": "All professional chefs enjoy gourmet dining. Some fashion models occasionally chef. Therefore, some fashion models enjoy gourmet dining.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "7872f447-44aa-413c-ae9b-a4f5b6fd90d8",
+        "syllogism": "Some people enjoy romantic comedies. Some romantic comedies include witty dialogues. Therefore, some people enjoy movies with witty dialogues.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "da4160be-874a-426b-ae67-53afca864d9c",
+        "syllogism": "Some people dislike cilantro. some people dislike cilantro when on dates. Therefore, some people dislike cilantro when on dates are people.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9dcb7727-2089-49bb-94bc-73b71bee1a71",
+        "syllogism": "No fried foods are healthy. Some grains are fried foods. Therefore, some grains are not healthy.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b0b46ce4-e1d8-4d97-ab1b-612149d84b2f",
+        "syllogism": "No spicy foods are preferred by vegetarians. Some Italian dishes are preferred by vegetarians. Therefore, some Italian dishes are not spicy.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "32048da3-13dd-45b5-a04f-75f973416be1",
+        "syllogism": "No one likes carrots. Some people tried mushrooms on the first date. Therefore, all people who tried mushrooms on the first date like carrots.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2abb0e8a-b53e-403a-a206-5164f62aad1b",
+        "syllogism": "No bachelors are women. Some women are daters. Therefore, all daters are bachelors.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "2e33ab02-6dea-4a2f-944c-719385092ffe",
+        "syllogism": "All wedding guests wear tutus. All wedding guests bring seahorses as corsages. Therefore, all seahorses are worn as corsages.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "28a21a74-a661-4ec7-bb57-f099bd1480e4",
+        "syllogism": "All engagement rings are pieces of jewelry. All wedding dresses are pieces of clothing. Therefore, all wedding dresses are engagement rings.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "54f8a69e-f6ca-49bb-9eec-f6b71aa04347",
+        "syllogism": "All wedding guests are dancers. All fashion shows are dancing ceremonies. Therefore, all fashion shows are wedding guests.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "0aa0bd14-5e6f-4865-a60b-d99a74999f76",
+        "syllogism": "No veggies are seafood. All appetizers are vegetables. Therefore, no appetizers are seafood.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "c41aad0e-4c0d-4078-9d50-435865dfae3c",
+        "syllogism": "No wedding planners are chefs. All kitchens are inhabited by chefs. Therefore, no wedding planners are in kitchens.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "199aa5fa-acf6-40f2-869c-9fd00fcc9b83",
+        "syllogism": "No bouquets are boutiques. No boutiques are dresses. Therefore, some flowers are not dresses.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "987de773-9e72-4b80-8de1-9f41ed371f9c",
+        "syllogism": "No cakes are sandwiches. No sandwiches are dresses. Therefore, no cakes are dresses.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "7c17f401-3741-4f96-9389-75b5085832bc",
+        "syllogism": "All brides choose a theme. Some bridal parties include children. Therefore, some children choose a theme.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d5fbb096-fade-4e50-babc-0203f432fcb9",
+        "syllogism": "All diamond encrusted shower favors are excessively expensive. Some planners prefer excessively expensive items. Therefore, some planners prefer diamond encrusted shower favors.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e24271dd-937a-41c4-bd46-29ec6f7428b4",
+        "syllogism": "Some participants are wedding inspectors. Some wedding inspectors are floral managers. Therefore, some floral managers are participants.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "852973da-360a-482b-8c54-74a39f39ada3",
+        "syllogism": "Some people enjoy planning weddings on缘份. Some缘份 are considered astrology新手. Therefore, some astrology新手 are people who enjoy planning weddings.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "20cc6bb3-b17b-4aac-925a-781068f22926",
+        "syllogism": "No guests are mandatory attendants. Some family members are mandatory attendants. Therefore, some family members are not guests.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "e8b1476c-c734-4cf7-a4d5-2ad0e9aef5db",
+        "syllogism": "No wedding invitations are formal documents. Some envelopes are wedding invitations. Therefore, some envelopes are not formal documents.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "52711558-940c-4976-ae8c-aff122c84f48",
+        "syllogism": "No bouquets are budget-friendly. Some wedding planners are bouquet designers. Therefore, some wedding planners are not budget-friendly.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "6ff5e4d0-2313-478b-9075-37686d6a1558",
+        "syllogism": "No bridges are desserts. Some decorations are bridges. Therefore, all decorations are desserts.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "33e1ac9d-47c4-43fd-9d5a-d7c2334de76a",
+        "syllogism": "All chocolates are edible by children. All paper scrolls are edible. Therefore, all paper scrolls are edible by children.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "0b24db38-c685-454d-924a-8000b8fa70b0",
+        "syllogism": "All Birthday Parties include cake. All Birthday Parties include balloons. Therefore, all balloons are cake.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "da559c2e-8ed5-4aca-9b3e-2cf17e826f51",
+        "syllogism": "All hats are birthday hats. All birds are cakes. Therefore, all birds are hats.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "441a8d15-6f09-4ed9-ac6c-53f3a8d1dc84",
+        "syllogism": "No balloons are food items. All decorations are balloons. Therefore, no decorations are food items.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "71e58cba-20d1-414e-a2b4-858706838995",
+        "syllogism": "No puppies are adults. All adults are birthday parties. Therefore, no puppies are birthday parties.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fa5e56d6-abcd-498c-8ec6-67eb4fbd9c03",
+        "syllogism": "No cakes are candies. No candies are vegetables. Therefore, some desserts are vegetables.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ea129d91-175e-474d-b72a-502304d2ea91",
+        "syllogism": "No cats are vehicles. No fruits are cats. Therefore, no fruits are vehicles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "478c99ce-ebe4-41ca-9e70-9cb36013aae8",
+        "syllogism": "All guests bring gifts. Some guests are family members. Therefore, some family members bring gifts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "bd554112-63fa-4168-bf81-33b9c68f58de",
+        "syllogism": "Some children like vanilla cake. Some birthday parties have vanilla cake. Therefore, some birthday parties have children.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9c2bd8b2-6ea9-449e-86d1-a9720ca2b34c",
+        "syllogism": "Some candles are sparkling. Some party balloons are flamable. Therefore, some party balloons are sparkling.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "03f3ee40-65ff-4337-9ec0-0f7c7723f904",
+        "syllogism": "No balloons are vegetarian food. Some party decorations are balloons. Therefore, some party decorations are not vegetarian food.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "af456902-9e0a-4d28-a1fa-4af5f12fb895",
+        "syllogism": "No birthday cakes are gluten-free. Some desserts are gluten-free. Therefore, some desserts are not birthday cakes.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8da0897f-f3e6-408d-83b2-30a1baaa94bd",
+        "syllogism": "No invited guests are under 10 years old. Some children are invited guests. Therefore, all children are under 10 years old.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "c2695f95-78c3-4ace-9c46-8a1f493e3684",
+        "syllogism": "No cars are bicycles. Some vehicles are bicycles. Therefore, all cars are vehicles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "c8020c04-89b0-4716-a6b2-5beec8721fc5",
+        "syllogism": "All gifts are presents. All personalized items are presents. Therefore, all personalized items are gifts.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "349acb66-24e8-43e1-b166-67c764cbb063",
+        "syllogism": "All snowflakes are gifts. all ornaments are gifts. Therefore, all ornaments are snowflakes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2eb455b1-4184-4b67-aa24-65fac8c6a507",
+        "syllogism": "All Christmas trees are reindeer. All presents are reindeer. Therefore, all Christmas trees are presents.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "1096bc2a-79f3-4f4b-a0af-fb0c7eb25330",
+        "syllogism": "No decorations are electronic devices. All lamps are decorations. Therefore, no lamps are electronic devices.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "0ecc1002-00c4-4d46-9b7c-4945aa573553",
+        "syllogism": "No rocks are gifts. All decorations are gifts. Therefore, no decorations are rocks.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "9a273117-f0eb-4a3b-9d03-5ba0100738a7",
+        "syllogism": "No phones are books. No gift cards are smartphones. Therefore, no phones are gift cards.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5787ce8a-1f4c-4667-9ca5-ed2f5724ee14",
+        "syllogism": "No smartphones are furniture. No socks are computers. Therefore, no smartphones are computers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4da7eae9-6949-4992-a21a-46e029336490",
+        "syllogism": "All ornaments are holiday gifts. Some New Year's items are ornaments. Therefore, some New Year's items are holiday gifts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a731dc56-8560-4e51-b508-f8813ea7c308",
+        "syllogism": "All professional Santa Claus helpers are clorofungus carriers. Some gift_wrappers are professional Santa Claus helpers. Therefore, some gift_wrappers are clorofungus carriers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "e48d71de-2459-4945-85e8-e6ababb3c9c1",
+        "syllogism": "Some people who buy Christmas gifts are environmentally conscious. Some people who are environmentally conscious are craft-makers. Therefore, some people who buy Christmas gifts are craft-makers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bf55b301-6338-45ca-927c-fdeb0d1ee84a",
+        "syllogism": "Some people are astronauts. Some astronauts are plumbers. Therefore, some plumbers are people.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "5c38fca0-d7fc-4456-bb77-2840ac4e8d9b",
+        "syllogism": "No toys are necessary. Some presents are toys. Therefore, some presents are not necessary.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "cc9cb9e4-fcd5-4d60-8f21-288514d62a7b",
+        "syllogism": "No gifts are eco-friendly. Some items are gifts. Therefore, some items are not eco-friendly.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "59d7eb57-90b6-4d40-af59-5889d81d16a9",
+        "syllogism": "No video games are educational toys. Some presents are considered fun regardless of their educational value. Therefore, some presents are educational toys.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "290df826-db3c-44ba-ad39-ff74a75bf1c5",
+        "syllogism": "No potted plants are gourmet foods. Some ornaments are potted plants. Therefore, all ornaments are gourmet foods.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "41a1cbf2-cf99-4bf2-ae2a-89c5323d966a",
+        "syllogism": "All family dinners are meal times. All meal times are social events. Therefore, all social events are family dinners.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "ed6d1d95-be26-4250-b63b-19fc793f681b",
+        "syllogism": "All puppies are fast runners. All tables are fast runners. Therefore, all tables are puppies.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ef53a792-680d-46db-aa5c-016aae85db27",
+        "syllogism": "No smartphones are mealware. All forks are smartphone accessories. Therefore, no forks are mealware.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bdf5d7a0-37bb-4a6e-a891-119ab85cea4d",
+        "syllogism": "No family traditions are meal times. All family dinners are meal times. Therefore, no family dinners are family traditions.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "8f50e646-ef33-446d-acbd-94bc9f65fd9f",
+        "syllogism": "No dogs are cats. No cats are humans. Therefore, no humans are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "50b90b75-c3bb-416a-bd3a-7bbe39d9aaaf",
+        "syllogism": "No cats are vegetables. No vegetables are furniture. Therefore, no cats are furniture.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9b985555-2c9b-405c-a1a4-dde0e137bbf5",
+        "syllogism": "All family patriarchs are decision-makers during family meals. Some younger family members participate in meal planning. Therefore, some younger family members are decision-makers during family meals.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d08da7dc-2125-40d7-9210-4aa420f39d57",
+        "syllogism": "Some family dinner guests are extroverts. Some extroverts are artists. Therefore, some family dinner guests are artists.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "0c8736de-8b60-47b1-82ec-6d247b603568",
+        "syllogism": "Some dessert aisles are located in convenience stores. Some restaurants serve desserts. Therefore, some restaurants are located in convenience stores.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6ec2cd77-06a8-4d6f-a21a-b0e7d0cc346a",
+        "syllogism": "No main courses are ice cream. Some desserts are main courses. Therefore, some desserts are not ice cream.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "a41146a8-6603-46a9-9a16-145d2db2e995",
+        "syllogism": "No dinners are vegetarian. Some appetizers are vegetarian. Therefore, some appetizers are not dinners.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "d15ad81f-ba8a-4540-80fe-8faee5cafc95",
+        "syllogism": "No family dinners are cooked meals. Some dishes are family dinners. Therefore, all dishes are cooked meals.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bf2bd287-7420-4550-b6ad-45a4369108eb",
+        "syllogism": "No siblings are parents. Some people are siblings. Therefore, all people are not parents.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "b40c91f4-4c83-46ca-9d42-c0472e11df3b",
+        "syllogism": "All neighbor disturbances are loud noises. All loud noises are disturbances in the peace of daily life. Therefore, all neighbor disturbances are disturbances in the peace of daily life.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "ea9c3e12-e419-483a-bccf-61397b45553d",
+        "syllogism": "All neighbors enjoy gardening. All neighbors like to watch sunsets. Therefore, all who like to watch sunsets enjoy gardening.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bee5d7af-d832-46ab-8bf0-13a886cbd0dd",
+        "syllogism": "All rocks are books. All phones are books. Therefore, all rocks are phones.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "946e3148-da93-41dc-9aa1-d5eedaadfdd2",
+        "syllogism": "No gardens share fence lines with neighbors. All houses directly have fence lines with their neighbors. Therefore, no houses directly have fence lines with their neighbors.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "37ad9f7d-6177-4746-aa85-33d6f894bbfa",
+        "syllogism": "No televisions are indoor hammocks. All front lawns are indoor hammocks. Therefore, no televisions are front lawns.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c89834ef-dc58-4267-b9dc-c21905f579ce",
+        "syllogism": "No fences are walls. No walls are 篱垣. Therefore, no fences are 篱垣.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "2bc37f87-c1ac-4e15-8266-719efac2b046",
+        "syllogism": "No cats are dogs. No snakes are mammals. Therefore, no cats are snakes.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "ec4b4854-fb40-4a84-8100-e78968d17551",
+        "syllogism": "All fence owners are in neighborhood dispute. Some neighbors are fence owners. Therefore, some neighbors are in neighborhood dispute.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "afc59496-0568-48bb-b2c9-6c0f1e364131",
+        "syllogism": "All garden owners plant flowers. Some landscaping workers are not garden owners. Therefore, some landscaping workers do not plant flowers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cd5738f2-531b-499b-8188-3871215f3e8f",
+        "syllogism": "Some neighbors are nosy. Some nosy people are tree cutters. Therefore, some neighbors are tree cutters.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d3959cf6-3df9-4bb2-8ea2-4681371ea30e",
+        "syllogism": "Some neighbors argued loudly. Some loud neighbors are polite. Therefore, some polite neighbors are loud.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "52e6d922-b876-4e02-8a52-d55b101e5a62",
+        "syllogism": "No desserts are healthy. Some disagreements are related to boundary fences. Therefore, some disagreements are not related to healthy things.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "fe36377b-86c1-4865-83af-ca87aa0fa6c4",
+        "syllogism": "No neighbors with dogs are reasonable voters. Some people are not neighbors. Therefore, some people who are not neighbors are not reasonable voters.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "6db7b802-cc89-494b-b043-3c45256dc467",
+        "syllogism": "No lions are herbivores. Some animals are lions. Therefore, all animals are herbivores.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "a537ffd0-ca60-4d87-b958-2d85f6bc7a2f",
+        "syllogism": "No flowers in the garden are red. Some arguments are about noise. Therefore, all arguments are about noise.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "db454008-b496-4b2e-962c-c0114232f3bf",
+        "syllogism": "All people can maintain friendships. All truelongdistance friendships are maintaining despite distance. Therefore, all truelongdistance friendships are friendships.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7a5e3062-9e81-4f9b-bc0f-8e3f96818453",
+        "syllogism": "All long-distance friendships require frequent digital contact. All social interactions are effective in strengthening friendships. Therefore, all social interactions are long-distance friendships.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "24542ff5-cbcf-481d-8ef9-681577f411fb",
+        "syllogism": "All teddy bears are cars. All cats are cars. therefore, all teddy bears are cats.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "d68ba1ac-b476-471d-a9b8-b77c2054827b",
+        "syllogism": "No people are outer stars. All long-distance friendships involve people. Therefore, no long-distance friendships are outer stars.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7d2147dd-791a-4470-9328-a353710d04e1",
+        "syllogism": "No friendships can endure distances. All long-distance relationships last longer than friendships. Therefore, no long-distance relationships are friendships.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "47f2a1e3-03db-4743-b685-3b243734e3f6",
+        "syllogism": "No long-distance friendships are instant partnerships. No instant partnerships are immediate relationships. Therefore, some long-distance friendships are not immediate relationships.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "7d347c62-9681-4939-aa79-125120d8998f",
+        "syllogism": "No dogs are amphibians. No frogs are mammals. Therefore, no dogs are mammals.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "cd3dbdad-e63d-4b71-8c16-fee0ac9649db",
+        "syllogism": "All professional travelers have visited multiple countries. Some long-distance friends are professional travelers. Therefore, some long-distance friends have visited multiple countries.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "99f92efb-fed7-4968-ba71-7269d1961714",
+        "syllogism": "All long-distance friends are astronauts. Some astronomers are amateurs. Therefore, some long-distance friends are amateurs.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4639229a-7a92-43e4-a823-65dd53fdbcd6",
+        "syllogism": "Some people enjoy outdoor activities. Some tennis players enjoy outdoor activities. Therefore, some tennis players enjoy outdoor activities.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "bd250744-2564-431e-8865-07e3a94f8815",
+        "syllogism": "Some turtles are long-distance friendships. Some long-distance friendships are vacations. Therefore, some vacations are turtles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "26d2b65d-27e5-4a45-8c05-d2355f71611c",
+        "syllogism": "No long-distance friendships are in-person friendships. Some social media connections are long-distance friendships. Therefore, some social media connections are not in-person friendships.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "34255841-6434-45dc-b357-7b3b0ab46366",
+        "syllogism": "No humans are animals from afar. Some relationships are considered long-distance friendships. Therefore, all relationships are long-distance friendships.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "51d3dd62-0783-498b-b0ba-a727ad22e157",
+        "syllogism": "No online friends are long-distance friends. Some people are online friends. Therefore, all people are long-distance friends.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "14f6374a-c98d-4b62-b83b-fea32c8accea",
+        "syllogism": "All students enjoy learning. All humans are students. Therefore, all humans enjoy learning.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "ccb4e1f4-af44-49f4-a635-77514a3f69e2",
+        "syllogism": "All birds can fly. All plesiosaurs can fly. Therefore, all plesiosaurs are birds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "6e931bcb-6d36-4452-8588-626caa72a38c",
+        "syllogism": "All dogs are creatures. All desks are creatures. Therefore, all desks are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "636a4136-0f50-4290-92f8-cad95c7f8138",
+        "syllogism": "All clouds are snacks. All cookies are snacks. Therefore, all cookies are clouds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4eed8ee8-068c-49a4-914f-6b82cc5361e2",
+        "syllogism": "No dogs are cats. All rabbits are cats. Therefore, no dogs are rabbits.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "634b337c-58ce-46bd-8c09-aaeca8f4b5f6",
+        "syllogism": "No animals are cephalopods. All dragons are cephalopods. Therefore, no dragons are animals.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "be902d2b-5705-4e64-af28-c0234001a30c",
+        "syllogism": "No hats are helmets. No helmons are sunglasses. Therefore, no hats are sunglasses.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "8a5bf5d1-9018-4bf2-8b97-40ba705de223",
+        "syllogism": "No turtles are mammals. No bees are bicycles. Therefore, no turtles are bicycles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "21b5b083-bb93-454f-92c5-d4ac2510a9cc",
+        "syllogism": "AllSmallTalkSpeakersCanChat. SomeFriends_areSmallTalkSpeakers ⊢ SomeFriendsCanChat",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b2387bb2-af67-4d20-9de2-94a528cedb3c",
+        "syllogism": "All people who like chocolate are sweet tooth lovers. Some book enthusiasts are candy eaters. Therefore, some book enthusiasts are sweet tooth lovers.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "c585dc2f-d231-4d08-8e38-84ff4a402dab",
+        "syllogism": "Some people like pizza. Some pizza lovers are teenagers. Therefore, some teenagers like pizza.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9168f5a4-3164-4d97-9c6c-fc3b92e68250",
+        "syllogism": "Some humans are animals. Some cars are humans. Therefore, some cars are animals.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "91082a03-95f5-4381-9d22-17dbd18423ba",
+        "syllogism": "No chatterboxes are serious economists. Some academics are chatterboxes. Therefore, some academics are not serious economists.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "17d0e220-a255-440a-8b5a-045e433bc788",
+        "syllogism": "No breakfasts are late-night eats. Some meals are breakfasts. Therefore, some meals are not late-night eats.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "3ddf65ab-50a3-4d30-b705-1067e5128c20",
+        "syllogism": "No cats are dogs. Some animals are cats. Therefore, all animals are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d21f07d6-90c5-41dd-ad1d-73982f1d918d",
+        "syllogism": "No humans are reptiles. Some aliens are humans. Therefore, all aliens are reptiles.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a67eb0e1-6d1c-4954-89a4-534e94c01b6f",
+        "syllogism": "All people send texts. All teenagers are people. Therefore, all teenagers send texts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "d0dc317f-548f-4928-9b82-2e3a5b48bc27",
+        "syllogism": "All iPhones are smartphones. All Android phones are smartphones. Therefore, all iPhones are Android phones.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "81a5887d-8eda-45b0-8b3b-2d91fd100080",
+        "syllogism": "All birds are capable of flight. All tables are capable of flight. Therefore, all tables are birds.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "9e402959-5369-40c4-8fbd-62a74398524d",
+        "syllogism": "No phones are satellites. All phones are textmessengers. Therefore, no satellites are textmessengers.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "9cf2c10b-1bf6-4ab2-8930-7fbe2c84bb85",
+        "syllogism": "No aliens are human beings. All people texting are human beings. Therefore, no people texting are aliens.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "1f68658f-17a2-43f6-a1d0-5ee333e50285",
+        "syllogism": "No cats are text messages. No text messages are dogs. Therefore, no cats are dogs.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "09c90229-b4fa-4ed2-bf54-1a7d5e4c3092",
+        "syllogism": "No birds are amphibians. No fish are mammals. Therefore, no fish are amphibians.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "862ebf8e-b218-4a91-9240-0ad080aeb125",
+        "syllogism": "All high school students can use text messaging. Some teachers know how to use text messaging. Therefore, some teachers can use text messaging.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "7fd10998-b6f8-412d-b67c-1f467c64192d",
+        "syllogism": "All successful businessmen own startups. Some actors dream of owning startups. Therefore, some actors own startups.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "a4a3c864-035f-422b-b55c-278e4547ff85",
+        "syllogism": "Some people like texting. some texters are extroverted. Therefore, some extroverts like texting. Iab, Ibc ⊢ Iac",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "97a60e79-cfa5-4d8f-9b80-ebdb9845031b",
+        "syllogism": "Some fruits are vegetables. Some trees are fruits. Therefore, some trees are vegetables.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "84174c5a-c65c-4bda-8221-e72034a2d749",
+        "syllogism": "No texts are allowed during meetings. Some emails are required during work meetings. Therefore, some emails are not texts.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "8839ad14-436c-43c1-804d-d11adf904f8e",
+        "syllogism": "No smartphones are locked devices. Some smartwatches are locked devices. Therefore, some smartwatches are not smartphones.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4ee93537-f9f4-4d28-94ab-fa689aa20890",
+        "syllogism": "No phones are landlines. Some devices are landlines. Therefore, all devices are phones.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "20de670d-9692-43dc-8d08-a5272ed53c55",
+        "syllogism": "No texts are important. Some messages are texts. Therefore, all messages are important.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "bdbb4636-230e-40ea-b92d-2707455c8cba",
+        "syllogism": "All individuals with a public profile adhere to the platform's terms of service. All individuals who post copyrighted material without permission violate the platform's terms of service. Therefore, all individuals who post copyrighted material without permission adhere to the platform's terms of service.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "5cabc7e6-a146-45eb-a4bc-36aceaa23b37",
+        "syllogism": "All emojis have voices. All tweets contain emojis. Therefore, all tweets have voices.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "93e82719-9b1f-459f-8121-bd1f3c68c71f",
+        "syllogism": "All influencers are celebrities. All celebrities are popular. Therefore, all popular people are influencers.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "484d0006-59a2-492c-86c5-7bb1ff165411",
+        "syllogism": "All social media users are genius. All geniuses are social media users. Therefore, all animals are social media users.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "e8d7ee96-3dcd-4b64-8598-fa1709887de0",
+        "syllogism": "No emojis are formal letters. All formal letters are formal documents. Therefore, no emojis are formal documents.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "d7860ba4-ecca-41b2-94d0-8941992e9f97",
+        "syllogism": "No one is ever alone. All ghost trolls are fictitious. Therefore, no ghost trolls are ever alone.   No one is ever alone, All ghost trolls are fictitious. ⊢ No ghost trolls are ever alone.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "fa614695-e838-4bd1-9f4f-d75d3a5dd001",
+        "syllogism": "No social media posts are private messages. no private messages are emails. Therefore, some emails are social media posts.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "e232daa4-66f0-4d9f-ab8f-a7f699d02546",
+        "syllogism": "No teenagers are adults. No cats are dogs. Therefore, no dogs are teenagers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "504fbecf-5ad8-41b4-aaf2-608482d9b438",
+        "syllogism": "All users on Twitter follow at least one rule. Some gamers are users on Twitter. Therefore, some gamers follow at least one rule.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "b5154daa-07bc-4ced-9047-cf64e0979dc8",
+        "syllogism": "All gamers are excessively tech-conscious. Some fashion influencers are not gamers. Therefore, some fashion influencers are excessively tech-conscious.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "976e27bb-ed3d-4ce5-8fa0-8dd1ee56287d",
+        "syllogism": "Some social media users share memes. Some students are social media users. Therefore, some students share memes.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "cb97a0f1-8086-45e6-b9dd-30d3da09bf4c",
+        "syllogism": "Some people follow social media influencers. Some social media platforms host only videos. Therefore, some videohosts are followers.",
+        "validity": false,
+        "plausibility": false
+    },
+    {
+        "id": "4888bcba-9fd0-44b4-b66d-b665fec15b03",
+        "syllogism": "No statuses on social media are confidential. Some posts are statuses. Therefore, some posts are not confidential.",
+        "validity": true,
+        "plausibility": true
+    },
+    {
+        "id": "6b40b5ff-dcd9-4dfa-90b0-1187ef9f51f2",
+        "syllogism": "No public photos are appropriate on LinkedIn. Some vacation posts are published on LinkedIn. Therefore, some vacation posts are not appropriate.",
+        "validity": true,
+        "plausibility": false
+    },
+    {
+        "id": "4ab4cc08-a975-41c4-8f17-ff1a17a610f3",
+        "syllogism": "Not all selfies are inappropriate content. Some messages contain selfies. Therefore, not all messages contain inappropriate content.",
+        "validity": false,
+        "plausibility": true
+    },
+    {
+        "id": "9949e828-26fc-4dfc-b3fb-1e945641b070",
+        "syllogism": "No social media posts are private. some messages are not social media posts. Therefore, all messages are private.",
+        "validity": false,
+        "plausibility": false
+    }
+]
