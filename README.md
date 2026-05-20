@@ -16,3 +16,7 @@ For more information about the task, dataset, and evaluation metrics, please vis
   - [`1/`](data/1/) – for subtask 1
   - [`2/`](data/2/) – for subtask 2
 - [`src/`](src/) – source code of our solution
+
+## Acknowledgement
+
+Computational resources were provided by the e-INFRA CZ project (ID:90254), supported by the Ministry of Education, Youth and Sports of the Czech Republic.
